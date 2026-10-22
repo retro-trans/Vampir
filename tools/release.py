@@ -126,7 +126,11 @@ def main():
         assets = [str(p) for p in directory.iterdir() if p.is_file()]
         run([gh, "release", "create", tag, *assets, "--repo", args.repo, "--verify-tag", "--draft",
              "--title", "Vampir English " + tag, "--notes-file", str(notes)])
-        uploaded = json.loads(run([gh, "api", "repos/" + args.repo + "/releases/tags/" + tag]).stdout)
+        # releases/tags/<tag> does not return drafts: find the draft in the release list
+        releases = json.loads(run([gh, "api", "repos/" + args.repo + "/releases?per_page=100"]).stdout)
+        uploaded = next((r for r in releases if r["tag_name"] == tag and r["draft"]), None)
+        if uploaded is None:
+            raise RuntimeError("Draft release not found after upload: " + tag)
         by_name = {a["name"]: a for a in uploaded["assets"]}
         validate_directory(directory)
         for path in directory.iterdir():
