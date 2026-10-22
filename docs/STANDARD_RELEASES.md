@@ -49,10 +49,16 @@ python tools/release.py X.Y.Z --config ../Vampir-release/release-local.json
 ```
 
 The helper generates every patch, applies each to its exact source, checks the entire result's
-SHA-256, and prepares `BUILD-MANIFEST.json`, `SHA256SUMS.txt` and `VALIDATION.json`. It adds a
-source archive of the pinned commit, `README-vX.Y.Z.txt` and `CHANGELOG-vX.Y.Z.txt` (covered by
-`SHA256SUMS-EXTRAS.txt`), creates the `release/vX.Y.Z` branch and `vX.Y.Z` tag, uploads to a
-draft, verifies the uploaded assets and only then publishes. Existing releases are refused and
+SHA-256, and prepares `BUILD-MANIFEST.json`, `SHA256SUMS.txt` and `VALIDATION.json`.
+
+Releases follow the SRW-Z release format. Write the notes first in
+`docs/release-notes/vX.Y.Z.md`, with these sections: intro, Apply, "What's in" / "What changed
+since", Testing status, What's included, How it was translated, Acknowledgements, Source code,
+Contribute, and the footer. The helper uses them as the release body and generates
+`README-vX.Y.Z.txt` (notes plus a source/output hash block), `CHANGELOG-vX.Y.Z.txt`,
+`SHA1SUMS-vX.Y.Z.txt` and `SHA256SUMS-vX.Y.Z.txt` (all assets). The title is
+"Vampir English — vX.Y.Z". It then creates the `release/vX.Y.Z` branch and `vX.Y.Z` tag, uploads
+to a draft, verifies the uploaded assets and only then publishes. Existing releases are refused and
 assets are never overwritten; corrected bytes need a new version.
 
 The `Validate standard release` workflow re-checks the published assets on GitHub. The central

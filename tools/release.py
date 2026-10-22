@@ -7,9 +7,11 @@ Use --dry to inspect the intended release without building or publishing.
 
 The private configuration (see docs/STANDARD_RELEASES.md) names the original Track 1 .bin and
 the built English Track 1 for each patch; the patch covers Track 1 only, Track 2 and the CUE
-sheet are unchanged.  The helper builds and round-trips every patch, adds a source archive of
-the pinned commit plus README/CHANGELOG text files, uploads everything to a draft release,
-checks the uploaded assets, and only then publishes.  It never overwrites assets.
+sheet are unchanged.  Release notes come from docs/release-notes/vX.Y.Z.md.  The helper builds
+and round-trips every patch, adds the SRW-Z style text assets (README-vX.Y.Z.txt with source and
+output hashes, CHANGELOG-vX.Y.Z.txt, SHA1SUMS-vX.Y.Z.txt, SHA256SUMS-vX.Y.Z.txt), uploads
+everything to a draft release, checks the uploaded assets, and only then publishes.  It never
+overwrites assets.
 """
 import argparse
 import json
@@ -17,13 +19,12 @@ import os
 from pathlib import Path
 import shutil
 import subprocess
+import datetime
+import hashlib
 import tempfile
-import zipfile
 
 ROOT = Path(__file__).resolve().parents[1]
 WORK = ROOT.parent / "Vampir-release"
-BAD = (".bin", ".chd", ".iso", ".cue", ".img", ".exe", ".zip", ".7z", ".rar", ".xdelta", ".str",
-       ".stc", ".sqc", ".dat", ".th4", ".tim")
 
 
 def run(command, check=True):
@@ -33,20 +34,46 @@ def run(command, check=True):
     return result
 
 
-def notes_text(version, tag):
-    """README text for the release: install steps and the exact binary identities."""
-    readme = (ROOT / "README.md").read_text(encoding="utf-8")
-    start = readme.index("### What you need")
-    end = readme.index("## How it works")
-    return ("Vampir: Kyuuketsuki Densetsu (SLPS-01932) English " + tag + "\n\n"
-            + readme[start:end].strip() + "\n\nExact patch identities: BUILD-MANIFEST.json.\n")
+def _hash(path, algo):
+    h = hashlib.new(algo)
+    with open(path, "rb") as f:
+        for block in iter(lambda: f.read(1 << 20), b""):
+            h.update(block)
+    return h.hexdigest()
 
 
-def changelog_text(version):
-    text = (ROOT / "CHANGELOG.md").read_text(encoding="utf-8")
-    start = text.index("## " + version)
-    end = text.find("\n## ", start + 1)
-    return text[start:end if end > 0 else None].strip() + "\n"
+NL = "\n"
+
+
+def release_docs(directory, tag, date=None):
+    """Write the SRW-Z style text assets into the release directory; return the release notes."""
+    directory = Path(directory)
+    notes = (ROOT / "docs" / "release-notes" / (tag + ".md")).read_text(encoding="utf-8").strip() + NL
+    manifest = json.loads((directory / "BUILD-MANIFEST.json").read_text(encoding="utf-8"))
+    date = date or datetime.date.today().isoformat()
+    blocks = []
+    for p in manifest["patches"]:
+        blocks.append(NL.join([p["patch"], "Source version: " + p["source_version"],
+                               "Source size: %d" % p["source_bytes"], "Source SHA256: " + p["source_sha256"],
+                               "Output size: %d" % p["target_bytes"], "Output SHA256: " + p["target_sha256"]]))
+    readme = NL.join(["Vampir English " + tag, "Japanese edition (SLPS-01932)", "Release date: " + date + ".",
+                      "", notes, "SOURCE AND OUTPUT HASHES", "", (NL + NL).join(blocks), ""])
+    previous = sorted({p["source_version"] for p in manifest["patches"] if p["source_version"] != "original"})
+    subtitle = "Changes since published v" + previous[-1] if previous else "First public release"
+    # changelog: from the first "### What" section after Apply up to "### What's included"
+    start = notes.index("### What", notes.index("### Apply") + 1)
+    body = notes[start:notes.index("### What's included")]
+    lines = [l for l in body.splitlines() if not l.startswith("### ")]
+    changelog = NL.join(["Vampir English " + tag, subtitle, "", NL.join(lines).strip(), ""])
+    (directory / ("README-" + tag + ".txt")).write_text(readme, encoding="utf-8")
+    (directory / ("CHANGELOG-" + tag + ".txt")).write_text(changelog, encoding="utf-8")
+    sha1 = directory / ("SHA1SUMS-" + tag + ".txt")
+    sha256 = directory / ("SHA256SUMS-" + tag + ".txt")
+    files = sorted(p for p in directory.iterdir() if p.is_file() and p not in (sha1, sha256))
+    sha1.write_text("".join(_hash(p, "sha1") + "  " + p.name + NL for p in files), encoding="utf-8")
+    files = sorted(p for p in directory.iterdir() if p.is_file() and p != sha256)
+    sha256.write_text("".join(_hash(p, "sha256") + "  " + p.name + NL for p in files), encoding="utf-8")
+    return notes
 
 
 def main():
@@ -59,8 +86,7 @@ def main():
     version, tag = args.version.lstrip("v"), "v" + args.version.lstrip("v")
     if args.dry:
         print("Would build and round-trip every patch in", args.config)
-        print("Would publish immutable release", args.repo, tag, "with source archive and notes.")
-        print(changelog_text(version))
+        print("Would publish immutable release", args.repo, tag, "with notes from docs/release-notes/" + tag + ".md")
         return 0
     from retro_trans.release import build_release, validate_directory
     from retro_trans.core import sha256_file
@@ -99,16 +125,7 @@ def main():
         directory = scratch / "publish"
         build_release(local_config, directory)
         validate_directory(directory)
-        source_archive = directory / ("Vampir-source-" + tag + ".zip")
-        run(["git", "archive", "--format=zip", "--prefix=Vampir-" + tag + "/", "-o", str(source_archive), commit])
-        with zipfile.ZipFile(source_archive) as archive:
-            if any(name.lower().endswith(BAD) for name in archive.namelist()):
-                raise RuntimeError("Source archive contains game data or binary artifacts.")
-        (directory / ("README-" + tag + ".txt")).write_text(notes_text(version, tag), encoding="utf-8")
-        (directory / ("CHANGELOG-" + tag + ".txt")).write_text(changelog_text(version), encoding="utf-8")
-        extras = sorted(p for p in directory.iterdir() if p.name.startswith(("README-", "CHANGELOG-", "Vampir-source-")))
-        (directory / "SHA256SUMS-EXTRAS.txt").write_text(
-            "".join(sha256_file(p) + "  " + p.name + "\n" for p in extras), encoding="utf-8")
+        notes_body = release_docs(directory, tag)
         validate_directory(directory)
         # Verify existing refs or create them without force updates.
         for ref, command in (("release/" + tag, "branch"), (tag, "tag")):
@@ -119,13 +136,10 @@ def main():
                 run(["git", command, ref, commit])
             run(["git", "push", "origin", ref])
         notes = scratch / "notes.md"
-        notes.write_text(changelog_text(version) + "\nApply the Track 1 patch with Retro Trans "
-                         "(Automatic) or any xdelta patcher; keep the original Track 2 and CUE. "
-                         "See README-" + tag + ".txt and BUILD-MANIFEST.json for exact binary identities.\n",
-                         encoding="utf-8")
+        notes.write_text(notes_body, encoding="utf-8")
         assets = [str(p) for p in directory.iterdir() if p.is_file()]
         run([gh, "release", "create", tag, *assets, "--repo", args.repo, "--verify-tag", "--draft",
-             "--title", "Vampir English " + tag, "--notes-file", str(notes)])
+             "--title", "Vampir English — " + tag, "--notes-file", str(notes)])
         # releases/tags/<tag> does not return drafts: find the draft in the release list
         releases = json.loads(run([gh, "api", "repos/" + args.repo + "/releases?per_page=100"]).stdout)
         uploaded = next((r for r in releases if r["tag_name"] == tag and r["draft"]), None)
