@@ -1,0 +1,801 @@
+[
+ {
+  "id": "EP2.BIN@548",
+  "off": 1352,
+  "size": 30,
+  "slot": 30,
+  "refs": [
+   [
+    "ptr",
+    2148371284
+   ]
+  ],
+  "idx": 0,
+  "en": "With this, it's truly over...!!",
+  "note": "Christopher (side 11) after the final battle, Christopher-scenario ending (script D1FE). The row also turns up in data runs at 718C-A64F (tables, not dialogue).",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@520",
+  "off": 1312,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148371288
+   ]
+  ],
+  "idx": 1,
+  "en": "When did you become so strong?",
+  "note": "Duran (side 12), defeated, to Christopher.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@4F4",
+  "off": 1268,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148371292
+   ]
+  ],
+  "idx": 2,
+  "en": "It seems I underestimated your power...",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@4CC",
+  "off": 1228,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148371296
+   ]
+  ],
+  "idx": 3,
+  "en": "If the dawn finds me with this mortal wound,",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@4B0",
+  "off": 1200,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148371300
+   ]
+  ],
+  "idx": 4,
+  "en": "I shall turn to ash.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@484",
+  "off": 1156,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148371304
+   ]
+  ],
+  "idx": 5,
+  "en": "And I shall be freed from eternal suffering...",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@468",
+  "off": 1128,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148371308
+   ]
+  ],
+  "idx": 6,
+  "en": "No... it will not be so.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@440",
+  "off": 1088,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148371312
+   ]
+  ],
+  "idx": 7,
+  "en": "For a Vampir, there is no means of escape",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@428",
+  "off": 1064,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148371316
+   ]
+  ],
+  "idx": 8,
+  "en": "from eternal suffering...",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@418",
+  "off": 1048,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148371320
+   ]
+  ],
+  "idx": 9,
+  "en": "You, too, will one day",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@3EC",
+  "off": 1004,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148371324
+   ]
+  ],
+  "idx": 10,
+  "en": "come to taste that same suffering...",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@3D8",
+  "off": 984,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148371328
+   ]
+  ],
+  "idx": 11,
+  "en": ", I've been waiting for you.",
+  "note": "Rose (side 12); preceded by the player-name opcode: '{PLAYER_NAME}, I've been waiting for you.'",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@3B8",
+  "off": 952,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148371332
+   ]
+  ],
+  "idx": 12,
+  "en": "Come, take me with you.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@39C",
+  "off": 924,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148371336
+   ]
+  ],
+  "idx": 13,
+  "en": "Ragash is going to be so surprised",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@378",
+  "off": 888,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148371340
+   ]
+  ],
+  "idx": 14,
+  "en": "when I come home with a bride...",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@360",
+  "off": 864,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148371344
+   ]
+  ],
+  "idx": 15,
+  "en": "But I've made up my mind.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@340",
+  "off": 832,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148371348
+   ]
+  ],
+  "idx": 16,
+  "en": "Rose, I'm going to marry you.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@324",
+  "off": 804,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148371352
+   ]
+  ],
+  "idx": 17,
+  "en": "Let's go to my castle together.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@300",
+  "off": 768,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148371356
+   ]
+  ],
+  "idx": 18,
+  "en": "In time, I'll formally welcome you to the clan.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@2E4",
+  "off": 740,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148371360
+   ]
+  ],
+  "idx": 19,
+  "en": "Rose, I love you...",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@2C0",
+  "off": 704,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148371364
+   ]
+  ],
+  "idx": 20,
+  "en": "It seems you'll only learn the hard way.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@2A8",
+  "off": 680,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148371368
+   ]
+  ],
+  "idx": 21,
+  "en": "This is your end.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@29C",
+  "off": 668,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148371372
+   ]
+  ],
+  "idx": 22,
+  "en": "Please, ",
+  "note": "Rose (side 11), stepping in; trailing space: followed by the player-name opcode (Duran in this scenario) and @298: 'Please, {PLAYER_NAME}.'",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@298",
+  "off": 664,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148371376
+   ]
+  ],
+  "idx": 23,
+  "en": ".",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@278",
+  "off": 632,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148371380
+   ]
+  ],
+  "idx": 24,
+  "en": "Don't do this anymore...",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@26C",
+  "off": 620,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148371384
+   ]
+  ],
+  "idx": 25,
+  "en": "...!?",
+  "note": "Duran.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@254",
+  "off": 596,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148371388
+   ]
+  ],
+  "idx": 26,
+  "en": "R-Rowena...",
+  "note": "Duran sees Rowena in Rose.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@248",
+  "off": 584,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148371392
+   ]
+  ],
+  "idx": 27,
+  "en": "Your name",
+  "note": "Duran to his opponent. Followed by @244 three times with pauses: 'Your name...'.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@244",
+  "off": 580,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148371396
+   ]
+  ],
+  "idx": 28,
+  "en": ".",
+  "note": "Printed three times with pauses -> '...' (after @248, and after the partner name in D2E3: '{PARTNER_NAME}...').",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@23C",
+  "off": 572,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148371400
+   ]
+  ],
+  "idx": 29,
+  "en": "...was ",
+  "note": "Trailing space: pause, then the partner-name opcode and @228 on the same line: '...was {PARTNER_NAME}, you said...'.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@228",
+  "off": 552,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148371404
+   ]
+  ],
+  "idx": 30,
+  "en": ", you said...",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@21C",
+  "off": 540,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148371408
+   ]
+  ],
+  "idx": 31,
+  "en": "...",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@1FC",
+  "off": 508,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148371412
+   ]
+  ],
+  "idx": 32,
+  "en": "I'm going to have a baby.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@1DC",
+  "off": 476,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148371416
+   ]
+  ],
+  "idx": 33,
+  "en": "And so, if it's a girl, \"Rose\",",
+  "note": "「」 rendered as ASCII double quotes (as PR2@1AC).",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@1CC",
+  "off": 460,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148371420
+   ]
+  ],
+  "idx": 34,
+  "en": "and if it's a boy, \"",
+  "note": "Followed by the partner-name opcode and @1C4: 'and if it's a boy, \"{PARTNER_NAME}\"...'.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@1C4",
+  "off": 452,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148371424
+   ]
+  ],
+  "idx": 35,
+  "en": "\"...",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@1A4",
+  "off": 420,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148371428
+   ]
+  ],
+  "idx": 36,
+  "en": "that's what I'd like to name our baby...",
+  "note": "Lower case: continues the sentence across the line break. 'our' = Rowena and her husband (settled by the scene).",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@18C",
+  "off": 396,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148371432
+   ]
+  ],
+  "idx": 37,
+  "en": "<Finish off the enemy>",
+  "note": "Menu choice; 『』 rendered as <> (STC precedent).",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@174",
+  "off": 372,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148371436
+   ]
+  ],
+  "idx": 38,
+  "en": "<Hold back the attack>",
+  "note": "Menu choice.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@15C",
+  "off": 348,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148371440
+   ]
+  ],
+  "idx": 39,
+  "en": "...Rowena...",
+  "note": "Duran, in the branch after the menu (see report).",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@140",
+  "off": 320,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148371444
+   ]
+  ],
+  "idx": 40,
+  "en": "You would tell me, of all people,",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@120",
+  "off": 288,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148371448
+   ]
+  ],
+  "idx": 41,
+  "en": "to give up this fight...?",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@10C",
+  "off": 268,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148371452
+   ]
+  ],
+  "idx": 42,
+  "en": "Rowena...",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@E8",
+  "off": 232,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148371456
+   ]
+  ],
+  "idx": 43,
+  "en": "Sentiment does not become me...",
+  "note": "Duran.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@E4",
+  "off": 228,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148371460
+   ]
+  ],
+  "idx": 44,
+  "en": ",",
+  "note": "Follows the partner-name opcode at the start of a line: '{PARTNER_NAME},'.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@C0",
+  "off": 192,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148371464
+   ]
+  ],
+  "idx": 45,
+  "en": "vanish from my sight...!",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@A4",
+  "off": 164,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148371468
+   ]
+  ],
+  "idx": 46,
+  "en": "Living coldly and cunningly in this world,",
+  "note": "Closing narration (full page, 264 px). Line 2 starts with the player-name opcode (Duran).",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@8C",
+  "off": 140,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148371472
+   ]
+  ],
+  "idx": 47,
+  "en": " Valaur, the Count,",
+  "note": "Line reads '{PLAYER_NAME} Valaur, the Count,': the name opens the line, so 'Count' cannot precede it (glossary: Count Valaur). Leading space.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@78",
+  "off": 120,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148371476
+   ]
+  ],
+  "idx": 48,
+  "en": "was born, here and now.",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@54",
+  "off": 84,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148371480
+   ]
+  ],
+  "idx": 49,
+  "en": "Devouring humans as nothing more than food,",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@30",
+  "off": 48,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148371484
+   ]
+  ],
+  "idx": 50,
+  "en": "he reigns over humankind. In him, it may be said,",
+  "done": true
+ },
+ {
+  "id": "EP2.BIN@4",
+  "off": 4,
+  "size": 42,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148371488
+   ]
+  ],
+  "idx": 51,
+  "en": "we see the true form of the vampire...",
+  "done": true
+ }
+]

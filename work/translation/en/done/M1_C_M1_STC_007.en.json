@@ -1,0 +1,343 @@
+[
+ {
+  "id": "M1#560",
+  "en": "My sister's illness"
+ },
+ {
+  "id": "M1#561",
+  "en": "I just hope she gets better soon."
+ },
+ {
+  "id": "M1#562",
+  "en": "Why do doctors cost so much, anyway?"
+ },
+ {
+  "id": "M1#563",
+  "en": "Well, the doctor here is a pretty decent guy,"
+ },
+ {
+  "id": "M1#564",
+  "en": "and he's letting me pay later, though."
+ },
+ {
+  "id": "M1#565",
+  "en": "What do you want?"
+ },
+ {
+  "id": "M1#566",
+  "en": "No business in an empty warehouse, right?",
+  "note": "'unused warehouse' -> 'empty warehouse' and subject dropped to fit the box (full wording is 2 lines; msg 21536 first box is 3 lines)"
+ },
+ {
+  "id": "M1#567",
+  "en": "Don't just walk in here."
+ },
+ {
+  "id": "M1#568",
+  "en": "Anyway, you sure wear flashy clothes, huh?"
+ },
+ {
+  "id": "M1#569",
+  "en": "You're that old man in the flashy clothes"
+ },
+ {
+  "id": "M1#570",
+  "en": "(Of all the things to call me, \"old man\"!)"
+ },
+ {
+  "id": "M1#571",
+  "en": "This place is off limits."
+ },
+ {
+  "id": "M1#572",
+  "en": "Stay out."
+ },
+ {
+  "id": "M1#573",
+  "en": "No business in an unused warehouse, right?"
+ },
+ {
+  "id": "M1#574",
+  "en": "Anyone without business here keeps out."
+ },
+ {
+  "id": "M1#575",
+  "en": "Are you doing something here?"
+ },
+ {
+  "id": "M1#576",
+  "en": "No. I got fired from the factory."
+ },
+ {
+  "id": "M1#577",
+  "en": "I'm unemployed now"
+ },
+ {
+  "id": "M1#578",
+  "en": "There's no work at all.",
+  "note": "reads with #627 'Not since I got fired from the factory.' in msg 22359"
+ },
+ {
+  "id": "M1#579",
+  "en": "Your sister was worried about you."
+ },
+ {
+  "id": "M1#580",
+  "en": "She said you might be doing dangerous work."
+ },
+ {
+  "id": "M1#581",
+  "en": "Huh?"
+ },
+ {
+  "id": "M1#582",
+  "en": "You know my sister?"
+ },
+ {
+  "id": "M1#583",
+  "en": "Worried about what you're up to,"
+ },
+ {
+  "id": "M1#584",
+  "en": "she's been out searching for you."
+ },
+ {
+  "id": "M1#585",
+  "en": "Sis."
+ },
+ {
+  "id": "M1#586",
+  "en": "She's still sick and hasn't recovered, yet"
+ },
+ {
+  "id": "M1#587",
+  "en": "Truth is, I"
+ },
+ {
+  "id": "M1#588",
+  "en": " I'm helping to smuggle goods",
+  "note": "leading space: row follows #2 on the same line ('I... I'm helping'). Line 2 (#589) carries 'off the ships.'"
+ },
+ {
+  "id": "M1#589",
+  "en": "off the ships.",
+  "note": "variant for msg 21719 adds 'trade'",
+  "variants": [
+   {
+    "msg": 21719,
+    "en": "off the trade ships."
+   }
+  ]
+ },
+ {
+  "id": "M1#590",
+  "en": "Of course I know it's wrong, but..."
+ },
+ {
+  "id": "M1#591",
+  "en": "I really needed the money."
+ },
+ {
+  "id": "M1#592",
+  "en": " I'm helping to smuggle goods",
+  "note": "leading space as #588; 'trade' is in the msg 21719 variant of #589"
+ },
+ {
+  "id": "M1#593",
+  "en": "I really need the money. But I don't"
+ },
+ {
+  "id": "M1#594",
+  "en": "want to make my sister worry for nothing",
+  "note": "continues #593; ends before #2/#25"
+ },
+ {
+  "id": "M1#595",
+  "en": "What am I going to do?"
+ },
+ {
+  "id": "M1#596",
+  "en": "I've decided. I'm just not cut out for"
+ },
+ {
+  "id": "M1#597",
+  "en": "smuggling."
+ },
+ {
+  "id": "M1#598",
+  "en": "A guy named Brome at the sailors' inn"
+ },
+ {
+  "id": "M1#599",
+  "en": "talked to me by chance, so I tried it, but"
+ },
+ {
+  "id": "M1#600",
+  "en": "I think I'll turn it down now."
+ },
+ {
+  "id": "M1#601",
+  "en": "My sister's frail. After we came to this town,"
+ },
+ {
+  "id": "M1#602",
+  "en": "she got sick."
+ },
+ {
+  "id": "M1#603",
+  "en": "The doctor treated her and she's a lot better,"
+ },
+ {
+  "id": "M1#604",
+  "en": "but the medicine was expensive back then,"
+ },
+ {
+  "id": "M1#605",
+  "en": "and I couldn't pay for it."
+ },
+ {
+  "id": "M1#606",
+  "en": "At the factory, just for coming from"
+ },
+ {
+  "id": "M1#607",
+  "en": "elsewhere by ship, I got only awful jobs."
+ },
+ {
+  "id": "M1#608",
+  "en": "And then they suddenly fired me",
+  "note": "followed by #2"
+ },
+ {
+  "id": "M1#609",
+  "en": "I had to do something for my sister,"
+ },
+ {
+  "id": "M1#610",
+  "en": "I needed the money."
+ },
+ {
+  "id": "M1#611",
+  "en": "So when a man named Brome at the sailors'"
+ },
+ {
+  "id": "M1#612",
+  "en": "inn made me an offer, I took it."
+ },
+ {
+  "id": "M1#613",
+  "en": "But I'm done now. I'll collect the stolen"
+ },
+ {
+  "id": "M1#614",
+  "en": "cargo and quietly put it all back."
+ },
+ {
+  "id": "M1#615",
+  "en": "You have dirtied your hands once already."
+ },
+ {
+  "id": "M1#616",
+  "en": "Next, for my sake,"
+ },
+ {
+  "id": "M1#617",
+  "en": "you will do evil deeds."
+ },
+ {
+  "id": "M1#618",
+  "en": "Aaagh",
+  "note": "Wolf (msg 165637) also uses it"
+ },
+ {
+  "id": "M1#619",
+  "en": "Which rich family do you come from?"
+ },
+ {
+  "id": "M1#620",
+  "en": "You really stand out in that getup."
+ },
+ {
+  "id": "M1#621",
+  "en": "You're not filthy rich, are you?"
+ },
+ {
+  "id": "M1#622",
+  "en": "A rich kid like you probably"
+ },
+ {
+  "id": "M1#623",
+  "en": "can't understand my worries"
+ },
+ {
+  "id": "M1#624",
+  "en": "You're that rich kid in the flashy clothes"
+ },
+ {
+  "id": "M1#625",
+  "en": "Anton, what kind of work are you doing"
+ },
+ {
+  "id": "M1#626",
+  "en": "here?"
+ },
+ {
+  "id": "M1#627",
+  "en": "Not since I got fired from the factory."
+ },
+ {
+  "id": "M1#628",
+  "en": "Your sister was worried about you."
+ },
+ {
+  "id": "M1#629",
+  "en": "She thought you might be doing some"
+ },
+ {
+  "id": "M1#630",
+  "en": "kind of dangerous work."
+ },
+ {
+  "id": "M1#631",
+  "en": "Huh? You know my sister?"
+ },
+ {
+  "id": "M1#632",
+  "en": "Worried about what you're up to,"
+ },
+ {
+  "id": "M1#633",
+  "en": ", my master...",
+  "note": "name precedes; 'Master NAME' impossible"
+ },
+ {
+  "id": "M1#634",
+  "en": "I await your orders...",
+  "variants": [
+   {
+    "msg": 180838,
+    "en": " I await your orders..."
+   }
+  ]
+ },
+ {
+  "id": "M1#635",
+  "en": "I'm Heinrich, a navy soldier."
+ },
+ {
+  "id": "M1#636",
+  "en": "I'm on my way to guard the warehouse."
+ },
+ {
+  "id": "M1#637",
+  "en": "The warehouse is by the sea."
+ },
+ {
+  "id": "M1#638",
+  "en": "Civilians aren't allowed in."
+ },
+ {
+  "id": "M1#639",
+  "en": "Ah, Hans keeps popping into my head."
+ }
+]

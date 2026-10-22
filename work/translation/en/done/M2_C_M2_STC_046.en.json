@@ -1,0 +1,333 @@
+[
+ {
+  "id": "M2#3680",
+  "en": "Just kiddin'. It's a joke."
+ },
+ {
+  "id": "M2#3681",
+  "en": "Wh-what the?!"
+ },
+ {
+  "id": "M2#3682",
+  "en": "Is somebody there",
+  "note": "No end punctuation: shared #265 x3 + #537 add '...?'."
+ },
+ {
+  "id": "M2#3683",
+  "en": "Damn it, a thief!"
+ },
+ {
+  "id": "M2#3684",
+  "en": "Prepare yourself!!"
+ },
+ {
+  "id": "M2#3685",
+  "en": "Whoa, the drink's got my f-feet all"
+ },
+ {
+  "id": "M2#3686",
+  "en": "wobbly..."
+ },
+ {
+  "id": "M2#3687",
+  "en": "You'd best cut back on the drink for now."
+ },
+ {
+  "id": "M2#3688",
+  "en": "!!"
+ },
+ {
+  "id": "M2#3689",
+  "en": "Waaaaaaaaaaah!!"
+ },
+ {
+  "id": "M2#3690",
+  "en": "A drunkard... I hope he proves useful.",
+  "note": "No speaker label; read as the player's remark after enthralling Dudley. Japanese has no parentheses, so none added."
+ },
+ {
+  "id": "M2#3691",
+  "en": "I'm Dudley, I run the inn."
+ },
+ {
+  "id": "M2#3692",
+  "en": "Free of work and the missus,"
+ },
+ {
+  "id": "M2#3693",
+  "en": "I'm off to the pub for a pint right now."
+ },
+ {
+  "id": "M2#3694",
+  "en": "Feelin' light on my feet!"
+ },
+ {
+  "id": "M2#3695",
+  "en": "I'm off for my usual pint"
+ },
+ {
+  "id": "M2#3696",
+  "en": "at the pub."
+ },
+ {
+  "id": "M2#3697",
+  "en": "You hear all sorts of rumors there."
+ },
+ {
+  "id": "M2#3698",
+  "en": "It's a fun place!"
+ },
+ {
+  "id": "M2#3699",
+  "en": "Why don't you come along to the pub"
+ },
+ {
+  "id": "M2#3700",
+  "en": "with me now?"
+ },
+ {
+  "id": "M2#3701",
+  "en": "I'm Dudley, the innkeeper."
+ },
+ {
+  "id": "M2#3702",
+  "en": "I just had a pint at the pub."
+ },
+ {
+  "id": "M2#3703",
+  "en": "I'm Dudley, I keep tellin' ya!"
+ },
+ {
+  "id": "M2#3704",
+  "en": "Ahh, I'm good and drunk."
+ },
+ {
+  "id": "M2#3705",
+  "en": ", say,"
+ },
+ {
+  "id": "M2#3706",
+  "en": "were you a twin all along?"
+ },
+ {
+  "id": "M2#3707",
+  "en": "What, no?"
+ },
+ {
+  "id": "M2#3708",
+  "en": "There's two of you walkin' side by side!"
+ },
+ {
+  "id": "M2#3709",
+  "en": "Huh, my mistake.",
+  "note": "Msg 140541 joins #3642 (...Hic.) after a pause; variant without the period gives 'Huh, my mistake...Hic.' (slice 045 note agrees).",
+  "variants": [
+   {
+    "msg": 140541,
+    "en": "Huh, my mistake"
+   }
+  ]
+ },
+ {
+  "id": "M2#3710",
+  "en": "Nah, can't be. You're still young."
+ },
+ {
+  "id": "M2#3711",
+  "en": "Besides, with a fine fella like you, women'd"
+ },
+ {
+  "id": "M2#3712",
+  "en": "meekly do whatever you tell 'em."
+ },
+ {
+  "id": "M2#3713",
+  "en": "Jack, eh..."
+ },
+ {
+  "id": "M2#3714",
+  "en": "Business is good, it seems."
+ },
+ {
+  "id": "M2#3715",
+  "en": "were you a twin all along?"
+ },
+ {
+  "id": "M2#3716",
+  "en": "No, wait, looks like you're triplets, eh?",
+  "note": "No used_in in slice; msg.py places it in msg 141101 after #3709."
+ },
+ {
+  "id": "M2#3717",
+  "en": "I shall obey your orders..."
+ },
+ {
+  "id": "M2#3718",
+  "en": "Forgive me, my guest, but I cannot"
+ },
+ {
+  "id": "M2#3719",
+  "en": "entertain you today..."
+ },
+ {
+  "id": "M2#3720",
+  "en": "My only daughter, Rose, has been laid low"
+ },
+ {
+  "id": "M2#3721",
+  "en": "by illness..."
+ },
+ {
+  "id": "M2#3722",
+  "en": "Ah... I fear for my daughter."
+ },
+ {
+  "id": "M2#3723",
+  "en": "Forgive me, my guest, but your business"
+ },
+ {
+  "id": "M2#3724",
+  "en": "must wait for another day."
+ },
+ {
+  "id": "M2#3725",
+  "en": "Her illness seems to be some kind of anemia,"
+ },
+ {
+  "id": "M2#3726",
+  "en": "yet there is nothing wrong with her blood,"
+ },
+ {
+  "id": "M2#3727",
+  "en": "nor anything else wrong with her body..."
+ },
+ {
+  "id": "M2#3728",
+  "en": "Our family doctor can only shake his head."
+ },
+ {
+  "id": "M2#3729",
+  "en": "Tell me, do you know of a good doctor?"
+ },
+ {
+  "id": "M2#3730",
+  "en": "I meant to arrange a match for my daughter"
+ },
+ {
+  "id": "M2#3731",
+  "en": "soon, but that is now quite"
+ },
+ {
+  "id": "M2#3732",
+  "en": "out of the question."
+ },
+ {
+  "id": "M2#3733",
+  "en": "The patent agent I had in mind for her,"
+ },
+ {
+  "id": "M2#3734",
+  "en": "young Jonathan Harker, has lately"
+ },
+ {
+  "id": "M2#3735",
+  "en": "returned to London, it seems, but..."
+ },
+ {
+  "id": "M2#3736",
+  "en": "Pardon me. Who is this Jonathan...?"
+ },
+ {
+  "id": "M2#3737",
+  "en": "Ah, the son of a businessman I know."
+ },
+ {
+  "id": "M2#3738",
+  "en": "He was away in Eastern Europe on business,",
+  "note": "Followed by #2214 variant 'or so I hear.'"
+ },
+ {
+  "id": "M2#3739",
+  "en": "All I wish for now is my daughter's recovery."
+ },
+ {
+  "id": "M2#3740",
+  "en": "I can think of nothing else."
+ },
+ {
+  "id": "M2#3741",
+  "en": "My wife was frail, and died of illness when"
+ },
+ {
+  "id": "M2#3742",
+  "en": "our daughter was still small..."
+ },
+ {
+  "id": "M2#3743",
+  "en": "So that my daughter would never be lonely,"
+ },
+ {
+  "id": "M2#3744",
+  "en": "I poured all my love into raising her"
+ },
+ {
+  "id": "M2#3745",
+  "en": "all these years, and yet..."
+ },
+ {
+  "id": "M2#3746",
+  "en": "If my daughter were to go before me too, I"
+ },
+ {
+  "id": "M2#3747",
+  "en": "don't know what I would do..."
+ },
+ {
+  "id": "M2#3748",
+  "en": "Forgive me, but my daughter's health"
+ },
+ {
+  "id": "M2#3749",
+  "en": "is only getting worse..."
+ },
+ {
+  "id": "M2#3750",
+  "en": "I must ask you to leave for today."
+ },
+ {
+  "id": "M2#3751",
+  "en": "The truth is, my only daughter, Rose, has"
+ },
+ {
+  "id": "M2#3752",
+  "en": "fallen quite ill, you see."
+ },
+ {
+  "id": "M2#3753",
+  "en": "Forgive me, my guest, but I must ask you to"
+ },
+ {
+  "id": "M2#3754",
+  "en": "leave for today."
+ },
+ {
+  "id": "M2#3755",
+  "en": "Would you visit her now and then?"
+ },
+ {
+  "id": "M2#3756",
+  "en": "Yes, gladly, if I can be of any help."
+ },
+ {
+  "id": "M2#3757",
+  "en": "Excuse me, but who is Jonathan...?"
+ },
+ {
+  "id": "M2#3758",
+  "en": "our daughter was still small, you see..."
+ },
+ {
+  "id": "M2#3759",
+  "en": "all these years..."
+ }
+]

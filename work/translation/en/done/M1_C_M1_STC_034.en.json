@@ -1,0 +1,338 @@
+[
+ {
+  "id": "M1#2720",
+  "en": "Who the heck are you"
+ },
+ {
+  "id": "M1#2721",
+  "en": "<It's a battle order>",
+  "note": "choice (token 13 at SQC 103582), not in any used_in; option 0 leads to msg 103594"
+ },
+ {
+  "id": "M1#2722",
+  "en": "<I just came to hang out>",
+  "note": "choice; option 1 leads to msg 103638"
+ },
+ {
+  "id": "M1#2723",
+  "en": "I've brought you battle orders from the military."
+ },
+ {
+  "id": "M1#2724",
+  "en": "Eeeeeek..."
+ },
+ {
+  "id": "M1#2725",
+  "en": "Please! Have mercy on me, I'm beggin' ya!"
+ },
+ {
+  "id": "M1#2726",
+  "en": "Just kidding."
+ },
+ {
+  "id": "M1#2727",
+  "en": "Sorry I scared you. That was only a joke."
+ },
+ {
+  "id": "M1#2728",
+  "en": "Whaaat?!!"
+ },
+ {
+  "id": "M1#2729",
+  "en": "Oh well. If it was a lie, I guess I couldn't"
+ },
+ {
+  "id": "M1#2730",
+  "en": "ask for anything better."
+ },
+ {
+  "id": "M1#2731",
+  "en": "Don't worry. I just came by to hang out."
+ },
+ {
+  "id": "M1#2732",
+  "en": "Oh, thank goodness."
+ },
+ {
+  "id": "M1#2733",
+  "en": "That joke of yours earlier",
+  "note": "followed by three #180 and a pause, then #2734 on the next line (msg 103682 continues the same box)"
+ },
+ {
+  "id": "M1#2734",
+  "en": "wasn't funny in the slightest, pal."
+ },
+ {
+  "id": "M1#2735",
+  "en": "I see",
+  "note": "followed by #2 '...'"
+ },
+ {
+  "id": "M1#2736",
+  "en": "I'm sorry."
+ },
+ {
+  "id": "M1#2737",
+  "en": "Hm",
+  "note": "shared: Hermann 'Hm...?', Nikolaus 'U......hm?' / 'Hm,', Cheryl 'Hm...', Mrs. Lenya 'Hm?'"
+ },
+ {
+  "id": "M1#2738",
+  "en": "You keep showing up at the barracks, so..."
+ },
+ {
+  "id": "M1#2739",
+  "en": "don't tell me you want to join the navy?"
+ },
+ {
+  "id": "M1#2740",
+  "en": "Hermann",
+  "note": "comma dropped: three #180 dots follow ('Hermann...')"
+ },
+ {
+  "id": "M1#2741",
+  "en": "Where did you get this splendid medal?"
+ },
+ {
+  "id": "M1#2742",
+  "en": "Before I knew it, the enemy was wiped out",
+  "note": "followed by #2 '...'"
+ },
+ {
+  "id": "M1#2743",
+  "en": "Not that I remember a thing, though."
+ },
+ {
+  "id": "M1#2744",
+  "en": "(Maybe this man is actually strong",
+  "note": "followed by #2 '...' and #1263 ')'"
+ },
+ {
+  "id": "M1#2745",
+  "en": "I'll let you in on a secret."
+ },
+ {
+  "id": "M1#2746",
+  "en": "When the time's right, I'm gonna run away"
+ },
+ {
+  "id": "M1#2747",
+  "en": "from these barracks, maybe some night."
+ },
+ {
+  "id": "M1#2748",
+  "en": "What would you like to order...",
+  "note": "servile (vampirized) Oskar; five dots reduced to three"
+ },
+ {
+  "id": "M1#2749",
+  "en": "Your order?..."
+ },
+ {
+  "id": "M1#2750",
+  "en": "I run the restaurant called \"Neu\"."
+ },
+ {
+  "id": "M1#2751",
+  "en": "My name is Oskar."
+ },
+ {
+  "id": "M1#2752",
+  "en": "We'll be opening soon, so if you like,"
+ },
+ {
+  "id": "M1#2753",
+  "en": "please stay and have a meal."
+ },
+ {
+  "id": "M1#2754",
+  "en": "I'm the owner and the chef, you see."
+ },
+ {
+  "id": "M1#2755",
+  "en": "I'm Oskar, the owner and chef."
+ },
+ {
+  "id": "M1#2756",
+  "en": "I have every confidence in my food."
+ },
+ {
+  "id": "M1#2757",
+  "en": "Do come and have a meal here sometime."
+ },
+ {
+  "id": "M1#2758",
+  "en": "I'm just preparing the ingredients now."
+ },
+ {
+  "id": "M1#2759",
+  "en": "That's an important part of the job too."
+ },
+ {
+  "id": "M1#2760",
+  "en": "Aha. I see you can hardly wait."
+ },
+ {
+  "id": "M1#2761",
+  "en": "We'll be open in just a little while."
+ },
+ {
+  "id": "M1#2762",
+  "en": "we'll be opening shortly, so"
+ },
+ {
+  "id": "M1#2763",
+  "en": "do stop in for a meal."
+ },
+ {
+  "id": "M1#2764",
+  "en": ","
+ },
+ {
+  "id": "M1#2765",
+  "en": "you're truly hooked on my cooking too."
+ },
+ {
+  "id": "M1#2766",
+  "en": "Now, please stay and enjoy a meal."
+ },
+ {
+  "id": "M1#2767",
+  "en": "Welcome to the restaurant \"Neu\"."
+ },
+ {
+  "id": "M1#2768",
+  "en": "Thank you for coming by so soon."
+ },
+ {
+  "id": "M1#2769",
+  "en": "To make sure our guests leave happy,"
+ },
+ {
+  "id": "M1#2770",
+  "en": "I do my very best every day."
+ },
+ {
+  "id": "M1#2771",
+  "en": "Welcome, ",
+  "note": "shared with Jade (msg 119787): 'Welcome, NAME.'"
+ },
+ {
+  "id": "M1#2772",
+  "en": "Restaurants aren't such a rarity"
+ },
+ {
+  "id": "M1#2773",
+  "en": "anymore these days, are they?"
+ },
+ {
+  "id": "M1#2774",
+  "en": "But back when I first opened my place,"
+ },
+ {
+  "id": "M1#2775",
+  "en": "nearly every family would eat supper"
+ },
+ {
+  "id": "M1#2776",
+  "en": "at home",
+  "note": "followed by three #180 and #25"
+ },
+ {
+  "id": "M1#2777",
+  "en": "These days, though, more people come"
+ },
+ {
+  "id": "M1#2778",
+  "en": "to dine with their whole family."
+ },
+ {
+  "id": "M1#2779",
+  "en": "So, did today's menu"
+ },
+ {
+  "id": "M1#2780",
+  "en": "suit your taste?"
+ },
+ {
+  "id": "M1#2781",
+  "en": "By the way,"
+ },
+ {
+  "id": "M1#2782",
+  "en": "our waitress Alisa,"
+ },
+ {
+  "id": "M1#2783",
+  "en": "isn't she a fine, hard-working girl?"
+ },
+ {
+  "id": "M1#2784",
+  "en": "Do look kindly on her, won't you?"
+ },
+ {
+  "id": "M1#2785",
+  "en": "\"Extra service for regulars\""
+ },
+ {
+  "id": "M1#2786",
+  "en": "is our house policy, you see."
+ },
+ {
+  "id": "M1#2787",
+  "en": "So from here on, too,"
+ },
+ {
+  "id": "M1#2788",
+  "en": "please keep coming back to us."
+ },
+ {
+  "id": "M1#2789",
+  "en": ", it's customers like you",
+  "note": "NAME precedes; word order moved"
+ },
+ {
+  "id": "M1#2790",
+  "en": "who make cooking worth the effort."
+ },
+ {
+  "id": "M1#2791",
+  "en": ", how'd you like her as your bride?",
+  "note": "NAME precedes"
+ },
+ {
+  "id": "M1#2792",
+  "en": "<Consider it seriously>",
+  "note": "choice (token 13 at SQC 107889) with #2793; （） options given angle brackets like the 『』 choices"
+ },
+ {
+  "id": "M1#2793",
+  "en": "<Politely decline>",
+  "note": "choice"
+ },
+ {
+  "id": "M1#2794",
+  "en": "Well now, I'm only joking, of course.",
+  "note": "said after either choice; then branch 0 = NAME + #2764 / #2795, branch 1 = NAME + #2796 / #2797"
+ },
+ {
+  "id": "M1#2795",
+  "en": "but I suspect you don't mind the idea, hm?"
+ },
+ {
+  "id": "M1#2796",
+  "en": ", someone like you may well have"
+ },
+ {
+  "id": "M1#2797",
+  "en": "a sweetheart already, after all."
+ },
+ {
+  "id": "M1#2798",
+  "en": "is our restaurant's policy."
+ },
+ {
+  "id": "M1#2799",
+  "en": "who make cooking truly worthwhile."
+ }
+]

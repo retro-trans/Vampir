@@ -1,0 +1,153 @@
+[
+ {
+  "id": "OPN.BIN@164",
+  "en": "<October 21>"
+ },
+ {
+  "id": "OPN.BIN@14C",
+  "en": "Several months have passed since then..."
+ },
+ {
+  "id": "OPN.BIN@11C",
+  "en": "As a vampire hunter, I have come back here"
+ },
+ {
+  "id": "OPN.BIN@EC",
+  "en": "once more. I am staying at the village church."
+ },
+ {
+  "id": "OPN.BIN@C4",
+  "en": "Incredible as it is, the Count is undoubtedly"
+ },
+ {
+  "id": "OPN.BIN@AC",
+  "en": "a vampire who preys on people."
+ },
+ {
+  "id": "OPN.BIN@84",
+  "en": "Dr. Jack Seward's examination has also"
+ },
+ {
+  "id": "OPN.BIN@6C",
+  "en": "borne that out."
+ },
+ {
+  "id": "OPN.BIN@64",
+  "en": "We must stop Count "
+ },
+ {
+  "id": "OPN.BIN@4C",
+  "en": " Valaur's",
+  "note": "Continues into the unextracted string at offset 0x1C (see @64 note)."
+ },
+ {
+  "id": "OPN.BIN@12B8",
+  "en": ""
+ },
+ {
+  "id": "OPN.BIN@13A8",
+  "en": "Chris"
+ },
+ {
+  "id": "OPN.BIN@13B8",
+  "en": "Duran"
+ },
+ {
+  "id": "OPN.BIN@13C4",
+  "en": "Name Entry",
+  "note": "Name-entry screen title."
+ },
+ {
+  "id": "OPN.BIN@13E0",
+  "en": "15"
+ },
+ {
+  "id": "OPN.BIN@13E8",
+  "en": "14"
+ },
+ {
+  "id": "OPN.BIN@13F0",
+  "en": "13"
+ },
+ {
+  "id": "OPN.BIN@13F8",
+  "en": "12"
+ },
+ {
+  "id": "OPN.BIN@1400",
+  "en": "11"
+ },
+ {
+  "id": "OPN.BIN@1408",
+  "en": "10"
+ },
+ {
+  "id": "OPN.BIN@1410",
+  "en": "9"
+ },
+ {
+  "id": "OPN.BIN@1414",
+  "en": "8"
+ },
+ {
+  "id": "OPN.BIN@1418",
+  "en": "7"
+ },
+ {
+  "id": "OPN.BIN@141C",
+  "en": "6"
+ },
+ {
+  "id": "OPN.BIN@1420",
+  "en": "5"
+ },
+ {
+  "id": "OPN.BIN@1424",
+  "en": "4"
+ },
+ {
+  "id": "OPN.BIN@1428",
+  "en": "3"
+ },
+ {
+  "id": "OPN.BIN@142C",
+  "en": "2"
+ },
+ {
+  "id": "OPN.BIN@1430",
+  "en": "1"
+ },
+ {
+  "id": "OPN.BIN@1434",
+  "en": "0"
+ },
+ {
+  "id": "OPN.BIN@1438",
+  "en": "2 free blocks are required.",
+  "note": "Memory card messages: rows are stored in reverse display order; read as @145C then @1438, @14A8 then @1484."
+ },
+ {
+  "id": "OPN.BIN@145C",
+  "en": "To save this game's data,"
+ },
+ {
+  "id": "OPN.BIN@1484",
+  "en": "you will not be able to save your data."
+ },
+ {
+  "id": "OPN.BIN@14A8",
+  "en": "You can play the game to the end, but"
+ },
+ {
+  "id": "OPN.BIN@14CC",
+  "en": "Not enough free space on the memory card."
+ },
+ {
+  "id": "OPN.BIN@14F4",
+  "en": "No memory card was found."
+ },
+ {
+  "id": "OPN.BIN@151C",
+  "en": "foo foo foo"
+ }
+]

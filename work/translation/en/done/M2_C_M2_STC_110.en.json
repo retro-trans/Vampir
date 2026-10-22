@@ -1,0 +1,331 @@
+[
+ {
+  "id": "M2#8800",
+  "en": "I've spent so much time here that"
+ },
+ {
+  "id": "M2#8801",
+  "en": "there are still lots of places I haven't seen."
+ },
+ {
+  "id": "M2#8802",
+  "en": "Oh, who are you? I don't know you."
+ },
+ {
+  "id": "M2#8803",
+  "en": "What brings you to a place like this?"
+ },
+ {
+  "id": "M2#8804",
+  "en": "I hear a murderer named Jack"
+ },
+ {
+  "id": "M2#8805",
+  "en": "has been appearing in this city lately."
+ },
+ {
+  "id": "M2#8806",
+  "en": "I thought a lovely lady like you"
+ },
+ {
+  "id": "M2#8807",
+  "en": "might be a target, so I came to warn you..."
+ },
+ {
+  "id": "M2#8808",
+  "en": "My, how kind of you. Thank you."
+ },
+ {
+  "id": "M2#8809",
+  "en": "Oh, it's you? How did you find me here?"
+ },
+ {
+  "id": "M2#8810",
+  "en": "If you want to talk, let's go outside."
+ },
+ {
+  "id": "M2#8811",
+  "en": "I'm sorry, but at the hotel I'd like to rest."
+ },
+ {
+  "id": "M2#8812",
+  "en": "Oh, it's you again."
+ },
+ {
+  "id": "M2#8813",
+  "en": "Whatever is the matter?"
+ },
+ {
+  "id": "M2#8814",
+  "en": "I know, perhaps you could show me the"
+ },
+ {
+  "id": "M2#8815",
+  "en": "sights sometime. You must have lived here"
+ },
+ {
+  "id": "M2#8816",
+  "en": "longer than I have, after all."
+ },
+ {
+  "id": "M2#8817",
+  "en": "See you again at Big Ben."
+ },
+ {
+  "id": "M2#8818",
+  "en": "Idly sightseeing at your age,"
+ },
+ {
+  "id": "M2#8819",
+  "en": "you must lead a life of leisure, but"
+ },
+ {
+  "id": "M2#8820",
+  "en": "coming to London, where I dwell,"
+ },
+ {
+  "id": "M2#8821",
+  "en": "is where your luck ran out.",
+  "note": "Continues msg 341284 (#8818/#8819 '...a life of leisure, but')."
+ },
+ {
+  "id": "M2#8822",
+  "en": "There is no going home from this trip now."
+ },
+ {
+  "id": "M2#8823",
+  "en": "From now on, you shall live as my servant."
+ },
+ {
+  "id": "M2#8824",
+  "en": "Good morning. Is something the matter?"
+ },
+ {
+  "id": "M2#8825",
+  "en": "I seem to have gotten a little lost."
+ },
+ {
+  "id": "M2#8826",
+  "en": "Where are you headed?"
+ },
+ {
+  "id": "M2#8827",
+  "en": "If I can be of help, I'd be happy to"
+ },
+ {
+  "id": "M2#8828",
+  "en": "lend a hand."
+ },
+ {
+  "id": "M2#8829",
+  "en": "I came from Paris to see the sights."
+ },
+ {
+  "id": "M2#8830",
+  "en": "and now I can't find my way back.",
+  "note": "Continues #8753 (slice 109), which must end with a clause + comma, e.g. 'I only meant to take a short morning walk from the hotel,'."
+ },
+ {
+  "id": "M2#8831",
+  "en": "Oh, is that so?"
+ },
+ {
+  "id": "M2#8832",
+  "en": "I happen to have a map with me,"
+ },
+ {
+  "id": "M2#8833",
+  "en": "so let me show you on it."
+ },
+ {
+  "id": "M2#8834",
+  "en": "Then please do."
+ },
+ {
+  "id": "M2#8835",
+  "en": "What a kind person you are."
+ },
+ {
+  "id": "M2#8836",
+  "en": "Good morning. We meet again."
+ },
+ {
+  "id": "M2#8837",
+  "en": "London is a lovely city."
+ },
+ {
+  "id": "M2#8838",
+  "en": "I'd have liked to live here a long time, too."
+ },
+ {
+  "id": "M2#8839",
+  "en": "I've seen the sights and made a lovely young",
+  "note": "Leads into #8764 (slice 109) 'friend, too. How lucky I am.'"
+ },
+ {
+  "id": "M2#8840",
+  "en": "Good evening. Is something the matter?"
+ },
+ {
+  "id": "M2#8841",
+  "en": "I seem to have gotten lost."
+ },
+ {
+  "id": "M2#8842",
+  "en": "and now I can't find my way back, you see.",
+  "note": "Continues #8767 (slice 109), e.g. 'I just went out for a little stroll,'."
+ },
+ {
+  "id": "M2#8843",
+  "en": "On your way home from work, I see."
+ },
+ {
+  "id": "M2#8844",
+  "en": "London really is a lovely city."
+ },
+ {
+  "id": "M2#8845",
+  "en": "Good evening. What a lovely night."
+ },
+ {
+  "id": "M2#8846",
+  "en": "The night breeze has its charm, too."
+ },
+ {
+  "id": "M2#8847",
+  "en": "This is where Big Ben is, isn't it?"
+ },
+ {
+  "id": "M2#8848",
+  "en": "Yes, this is the place."
+ },
+ {
+  "id": "M2#8849",
+  "en": "Are you sightseeing?"
+ },
+ {
+  "id": "M2#8850",
+  "en": "Yes. It shows, does it?"
+ },
+ {
+  "id": "M2#8851",
+  "en": "I came from Paris."
+ },
+ {
+  "id": "M2#8852",
+  "en": "London really is a big city. I'm amazed."
+ },
+ {
+  "id": "M2#8853",
+  "en": "Yes, it's so big it makes my head spin."
+ },
+ {
+  "id": "M2#8854",
+  "en": "I'm from abroad too, you see."
+ },
+ {
+  "id": "M2#8855",
+  "en": "So I know how you feel."
+ },
+ {
+  "id": "M2#8856",
+  "en": "Indeed.",
+  "note": "Reply to the player's 'I know how you feel'."
+ },
+ {
+  "id": "M2#8857",
+  "en": "I'm grateful for your kindness."
+ },
+ {
+  "id": "M2#8858",
+  "en": "Oh, it was nothing."
+ },
+ {
+  "id": "M2#8859",
+  "en": "Enjoy your sightseeing."
+ },
+ {
+  "id": "M2#8860",
+  "en": "Yes, that's Big Ben right there."
+ },
+ {
+  "id": "M2#8861",
+  "en": "London really is a big city. It amazes me."
+ },
+ {
+  "id": "M2#8862",
+  "en": "I'm from abroad too, so I know"
+ },
+ {
+  "id": "M2#8863",
+  "en": "how you feel."
+ },
+ {
+  "id": "M2#8864",
+  "en": "Thank you, you're very kind."
+ },
+ {
+  "id": "M2#8865",
+  "en": "Thanks to you, I'm enjoying the sights."
+ },
+ {
+  "id": "M2#8866",
+  "en": "again. ...It's so big and lovely.",
+  "note": "Follows #8791 (slice 109), which must end '...I came to see Big Ben' without 'again' (as for #8792)."
+ },
+ {
+  "id": "M2#8867",
+  "en": "I'd love to cut out this view and take it home."
+ },
+ {
+  "id": "M2#8868",
+  "en": "I never tire of it, however often I look."
+ },
+ {
+  "id": "M2#8869",
+  "en": "has been seen in this city lately.",
+  "note": "Polite twin of #8805 (msg 341855), after #8804 'I hear a murderer named Jack'."
+ },
+ {
+  "id": "M2#8870",
+  "en": "You're such a kind person."
+ },
+ {
+  "id": "M2#8871",
+  "en": "I know, would you show me the sights sometime?"
+ },
+ {
+  "id": "M2#8872",
+  "en": "You've been here a long time, haven't you?"
+ },
+ {
+  "id": "M2#8873",
+  "en": "What would you have me do?"
+ },
+ {
+  "id": "M2#8874",
+  "en": "Somehow... my body",
+  "note": "#152 '...' follows each of #8874/#8875: 'Somehow... my body... / It feels awful...'."
+ },
+ {
+  "id": "M2#8875",
+  "en": "It feels awful"
+ },
+ {
+  "id": "M2#8876",
+  "en": "I'll do anything."
+ },
+ {
+  "id": "M2#8877",
+  "en": "Anything"
+ },
+ {
+  "id": "M2#8878",
+  "en": "So"
+ },
+ {
+  "id": "M2#8879",
+  "en": "Good morning",
+  "note": "#122 '!' follows."
+ }
+]

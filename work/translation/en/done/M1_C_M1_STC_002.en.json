@@ -1,0 +1,344 @@
+[
+ {
+  "id": "M1#160",
+  "en": "Why are you so tired?"
+ },
+ {
+  "id": "M1#161",
+  "en": "so I'd better go now",
+  "note": "continues M1#121; see report"
+ },
+ {
+  "id": "M1#162",
+  "en": "To think this boy has to work"
+ },
+ {
+  "id": "M1#163",
+  "en": "from such a young age..."
+ },
+ {
+  "id": "M1#164",
+  "en": "Life is truly hard for humans."
+ },
+ {
+  "id": "M1#165",
+  "en": "W-",
+  "note": "stammer; pairs with #166 'Who is it?'"
+ },
+ {
+  "id": "M1#166",
+  "en": "Who is it?",
+  "note": "no used_in; read as Hermann/Richard startled; neutral"
+ },
+ {
+  "id": "M1#167",
+  "en": "Dad?"
+ },
+ {
+  "id": "M1#168",
+  "en": "(Uh-oh. He seems to have woken up."
+ },
+ {
+  "id": "M1#169",
+  "en": "Shall I drain him in one go, in the dark...)"
+ },
+ {
+  "id": "M1#170",
+  "en": "<Drain in one go>"
+ },
+ {
+  "id": "M1#171",
+  "en": "<Explain the situation>"
+ },
+ {
+  "id": "M1#172",
+  "en": "For a little while,"
+ },
+ {
+  "id": "M1#173",
+  "en": "I'd like you to help your big brother out."
+ },
+ {
+  "id": "M1#174",
+  "en": "D-don't hit me!"
+ },
+ {
+  "id": "M1#175",
+  "en": "It's all right. There's nothing to be afraid of."
+ },
+ {
+  "id": "M1#176",
+  "en": "Help! Dad!"
+ },
+ {
+  "id": "M1#177",
+  "en": "(Not good. I'll drain him in one go...)"
+ },
+ {
+  "id": "M1#178",
+  "en": "S-stop it!"
+ },
+ {
+  "id": "M1#179",
+  "en": "Help me, Da-"
+ },
+ {
+  "id": "M1#180",
+  "en": "...",
+  "note": "single mid-dot trailing-off mark; M1#444 must not end with a period"
+ },
+ {
+  "id": "M1#181",
+  "en": "...Please, command me. Anything you wish."
+ },
+ {
+  "id": "M1#182",
+  "en": "Mornings at the market start early."
+ },
+ {
+  "id": "M1#183",
+  "en": "Hey, "
+ },
+ {
+  "id": "M1#184",
+  "en": "!"
+ },
+ {
+  "id": "M1#185",
+  "en": "You're always up early!"
+ },
+ {
+  "id": "M1#186",
+  "en": "I'll cut you a deal again today!"
+ },
+ {
+  "id": "M1#187",
+  "en": "The market's closed up for the day."
+ },
+ {
+  "id": "M1#188",
+  "en": "Hey there, ",
+  "note": "msg 9022 stands alone",
+  "variants": [
+   {
+    "msg": 9022,
+    "en": "Hey there!"
+   }
+  ]
+ },
+ {
+  "id": "M1#189",
+  "en": "."
+ },
+ {
+  "id": "M1#190",
+  "en": "I'll cut you a deal tomorrow, too!"
+ },
+ {
+  "id": "M1#191",
+  "en": "Well, this is rare. A guest at our house."
+ },
+ {
+  "id": "M1#192",
+  "en": "I'm Kurt. I work at the market."
+ },
+ {
+  "id": "M1#193",
+  "en": "If you come by the market,"
+ },
+ {
+  "id": "M1#194",
+  "en": "I'll give you a good price!"
+ },
+ {
+  "id": "M1#195",
+  "en": "If you come by the market,"
+ },
+ {
+  "id": "M1#196",
+  "en": "I made a decent profit today."
+ },
+ {
+  "id": "M1#197",
+  "en": "I didn't make much today."
+ },
+ {
+  "id": "M1#198",
+  "en": "I'll have to sell more tomorrow."
+ },
+ {
+  "id": "M1#199",
+  "en": "You always come by..."
+ },
+ {
+  "id": "M1#200",
+  "en": "You're a good customer."
+ },
+ {
+  "id": "M1#201",
+  "en": "Come again, okay?"
+ },
+ {
+  "id": "M1#202",
+  "en": "Welcome!"
+ },
+ {
+  "id": "M1#203",
+  "en": "I got some great vegetables in today!"
+ },
+ {
+  "id": "M1#204",
+  "en": "Big sale on potatoes!"
+ },
+ {
+  "id": "M1#205",
+  "en": "You came to see me!"
+ },
+ {
+  "id": "M1#206",
+  "en": "Big sale on potatoes today!"
+ },
+ {
+  "id": "M1#207",
+  "en": "Thanks for your business! Come again next time."
+ },
+ {
+  "id": "M1#208",
+  "en": "Thanks for your business!"
+ },
+ {
+  "id": "M1#209",
+  "en": "How old are you?"
+ },
+ {
+  "id": "M1#210",
+  "en": "I'll be 14 soon."
+ },
+ {
+  "id": "M1#211",
+  "en": "Don't you go to school?"
+ },
+ {
+  "id": "M1#212",
+  "en": "I can't afford it. Besides, rather than"
+ },
+ {
+  "id": "M1#213",
+  "en": "going to school, being at the market like this"
+ },
+ {
+  "id": "M1#214",
+  "en": "earns me money and suits me better."
+ },
+ {
+  "id": "M1#215",
+  "en": "Now then, butter's on special today!"
+ },
+ {
+  "id": "M1#216",
+  "en": "My family and I came from the countryside"
+ },
+ {
+  "id": "M1#217",
+  "en": "to this town."
+ },
+ {
+  "id": "M1#218",
+  "en": "We're poor, so I have to work too,"
+ },
+ {
+  "id": "M1#219",
+  "en": "or we can't get by."
+ },
+ {
+  "id": "M1#220",
+  "en": "Soon after we got here, Emil"
+ },
+ {
+  "id": "M1#221",
+  "en": "said I had a head for business"
+ },
+ {
+  "id": "M1#222",
+  "en": "and gave me this job."
+ },
+ {
+  "id": "M1#223",
+  "en": ","
+ },
+ {
+  "id": "M1#224",
+  "en": "What'll it be today?"
+ },
+ {
+  "id": "M1#225",
+  "en": "I really love this job."
+ },
+ {
+  "id": "M1#226",
+  "en": "Like getting to chat with you, "
+ },
+ {
+  "id": "M1#227",
+  "en": ","
+ },
+ {
+  "id": "M1#228",
+  "en": "and so on."
+ },
+ {
+  "id": "M1#229",
+  "en": "I get to talk with all kinds of people"
+ },
+ {
+  "id": "M1#230",
+  "en": "and see rare things. The market"
+ },
+ {
+  "id": "M1#231",
+  "en": "teaches me more than school does."
+ },
+ {
+  "id": "M1#232",
+  "en": "Hey, ",
+  "note": "Karl uses variants",
+  "variants": [
+   {
+    "msg": 50416,
+    "en": "Hello, "
+   },
+   {
+    "msg": 51344,
+    "en": "Hello, "
+   }
+  ]
+ },
+ {
+  "id": "M1#233",
+  "en": "I'll give you a special price!"
+ },
+ {
+  "id": "M1#234",
+  "en": "He's a healthy-looking child"
+ },
+ {
+  "id": "M1#235",
+  "en": "Hm, "
+ },
+ {
+  "id": "M1#236",
+  "en": "?"
+ },
+ {
+  "id": "M1#237",
+  "en": "Mornings at the market start early, so"
+ },
+ {
+  "id": "M1#238",
+  "en": "I'd rather you didn't come at this hour."
+ },
+ {
+  "id": "M1#239",
+  "en": "I've got some good news for you, Kurt,"
+ }
+]

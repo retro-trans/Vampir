@@ -1,0 +1,92 @@
+[
+ {
+  "id": "M1A.BIN@8F0",
+  "en": "That's not what you told me before.",
+  "note": "Female/polite listener set (from #9B0, slice 000); same as M0A.BIN@A98."
+ },
+ {
+  "id": "M1A.BIN@8C8",
+  "en": "Now I can't believe either of your stories."
+ },
+ {
+  "id": "M1A.BIN@8A4",
+  "en": "Don't talk to me if you've got no business!",
+  "note": "Male listener set (#8A4-#7C8); same as M0A.BIN@A4C."
+ },
+ {
+  "id": "M1A.BIN@890",
+  "en": "Is that true...? ",
+  "note": "Followed by #87C (same line assumed: trailing space); same as M0A.BIN@A38."
+ },
+ {
+  "id": "M1A.BIN@87C",
+  "en": "I can't believe it."
+ },
+ {
+  "id": "M1A.BIN@854",
+  "en": "I see. Then I guess I'll stay in at night."
+ },
+ {
+  "id": "M1A.BIN@838",
+  "en": "I heard that one already."
+ },
+ {
+  "id": "M1A.BIN@810",
+  "en": "Why do you keep saying the same thing?"
+ },
+ {
+  "id": "M1A.BIN@7EC",
+  "en": "That's not what you said before."
+ },
+ {
+  "id": "M1A.BIN@7C8",
+  "en": "Which one am I supposed to believe...?"
+ },
+ {
+  "id": "M1A.BIN@7C0",
+  "en": "..."
+ },
+ {
+  "id": "M1A.BIN@798",
+  "en": "You can't seriously expect me to believe that."
+ },
+ {
+  "id": "M1A.BIN@780",
+  "en": "I'll take that into account."
+ },
+ {
+  "id": "M1A.BIN@770",
+  "en": "You don't give up, do you?"
+ },
+ {
+  "id": "M1A.BIN@750",
+  "en": "I understood you the first time."
+ },
+ {
+  "id": "M1A.BIN@744",
+  "en": "Enough. You're relentless."
+ },
+ {
+  "id": "M1A.BIN@728",
+  "en": "You've gone too far in mocking me.",
+  "note": "Object me supplied; same as M0A.BIN@8D0."
+ },
+ {
+  "id": "M1A.BIN@708",
+  "en": "Bringing a rumor like that to me...",
+  "note": "Sentence continues in #6E8; same as M0A.BIN@8B0."
+ },
+ {
+  "id": "M1A.BIN@6E8",
+  "en": "what on earth is the point of it!"
+ },
+ {
+  "id": "M1A.BIN@6C8",
+  "en": "Thank you. I'll keep it in mind."
+ },
+ {
+  "id": "M1A.BIN@4",
+  "en": "Select a location",
+  "note": "Map UI prompt (no period); same as M0A.BIN@4."
+ }
+]

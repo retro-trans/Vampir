@@ -1,0 +1,330 @@
+[
+ {
+  "id": "M0#1120",
+  "en": "But it's all for the horses, so I don't mind."
+ },
+ {
+  "id": "M0#1121",
+  "en": "A gentleman like you,"
+ },
+ {
+  "id": "M0#1122",
+  "en": "you can ride a horse, right?"
+ },
+ {
+  "id": "M0#1123",
+  "en": "Then you ought to learn how to care for"
+ },
+ {
+  "id": "M0#1124",
+  "en": "horses properly, too."
+ },
+ {
+  "id": "M0#1125",
+  "en": "Want me to teach you?"
+ },
+ {
+  "id": "M0#1126",
+  "en": "Hey, you..."
+ },
+ {
+  "id": "M0#1127",
+  "en": "Come to think of it, did I ask your name?"
+ },
+ {
+  "id": "M0#1128",
+  "en": ", huh."
+ },
+ {
+  "id": "M0#1129",
+  "en": "Feel free to come by my house any time."
+ },
+ {
+  "id": "M0#1130",
+  "en": "It's just me and my son, after all."
+ },
+ {
+  "id": "M0#1131",
+  "en": "Horses are valuable workers, after all."
+ },
+ {
+  "id": "M0#1132",
+  "en": "People like me, who handle them properly,"
+ },
+ {
+  "id": "M0#1133",
+  "en": "are needed."
+ },
+ {
+  "id": "M0#1134",
+  "en": "You're a face I don't see around here."
+ },
+ {
+  "id": "M0#1135",
+  "en": "Yet you're dressed so conspicuously."
+ },
+ {
+  "id": "M0#1136",
+  "en": "You'd best be careful, that's all."
+ },
+ {
+  "id": "M0#1137",
+  "en": "What is there to be careful about, I wonder?"
+ },
+ {
+  "id": "M0#1138",
+  "en": "Don't do anything too conspicuous."
+ },
+ {
+  "id": "M0#1139",
+  "en": "I'm just heading to the stables."
+ },
+ {
+  "id": "M0#1140",
+  "en": "Somehow I'm already used to seeing you."
+ },
+ {
+  "id": "M0#1141",
+  "en": "Like you've been here since forever."
+ },
+ {
+  "id": "M0#1142",
+  "en": "You'd better not do anything too conspicuous."
+ },
+ {
+  "id": "M0#1143",
+  "en": "Like you've always been here."
+ },
+ {
+  "id": "M0#1144",
+  "en": "You stand out enough in that getup already,",
+  "note": "msg 50437 is 4 lines because M0#1098 (slice 013) wraps to 2 lines; needs #1098 shortened"
+ },
+ {
+  "id": "M0#1145",
+  "en": "so don't go acting conspicuously, too."
+ },
+ {
+  "id": "M0#1146",
+  "en": "Is there something you want with the horses?"
+ },
+ {
+  "id": "M0#1147",
+  "en": "If you do anything to my horses,"
+ },
+ {
+  "id": "M0#1148",
+  "en": "I won't let you get away with it."
+ },
+ {
+  "id": "M0#1149",
+  "en": "Ranke... I'd like you to",
+  "note": "Player (Christopher) speaking; split 'you' / 'to take on the role' to carry the Japanese sentence"
+ },
+ {
+  "id": "M0#1150",
+  "en": "take on the role of caretaker."
+ },
+ {
+  "id": "M0#1151",
+  "en": "Of my precious Nosferatu...",
+  "note": "No speaker tag; read as the player continuing the request (caretaker of the Nosferatu)"
+ },
+ {
+  "id": "M0#1152",
+  "en": "Please...",
+  "note": "No speaker tag; read as the player"
+ },
+ {
+  "id": "M0#1153",
+  "en": "Ngh!",
+  "note": "Unreferenced; a gasp (Ranke being bitten), same scene as #1154"
+ },
+ {
+  "id": "M0#1154",
+  "en": "Please bear with it for a little while."
+ },
+ {
+  "id": "M0#1155",
+  "en": ", my master... As you command..."
+ },
+ {
+  "id": "M0#1156",
+  "en": "Ah, my joints ache all over..."
+ },
+ {
+  "id": "M0#1157",
+  "en": "You're... no, it's nothing."
+ },
+ {
+  "id": "M0#1158",
+  "en": "Ah, good morning."
+ },
+ {
+  "id": "M0#1159",
+  "en": "I'm off to the lake now."
+ },
+ {
+  "id": "M0#1160",
+  "en": "You can catch fish at the lake, you know."
+ },
+ {
+  "id": "M0#1161",
+  "en": "I'm going fishing at the lake again."
+ },
+ {
+  "id": "M0#1162",
+  "en": "Won't you fish with me?"
+ },
+ {
+  "id": "M0#1163",
+  "en": "You're... no, never mind."
+ },
+ {
+  "id": "M0#1164",
+  "en": "I went fishing at the lake,"
+ },
+ {
+  "id": "M0#1165",
+  "en": "but I caught nothing."
+ },
+ {
+  "id": "M0#1166",
+  "en": "Something did seem to be biting, mind you."
+ },
+ {
+  "id": "M0#1167",
+  "en": "This is the house of my son, Ios."
+ },
+ {
+  "id": "M0#1168",
+  "en": "I just spend my days fishing,"
+ },
+ {
+  "id": "M0#1169",
+  "en": "like the old geezer I am."
+ },
+ {
+  "id": "M0#1170",
+  "en": "You see, you can catch fish at the lake."
+ },
+ {
+  "id": "M0#1171",
+  "en": "Let's go fishing together again."
+ },
+ {
+  "id": "M0#1172",
+  "en": "Let's go to the lake together again."
+ },
+ {
+  "id": "M0#1173",
+  "en": "Oh, you've come."
+ },
+ {
+  "id": "M0#1174",
+  "en": "Neither my son nor his wife cares about me."
+ },
+ {
+  "id": "M0#1175",
+  "en": "So neither you nor I need to worry about it."
+ },
+ {
+  "id": "M0#1176",
+  "en": "You can't go on forever"
+ },
+ {
+  "id": "M0#1177",
+  "en": "leaving a fish hooked on the line."
+ },
+ {
+  "id": "M0#1178",
+  "en": "A fish that's bitten has to be reeled in."
+ },
+ {
+  "id": "M0#1179",
+  "en": "What are you doing?"
+ },
+ {
+  "id": "M0#1180",
+  "en": "Fishing."
+ },
+ {
+  "id": "M0#1181",
+  "en": "Fishing? But I don't see a rod or a line anywhere."
+ },
+ {
+  "id": "M0#1182",
+  "en": "It's fishing all the same."
+ },
+ {
+  "id": "M0#1183",
+  "en": "(Hmph. What a peculiar old man.)"
+ },
+ {
+  "id": "M0#1184",
+  "en": "You can catch fish here."
+ },
+ {
+  "id": "M0#1185",
+  "en": "Didn't you come here to fish?"
+ },
+ {
+  "id": "M0#1186",
+  "en": "I came, and I'm fishing.",
+  "note": "worded to answer both 'Didn't you come here to fish?' and 'Aren't you fishing?' (msg 54726)"
+ },
+ {
+  "id": "M0#1187",
+  "en": "You seem to have neither rod nor line, though?"
+ },
+ {
+  "id": "M0#1188",
+  "en": "The fish scatter whenever you come around."
+ },
+ {
+  "id": "M0#1189",
+  "en": "You there, what is your name?"
+ },
+ {
+  "id": "M0#1190",
+  "en": ". And you, old man?",
+  "note": "name + '. And you, old man?'"
+ },
+ {
+  "id": "M0#1191",
+  "en": "A name like Otti doesn't matter,"
+ },
+ {
+  "id": "M0#1192",
+  "en": "you see. I'm only an old man."
+ },
+ {
+  "id": "M0#1193",
+  "en": ", is it...",
+  "note": "after 'I see. ' (#472) + name"
+ },
+ {
+  "id": "M0#1194",
+  "en": "Old man, fishing without a rod,"
+ },
+ {
+  "id": "M0#1195",
+  "en": "I'm amazed you never get bored."
+ },
+ {
+  "id": "M0#1196",
+  "en": "My rod? Why, it's floating over there."
+ },
+ {
+  "id": "M0#1197",
+  "en": "Did you drop your rod in the lake?"
+ },
+ {
+  "id": "M0#1198",
+  "en": "I did drop it."
+ },
+ {
+  "id": "M0#1199",
+  "en": "I didn't drop it by accident, mind you."
+ }
+]

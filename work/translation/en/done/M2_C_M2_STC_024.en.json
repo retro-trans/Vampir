@@ -1,0 +1,327 @@
+[
+ {
+  "id": "M2#1920",
+  "en": "Well, let's give it our all today."
+ },
+ {
+  "id": "M2#1921",
+  "en": "! How're you doing?"
+ },
+ {
+  "id": "M2#1922",
+  "en": "Morning, morning! Huh, you look sluggish."
+ },
+ {
+  "id": "M2#1923",
+  "en": "Not a morning person, are you? Ahaha."
+ },
+ {
+  "id": "M2#1924",
+  "en": "Good evening. Got a moment?"
+ },
+ {
+  "id": "M2#1925",
+  "en": "Your watch seems to have stopped."
+ },
+ {
+  "id": "M2#1926",
+  "en": "Hm? ...Ah, so it has."
+ },
+ {
+  "id": "M2#1927",
+  "en": "Still, how did you notice?"
+ },
+ {
+  "id": "M2#1928",
+  "en": "Ha! How could I not?"
+ },
+ {
+  "id": "M2#1929",
+  "en": "I'm Dean, the clockmaker."
+ },
+ {
+  "id": "M2#1930",
+  "en": "In my line of work, these things catch my eye."
+ },
+ {
+  "id": "M2#1931",
+  "en": "I see..."
+ },
+ {
+  "id": "M2#1932",
+  "en": "Bring that watch by my shop."
+ },
+ {
+  "id": "M2#1933",
+  "en": "I'll have it fixed in no time."
+ },
+ {
+  "id": "M2#1934",
+  "en": "Yes, I'll do that. Most helpful."
+ },
+ {
+  "id": "M2#1935",
+  "en": "Anything about clocks, just ask me!"
+ },
+ {
+  "id": "M2#1936",
+  "en": "! Hi there."
+ },
+ {
+  "id": "M2#1937",
+  "en": "Bring me that watch, will you?"
+ },
+ {
+  "id": "M2#1938",
+  "en": "Not knowing the time must be awkward, eh?"
+ },
+ {
+  "id": "M2#1939",
+  "en": "Whoa, just the fellow I wanted to see!"
+ },
+ {
+  "id": "M2#1940",
+  "en": "So, have you been keeping well?"
+ },
+ {
+  "id": "M2#1941",
+  "en": "<Well enough>",
+  "note": "Answer choice (no used_in); stern branch of msg 66455. Leads to #1943-#1945."
+ },
+ {
+  "id": "M2#1942",
+  "en": "<No, I can't say I am>",
+  "note": "Answer choice (no used_in); leads to #1946-#1948 (msg 66491)."
+ },
+ {
+  "id": "M2#1943",
+  "en": "What, just 'well enough'?"
+ },
+ {
+  "id": "M2#1944",
+  "en": "Well, same here. The old clock shop man, see,",
+  "note": "Ends with ',' : #1945 continues the sentence on the next line."
+ },
+ {
+  "id": "M2#1945",
+  "en": "he's been a real nag lately. We always fight."
+ },
+ {
+  "id": "M2#1946",
+  "en": "Oh dear, not enough sleep or something?"
+ },
+ {
+  "id": "M2#1947",
+  "en": "You do look a bit pale."
+ },
+ {
+  "id": "M2#1948",
+  "en": "At your age, you have to mind your health."
+ },
+ {
+  "id": "M2#1949",
+  "en": "Hello, welcome!"
+ },
+ {
+  "id": "M2#1950",
+  "en": "A repair? Or maybe a new clock?"
+ },
+ {
+  "id": "M2#1951",
+  "en": "Is this a clock shop?"
+ },
+ {
+  "id": "M2#1952",
+  "en": "No, it's a clock factory, but we sell too."
+ },
+ {
+  "id": "M2#1953",
+  "en": "Better goods than that stubborn old man's,"
+ },
+ {
+  "id": "M2#1954",
+  "en": "and above all, my repairs are guaranteed."
+ },
+ {
+  "id": "M2#1955",
+  "en": "Anyway, beware the old clock shop man."
+ },
+ {
+  "id": "M2#1956",
+  "en": "He all but forces you to buy."
+ },
+ {
+  "id": "M2#1957",
+  "en": "Oh, I've seen your face somewhere. Hello."
+ },
+ {
+  "id": "M2#1958",
+  "en": "Ah, we met in the street! Good to see you."
+ },
+ {
+  "id": "M2#1959",
+  "en": "Need a clock repaired?"
+ },
+ {
+  "id": "M2#1960",
+  "en": "I may be young, but Dean's work is reliable."
+ },
+ {
+  "id": "M2#1961",
+  "en": "You can trust my skill."
+ },
+ {
+  "id": "M2#1962",
+  "en": "Oh my, back again?"
+ },
+ {
+  "id": "M2#1963",
+  "en": "Hello, hello! Good to see you."
+ },
+ {
+  "id": "M2#1964",
+  "en": "What brings you today? A repair?"
+ },
+ {
+  "id": "M2#1965",
+  "en": "Or shall I badmouth the old clock shop man?"
+ },
+ {
+  "id": "M2#1966",
+  "en": "Joking aside, though."
+ },
+ {
+  "id": "M2#1967",
+  "en": "It's not as if I fall out with him"
+ },
+ {
+  "id": "M2#1968",
+  "en": "for no reason. We just see things differently."
+ },
+ {
+  "id": "M2#1969",
+  "en": "I want to do good, honest work."
+ },
+ {
+  "id": "M2#1970",
+  "en": "But that old man only cares about money."
+ },
+ {
+  "id": "M2#1971",
+  "en": "That's rude to the customers, isn't it?"
+ },
+ {
+  "id": "M2#1972",
+  "en": "You quite like seeing the factory, huh?"
+ },
+ {
+  "id": "M2#1973",
+  "en": "Well, I'm not that busy myself, so that's fine."
+ },
+ {
+  "id": "M2#1974",
+  "en": "Few young folks take up this kind of work."
+ },
+ {
+  "id": "M2#1975",
+  "en": "I guess they want something flashier."
+ },
+ {
+  "id": "M2#1976",
+  "en": "Me, I'm content with it,",
+  "note": "Msg 66649: #1976<p>#1977 / #1978<p>#1979, each piece continues the same sentence. #1977 and #1979 start with an explicit space (single use); auto_space would treat fun|and as a word split by the pause and add none."
+ },
+ {
+  "id": "M2#1977",
+  "en": " I love this work,"
+ },
+ {
+  "id": "M2#1978",
+  "en": "so every day is fun"
+ },
+ {
+  "id": "M2#1979",
+  "en": " and rewarding too."
+ },
+ {
+  "id": "M2#1980",
+  "en": "If only that idiot old man weren't around."
+ },
+ {
+  "id": "M2#1981",
+  "en": "Hello, how are things?"
+ },
+ {
+  "id": "M2#1982",
+  "en": "Me, I'm so-so. Still, ordinary's best."
+ },
+ {
+  "id": "M2#1983",
+  "en": "By the way, isn't that watch precious to you?"
+ },
+ {
+  "id": "M2#1984",
+  "en": "And here I am offering to fix it."
+ },
+ {
+  "id": "M2#1985",
+  "en": "Don't be shy, it's on the house."
+ },
+ {
+  "id": "M2#1986",
+  "en": "Yes, hello. Who is it?"
+ },
+ {
+  "id": "M2#1987",
+  "en": "A repair? Then come to the factory by day."
+ },
+ {
+  "id": "M2#1988",
+  "en": "The factory's big, you can't miss it."
+ },
+ {
+  "id": "M2#1989",
+  "en": "Come by tomorrow or later, then."
+ },
+ {
+  "id": "M2#1990",
+  "en": "! Oh, hello."
+ },
+ {
+  "id": "M2#1991",
+  "en": "Sorry, I'm in a foul mood today."
+ },
+ {
+  "id": "M2#1992",
+  "en": "I clashed with the clock shop man over work."
+ },
+ {
+  "id": "M2#1993",
+  "en": "Don't want to take it out on you. Later, okay?"
+ },
+ {
+  "id": "M2#1994",
+  "en": "You worried about me?"
+ },
+ {
+  "id": "M2#1995",
+  "en": "Don't worry, craftsmen are a stubborn lot."
+ },
+ {
+  "id": "M2#1996",
+  "en": "Fights like that happen all the time."
+ },
+ {
+  "id": "M2#1997",
+  "en": "Hello, ",
+  "note": "Before the name: Dean '{NAME}, welcome!' (#443) and Maurice '{NAME}.' (#98)."
+ },
+ {
+  "id": "M2#1998",
+  "en": "Coming in? Today's been my lucky day."
+ },
+ {
+  "id": "M2#1999",
+  "en": "Got a clock order from a wealthy family."
+ }
+]

@@ -1,0 +1,330 @@
+[
+ {
+  "id": "M2#3280",
+  "en": "wanting to give my customers some comfort"
+ },
+ {
+  "id": "M2#3281",
+  "en": "is how I truly feel, too."
+ },
+ {
+  "id": "M2#3282",
+  "en": "Please come by anytime.",
+  "note": "Shared with Bruce (msg 222354), works for both."
+ },
+ {
+  "id": "M2#3283",
+  "en": "I'll help you find a little peace."
+ },
+ {
+  "id": "M2#3284",
+  "en": "Hello. Is there something you need from me?"
+ },
+ {
+  "id": "M2#3285",
+  "en": "Or are you here to buy some tea?"
+ },
+ {
+  "id": "M2#3286",
+  "en": "Either way... if you could come back a bit"
+ },
+ {
+  "id": "M2#3287",
+  "en": "later, it would really help me out."
+ },
+ {
+  "id": "M2#3288",
+  "en": "Sorry. I'd really appreciate it."
+ },
+ {
+  "id": "M2#3289",
+  "en": "Sorry, I was asleep until just now, so"
+ },
+ {
+  "id": "M2#3290",
+  "en": "I'm in a daze... How sloppy of me."
+ },
+ {
+  "id": "M2#3291",
+  "en": "I wake up groggy. Please come back later."
+ },
+ {
+  "id": "M2#3292",
+  "en": "Oh, it's you. Welcome."
+ },
+ {
+  "id": "M2#3293",
+  "en": "I'm working on a new blend right now."
+ },
+ {
+  "id": "M2#3294",
+  "en": "But I botched it. Sigh",
+  "note": "Followed by M2#152 '...': 'Sigh...'"
+ },
+ {
+  "id": "M2#3295",
+  "en": "Once I get it right, I'll sell it in the shop, so"
+ },
+ {
+  "id": "M2#3296",
+  "en": "please wait until then, all right?"
+ },
+ {
+  "id": "M2#3297",
+  "en": "Welcome, come on in."
+ },
+ {
+  "id": "M2#3298",
+  "en": "Thank you for always being so loyal."
+ },
+ {
+  "id": "M2#3299",
+  "en": "Next time, I'll give you my new original"
+ },
+ {
+  "id": "M2#3300",
+  "en": "blend. But don't tell anyone else."
+ },
+ {
+  "id": "M2#3301",
+  "en": "Do stop by the shop as well."
+ },
+ {
+  "id": "M2#3302",
+  "en": "Tea isn't bad, I'll grant you."
+ },
+ {
+  "id": "M2#3303",
+  "en": "But for me, nothing beats the taste of blood",
+  "note": "Player thought, followed by M2#152 '...'."
+ },
+ {
+  "id": "M2#3304",
+  "en": "Heh heh heh. Yes, nothing else will do.",
+  "note": "Preceded by M2#152 '...'."
+ },
+ {
+  "id": "M2#3305",
+  "en": "I'm not from around here, so I don't know"
+ },
+ {
+  "id": "M2#3306",
+  "en": "much about London."
+ },
+ {
+  "id": "M2#3307",
+  "en": "Is drinking tea all the fashion now?"
+ },
+ {
+  "id": "M2#3308",
+  "en": "Quite so. Then I'll take one of these, please."
+ },
+ {
+  "id": "M2#3309",
+  "en": "It has a lovely aroma."
+ },
+ {
+  "id": "M2#3310",
+  "en": "Hello. We meet again."
+ },
+ {
+  "id": "M2#3311",
+  "en": "You must be about out of the tea you bought last time",
+  "note": "Joined on the same line with M2#3271 (slice 040) which must be ', right?'."
+ },
+ {
+  "id": "M2#3312",
+  "en": "Impressive. You know me well."
+ },
+ {
+  "id": "M2#3313",
+  "en": "This tea has a wonderful aroma."
+ },
+ {
+  "id": "M2#3314",
+  "en": "Aroma is the soul of tea, after all."
+ },
+ {
+  "id": "M2#3315",
+  "en": "Please do come by the shop again."
+ },
+ {
+  "id": "M2#3316",
+  "en": "I want to make your wishes come true...",
+  "note": "After '{NAME}, my master...' (M2#0): starts a new sentence."
+ },
+ {
+  "id": "M2#3317",
+  "en": "...Strange."
+ },
+ {
+  "id": "M2#3318",
+  "en": "I've barely moved a muscle, and yet"
+ },
+ {
+  "id": "M2#3319",
+  "en": "somehow I'm badly hurt..."
+ },
+ {
+  "id": "M2#3320",
+  "en": "Oh, a visitor?"
+ },
+ {
+  "id": "M2#3321",
+  "en": "What could you want with a writer like me,"
+ },
+ {
+  "id": "M2#3322",
+  "en": "whose books don't even sell?"
+ },
+ {
+  "id": "M2#3323",
+  "en": "Hmm, so you are a writer..."
+ },
+ {
+  "id": "M2#3324",
+  "en": "For a writer whose books don't sell, you live"
+ },
+ {
+  "id": "M2#3325",
+  "en": "in quite a luxurious house."
+ },
+ {
+  "id": "M2#3326",
+  "en": "My parents left me a little money and this",
+  "note": "Parents: number not stated in the source."
+ },
+ {
+  "id": "M2#3327",
+  "en": "house, you see..."
+ },
+ {
+  "id": "M2#3328",
+  "en": "But even that money is running out."
+ },
+ {
+  "id": "M2#3329",
+  "en": "If the work I just finished doesn't catch on,"
+ },
+ {
+  "id": "M2#3330",
+  "en": "I mean to quit writing for good."
+ },
+ {
+  "id": "M2#3331",
+  "en": "I wonder if my next work will sell..."
+ },
+ {
+  "id": "M2#3332",
+  "en": "The book I told you about? As soon as it came"
+ },
+ {
+  "id": "M2#3333",
+  "en": "out, it started flying off the shelves!"
+ },
+ {
+  "id": "M2#3334",
+  "en": "I did it! At last I'm one of the great authors!"
+ },
+ {
+  "id": "M2#3335",
+  "en": "Now, time to start planning my next work."
+ },
+ {
+  "id": "M2#3336",
+  "en": "I'm glad the book sold, but..."
+ },
+ {
+  "id": "M2#3337",
+  "en": "I just can't come up with my next one."
+ },
+ {
+  "id": "M2#3338",
+  "en": "It must be a bad time right now..."
+ },
+ {
+  "id": "M2#3339",
+  "en": "Someday I'll write a story that tops my last"
+ },
+ {
+  "id": "M2#3340",
+  "en": "one, just you watch...!"
+ },
+ {
+  "id": "M2#3341",
+  "en": "My next one will be a hit too, you'll see!"
+ },
+ {
+  "id": "M2#3342",
+  "en": "Well? Is your next work finished?"
+ },
+ {
+  "id": "M2#3343",
+  "en": "Well, about that..."
+ },
+ {
+  "id": "M2#3344",
+  "en": "Somehow the words just won't come lately..."
+ },
+ {
+  "id": "M2#3345",
+  "en": "Just you watch, my next one will be an epic too."
+ },
+ {
+  "id": "M2#3346",
+  "en": "A smash hit, guaranteed!"
+ },
+ {
+  "id": "M2#3347",
+  "en": "Oh, it's you..."
+ },
+ {
+  "id": "M2#3348",
+  "en": "Is that new book of yours still not done?"
+ },
+ {
+  "id": "M2#3349",
+  "en": "Ah, I'm a little under the weather. Yes,"
+ },
+ {
+  "id": "M2#3350",
+  "en": "that must be it!"
+ },
+ {
+  "id": "M2#3351",
+  "en": "That's why the words won't come..."
+ },
+ {
+  "id": "M2#3352",
+  "en": "Hmph."
+ },
+ {
+  "id": "M2#3353",
+  "en": "A writer who starts making excuses is finished."
+ },
+ {
+  "id": "M2#3354",
+  "en": "A-actually, I'm a fan of yours."
+ },
+ {
+  "id": "M2#3355",
+  "en": "A fan, you say?"
+ },
+ {
+  "id": "M2#3356",
+  "en": "I-I've never met one of those before!"
+ },
+ {
+  "id": "M2#3357",
+  "en": "That makes me happy. But I'm thinking"
+ },
+ {
+  "id": "M2#3358",
+  "en": "of giving up writing for good."
+ },
+ {
+  "id": "M2#3359",
+  "en": "I can only afford to write because my late",
+  "note": "Continues in M2#3360 (slice 042): 'parents left me a little money and this house,' then M2#3361 'you see...'."
+ }
+]

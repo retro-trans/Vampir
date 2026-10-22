@@ -1,0 +1,333 @@
+[
+ {
+  "id": "M0#2400",
+  "en": "I see."
+ },
+ {
+  "id": "M0#2401",
+  "en": "Very well,"
+ },
+ {
+  "id": "M0#2402",
+  "en": "do come and visit my house sometime."
+ },
+ {
+  "id": "M0#2403",
+  "en": "As for that sort of thing,",
+  "note": "shared by 115759 (formal) and 116300 (casual); neutral"
+ },
+ {
+  "id": "M0#2404",
+  "en": "I would be glad to tell you as much as you like."
+ },
+ {
+  "id": "M0#2405",
+  "en": "My name is Emmy. And yours?"
+ },
+ {
+  "id": "M0#2406",
+  "en": "Until we meet again, ",
+  "note": "'Until we meet again, ' + name + '.'(#143)"
+ },
+ {
+  "id": "M0#2407",
+  "en": "Cleaning up afterwards is such hard work,"
+ },
+ {
+  "id": "M0#2408",
+  "en": "There is quite a lot of it, after all."
+ },
+ {
+  "id": "M0#2409",
+  "en": "Well said."
+ },
+ {
+  "id": "M0#2410",
+  "en": "If livestock suffer, so does their owner."
+ },
+ {
+  "id": "M0#2411",
+  "en": "Indeed. Livestock should be well looked after."
+ },
+ {
+  "id": "M0#2412",
+  "en": "Emmy",
+  "note": "+ '...' (#66); continues in msg 115881 (#2413)"
+ },
+ {
+  "id": "M0#2413",
+  "en": "I shall take good care of you as well."
+ },
+ {
+  "id": "M0#2414",
+  "en": "Eeeeek",
+  "note": "+ '...' (#66)"
+ },
+ {
+  "id": "M0#2415",
+  "en": "Is something the matter...?"
+ },
+ {
+  "id": "M0#2416",
+  "en": "Winter preparations are in full swing now."
+ },
+ {
+  "id": "M0#2417",
+  "en": "I'm in a hurry, so",
+  "note": "+ '...' (#66); 'so...' trailing off"
+ },
+ {
+  "id": "M0#2418",
+  "en": "finish my winter preparations",
+  "note": "continues #2359 (slice 029): needs 'I really must hurry and' before it; + '...' (#66)"
+ },
+ {
+  "id": "M0#2419",
+  "en": "It's been getting really cold lately,"
+ },
+ {
+  "id": "M0#2420",
+  "en": "so take care."
+ },
+ {
+  "id": "M0#2421",
+  "en": "I've been so busy during the day lately,"
+ },
+ {
+  "id": "M0#2422",
+  "en": "so I rest quietly whenever I'm at home."
+ },
+ {
+  "id": "M0#2423",
+  "en": "Would you please let me rest?"
+ },
+ {
+  "id": "M0#2424",
+  "en": "I'm resting at the moment."
+ },
+ {
+  "id": "M0#2425",
+  "en": "I was just about to have tea."
+ },
+ {
+  "id": "M0#2426",
+  "en": "Some sweets just came out of the oven,"
+ },
+ {
+  "id": "M0#2427",
+  "en": "care to join me?"
+ },
+ {
+  "id": "M0#2428",
+  "en": "Do stay and relax a while, for once."
+ },
+ {
+  "id": "M0#2429",
+  "en": "I'm making hay right now."
+ },
+ {
+  "id": "M0#2430",
+  "en": "I have to get it all done on a fine day like this,"
+ },
+ {
+  "id": "M0#2431",
+  "en": "so I'm busy."
+ },
+ {
+  "id": "M0#2432",
+  "en": "How I envy people with free time"
+ },
+ {
+  "id": "M0#2433",
+  "en": "like yourself."
+ },
+ {
+  "id": "M0#2434",
+  "en": "By rights,"
+ },
+ {
+  "id": "M0#2435",
+  "en": "I should have gotten it all done in summer,"
+ },
+ {
+  "id": "M0#2436",
+  "en": "but I didn't."
+ },
+ {
+  "id": "M0#2437",
+  "en": "Somehow it got to be this late in the year."
+ },
+ {
+  "id": "M0#2438",
+  "en": "Still, I can't just leave it undone,"
+ },
+ {
+  "id": "M0#2439",
+  "en": "oh, what a lot of work",
+  "note": "+ '...' (#66)"
+ },
+ {
+  "id": "M0#2440",
+  "en": "Say, do you think it will rain?"
+ },
+ {
+  "id": "M0#2441",
+  "en": "I need it to stay clear a little longer."
+ },
+ {
+  "id": "M0#2442",
+  "en": "It must be hard work. Even the little things."
+ },
+ {
+  "id": "M0#2443",
+  "en": "Really, you stuck it out right to the end, didn't you."
+ },
+ {
+  "id": "M0#2444",
+  "en": "Yes, very much."
+ },
+ {
+  "id": "M0#2445",
+  "en": "Compared to where I lived before,"
+ },
+ {
+  "id": "M0#2446",
+  "en": "it's all quite different."
+ },
+ {
+  "id": "M0#2447",
+  "en": "A very sheltered young gentleman, it seems."
+ },
+ {
+  "id": "M0#2448",
+  "en": "I'm Emmy. And you?"
+ },
+ {
+  "id": "M0#2449",
+  "en": "Is that so? Well, come by my place sometime."
+ },
+ {
+  "id": "M0#2450",
+  "en": "I can tell you as much as you want.",
+  "note": "casual counterpart of #2404 (msg 116300)"
+ },
+ {
+  "id": "M0#2451",
+  "en": "To think of your good is my very joy."
+ },
+ {
+  "id": "M0#2452",
+  "en": "For some reason I keep getting the prices wrong..."
+ },
+ {
+  "id": "M0#2453",
+  "en": "Hello there. What do you want?"
+ },
+ {
+  "id": "M0#2454",
+  "en": "This is our house."
+ },
+ {
+  "id": "M0#2455",
+  "en": "I'm Luisa, and my husband is Lehn."
+ },
+ {
+  "id": "M0#2456",
+  "en": "I keep the shop open during the day,"
+ },
+ {
+  "id": "M0#2457",
+  "en": "so come back then if you need something."
+ },
+ {
+  "id": "M0#2458",
+  "en": "Come by when the shop's open, will you?"
+ },
+ {
+  "id": "M0#2459",
+  "en": "You don't look like you're from around here,"
+ },
+ {
+  "id": "M0#2460",
+  "en": "but you're not a traveler either, are you?"
+ },
+ {
+  "id": "M0#2461",
+  "en": "Do you want something from us?"
+ },
+ {
+  "id": "M0#2462",
+  "en": "The shop isn't open yet."
+ },
+ {
+  "id": "M0#2463",
+  "en": "You've come at a good time."
+ },
+ {
+  "id": "M0#2464",
+  "en": "I'm just taking a rest. Care to join me?"
+ },
+ {
+  "id": "M0#2465",
+  "en": "Come back again, now."
+ },
+ {
+  "id": "M0#2466",
+  "en": "Oh, this is the inn, you see,"
+ },
+ {
+  "id": "M0#2467",
+  "en": "but over here I sell sundries."
+ },
+ {
+  "id": "M0#2468",
+  "en": "I'm Luisa,",
+  "note": "continues in #2469 (msg 119603) and #2489 (msg 119943, slice 031): 'and my husband Lehn runs the inn.'"
+ },
+ {
+  "id": "M0#2469",
+  "en": "and my husband Lehn runs the inn."
+ },
+ {
+  "id": "M0#2470",
+  "en": "Buttons, combs, pens, ink, paper."
+ },
+ {
+  "id": "M0#2471",
+  "en": "You're better off buying that sort of thing."
+ },
+ {
+  "id": "M0#2472",
+  "en": "Come here when you need it.",
+  "note": "shared 119603/119646"
+ },
+ {
+  "id": "M0#2473",
+  "en": "This is my general store."
+ },
+ {
+  "id": "M0#2474",
+  "en": "I rent a corner of the inn."
+ },
+ {
+  "id": "M0#2475",
+  "en": "Someone like you can write, can't you?"
+ },
+ {
+  "id": "M0#2476",
+  "en": "Go on, write a letter."
+ },
+ {
+  "id": "M0#2477",
+  "en": "Look, I've got pens and ink right here."
+ },
+ {
+  "id": "M0#2478",
+  "en": "I sell furs and lace and the like, too.",
+  "note": "shared by 119697 and 120049 (#2479/#2497 'ladies' / 'young ladies')"
+ },
+ {
+  "id": "M0#2479",
+  "en": "Why not buy some for the ladies?"
+ }
+]

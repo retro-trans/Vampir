@@ -1,0 +1,327 @@
+[
+ {
+  "id": "M1#5360",
+  "en": "What is it?",
+  "note": "Shared Luisa (after a gift) and Emma; 'What is it?' works in both."
+ },
+ {
+  "id": "M1#5361",
+  "en": "Wait, please, don't."
+ },
+ {
+  "id": "M1#5362",
+  "en": "No",
+  "note": "No used_in; left unpunctuated like the source (punctuation may come from a following row)."
+ },
+ {
+  "id": "M1#5363",
+  "en": "Don't come any closer."
+ },
+ {
+  "id": "M1#5364",
+  "en": "Eeeek"
+ },
+ {
+  "id": "M1#5365",
+  "en": "You don't have to be that upset about it."
+ },
+ {
+  "id": "M1#5366",
+  "en": "Whatever you need, just say the word."
+ },
+ {
+  "id": "M1#5367",
+  "en": "Oh my. You're up early, sir"
+ },
+ {
+  "id": "M1#5368",
+  "en": "Since you're up anyway, do your shopping at"
+ },
+ {
+  "id": "M1#5369",
+  "en": "the market, won't you?"
+ },
+ {
+  "id": "M1#5370",
+  "en": "I'm Margarete. I work at the market."
+ },
+ {
+  "id": "M1#5371",
+  "en": "The market's opening soon."
+ },
+ {
+  "id": "M1#5372",
+  "en": "Do drop by."
+ },
+ {
+  "id": "M1#5373",
+  "en": "Oh my",
+  "note": "'Oh my' + #414 '!' + NAME: needs #414 variant '! ' for msgs 213715/214336 (see report)."
+ },
+ {
+  "id": "M1#5374",
+  "en": "Fancy seeing you so early in the morning"
+ },
+ {
+  "id": "M1#5375",
+  "en": "The market opens early, but that means we"
+ },
+ {
+  "id": "M1#5376",
+  "en": "close early, too."
+ },
+ {
+  "id": "M1#5377",
+  "en": "Try to come to the market a little earlier."
+ },
+ {
+  "id": "M1#5378",
+  "en": "Sir"
+ },
+ {
+  "id": "M1#5379",
+  "en": "Come show your face at the market again."
+ },
+ {
+  "id": "M1#5380",
+  "en": "These days I really look forward to seeing"
+ },
+ {
+  "id": "M1#5381",
+  "en": "your face, sir."
+ },
+ {
+  "id": "M1#5382",
+  "en": "Household goods, food, liquor"
+ },
+ {
+  "id": "M1#5383",
+  "en": "We stock it all, so do come by."
+ },
+ {
+  "id": "M1#5384",
+  "en": "If you don't get here early, everything'll"
+ },
+ {
+  "id": "M1#5385",
+  "en": "be sold out, you know."
+ },
+ {
+  "id": "M1#5386",
+  "en": "I've got nothing to sell you at my place."
+ },
+ {
+  "id": "M1#5387",
+  "en": "Come to the market again tomorrow."
+ },
+ {
+  "id": "M1#5388",
+  "en": "If a fine man like you keeps calling on me,"
+ },
+ {
+  "id": "M1#5389",
+  "en": "I won't know what to do with myself!"
+ },
+ {
+  "id": "M1#5390",
+  "en": "Come to the market again tomorrow, won't you?"
+ },
+ {
+  "id": "M1#5391",
+  "en": "I do look forward to your visits, sir."
+ },
+ {
+  "id": "M1#5392",
+  "en": "If I were just a bit younger,"
+ },
+ {
+  "id": "M1#5393",
+  "en": "I wouldn't have minded marrying you, sir."
+ },
+ {
+  "id": "M1#5394",
+  "en": "Welcome to the market! Cheap prices here!"
+ },
+ {
+  "id": "M1#5395",
+  "en": "My, what a fine gentleman you are"
+ },
+ {
+  "id": "M1#5396",
+  "en": "Please, do buy something."
+ },
+ {
+  "id": "M1#5397",
+  "en": "Oh my, what a fine gentleman."
+ },
+ {
+  "id": "M1#5398",
+  "en": "Go on, buy whatever you like."
+ },
+ {
+  "id": "M1#5399",
+  "en": "Come shop again, won't you?"
+ },
+ {
+  "id": "M1#5400",
+  "en": "Go on, I'll throw in something extra, so buy"
+ },
+ {
+  "id": "M1#5401",
+  "en": "plenty!"
+ },
+ {
+  "id": "M1#5402",
+  "en": " you name it, we've got it.",
+  "note": "Leading space: follows #5382 + #2 '...' in msg 214005 with no line break."
+ },
+ {
+  "id": "M1#5403",
+  "en": "The more I see of you, sir, the finer you look."
+ },
+ {
+  "id": "M1#5404",
+  "en": "If I were a bit younger, I'd want you to"
+ },
+ {
+  "id": "M1#5405",
+  "en": "marry me."
+ },
+ {
+  "id": "M1#5406",
+  "en": "Margarete, are you not married?"
+ },
+ {
+  "id": "M1#5407",
+  "en": "No, I'm not."
+ },
+ {
+  "id": "M1#5408",
+  "en": "I expect I'll stay single all my life."
+ },
+ {
+  "id": "M1#5409",
+  "en": "But I do have a child."
+ },
+ {
+  "id": "M1#5410",
+  "en": "All grown up now, working in another town,"
+ },
+ {
+  "id": "M1#5411",
+  "en": "so we hardly ever get to see each other."
+ },
+ {
+  "id": "M1#5412",
+  "en": "Buy plenty again today, won't you?"
+ },
+ {
+  "id": "M1#5413",
+  "en": "Oh, sir, every time I see you, you're such a"
+ },
+ {
+  "id": "M1#5414",
+  "en": "fine man I could swoon."
+ },
+ {
+  "id": "M1#5415",
+  "en": "I had my share of admirers in my youth."
+ },
+ {
+  "id": "M1#5416",
+  "en": "Margarete, why did you never marry?"
+ },
+ {
+  "id": "M1#5417",
+  "en": "Maybe because I was better cut out for trade"
+ },
+ {
+  "id": "M1#5418",
+  "en": "than for marriage."
+ },
+ {
+  "id": "M1#5419",
+  "en": "Unlike ladies of good family, we factory girls"
+ },
+ {
+  "id": "M1#5420",
+  "en": "and market girls can earn our own keep,"
+ },
+ {
+  "id": "M1#5421",
+  "en": "so lots of women never bother to marry."
+ },
+ {
+  "id": "M1#5422",
+  "en": "Free love is easier than marriage, after all."
+ },
+ {
+  "id": "M1#5423",
+  "en": "But with a lovely man like you, sir,"
+ },
+ {
+  "id": "M1#5424",
+  "en": "I'd have liked to give marriage a try."
+ },
+ {
+  "id": "M1#5425",
+  "en": "I have no wish to marry, but I suppose I could"
+ },
+ {
+  "id": "M1#5426",
+  "en": "make you my servant."
+ },
+ {
+  "id": "M1#5427",
+  "en": "Who's there?"
+ },
+ {
+  "id": "M1#5428",
+  "en": "At this hour of the night"
+ },
+ {
+  "id": "M1#5429",
+  "en": "You"
+ },
+ {
+  "id": "M1#5430",
+  "en": "There's nothing worth stealing in a shack"
+ },
+ {
+  "id": "M1#5431",
+  "en": "like mine."
+ },
+ {
+  "id": "M1#5432",
+  "en": "I care nothing for your possessions."
+ },
+ {
+  "id": "M1#5433",
+  "en": "I have come for your blood"
+ },
+ {
+  "id": "M1#5434",
+  "en": "Give me a good price, won't you?"
+ },
+ {
+  "id": "M1#5435",
+  "en": "What do you think you're doing",
+  "note": "No used_in; left unpunctuated like the source."
+ },
+ {
+  "id": "M1#5436",
+  "en": "Gyaaaah"
+ },
+ {
+  "id": "M1#5437",
+  "en": "I'd love to have a fine young man like you"
+ },
+ {
+  "id": "M1#5438",
+  "en": "come to the market every day."
+ },
+ {
+  "id": "M1#5439",
+  "en": "If a fine young man like you keeps calling,"
+ }
+]

@@ -1,0 +1,720 @@
+[
+ {
+  "id": "PR1.BIN@4C8",
+  "off": 1224,
+  "size": 38,
+  "slot": 38,
+  "refs": [
+   [
+    "ptr",
+    2148343700
+   ]
+  ],
+  "idx": 0,
+  "en": "I'll lie low in this disused dock",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@4B4",
+  "off": 1204,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148343704
+   ]
+  ],
+  "idx": 1,
+  "en": "for a while.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@4AC",
+  "off": 1196,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148343708
+   ]
+  ],
+  "idx": 2,
+  "en": "Most likely ",
+  "note": "Followed by the partner-name opcode and @4A8 on the same line: 'Most likely {PARTNER_NAME}, too,'.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@4A8",
+  "off": 1192,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148343712
+   ]
+  ],
+  "idx": 3,
+  "en": ", too,",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@484",
+  "off": 1156,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148343716
+   ]
+  ],
+  "idx": 4,
+  "en": "is waiting for his chance to set sail.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@460",
+  "off": 1120,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148343720
+   ]
+  ],
+  "idx": 5,
+  "en": "Compared with Medoekia, this is quite",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@450",
+  "off": 1104,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148343724
+   ]
+  ],
+  "idx": 6,
+  "en": "a large town.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@434",
+  "off": 1076,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148343728
+   ]
+  ],
+  "idx": 7,
+  "en": "First, let me see what the town is like.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@418",
+  "off": 1048,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148343732
+   ]
+  ],
+  "idx": 8,
+  "en": "Orgo, arrange for the coffin to be",
+  "note": "Duran to Orgo. Rows regrouped: 'London estate' moved to @3F8.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@3F8",
+  "off": 1016,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148343736
+   ]
+  ],
+  "idx": 9,
+  "en": "delivered to the London estate.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@3DC",
+  "off": 988,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148343740
+   ]
+  ],
+  "idx": 10,
+  "en": "Understood, Master.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@3B4",
+  "off": 948,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148343744
+   ]
+  ],
+  "idx": 11,
+  "en": "It will be some time before the ship sails.",
+  "note": "Duran.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@38C",
+  "off": 908,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148343748
+   ]
+  ],
+  "idx": 12,
+  "en": "I shall be staying in this town a while, then.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@380",
+  "off": 896,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148343752
+   ]
+  ],
+  "idx": 13,
+  "en": "...",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@358",
+  "off": 856,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148343756
+   ]
+  ],
+  "idx": 14,
+  "en": "So at last we are to be wed.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@340",
+  "off": 832,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148343760
+   ]
+  ],
+  "idx": 15,
+  "en": "It all seems like a dream.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@31C",
+  "off": 796,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148343764
+   ]
+  ],
+  "idx": 16,
+  "en": "Rowena, after the wedding, I had meant",
+  "note": "Duran (flashback).",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@2F8",
+  "off": 760,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148343768
+   ]
+  ],
+  "idx": 17,
+  "en": "to hold the rite to formally welcome you",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@2E0",
+  "off": 736,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148343772
+   ]
+  ],
+  "idx": 18,
+  "en": "into our clan.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@2D0",
+  "off": 720,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148343776
+   ]
+  ],
+  "idx": 19,
+  "en": "But...",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@2AC",
+  "off": 684,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148343780
+   ]
+  ],
+  "idx": 20,
+  "en": "If you join our clan and gain eternal life,",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@284",
+  "off": 644,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148343784
+   ]
+  ],
+  "idx": 21,
+  "en": "you must lose something in exchange.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@258",
+  "off": 600,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148343788
+   ]
+  ],
+  "idx": 22,
+  "en": "With your power, basking in the sun by day",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@240",
+  "off": 576,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148343792
+   ]
+  ],
+  "idx": 23,
+  "en": "would no longer be possible.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@21C",
+  "off": 540,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148343796
+   ]
+  ],
+  "idx": 24,
+  "en": "And the rose you now hold in your hand...",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@1F8",
+  "off": 504,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148343800
+   ]
+  ],
+  "idx": 25,
+  "en": "Roses never let monsters draw near.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@1D0",
+  "off": 464,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148343804
+   ]
+  ],
+  "idx": 26,
+  "en": "However beautiful we may find them,",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@1A8",
+  "off": 424,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148343808
+   ]
+  ],
+  "idx": 27,
+  "en": "we can never touch them...",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@194",
+  "off": 404,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148343812
+   ]
+  ],
+  "idx": 28,
+  "en": "If we force ourselves to touch one",
+  "note": "Followed on the same line by @190 printed six times with pauses: '......'.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@190",
+  "off": 400,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148343816
+   ]
+  ],
+  "idx": 29,
+  "en": ".",
+  "note": "Shared: printed six times after @194 and six times after @180, each with a pause, giving '......' (same approach as EP0@8FC / EP1@FC).",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@184",
+  "off": 388,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148343820
+   ]
+  ],
+  "idx": 30,
+  "en": "this is what happens.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@180",
+  "off": 384,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148343824
+   ]
+  ],
+  "idx": 31,
+  "en": "Ah!",
+  "note": "Rowena's startled cry (lone ！), followed by @190 x6: 'Ah!......'. Same rendering as EP1@5C.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@154",
+  "off": 340,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148343828
+   ]
+  ],
+  "idx": 32,
+  "en": "You, who love roses so dearly,",
+  "note": "Duran.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@12C",
+  "off": 300,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148343832
+   ]
+  ],
+  "idx": 33,
+  "en": "might be happier if you could remain",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@118",
+  "off": 280,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148343836
+   ]
+  ],
+  "idx": 34,
+  "en": "human, just as you are...",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@108",
+  "off": 264,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148343840
+   ]
+  ],
+  "idx": 35,
+  "en": "Pardon me, ",
+  "note": "Messenger (soldier); followed by the player-name opcode and @100: 'Pardon me, {PLAYER_NAME}, my lord.' Trailing space.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@100",
+  "off": 256,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148343844
+   ]
+  ],
+  "idx": 36,
+  "en": ", my lord.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@F4",
+  "off": 244,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148343848
+   ]
+  ],
+  "idx": 37,
+  "en": "What is it?!",
+  "note": "Duran.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@CC",
+  "off": 204,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148343852
+   ]
+  ],
+  "idx": 38,
+  "en": "The army of Rakova, which borders our Medoekia,",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@A4",
+  "off": 164,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148343856
+   ]
+  ],
+  "idx": 39,
+  "en": "has invaded our lands. Word has just come.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@8C",
+  "off": 140,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148343860
+   ]
+  ],
+  "idx": 40,
+  "en": "Very well. I shall go at once.",
+  "note": "Duran; same opening as EP0@364/EP1@898 ('Very well. I shall come at once'), 'go' here since he leaves for the front.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@70",
+  "off": 112,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148343864
+   ]
+  ],
+  "idx": 41,
+  "en": "You, go and gather the troops.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@64",
+  "off": 100,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148343868
+   ]
+  ],
+  "idx": 42,
+  "en": "Yes, my lord!",
+  "note": "Messenger.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@3C",
+  "off": 60,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148343872
+   ]
+  ],
+  "idx": 43,
+  "en": "Rowena, I shall return in ten days or so...",
+  "note": "Duran.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@28",
+  "off": 40,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148343876
+   ]
+  ],
+  "idx": 44,
+  "en": "Wait for me.",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@1C",
+  "off": 28,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148343880
+   ]
+  ],
+  "idx": 45,
+  "en": "To battle!",
+  "done": true
+ },
+ {
+  "id": "PR1.BIN@4",
+  "off": 4,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148343884
+   ]
+  ],
+  "idx": 46,
+  "en": "I shall spare no one!",
+  "done": true
+ }
+]

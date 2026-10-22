@@ -1,0 +1,243 @@
+[
+ {
+  "id": "PR0.BIN@718",
+  "en": "So this is the villa in Medoekia",
+  "note": "Christopher (speaker byte 12 = player). Script: 718+710+70C on one line, then wait."
+ },
+ {
+  "id": "PR0.BIN@710",
+  "en": "..."
+ },
+ {
+  "id": "PR0.BIN@70C",
+  "en": ".",
+  "note": "Gives '....' (ellipsis + period), same as the OPN '...' + '.' precedent."
+ },
+ {
+  "id": "PR0.BIN@6EC",
+  "en": "I'd heard it was an old building, but"
+ },
+ {
+  "id": "PR0.BIN@6C4",
+  "en": "I never imagined it would be this run-down."
+ },
+ {
+  "id": "PR0.BIN@698",
+  "en": "This is the villa our Eisen clan uses",
+  "note": "Rusalie (speaker byte 11) from here to @16C, except @3EC/@3C4 and Sistina's @360-@2C4."
+ },
+ {
+  "id": "PR0.BIN@67C",
+  "en": "when bringing humans to the castle."
+ },
+ {
+  "id": "PR0.BIN@660",
+  "en": "You can use this place as your base."
+ },
+ {
+  "id": "PR0.BIN@638",
+  "en": "During the day, no one can easily tell we're"
+ },
+ {
+  "id": "PR0.BIN@618",
+  "en": "Vampir just by looking at us."
+ },
+ {
+  "id": "PR0.BIN@5EC",
+  "en": "That's why, in the daytime, we can act"
+ },
+ {
+  "id": "PR0.BIN@5E0",
+  "en": "just like humans."
+ },
+ {
+  "id": "PR0.BIN@5B4",
+  "en": "Talk to all kinds of people, and learn"
+ },
+ {
+  "id": "PR0.BIN@590",
+  "en": "what sort of lives the villagers lead."
+ },
+ {
+  "id": "PR0.BIN@564",
+  "en": "From how people live and work, you can tell"
+ },
+ {
+  "id": "PR0.BIN@53C",
+  "en": "if they're strong or well respected."
+ },
+ {
+  "id": "PR0.BIN@510",
+  "en": "Befriending villagers also changes"
+ },
+ {
+  "id": "PR0.BIN@4FC",
+  "en": "the effect of drinking blood, so vital to us."
+ },
+ {
+  "id": "PR0.BIN@4D4",
+  "en": "When we drink blood at night, the effect"
+ },
+ {
+  "id": "PR0.BIN@4A8",
+  "en": "depends on how close our victim is to us.",
+  "note": "No newline between @4A8 and @480 in the script: both print on this line and wrap; measured as 3 lines in total."
+ },
+ {
+  "id": "PR0.BIN@480",
+  "en": " The closer they are, the greater the effect.",
+  "note": "Leading space: printed right after @4A8 on the same line (no newline opcode)."
+ },
+ {
+  "id": "PR0.BIN@474",
+  "en": "...",
+  "note": "Script prints the partner name (opcode 19 = Duran) before this row: '{PARTNER_NAME}...'. Trailing 、 dropped because the box is cleared before the next sentence."
+ },
+ {
+  "id": "PR0.BIN@448",
+  "en": "The Vampir you must defeat has been sealed"
+ },
+ {
+  "id": "PR0.BIN@41C",
+  "en": "in a tower for a long time, so at first"
+ },
+ {
+  "id": "PR0.BIN@3F4",
+  "en": "he shouldn't be able to act freely by day.",
+  "note": "'he' = Duran (named in @474 message; male per glossary)."
+ },
+ {
+  "id": "PR0.BIN@3EC",
+  "en": ", huh.",
+  "note": "Christopher; partner-name opcode (Duran) precedes: '{PARTNER_NAME}, huh.'"
+ },
+ {
+  "id": "PR0.BIN@3C4",
+  "en": "I wonder what kind of Vampir he is..."
+ },
+ {
+  "id": "PR0.BIN@398",
+  "en": "...Lastly, let me introduce you to"
+ },
+ {
+  "id": "PR0.BIN@388",
+  "en": "your new partner."
+ },
+ {
+  "id": "PR0.BIN@370",
+  "en": "Come, Sistina."
+ },
+ {
+  "id": "PR0.BIN@360",
+  "en": "How do you do, Master "
+ },
+ {
+  "id": "PR0.BIN@358",
+  "en": "."
+ },
+ {
+  "id": "PR0.BIN@330",
+  "en": "Lord Ragash has ordered me to serve you."
+ },
+ {
+  "id": "PR0.BIN@314",
+  "en": "My name is Sistina."
+ },
+ {
+  "id": "PR0.BIN@2EC",
+  "en": "I shall mainly be gathering information"
+ },
+ {
+  "id": "PR0.BIN@2DC",
+  "en": "for you at night."
+ },
+ {
+  "id": "PR0.BIN@2C4",
+  "en": "I look forward to serving you."
+ },
+ {
+  "id": "PR0.BIN@29C",
+  "en": "Sistina will always report to you on the"
+ },
+ {
+  "id": "PR0.BIN@270",
+  "en": "familiars you summon at night and those"
+ },
+ {
+  "id": "PR0.BIN@25C",
+  "en": "you've made your servants."
+ },
+ {
+  "id": "PR0.BIN@234",
+  "en": "Unlike the familiars you summon for a time,"
+ },
+ {
+  "id": "PR0.BIN@208",
+  "en": "she's a fine one, raised with us in Eisen,",
+  "note": "'she' = Sistina (female per glossary)."
+ },
+ {
+  "id": "PR0.BIN@1E8",
+  "en": "so I'm sure she'll be a great help to you."
+ },
+ {
+  "id": "PR0.BIN@1C0",
+  "en": "I'll be staying here at this villa, too,"
+ },
+ {
+  "id": "PR0.BIN@1B4",
+  "en": "for a while."
+ },
+ {
+  "id": "PR0.BIN@190",
+  "en": "When it comes to what you should do next,"
+ },
+ {
+  "id": "PR0.BIN@16C",
+  "en": "I think I can give you all kinds of advice."
+ },
+ {
+  "id": "PR0.BIN@14C",
+  "en": "I summoned a patent agent named Jonathan,"
+ },
+ {
+  "id": "PR0.BIN@128",
+  "en": "and at last succeeded in breaking the seal."
+ },
+ {
+  "id": "PR0.BIN@104",
+  "en": "To hear the fellow tell it, in Europe's west,"
+ },
+ {
+  "id": "PR0.BIN@E8",
+  "en": "London, in the British Empire, now stands"
+ },
+ {
+  "id": "PR0.BIN@C4",
+  "en": "at the very summit of the world's prosperity."
+ },
+ {
+  "id": "PR0.BIN@A4",
+  "en": "I went to the trouble of buying an estate,"
+ },
+ {
+  "id": "PR0.BIN@8C",
+  "en": "so I shall fill this British Empire of theirs"
+ },
+ {
+  "id": "PR0.BIN@68",
+  "en": "with terror and chaos..."
+ },
+ {
+  "id": "PR0.BIN@4C",
+  "en": "But first, on the human rabble hereabouts,"
+ },
+ {
+  "id": "PR0.BIN@2C",
+  "en": "I think I shall slake my thirst for blood."
+ },
+ {
+  "id": "PR0.BIN@4",
+  "en": "So that I may grasp great power once more..."
+ }
+]

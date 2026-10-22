@@ -1,0 +1,335 @@
+[
+ {
+  "id": "M1#6640",
+  "en": "My, my, my old man sure is late getting home."
+ },
+ {
+  "id": "M1#6641",
+  "en": "Old man, it'll be getting cold soon,"
+ },
+ {
+  "id": "M1#6642",
+  "en": "so would you fetch firewood for the hearth?"
+ },
+ {
+  "id": "M1#6643",
+  "en": "Who're you calling an old man",
+  "note": "Player's aside in parentheses; '!' and ')' come from #414/#1263."
+ },
+ {
+  "id": "M1#6644",
+  "en": "Oh, that's right. Sorry, sorry."
+ },
+ {
+  "id": "M1#6645",
+  "en": "My old man's gone out fishing, I forgot."
+ },
+ {
+  "id": "M1#6646",
+  "en": "Now then, who might you be?"
+ },
+ {
+  "id": "M1#6647",
+  "en": "Oh, I see."
+ },
+ {
+  "id": "M1#6648",
+  "en": "And what could you possibly want"
+ },
+ {
+  "id": "M1#6649",
+  "en": "with an old granny like me?",
+  "note": "Shared: completes #6648 (msg 271200) and #6690 (msg 271635)."
+ },
+ {
+  "id": "M1#6650",
+  "en": "If you're going to chat anyway, someone younger"
+ },
+ {
+  "id": "M1#6651",
+  "en": "would be better company, don't you think?"
+ },
+ {
+  "id": "M1#6652",
+  "en": "That's true enough.",
+  "note": "Standalone message with no speaker tag; speaker not certain (likely the player conceding her point)."
+ },
+ {
+  "id": "M1#6653",
+  "en": "Well, old man, so you're finally home, are you?"
+ },
+ {
+  "id": "M1#6654",
+  "en": "As I've told you many times, I am",
+  "note": "Followed by line break + NAME + #4823 '.'."
+ },
+ {
+  "id": "M1#6655",
+  "en": "Ah. That's right, that's right."
+ },
+ {
+  "id": "M1#6656",
+  "en": "you wouldn't know where my old man went, would you?",
+  "note": "Follows #3249 variant 'You there,' + line break."
+ },
+ {
+  "id": "M1#6657",
+  "en": "No idea"
+ },
+ {
+  "id": "M1#6658",
+  "en": "Dear me. When is my old man ever going to"
+ },
+ {
+  "id": "M1#6659",
+  "en": "come home"
+ },
+ {
+  "id": "M1#6660",
+  "en": "Has he gone and forgotten his own house?"
+ },
+ {
+  "id": "M1#6661",
+  "en": "Oh, it's you, old man."
+ },
+ {
+  "id": "M1#6662",
+  "en": "Coming home at an hour like this"
+ },
+ {
+  "id": "M1#6663",
+  "en": "(What a bother."
+ },
+ {
+  "id": "M1#6664",
+  "en": "I'll play the old geezer and just drink her blood.)"
+ },
+ {
+  "id": "M1#6665",
+  "en": "Wait, now I remember"
+ },
+ {
+  "id": "M1#6666",
+  "en": "One stormy day some years back, the boat my old man was on"
+ },
+ {
+  "id": "M1#6667",
+  "en": "sank off the coast of this harbor"
+ },
+ {
+  "id": "M1#6668",
+  "en": "Ever since then, my old man"
+ },
+ {
+  "id": "M1#6669",
+  "en": "has never come home."
+ },
+ {
+  "id": "M1#6670",
+  "en": "My old man... my old man is dead."
+ },
+ {
+  "id": "M1#6671",
+  "en": "Then who in the world are you"
+ },
+ {
+  "id": "M1#6672",
+  "en": "The vampire "
+ },
+ {
+  "id": "M1#6673",
+  "en": "Old woman, learn my name already, will you?",
+  "note": "No speaker tag; the stern player after making her a servant."
+ },
+ {
+  "id": "M1#6674",
+  "en": "From now on, you'll be taking my orders."
+ },
+ {
+  "id": "M1#6675",
+  "en": "Why, son, are you just getting home?"
+ },
+ {
+  "id": "M1#6676",
+  "en": "I'm not your son, ma'am.",
+  "note": "Shared by msgs 271492 and 271574."
+ },
+ {
+  "id": "M1#6677",
+  "en": "Wherever has my son gone off to?"
+ },
+ {
+  "id": "M1#6678",
+  "en": "Son,"
+ },
+ {
+  "id": "M1#6679",
+  "en": "the draft from the window is so chilly."
+ },
+ {
+  "id": "M1#6680",
+  "en": "Would you mend the house walls for me?"
+ },
+ {
+  "id": "M1#6681",
+  "en": "All right. If it's something I can do"
+ },
+ {
+  "id": "M1#6682",
+  "en": "But I'm "
+ },
+ {
+  "id": "M1#6683",
+  "en": "Well, well,"
+ },
+ {
+  "id": "M1#6684",
+  "en": "my boy really is a good, dutiful son.",
+  "note": "No speaker tag; Mrs. Lenya after the repair job."
+ },
+ {
+  "id": "M1#6685",
+  "en": "Son"
+ },
+ {
+  "id": "M1#6686",
+  "en": " are you just getting home",
+  "note": "Leading space: follows '...' (#2); '?' from #461."
+ },
+ {
+  "id": "M1#6687",
+  "en": "I'm not your son, ma'am."
+ },
+ {
+  "id": "M1#6688",
+  "en": "Oh, I see, I see. Sorry for the mix-up."
+ },
+ {
+  "id": "M1#6689",
+  "en": "So, who might you be, then?"
+ },
+ {
+  "id": "M1#6690",
+  "en": "Oh, I see. And what could you possibly want"
+ },
+ {
+  "id": "M1#6691",
+  "en": "If you're going to chat anyway, a younger girl"
+ },
+ {
+  "id": "M1#6692",
+  "en": "would be better company, don't you think?"
+ },
+ {
+  "id": "M1#6693",
+  "en": "Now I remember"
+ },
+ {
+  "id": "M1#6694",
+  "en": "My son went off to a far land as a soldier,"
+ },
+ {
+  "id": "M1#6695",
+  "en": "and he was killed in the war there"
+ },
+ {
+  "id": "M1#6696",
+  "en": "You're not my son, but you've been so kind"
+ },
+ {
+  "id": "M1#6697",
+  "en": "to me"
+ },
+ {
+  "id": "M1#6698",
+  "en": " Thank you, dear.",
+  "note": "Leading space: follows #25 '.'."
+ },
+ {
+  "id": "M1#6699",
+  "en": "Ma'am, please don't lose heart"
+ },
+ {
+  "id": "M1#6700",
+  "en": "Keep your spirits up."
+ },
+ {
+  "id": "M1#6701",
+  "en": "Oh, don't you worry, I'll be fine."
+ },
+ {
+  "id": "M1#6702",
+  "en": "I've still got my old man, after all."
+ },
+ {
+  "id": "M1#6703",
+  "en": "He'll be home from fishing any time now."
+ },
+ {
+  "id": "M1#6704",
+  "en": "Until my old man comes home, the loneliness is"
+ },
+ {
+  "id": "M1#6705",
+  "en": "something I'll just have to bear."
+ },
+ {
+  "id": "M1#6706",
+  "en": "By night, I will work for you."
+ },
+ {
+  "id": "M1#6707",
+  "en": "A guest, are you?"
+ },
+ {
+  "id": "M1#6708",
+  "en": "This is the Lion Inn."
+ },
+ {
+  "id": "M1#6709",
+  "en": "My husband died in the epidemic, you see."
+ },
+ {
+  "id": "M1#6710",
+  "en": "So I'm running the inn in his place."
+ },
+ {
+  "id": "M1#6711",
+  "en": "If you're staying, I'll give you a good price."
+ },
+ {
+  "id": "M1#6712",
+  "en": "Well now, I'd best clean the guest rooms."
+ },
+ {
+  "id": "M1#6713",
+  "en": "The Lion Inn started with my softhearted"
+ },
+ {
+  "id": "M1#6714",
+  "en": "husband letting out rooms to folks,"
+ },
+ {
+  "id": "M1#6715",
+  "en": "but as an inn, it paid surprisingly well."
+ },
+ {
+  "id": "M1#6716",
+  "en": "We opened the inn over 30 years ago now."
+ },
+ {
+  "id": "M1#6717",
+  "en": "Just about the time Calstatt began to prosper,",
+  "note": "Msg 275439 uses #6728 (slice 084) in this place: it needs the same wording."
+ },
+ {
+  "id": "M1#6718",
+  "en": "if I remember right.",
+  "note": "Shared: follows #6717 (msg 275231) and #6728 (msg 275439)."
+ },
+ {
+  "id": "M1#6719",
+  "en": "Our guest right now, see, lets out the most",
+  "note": "Guest's gender unknown here (opera singer per #6724). Continues in #6720 (slice 084): 'awful noises at night.'"
+ }
+]

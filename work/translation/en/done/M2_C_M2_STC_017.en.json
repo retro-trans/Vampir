@@ -1,0 +1,337 @@
+[
+ {
+  "id": "M2#1360",
+  "en": "Hmm... There are odd scratches on my arms and legs."
+ },
+ {
+  "id": "M2#1361",
+  "en": "How I got them, I haven't the faintest idea."
+ },
+ {
+  "id": "M2#1362",
+  "en": "Hrm, what's this?! You may not enter uninvited!"
+ },
+ {
+  "id": "M2#1363",
+  "en": "Who are you? Identify yourself!"
+ },
+ {
+  "id": "M2#1364",
+  "en": "I assure you, I am no one suspicious."
+ },
+ {
+  "id": "M2#1365",
+  "en": "Hmph, you don't know me? An outsider, eh?"
+ },
+ {
+  "id": "M2#1366",
+  "en": "A foreigner? Don't go poking around here."
+ },
+ {
+  "id": "M2#1367",
+  "en": "I am Lance, Commander of the British Army."
+ },
+ {
+  "id": "M2#1368",
+  "en": "Oh? That's quite a grand position."
+ },
+ {
+  "id": "M2#1369",
+  "en": "Bah, what an infuriating fellow."
+ },
+ {
+  "id": "M2#1370",
+  "en": "Begone at once!"
+ },
+ {
+  "id": "M2#1371",
+  "en": "You're a foreigner. What do you want here?"
+ },
+ {
+  "id": "M2#1372",
+  "en": "I doubt a spy would march in the front door,"
+ },
+ {
+  "id": "M2#1373",
+  "en": "but I'm obliged to question you all the same."
+ },
+ {
+  "id": "M2#1374",
+  "en": "My apologies."
+ },
+ {
+  "id": "M2#1375",
+  "en": "I feared I'd be a bother, but I was nearby,"
+ },
+ {
+  "id": "M2#1376",
+  "en": "so I thought I'd stop and pay my respects."
+ },
+ {
+  "id": "M2#1377",
+  "en": "I see. Well, I'll let it pass."
+ },
+ {
+  "id": "M2#1378",
+  "en": "But you may not come in here as you please."
+ },
+ {
+  "id": "M2#1379",
+  "en": "Foreigner or not, I'll not let it slide.",
+  "note": "same wording as #1442 (slice 018), same JP"
+ },
+ {
+  "id": "M2#1380",
+  "en": "I shall be more careful from now on, then."
+ },
+ {
+  "id": "M2#1381",
+  "en": "Hey! You can't just come in here."
+ },
+ {
+  "id": "M2#1382",
+  "en": "Grrr, you've barged in uninvited again."
+ },
+ {
+  "id": "M2#1383",
+  "en": "What's a grown man doing drifting about?"
+ },
+ {
+  "id": "M2#1384",
+  "en": "I've no time to chat with outsiders."
+ },
+ {
+  "id": "M2#1385",
+  "en": "What strangely peaceful times we've come to."
+ },
+ {
+  "id": "M2#1386",
+  "en": "Nothing but petty spats and odd incidents,"
+ },
+ {
+  "id": "M2#1387",
+  "en": "and the British Empire's glory has faded.",
+  "note": "same wording as #1444 (slice 018), same JP"
+ },
+ {
+  "id": "M2#1388",
+  "en": "How deplorable",
+  "note": "#152 ... follows: How deplorable..."
+ },
+ {
+  "id": "M2#1389",
+  "en": "Hm, still here? I told you to get out."
+ },
+ {
+  "id": "M2#1390",
+  "en": "Do you want to be shouted out of here?"
+ },
+ {
+  "id": "M2#1391",
+  "en": "Hmph. What a strange foreigner."
+ },
+ {
+  "id": "M2#1392",
+  "en": "I can't fathom what you're thinking at all."
+ },
+ {
+  "id": "M2#1393",
+  "en": "Try anything funny and you'll pay for it."
+ },
+ {
+  "id": "M2#1394",
+  "en": "Ah, how deplorable",
+  "note": "#152 ... follows"
+ },
+ {
+  "id": "M2#1395",
+  "en": "Peace has made the townsfolk soft and lax."
+ },
+ {
+  "id": "M2#1396",
+  "en": "What will become of the Empire at this rate?"
+ },
+ {
+  "id": "M2#1397",
+  "en": "The other great powers will outfox us!"
+ },
+ {
+  "id": "M2#1398",
+  "en": "And odd foreigners like this one roam about."
+ },
+ {
+  "id": "M2#1399",
+  "en": "One day the British Empire shall conquer the world again."
+ },
+ {
+  "id": "M2#1400",
+  "en": "And on that day, I shall lead the charge..."
+ },
+ {
+  "id": "M2#1401",
+  "en": "Hm? Who are you?"
+ },
+ {
+  "id": "M2#1402",
+  "en": "You look suspicious. State your name."
+ },
+ {
+  "id": "M2#1403",
+  "en": "What do you want at this hour?"
+ },
+ {
+  "id": "M2#1404",
+  "en": "I'd like you to answer a survey."
+ },
+ {
+  "id": "M2#1405",
+  "en": "(Off the cuff or not, that was a poor lie.)",
+  "note": "Player thought, parentheses kept; stern register"
+ },
+ {
+  "id": "M2#1406",
+  "en": "Hmph. You're suspicious, just as I thought."
+ },
+ {
+  "id": "M2#1407",
+  "en": "And what good would answering it do?"
+ },
+ {
+  "id": "M2#1408",
+  "en": "In any case, you're a nuisance. Go home."
+ },
+ {
+  "id": "M2#1409",
+  "en": "You heard me tell you to go home, did you not?"
+ },
+ {
+  "id": "M2#1410",
+  "en": "You're that foreigner from before. What is it?"
+ },
+ {
+  "id": "M2#1411",
+  "en": "Another of your phony surveys?"
+ },
+ {
+  "id": "M2#1412",
+  "en": "Can't you make a living without such work?"
+ },
+ {
+  "id": "M2#1413",
+  "en": "And you a man! Ugh, how deplorable."
+ },
+ {
+  "id": "M2#1414",
+  "en": "Again?! That's quite enough."
+ },
+ {
+  "id": "M2#1415",
+  "en": "Have you foreigners no pride at all?"
+ },
+ {
+  "id": "M2#1416",
+  "en": "Hm... it's you."
+ },
+ {
+  "id": "M2#1417",
+  "en": "Well, all right."
+ },
+ {
+  "id": "M2#1418",
+  "en": "I suppose you have your own hardships."
+ },
+ {
+  "id": "M2#1419",
+  "en": "Is life in a foreign land a lonely one?"
+ },
+ {
+  "id": "M2#1420",
+  "en": "Britain is a fine nation, and a mighty one."
+ },
+ {
+  "id": "M2#1421",
+  "en": "It can take in even foreigners like you."
+ },
+ {
+  "id": "M2#1422",
+  "en": "Live in harmony with the people of the city."
+ },
+ {
+  "id": "M2#1423",
+  "en": "At any rate, you're no suspicious character—",
+  "note": "Cut across two rows: em dash at the row end, #1424 continues"
+ },
+ {
+  "id": "M2#1424",
+  "en": "that much even I believe I understand."
+ },
+ {
+  "id": "M2#1425",
+  "en": "Hm",
+  "note": "Shared: Lance msg 50299 (Hm + pauses + ... + ?) and Percy msg 95894 (Hm + #152 ... + #2766)"
+ },
+ {
+  "id": "M2#1426",
+  "en": "Why, you're that foreigner",
+  "note": "#122 ! follows"
+ },
+ {
+  "id": "M2#1427",
+  "en": "Hmph, you pompous man, hiding behind your rank."
+ },
+ {
+  "id": "M2#1428",
+  "en": "Who your true master is,",
+  "note": "Not in used_in: read from SQC bytes @50342 (PLAYER after op D2: #1428 NL #1429 WAIT)"
+ },
+ {
+  "id": "M2#1429",
+  "en": "you'll now learn the hard way.",
+  "note": "Not in used_in: see #1428"
+ },
+ {
+  "id": "M2#1430",
+  "en": "Wh-what did you say",
+  "note": "Not in used_in: SQC @50355 VILLAGER #1430 #122 ! pause NL; gives Wh-what did you say!"
+ },
+ {
+  "id": "M2#1431",
+  "en": "Whoa, ",
+  "note": "Pause follows, then #1432"
+ },
+ {
+  "id": "M2#1432",
+  "en": "what do you think you're doing",
+  "note": "#122 ! follows"
+ },
+ {
+  "id": "M2#1433",
+  "en": "Your power is now in my grasp, hahaha",
+  "note": "#152 ... follows"
+ },
+ {
+  "id": "M2#1434",
+  "en": "Pardon me. I'm no one suspicious."
+ },
+ {
+  "id": "M2#1435",
+  "en": " is my name. And you are...?",
+  "note": "Name starts the line with nothing before it, so: {NAME} is my name."
+ },
+ {
+  "id": "M2#1436",
+  "en": "I see. What a distinguished profession."
+ },
+ {
+  "id": "M2#1437",
+  "en": "Your flattery will get you nowhere with me."
+ },
+ {
+  "id": "M2#1438",
+  "en": "Don't get any funny ideas. Just leave."
+ },
+ {
+  "id": "M2#1439",
+  "en": "Good day, Commander Lance."
+ }
+]

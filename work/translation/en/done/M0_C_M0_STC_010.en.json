@@ -1,0 +1,327 @@
+[
+ {
+  "id": "M0#800",
+  "en": "So that's why you spoke to me."
+ },
+ {
+  "id": "M0#801",
+  "en": "Well, that's about the size of it."
+ },
+ {
+  "id": "M0#802",
+  "en": "And I do some hunting too. Trapping, though."
+ },
+ {
+  "id": "M0#803",
+  "en": "My traps are second to none."
+ },
+ {
+  "id": "M0#804",
+  "en": "My traps will feed you through the winter,",
+  "note": "identical to M0#763 (slice 009) so the shared #764 'with no trouble at all.' works; one line"
+ },
+ {
+  "id": "M0#805",
+  "en": "I see. What a shame."
+ },
+ {
+  "id": "M0#806",
+  "en": "Oh, it's you."
+ },
+ {
+  "id": "M0#807",
+  "en": "Usually I'm out here like this,"
+ },
+ {
+  "id": "M0#808",
+  "en": "keeping watch over the hunting ground."
+ },
+ {
+  "id": "M0#809",
+  "en": "Don't come too near this area"
+ },
+ {
+  "id": "M0#810",
+  "en": "and make trouble for me."
+ },
+ {
+  "id": "M0#811",
+  "en": "Is there something you need?"
+ },
+ {
+  "id": "M0#812",
+  "en": "Yes. Even if I can't really hunt,"
+ },
+ {
+  "id": "M0#813",
+  "en": "I was hoping you could show me"
+ },
+ {
+  "id": "M0#814",
+  "en": "what kind of traps you make."
+ },
+ {
+  "id": "M0#815",
+  "en": "Well, if it's only a short explanation,"
+ },
+ {
+  "id": "M0#816",
+  "en": "I don't mind doing that much."
+ },
+ {
+  "id": "M0#817",
+  "en": "Wonderful. Thank you."
+ },
+ {
+  "id": "M0#818",
+  "en": "My traps, you see,"
+ },
+ {
+  "id": "M0#819",
+  "en": "are set to catch birds, but"
+ },
+ {
+  "id": "M0#820",
+  "en": "now and then even a person gets caught."
+ },
+ {
+  "id": "M0#821",
+  "en": "That's dangerous, so I tell the villagers who go into the hunting ground"
+ },
+ {
+  "id": "M0#822",
+  "en": "where I've set the traps"
+ },
+ {
+  "id": "M0#823",
+  "en": "The poachers don't know about them,"
+ },
+ {
+  "id": "M0#824",
+  "en": "so even if they slip past me and get in,"
+ },
+ {
+  "id": "M0#825",
+  "en": "they walk into a trap and get nabbed."
+ },
+ {
+  "id": "M0#826",
+  "en": "Well, if you're that interested,"
+ },
+ {
+  "id": "M0#827",
+  "en": "next time I go out to set traps,"
+ },
+ {
+  "id": "M0#828",
+  "en": "I don't mind taking you along."
+ },
+ {
+  "id": "M0#829",
+  "en": "Really?"
+ },
+ {
+  "id": "M0#830",
+  "en": "Yes, please. I'd love to."
+ },
+ {
+  "id": "M0#831",
+  "en": "Well, that much I can do."
+ },
+ {
+  "id": "M0#832",
+  "en": "Wait a little longer."
+ },
+ {
+  "id": "M0#833",
+  "en": "There's a right season for setting traps."
+ },
+ {
+  "id": "M0#834",
+  "en": "Then I'll take you along."
+ },
+ {
+  "id": "M0#835",
+  "en": "Osaida",
+  "note": "Osaida + #66 '...'; honorific dropped"
+ },
+ {
+  "id": "M0#836",
+  "en": "I couldn't wait, so here I am."
+ },
+ {
+  "id": "M0#837",
+  "en": "It's urgent business..."
+ },
+ {
+  "id": "M0#838",
+  "en": "I want you to take me right away."
+ },
+ {
+  "id": "M0#839",
+  "en": "Aaaaaagh",
+  "note": "scream; #66 '...' appended"
+ },
+ {
+  "id": "M0#840",
+  "en": "Well then, Osaida."
+ },
+ {
+  "id": "M0#841",
+  "en": "I'll be counting on you."
+ },
+ {
+  "id": "M0#842",
+  "en": "Yes."
+ },
+ {
+  "id": "M0#843",
+  "en": "What should I do?"
+ },
+ {
+  "id": "M0#844",
+  "en": "Morning. You're up early."
+ },
+ {
+  "id": "M0#845",
+  "en": "Morning. Early again today."
+ },
+ {
+  "id": "M0#846",
+  "en": "Morning. You're always up early."
+ },
+ {
+  "id": "M0#847",
+  "en": "Well, hello there."
+ },
+ {
+  "id": "M0#848",
+  "en": "I'm on my way home now."
+ },
+ {
+  "id": "M0#849",
+  "en": "I'm heading home now. Care to come along?",
+  "note": "msg 38043 continues with #887 (slice 011): 849 is 2 lines, so #887 must stay 1 line (e.g. 'Why don't you join me for dinner?')"
+ },
+ {
+  "id": "M0#850",
+  "en": "If you like, let's have dinner together."
+ },
+ {
+  "id": "M0#851",
+  "en": "This is the house of me and my brother Vent."
+ },
+ {
+  "id": "M0#852",
+  "en": "I'm not much of a talker,"
+ },
+ {
+  "id": "M0#853",
+  "en": "so if you want to chat, ask Vent."
+ },
+ {
+  "id": "M0#854",
+  "en": "It's nice to have a home where you can relax."
+ },
+ {
+  "id": "M0#855",
+  "en": "Obvious, I know, but I think so now and then."
+ },
+ {
+  "id": "M0#856",
+  "en": "I'm about to eat."
+ },
+ {
+  "id": "M0#857",
+  "en": "Hey. Glad you came."
+ },
+ {
+  "id": "M0#858",
+  "en": "Stay and eat with me."
+ },
+ {
+  "id": "M0#859",
+  "en": "Come by again any time."
+ },
+ {
+  "id": "M0#860",
+  "en": "I'm Jus, a carpenter."
+ },
+ {
+  "id": "M0#861",
+  "en": "I make furniture and the like."
+ },
+ {
+  "id": "M0#862",
+  "en": "Ah, pleased to meet you."
+ },
+ {
+  "id": "M0#863",
+  "en": "And you, friend? What's your name?"
+ },
+ {
+  "id": "M0#864",
+  "en": "Me?",
+  "note": "'Me?' then name on next line + #8 '.'"
+ },
+ {
+  "id": "M0#865",
+  "en": "If you want something made,"
+ },
+ {
+  "id": "M0#866",
+  "en": "wait a bit and come back later."
+ },
+ {
+  "id": "M0#867",
+  "en": "You wouldn't be thinking of trying"
+ },
+ {
+  "id": "M0#868",
+  "en": "your hand at carpentry, would you?"
+ },
+ {
+  "id": "M0#869",
+  "en": "If you'd help me out,"
+ },
+ {
+  "id": "M0#870",
+  "en": "you'd be welcome, mind you."
+ },
+ {
+  "id": "M0#871",
+  "en": "The furniture around here,"
+ },
+ {
+  "id": "M0#872",
+  "en": "most of it was made by me or my father,"
+ },
+ {
+  "id": "M0#873",
+  "en": "or at least fixed up by one of us."
+ },
+ {
+  "id": "M0#874",
+  "en": "Plenty of what my grandfather made"
+ },
+ {
+  "id": "M0#875",
+  "en": "is still around, too."
+ },
+ {
+  "id": "M0#876",
+  "en": "My brother Vent chops the wood for me."
+ },
+ {
+  "id": "M0#877",
+  "en": "Neither Vent nor I has a wife yet,"
+ },
+ {
+  "id": "M0#878",
+  "en": "so we live together."
+ },
+ {
+  "id": "M0#879",
+  "en": "Come by our place, if you like."
+ }
+]

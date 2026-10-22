@@ -1,0 +1,330 @@
+[
+ {
+  "id": "M0#1200",
+  "en": "The only catch I've had sitting here,"
+ },
+ {
+  "id": "M0#1201",
+  "en": "is you, I suppose."
+ },
+ {
+  "id": "M0#1202",
+  "en": "So I was hooked by you,"
+ },
+ {
+  "id": "M0#1203",
+  "en": "is that what you mean?"
+ },
+ {
+  "id": "M0#1204",
+  "en": "No, perhaps I'm the one who got reeled in,"
+ },
+ {
+  "id": "M0#1205",
+  "en": "for all I know..."
+ },
+ {
+  "id": "M0#1206",
+  "en": "Fishing sure is fun."
+ },
+ {
+  "id": "M0#1207",
+  "en": "Just as I thought."
+ },
+ {
+  "id": "M0#1208",
+  "en": "I always did think you weren't like other folk."
+ },
+ {
+  "id": "M0#1209",
+  "en": "Were you awake?"
+ },
+ {
+  "id": "M0#1210",
+  "en": "No, I just sleep lightly."
+ },
+ {
+  "id": "M0#1211",
+  "en": "It was a fluke."
+ },
+ {
+  "id": "M0#1212",
+  "en": "I see. And supposing it is so, what will you do?"
+ },
+ {
+  "id": "M0#1213",
+  "en": "Nothing at all."
+ },
+ {
+  "id": "M0#1214",
+  "en": "Do whatever you like."
+ },
+ {
+  "id": "M0#1215",
+  "en": "That is a good attitude."
+ },
+ {
+  "id": "M0#1216",
+  "en": "You're... oh, no, never mind."
+ },
+ {
+  "id": "M0#1217",
+  "en": "You can catch fish at the lake, you see."
+ },
+ {
+  "id": "M0#1218",
+  "en": "That's why I go to the lake, you see."
+ },
+ {
+  "id": "M0#1219",
+  "en": "May I ask what you are doing?"
+ },
+ {
+  "id": "M0#1220",
+  "en": "Fishing?"
+ },
+ {
+  "id": "M0#1221",
+  "en": "But you don't seem to have a rod or a line..."
+ },
+ {
+  "id": "M0#1222",
+  "en": "You can catch fish here."
+ },
+ {
+  "id": "M0#1223",
+  "en": "Aren't you fishing?"
+ },
+ {
+  "id": "M0#1224",
+  "en": "Even though you have no rod or line?"
+ },
+ {
+  "id": "M0#1225",
+  "en": "Oh, come to think of it, I had a name like Otti",
+  "note": "'I had a name like Otti' split at the row boundary; 'Otti' kept as the in-text name"
+ },
+ {
+  "id": "M0#1226",
+  "en": "or some such, didn't I?"
+ },
+ {
+  "id": "M0#1227",
+  "en": "Yet I'm just an old man who loves fishing."
+ },
+ {
+  "id": "M0#1228",
+  "en": "Fishing again today?"
+ },
+ {
+  "id": "M0#1229",
+  "en": "The truth is, my rod,"
+ },
+ {
+  "id": "M0#1230",
+  "en": "see, it's floating over there."
+ },
+ {
+  "id": "M0#1231",
+  "en": "Did you drop your rod in the lake?",
+  "note": "unused in this slice; polite form of #1197"
+ },
+ {
+  "id": "M0#1232",
+  "en": "Me?"
+ },
+ {
+  "id": "M0#1233",
+  "en": "Fishing is a joy."
+ },
+ {
+  "id": "M0#1234",
+  "en": "Katusa, you're working the fields again",
+  "note": "honorific dropped; trails off into #66 '...' and #437 '.'"
+ },
+ {
+  "id": "M0#1235",
+  "en": "Please give me your orders"
+ },
+ {
+  "id": "M0#1236",
+  "en": "Give me your orders"
+ },
+ {
+  "id": "M0#1237",
+  "en": "Oh...",
+  "note": "shared Katusa/Emmy; neutral 'Oh...'"
+ },
+ {
+  "id": "M0#1238",
+  "en": "You need something?"
+ },
+ {
+  "id": "M0#1239",
+  "en": "Oh, mornin'."
+ },
+ {
+  "id": "M0#1240",
+  "en": "I'm just headin' out to the fields now."
+ },
+ {
+  "id": "M0#1241",
+  "en": ", mornin'.",
+  "note": "follows {PLAYER_NAME}, san dropped"
+ },
+ {
+  "id": "M0#1242",
+  "en": "Looks like another fine day."
+ },
+ {
+  "id": "M0#1243",
+  "en": "Hi..."
+ },
+ {
+  "id": "M0#1244",
+  "en": "Afternoon."
+ },
+ {
+  "id": "M0#1245",
+  "en": "I'm just headin' home now. Excuse me."
+ },
+ {
+  "id": "M0#1246",
+  "en": "It'll be dark soon, so you'd best get home quick too."
+ },
+ {
+  "id": "M0#1247",
+  "en": ", good evening.",
+  "note": "follows 'Hey, ' + {PLAYER_NAME} (Katusa msg 58161/58560 and Miltia #1885)"
+ },
+ {
+  "id": "M0#1248",
+  "en": "Come by my place sometime. Let's eat together."
+ },
+ {
+  "id": "M0#1249",
+  "en": "Well, hello.",
+  "note": "shared Katusa/Emmy; 'Well, hello.' works for both"
+ },
+ {
+  "id": "M0#1250",
+  "en": "Haven't seen you around before."
+ },
+ {
+  "id": "M0#1251",
+  "en": "Best not wander about too much, I'd say."
+ },
+ {
+  "id": "M0#1252",
+  "en": "Well, what's this about?",
+  "note": "Row begins with the topic particle but no name precedes it in msg 58203; rendered as a standalone question"
+ },
+ {
+  "id": "M0#1253",
+  "en": "Oh, it's you."
+ },
+ {
+  "id": "M0#1254",
+  "en": "If you've got somethin' to say, I'll hear it later,"
+ },
+ {
+  "id": "M0#1255",
+  "en": "so quit followin' me all the way to my house."
+ },
+ {
+  "id": "M0#1256",
+  "en": "I live with my wife and kid, you know."
+ },
+ {
+  "id": "M0#1257",
+  "en": "And you, instead of comin' round here,"
+ },
+ {
+  "id": "M0#1258",
+  "en": "wouldn't you do better to go home?"
+ },
+ {
+  "id": "M0#1259",
+  "en": "Glad you came. Want to stay for a meal?"
+ },
+ {
+  "id": "M0#1260",
+  "en": "Ain't much, though."
+ },
+ {
+  "id": "M0#1261",
+  "en": "Come again."
+ },
+ {
+  "id": "M0#1262",
+  "en": "There's always a meal for you."
+ },
+ {
+  "id": "M0#1263",
+  "en": "What're you doin' there?"
+ },
+ {
+  "id": "M0#1264",
+  "en": "Is watchin' farm work any fun?"
+ },
+ {
+  "id": "M0#1265",
+  "en": "You interested in farm work?"
+ },
+ {
+  "id": "M0#1266",
+  "en": "Or are you interested in me?"
+ },
+ {
+  "id": "M0#1267",
+  "en": "Don't come in too far, now."
+ },
+ {
+  "id": "M0#1268",
+  "en": "This is an important time, y'know."
+ },
+ {
+  "id": "M0#1269",
+  "en": "Is farm work that unusual to you?"
+ },
+ {
+  "id": "M0#1270",
+  "en": "It's harvest time right now,"
+ },
+ {
+  "id": "M0#1271",
+  "en": "but other times it's much plainer work."
+ },
+ {
+  "id": "M0#1272",
+  "en": "Around here,"
+ },
+ {
+  "id": "M0#1273",
+  "en": "we grow wheat and corn."
+ },
+ {
+  "id": "M0#1274",
+  "en": "Instead of just watchin',"
+ },
+ {
+  "id": "M0#1275",
+  "en": "why not try some reapin' yourself?"
+ },
+ {
+  "id": "M0#1276",
+  "en": "Y'see, when it comes to this village's food,"
+ },
+ {
+  "id": "M0#1277",
+  "en": "I'm involved in just about all of it."
+ },
+ {
+  "id": "M0#1278",
+  "en": "Ah... mornin'."
+ },
+ {
+  "id": "M0#1279",
+  "en": "I'm just headin' out to the fields."
+ }
+]

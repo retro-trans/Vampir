@@ -1,0 +1,132 @@
+{
+ "slice": "M0_C_M0A_BIN_001",
+ "file": "M0_C_M0A.BIN",
+ "rows": [
+  {
+   "id": "M0A.BIN@BC4"
+  },
+  {
+   "id": "M0A.BIN@BB8"
+  },
+  {
+   "id": "M0A.BIN@B98"
+  },
+  {
+   "id": "M0A.BIN@B7C"
+  },
+  {
+   "id": "M0A.BIN@B58"
+  },
+  {
+   "id": "M0A.BIN@B44"
+  },
+  {
+   "id": "M0A.BIN@B30"
+  },
+  {
+   "id": "M0A.BIN@B00"
+  },
+  {
+   "id": "M0A.BIN@ADC"
+  },
+  {
+   "id": "M0A.BIN@ABC"
+  },
+  {
+   "id": "M0A.BIN@A98"
+  },
+  {
+   "id": "M0A.BIN@A70"
+  },
+  {
+   "id": "M0A.BIN@A4C"
+  },
+  {
+   "id": "M0A.BIN@A38"
+  },
+  {
+   "id": "M0A.BIN@A24"
+  },
+  {
+   "id": "M0A.BIN@9FC"
+  },
+  {
+   "id": "M0A.BIN@9E0"
+  },
+  {
+   "id": "M0A.BIN@9B8"
+  },
+  {
+   "id": "M0A.BIN@994"
+  },
+  {
+   "id": "M0A.BIN@970"
+  },
+  {
+   "id": "M0A.BIN@968"
+  },
+  {
+   "id": "M0A.BIN@940"
+  },
+  {
+   "id": "M0A.BIN@928"
+  },
+  {
+   "id": "M0A.BIN@918"
+  },
+  {
+   "id": "M0A.BIN@8F8"
+  },
+  {
+   "id": "M0A.BIN@8EC"
+  },
+  {
+   "id": "M0A.BIN@8D0"
+  },
+  {
+   "id": "M0A.BIN@8B0"
+  },
+  {
+   "id": "M0A.BIN@890"
+  },
+  {
+   "id": "M0A.BIN@870"
+  },
+  {
+   "id": "M0A.BIN@4"
+  }
+ ],
+ "before": [
+  {
+   "id": "M0A.BIN@C9C"
+  },
+  {
+   "id": "M0A.BIN@C78"
+  },
+  {
+   "id": "M0A.BIN@C64"
+  },
+  {
+   "id": "M0A.BIN@C54"
+  },
+  {
+   "id": "M0A.BIN@C48"
+  },
+  {
+   "id": "M0A.BIN@C34"
+  },
+  {
+   "id": "M0A.BIN@C10"
+  },
+  {
+   "id": "M0A.BIN@BFC"
+  },
+  {
+   "id": "M0A.BIN@BF0"
+  },
+  {
+   "id": "M0A.BIN@BE4"
+  }
+ ],
+ "after": []
+}

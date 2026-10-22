@@ -1,0 +1,43 @@
+[
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3608",
+  "en": "For the dinner you reserved,",
+  "why": "msg 137054 (only use): the box already opens with \"{N}, sir.\"; \"sir\" twice in a row dropped (shorter)"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3800",
+  "en": "Oho",
+  "why": "msg 148344 (only use): three #265 \".\" pause dots follow, so \"Oho.\" printed four dots"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#5477",
+  "variants": [
+   {
+    "msg": 296103,
+    "en": " is my name."
+   }
+  ],
+  "why": "msg 296103: nothing before the name says \"I'm\", so \"{N}.\" stood alone on its line; now \"{N} is my name.\" (report 094 request; #5477 is a Part B row, so the fix lives here, not in #7578)"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#5952",
+  "en": "mansion for good, but...",
+  "why": "msgs 242286/242775: the box ended on a bare \"but\"; the sentence carries on in the next box (#5953)"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#6552",
+  "en": "and puts his socks on inside out!",
+  "why": "msgs 263077/263895: the box ended with a comma; the next box starts a new sentence (\"Honestly, I'm not his nursemaid...\")"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#6801",
+  "en": "N-nooooo...",
+  "why": "msg 271338 (only use): five dots shortened to the standard ellipsis (shorter)"
+ }
+]

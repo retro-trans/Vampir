@@ -1,0 +1,881 @@
+[
+ {
+  "id": "PR0.BIN@718",
+  "off": 1816,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148331120
+   ]
+  ],
+  "idx": 0,
+  "en": "So this is the villa in Medoekia",
+  "note": "Christopher (speaker byte 12 = player). Script: 718+710+70C on one line, then wait.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@710",
+  "off": 1808,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148331124
+   ]
+  ],
+  "idx": 1,
+  "en": "...",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@70C",
+  "off": 1804,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148331128
+   ]
+  ],
+  "idx": 2,
+  "en": ".",
+  "note": "Gives '....' (ellipsis + period), same as the OPN '...' + '.' precedent.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@6EC",
+  "off": 1772,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148331132
+   ]
+  ],
+  "idx": 3,
+  "en": "I'd heard it was an old building, but",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@6C4",
+  "off": 1732,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148331136
+   ]
+  ],
+  "idx": 4,
+  "en": "I never imagined it would be this run-down.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@698",
+  "off": 1688,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148331140
+   ]
+  ],
+  "idx": 5,
+  "en": "This is the villa our Eisen clan uses",
+  "note": "Rusalie (speaker byte 11) from here to @16C, except @3EC/@3C4 and Sistina's @360-@2C4.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@67C",
+  "off": 1660,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148331144
+   ]
+  ],
+  "idx": 6,
+  "en": "when bringing humans to the castle.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@660",
+  "off": 1632,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148331148
+   ]
+  ],
+  "idx": 7,
+  "en": "You can use this place as your base.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@638",
+  "off": 1592,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148331152
+   ]
+  ],
+  "idx": 8,
+  "en": "During the day, no one can easily tell we're",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@618",
+  "off": 1560,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148331156
+   ]
+  ],
+  "idx": 9,
+  "en": "Vampir just by looking at us.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@5EC",
+  "off": 1516,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148331160
+   ]
+  ],
+  "idx": 10,
+  "en": "That's why, in the daytime, we can act",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@5E0",
+  "off": 1504,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148331164
+   ]
+  ],
+  "idx": 11,
+  "en": "just like humans.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@5B4",
+  "off": 1460,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148331168
+   ]
+  ],
+  "idx": 12,
+  "en": "Talk to all kinds of people, and learn",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@590",
+  "off": 1424,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148331172
+   ]
+  ],
+  "idx": 13,
+  "en": "what sort of lives the villagers lead.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@564",
+  "off": 1380,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148331176
+   ]
+  ],
+  "idx": 14,
+  "en": "From how people live and work, you can tell",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@53C",
+  "off": 1340,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148331180
+   ]
+  ],
+  "idx": 15,
+  "en": "if they're strong or well respected.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@510",
+  "off": 1296,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148331184
+   ]
+  ],
+  "idx": 16,
+  "en": "Befriending villagers also changes",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@4FC",
+  "off": 1276,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148331188
+   ]
+  ],
+  "idx": 17,
+  "en": "the effect of drinking blood, so vital to us.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@4D4",
+  "off": 1236,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148331192
+   ]
+  ],
+  "idx": 18,
+  "en": "When we drink blood at night, the effect",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@4A8",
+  "off": 1192,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148331196
+   ]
+  ],
+  "idx": 19,
+  "en": "depends on how close our victim is to us.",
+  "note": "No newline between @4A8 and @480 in the script: both print on this line and wrap; measured as 3 lines in total.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@480",
+  "off": 1152,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148331200
+   ]
+  ],
+  "idx": 20,
+  "en": " The closer they are, the greater the effect.",
+  "note": "Leading space: printed right after @4A8 on the same line (no newline opcode).",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@474",
+  "off": 1140,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148331204
+   ]
+  ],
+  "idx": 21,
+  "en": "...",
+  "note": "Script prints the partner name (opcode 19 = Duran) before this row: '{PARTNER_NAME}...'. Trailing 、 dropped because the box is cleared before the next sentence.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@448",
+  "off": 1096,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148331208
+   ]
+  ],
+  "idx": 22,
+  "en": "The Vampir you must defeat has been sealed",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@41C",
+  "off": 1052,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148331212
+   ]
+  ],
+  "idx": 23,
+  "en": "in a tower for a long time, so at first",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@3F4",
+  "off": 1012,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148331216
+   ]
+  ],
+  "idx": 24,
+  "en": "he shouldn't be able to act freely by day.",
+  "note": "'he' = Duran (named in @474 message; male per glossary).",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@3EC",
+  "off": 1004,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148331220
+   ]
+  ],
+  "idx": 25,
+  "en": ", huh.",
+  "note": "Christopher; partner-name opcode (Duran) precedes: '{PARTNER_NAME}, huh.'",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@3C4",
+  "off": 964,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148331224
+   ]
+  ],
+  "idx": 26,
+  "en": "I wonder what kind of Vampir he is...",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@398",
+  "off": 920,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148331228
+   ]
+  ],
+  "idx": 27,
+  "en": "...Lastly, let me introduce you to",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@388",
+  "off": 904,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148331232
+   ]
+  ],
+  "idx": 28,
+  "en": "your new partner.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@370",
+  "off": 880,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148331236
+   ]
+  ],
+  "idx": 29,
+  "en": "Come, Sistina.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@360",
+  "off": 864,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148331240
+   ]
+  ],
+  "idx": 30,
+  "en": "How do you do, Master ",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@358",
+  "off": 856,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148331244
+   ]
+  ],
+  "idx": 31,
+  "en": ".",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@330",
+  "off": 816,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148331248
+   ]
+  ],
+  "idx": 32,
+  "en": "Lord Ragash has ordered me to serve you.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@314",
+  "off": 788,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148331252
+   ]
+  ],
+  "idx": 33,
+  "en": "My name is Sistina.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@2EC",
+  "off": 748,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148331256
+   ]
+  ],
+  "idx": 34,
+  "en": "I shall mainly be gathering information",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@2DC",
+  "off": 732,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148331260
+   ]
+  ],
+  "idx": 35,
+  "en": "for you at night.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@2C4",
+  "off": 708,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148331264
+   ]
+  ],
+  "idx": 36,
+  "en": "I look forward to serving you.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@29C",
+  "off": 668,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148331268
+   ]
+  ],
+  "idx": 37,
+  "en": "Sistina will always report to you on the",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@270",
+  "off": 624,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148331272
+   ]
+  ],
+  "idx": 38,
+  "en": "familiars you summon at night and those",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@25C",
+  "off": 604,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148331276
+   ]
+  ],
+  "idx": 39,
+  "en": "you've made your servants.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@234",
+  "off": 564,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148331280
+   ]
+  ],
+  "idx": 40,
+  "en": "Unlike the familiars you summon for a time,",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@208",
+  "off": 520,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148331284
+   ]
+  ],
+  "idx": 41,
+  "en": "she's a fine one, raised with us in Eisen,",
+  "note": "'she' = Sistina (female per glossary).",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@1E8",
+  "off": 488,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148331288
+   ]
+  ],
+  "idx": 42,
+  "en": "so I'm sure she'll be a great help to you.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@1C0",
+  "off": 448,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148331292
+   ]
+  ],
+  "idx": 43,
+  "en": "I'll be staying here at this villa, too,",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@1B4",
+  "off": 436,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148331296
+   ]
+  ],
+  "idx": 44,
+  "en": "for a while.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@190",
+  "off": 400,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148331300
+   ]
+  ],
+  "idx": 45,
+  "en": "When it comes to what you should do next,",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@16C",
+  "off": 364,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148331304
+   ]
+  ],
+  "idx": 46,
+  "en": "I think I can give you all kinds of advice.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@14C",
+  "off": 332,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148331308
+   ]
+  ],
+  "idx": 47,
+  "en": "I summoned a patent agent named Jonathan,",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@128",
+  "off": 296,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148331312
+   ]
+  ],
+  "idx": 48,
+  "en": "and at last succeeded in breaking the seal.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@104",
+  "off": 260,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148331316
+   ]
+  ],
+  "idx": 49,
+  "en": "To hear the fellow tell it, in Europe's west,",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@E8",
+  "off": 232,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148331320
+   ]
+  ],
+  "idx": 50,
+  "en": "London, in the British Empire, now stands",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@C4",
+  "off": 196,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148331324
+   ]
+  ],
+  "idx": 51,
+  "en": "at the very summit of the world's prosperity.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@A4",
+  "off": 164,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148331328
+   ]
+  ],
+  "idx": 52,
+  "en": "I went to the trouble of buying an estate,",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@8C",
+  "off": 140,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148331332
+   ]
+  ],
+  "idx": 53,
+  "en": "so I shall fill this British Empire of theirs",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@68",
+  "off": 104,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148331336
+   ]
+  ],
+  "idx": 54,
+  "en": "with terror and chaos...",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@4C",
+  "off": 76,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148331340
+   ]
+  ],
+  "idx": 55,
+  "en": "But first, on the human rabble hereabouts,",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@2C",
+  "off": 44,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148331344
+   ]
+  ],
+  "idx": 56,
+  "en": "I think I shall slake my thirst for blood.",
+  "done": true
+ },
+ {
+  "id": "PR0.BIN@4",
+  "off": 4,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148331348
+   ]
+  ],
+  "idx": 57,
+  "en": "So that I may grasp great power once more...",
+  "done": true
+ }
+]

@@ -1,0 +1,608 @@
+{
+ "slice": "M2_C_M2_STC_labels",
+ "file": "M2_C_M2.STC",
+ "rows": [
+  {
+   "id": "M2/name0"
+  },
+  {
+   "id": "M2/job0"
+  },
+  {
+   "id": "M2/name1"
+  },
+  {
+   "id": "M2/job1"
+  },
+  {
+   "id": "M2/name2"
+  },
+  {
+   "id": "M2/job2"
+  },
+  {
+   "id": "M2/name3"
+  },
+  {
+   "id": "M2/job3"
+  },
+  {
+   "id": "M2/name4"
+  },
+  {
+   "id": "M2/job4"
+  },
+  {
+   "id": "M2/name5"
+  },
+  {
+   "id": "M2/job5"
+  },
+  {
+   "id": "M2/name6"
+  },
+  {
+   "id": "M2/job6"
+  },
+  {
+   "id": "M2/name7"
+  },
+  {
+   "id": "M2/job7"
+  },
+  {
+   "id": "M2/name8"
+  },
+  {
+   "id": "M2/job8"
+  },
+  {
+   "id": "M2/name9"
+  },
+  {
+   "id": "M2/job9"
+  },
+  {
+   "id": "M2/name10"
+  },
+  {
+   "id": "M2/job10"
+  },
+  {
+   "id": "M2/name11"
+  },
+  {
+   "id": "M2/job11"
+  },
+  {
+   "id": "M2/name12"
+  },
+  {
+   "id": "M2/job12"
+  },
+  {
+   "id": "M2/name13"
+  },
+  {
+   "id": "M2/job13"
+  },
+  {
+   "id": "M2/name14"
+  },
+  {
+   "id": "M2/job14"
+  },
+  {
+   "id": "M2/name15"
+  },
+  {
+   "id": "M2/job15"
+  },
+  {
+   "id": "M2/name16"
+  },
+  {
+   "id": "M2/job16"
+  },
+  {
+   "id": "M2/name17"
+  },
+  {
+   "id": "M2/job17"
+  },
+  {
+   "id": "M2/name18"
+  },
+  {
+   "id": "M2/job18"
+  },
+  {
+   "id": "M2/name19"
+  },
+  {
+   "id": "M2/job19"
+  },
+  {
+   "id": "M2/name20"
+  },
+  {
+   "id": "M2/job20"
+  },
+  {
+   "id": "M2/name21"
+  },
+  {
+   "id": "M2/job21"
+  },
+  {
+   "id": "M2/name22"
+  },
+  {
+   "id": "M2/job22"
+  },
+  {
+   "id": "M2/name23"
+  },
+  {
+   "id": "M2/job23"
+  },
+  {
+   "id": "M2/name24"
+  },
+  {
+   "id": "M2/job24"
+  },
+  {
+   "id": "M2/name25"
+  },
+  {
+   "id": "M2/job25"
+  },
+  {
+   "id": "M2/name26"
+  },
+  {
+   "id": "M2/job26"
+  },
+  {
+   "id": "M2/name27"
+  },
+  {
+   "id": "M2/job27"
+  },
+  {
+   "id": "M2/name28"
+  },
+  {
+   "id": "M2/job28"
+  },
+  {
+   "id": "M2/name29"
+  },
+  {
+   "id": "M2/job29"
+  },
+  {
+   "id": "M2/name30"
+  },
+  {
+   "id": "M2/job30"
+  },
+  {
+   "id": "M2/name31"
+  },
+  {
+   "id": "M2/job31"
+  },
+  {
+   "id": "M2/name32"
+  },
+  {
+   "id": "M2/job32"
+  },
+  {
+   "id": "M2/name33"
+  },
+  {
+   "id": "M2/job33"
+  },
+  {
+   "id": "M2/name34"
+  },
+  {
+   "id": "M2/job34"
+  },
+  {
+   "id": "M2/name35"
+  },
+  {
+   "id": "M2/job35"
+  },
+  {
+   "id": "M2/name36"
+  },
+  {
+   "id": "M2/job36"
+  },
+  {
+   "id": "M2/name37"
+  },
+  {
+   "id": "M2/job37"
+  },
+  {
+   "id": "M2/name38"
+  },
+  {
+   "id": "M2/job38"
+  },
+  {
+   "id": "M2/name39"
+  },
+  {
+   "id": "M2/job39"
+  },
+  {
+   "id": "M2/name40"
+  },
+  {
+   "id": "M2/job40"
+  },
+  {
+   "id": "M2/name41"
+  },
+  {
+   "id": "M2/job41"
+  },
+  {
+   "id": "M2/name42"
+  },
+  {
+   "id": "M2/job42"
+  },
+  {
+   "id": "M2/name43"
+  },
+  {
+   "id": "M2/job43"
+  },
+  {
+   "id": "M2/name44"
+  },
+  {
+   "id": "M2/job44"
+  },
+  {
+   "id": "M2/name45"
+  },
+  {
+   "id": "M2/job45"
+  },
+  {
+   "id": "M2/name46"
+  },
+  {
+   "id": "M2/job46"
+  },
+  {
+   "id": "M2/name47"
+  },
+  {
+   "id": "M2/job47"
+  },
+  {
+   "id": "M2/name48"
+  },
+  {
+   "id": "M2/job48"
+  },
+  {
+   "id": "M2/name49"
+  },
+  {
+   "id": "M2/job49"
+  },
+  {
+   "id": "M2/name50"
+  },
+  {
+   "id": "M2/job50"
+  },
+  {
+   "id": "M2/name51"
+  },
+  {
+   "id": "M2/job51"
+  },
+  {
+   "id": "M2/name52"
+  },
+  {
+   "id": "M2/job52"
+  },
+  {
+   "id": "M2/name53"
+  },
+  {
+   "id": "M2/job53"
+  },
+  {
+   "id": "M2/name54"
+  },
+  {
+   "id": "M2/job54"
+  },
+  {
+   "id": "M2/name55"
+  },
+  {
+   "id": "M2/job55"
+  },
+  {
+   "id": "M2/name56"
+  },
+  {
+   "id": "M2/job56"
+  },
+  {
+   "id": "M2/name57"
+  },
+  {
+   "id": "M2/job57"
+  },
+  {
+   "id": "M2/name58"
+  },
+  {
+   "id": "M2/job58"
+  },
+  {
+   "id": "M2/name59"
+  },
+  {
+   "id": "M2/job59"
+  },
+  {
+   "id": "M2/name60"
+  },
+  {
+   "id": "M2/job60"
+  },
+  {
+   "id": "M2/name61"
+  },
+  {
+   "id": "M2/job61"
+  },
+  {
+   "id": "M2/name62"
+  },
+  {
+   "id": "M2/job62"
+  },
+  {
+   "id": "M2/name63"
+  },
+  {
+   "id": "M2/job63"
+  },
+  {
+   "id": "M2/name64"
+  },
+  {
+   "id": "M2/job64"
+  },
+  {
+   "id": "M2/name65"
+  },
+  {
+   "id": "M2/job65"
+  },
+  {
+   "id": "M2/name66"
+  },
+  {
+   "id": "M2/job66"
+  },
+  {
+   "id": "M2/name67"
+  },
+  {
+   "id": "M2/job67"
+  },
+  {
+   "id": "M2/name68"
+  },
+  {
+   "id": "M2/job68"
+  },
+  {
+   "id": "M2/name69"
+  },
+  {
+   "id": "M2/job69"
+  },
+  {
+   "id": "M2/name70"
+  },
+  {
+   "id": "M2/job70"
+  },
+  {
+   "id": "M2/name71"
+  },
+  {
+   "id": "M2/job71"
+  },
+  {
+   "id": "M2/name72"
+  },
+  {
+   "id": "M2/job72"
+  },
+  {
+   "id": "M2/name73"
+  },
+  {
+   "id": "M2/job73"
+  },
+  {
+   "id": "M2/name74"
+  },
+  {
+   "id": "M2/job74"
+  },
+  {
+   "id": "M2/name75"
+  },
+  {
+   "id": "M2/job75"
+  },
+  {
+   "id": "M2/name76"
+  },
+  {
+   "id": "M2/job76"
+  },
+  {
+   "id": "M2/name77"
+  },
+  {
+   "id": "M2/job77"
+  },
+  {
+   "id": "M2/name78"
+  },
+  {
+   "id": "M2/job78"
+  },
+  {
+   "id": "M2/name79"
+  },
+  {
+   "id": "M2/job79"
+  },
+  {
+   "id": "M2/name80"
+  },
+  {
+   "id": "M2/job80"
+  },
+  {
+   "id": "M2/name81"
+  },
+  {
+   "id": "M2/job81"
+  },
+  {
+   "id": "M2/name82"
+  },
+  {
+   "id": "M2/job82"
+  },
+  {
+   "id": "M2/name83"
+  },
+  {
+   "id": "M2/job83"
+  },
+  {
+   "id": "M2/name84"
+  },
+  {
+   "id": "M2/job84"
+  },
+  {
+   "id": "M2/name85"
+  },
+  {
+   "id": "M2/job85"
+  },
+  {
+   "id": "M2/name86"
+  },
+  {
+   "id": "M2/job86"
+  },
+  {
+   "id": "M2/name87"
+  },
+  {
+   "id": "M2/job87"
+  },
+  {
+   "id": "M2/name88"
+  },
+  {
+   "id": "M2/job88"
+  },
+  {
+   "id": "M2/name89"
+  },
+  {
+   "id": "M2/job89"
+  },
+  {
+   "id": "M2/name90"
+  },
+  {
+   "id": "M2/job90"
+  },
+  {
+   "id": "M2/name91"
+  },
+  {
+   "id": "M2/job91"
+  },
+  {
+   "id": "M2/name92"
+  },
+  {
+   "id": "M2/job92"
+  },
+  {
+   "id": "M2/name93"
+  },
+  {
+   "id": "M2/job93"
+  },
+  {
+   "id": "M2/name94"
+  },
+  {
+   "id": "M2/job94"
+  },
+  {
+   "id": "M2/name95"
+  },
+  {
+   "id": "M2/job95"
+  },
+  {
+   "id": "M2/name96"
+  },
+  {
+   "id": "M2/job96"
+  },
+  {
+   "id": "M2/name97"
+  },
+  {
+   "id": "M2/job97"
+  },
+  {
+   "id": "M2/name98"
+  },
+  {
+   "id": "M2/job98"
+  },
+  {
+   "id": "M2/name99"
+  },
+  {
+   "id": "M2/job99"
+  }
+ ],
+ "before": [],
+ "after": []
+}

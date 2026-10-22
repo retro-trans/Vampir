@@ -1,0 +1,326 @@
+[
+ {
+  "id": "M1#3040",
+  "en": "Hang on a little longer, would you?"
+ },
+ {
+  "id": "M1#3041",
+  "en": "I'm getting the place ready right now."
+ },
+ {
+  "id": "M1#3042",
+  "en": "Wait right there, would you?"
+ },
+ {
+  "id": "M1#3043",
+  "en": "It's still too early to open."
+ },
+ {
+  "id": "M1#3044",
+  "en": "Just wait a bit longer."
+ },
+ {
+  "id": "M1#3045",
+  "en": "Not often a customer turns up this early."
+ },
+ {
+  "id": "M1#3046",
+  "en": "Hey there, "
+ },
+ {
+  "id": "M1#3047",
+  "en": "I'll be opening up soon, so"
+ },
+ {
+  "id": "M1#3048",
+  "en": "hang on a bit, okay?"
+ },
+ {
+  "id": "M1#3049",
+  "en": "Maybe I should just open earlier, then."
+ },
+ {
+  "id": "M1#3050",
+  "en": "This is the Kaiser pub."
+ },
+ {
+  "id": "M1#3051",
+  "en": "Don't think I've seen your face before, sir."
+ },
+ {
+  "id": "M1#3052",
+  "en": "Welcome! Sorry to keep you waiting."
+ },
+ {
+  "id": "M1#3053",
+  "en": "Go on, order all you like."
+ },
+ {
+  "id": "M1#3054",
+  "en": "You look like you can hold your drink, sir."
+ },
+ {
+  "id": "M1#3055",
+  "en": "Our drinks run strong, but I'd say you"
+ },
+ {
+  "id": "M1#3056",
+  "en": "can drink as much as you like."
+ },
+ {
+  "id": "M1#3057",
+  "en": "Come again."
+ },
+ {
+  "id": "M1#3058",
+  "en": "Are you a military man, sir?"
+ },
+ {
+  "id": "M1#3059",
+  "en": "No, I'm not. Do I look like one?"
+ },
+ {
+  "id": "M1#3060",
+  "en": "No, you don't."
+ },
+ {
+  "id": "M1#3061",
+  "en": "It's just that most customers here are"
+ },
+ {
+  "id": "M1#3062",
+  "en": "navy men. I thought maybe you were"
+ },
+ {
+  "id": "M1#3063",
+  "en": "one too."
+ },
+ {
+  "id": "M1#3064",
+  "en": "Mind you, as long as you're a customer,"
+ },
+ {
+  "id": "M1#3065",
+  "en": "anybody's fine by me."
+ },
+ {
+  "id": "M1#3066",
+  "en": "By the way, "
+ },
+ {
+  "id": "M1#3067",
+  "en": "have you heard this rumor?"
+ },
+ {
+  "id": "M1#3068",
+  "en": "Lots of warehouses around here, right?"
+ },
+ {
+  "id": "M1#3069",
+  "en": "Word is, lately some thief's been after"
+ },
+ {
+  "id": "M1#3070",
+  "en": "the cargo in those warehouses."
+ },
+ {
+  "id": "M1#3071",
+  "en": "A thief"
+ },
+ {
+  "id": "M1#3072",
+  "en": "A lot of the cargo that ends up there"
+ },
+ {
+  "id": "M1#3073",
+  "en": "is rare stuff. Maybe that's why."
+ },
+ {
+  "id": "M1#3074",
+  "en": "The other day I told you about the thief,"
+ },
+ {
+  "id": "M1#3075",
+  "en": "but have you heard this rumor?"
+ },
+ {
+  "id": "M1#3076",
+  "en": "There's one warehouse down at the harbor"
+ },
+ {
+  "id": "M1#3077",
+  "en": "that's not used anymore, but..."
+ },
+ {
+  "id": "M1#3078",
+  "en": "Word is, something shows up there."
+ },
+ {
+  "id": "M1#3079",
+  "en": "A ghost",
+  "note": "'A ghost' + #2 '...' + #25 '.' prints 'A ghost....'; needs #25 variant '' for msg 119787."
+ },
+ {
+  "id": "M1#3080",
+  "en": "A ghost"
+ },
+ {
+  "id": "M1#3081",
+  "en": "How absurd.",
+  "note": "speaker-less line after the player's 'A ghost...?'; read as the player."
+ },
+ {
+  "id": "M1#3082",
+  "en": "Ha ha. I figured you'd say that, sir."
+ },
+ {
+  "id": "M1#3083",
+  "en": "Thanks for always being a regular."
+ },
+ {
+  "id": "M1#3084",
+  "en": "Hope to keep seeing you around!"
+ },
+ {
+  "id": "M1#3085",
+  "en": "Whoa"
+ },
+ {
+  "id": "M1#3086",
+  "en": "Wh-who's there? At this hour?"
+ },
+ {
+  "id": "M1#3087",
+  "en": "S-sir, you can't do this! At this hour,"
+ },
+ {
+  "id": "M1#3088",
+  "en": "coming all the way back here"
+ },
+ {
+  "id": "M1#3089",
+  "en": "W-wait, are you"
+ },
+ {
+  "id": "M1#3090",
+  "en": "that thief the whole harbor's talking about?"
+ },
+ {
+  "id": "M1#3091",
+  "en": "I'm afraid not."
+ },
+ {
+  "id": "M1#3092",
+  "en": "I'm nearer to the other rumor"
+ },
+ {
+  "id": "M1#3093",
+  "en": "The other one"
+ },
+ {
+  "id": "M1#3094",
+  "en": " Gh-ghost?",
+  "note": "leading space so it reads 'The other one... Gh-ghost?' after #2."
+ },
+ {
+  "id": "M1#3095",
+  "en": "Aaaaagh!"
+ },
+ {
+  "id": "M1#3096",
+  "en": "To a human, vampires and ghosts are"
+ },
+ {
+  "id": "M1#3097",
+  "en": "much the same, I suppose."
+ },
+ {
+  "id": "M1#3098",
+  "en": "Both wander, unable to die."
+ },
+ {
+  "id": "M1#3099",
+  "en": "Hang on a little longer, would you?"
+ },
+ {
+  "id": "M1#3100",
+  "en": "Just wait a bit longer."
+ },
+ {
+  "id": "M1#3101",
+  "en": "Oh? Haven't seen your face before, sir."
+ },
+ {
+  "id": "M1#3102",
+  "en": "We've got plenty of strong stuff, so"
+ },
+ {
+  "id": "M1#3103",
+  "en": "don't go keeling over on me."
+ },
+ {
+  "id": "M1#3104",
+  "en": "Thinking of joining the military, sir?"
+ },
+ {
+  "id": "M1#3105",
+  "en": "The military... I've never considered it."
+ },
+ {
+  "id": "M1#3106",
+  "en": "Didn't think so. Say, what fine family"
+ },
+ {
+  "id": "M1#3107",
+  "en": "are you the young master of, anyway?"
+ },
+ {
+  "id": "M1#3108",
+  "en": "A ghost..."
+ },
+ {
+  "id": "M1#3109",
+  "en": "Oh? I'd like to meet it someday,"
+ },
+ {
+  "id": "M1#3110",
+  "en": "this so-called ghost."
+ },
+ {
+  "id": "M1#3111",
+  "en": "D-don't be ridiculous!"
+ },
+ {
+  "id": "M1#3112",
+  "en": "I don't want anything to do with some"
+ },
+ {
+  "id": "M1#3113",
+  "en": "weird thing like that, not me."
+ },
+ {
+  "id": "M1#3114",
+  "en": "A strange customer like you, young sir,"
+ },
+ {
+  "id": "M1#3115",
+  "en": "is one I've got to look after."
+ },
+ {
+  "id": "M1#3116",
+  "en": "How may I help you?",
+  "note": "preceded by six #180 fragments."
+ },
+ {
+  "id": "M1#3117",
+  "en": "Is something ailing you?"
+ },
+ {
+  "id": "M1#3118",
+  "en": "I'm Schneider, the doctor."
+ },
+ {
+  "id": "M1#3119",
+  "en": "My consultation hours begin shortly."
+ }
+]

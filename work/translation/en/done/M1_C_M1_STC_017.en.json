@@ -1,0 +1,337 @@
+[
+ {
+  "id": "M1#1360",
+  "en": "What's this \"Dhampir\" you're talking about?"
+ },
+ {
+  "id": "M1#1361",
+  "en": "If you don't know, then never mind."
+ },
+ {
+  "id": "M1#1362",
+  "en": "Peace, huh?"
+ },
+ {
+  "id": "M1#1363",
+  "en": "Truth is, not once since I joined the navy"
+ },
+ {
+  "id": "M1#1364",
+  "en": "have I been in a real battle."
+ },
+ {
+  "id": "M1#1365",
+  "en": "I can't wait to get into a real fight."
+ },
+ {
+  "id": "M1#1366",
+  "en": "This is exciting!!"
+ },
+ {
+  "id": "M1#1367",
+  "en": "Huh?"
+ },
+ {
+  "id": "M1#1368",
+  "en": "W-who's there?!"
+ },
+ {
+  "id": "M1#1369",
+  "en": "Heh heh heh..."
+ },
+ {
+  "id": "M1#1370",
+  "en": "As you wished, I'll give you your battle."
+ },
+ {
+  "id": "M1#1371",
+  "en": "You wanted in on the brawls at night, didn't you?"
+ },
+ {
+  "id": "M1#1372",
+  "en": "Lucky you."
+ },
+ {
+  "id": "M1#1373",
+  "en": "H-",
+  "note": "stutter 'ta, tasukete' -> 'H-' + #1374 'Help me!' (#1374 has no used_in; assumed to follow #1373 directly or on the next line)"
+ },
+ {
+  "id": "M1#1374",
+  "en": "Help me!",
+  "note": "no used_in; continues Friedrich's stutter from #1373; speaker assumed Friedrich"
+ },
+ {
+  "id": "M1#1375",
+  "en": "(Look at him. He's so scared his legs gave out.)"
+ },
+ {
+  "id": "M1#1376",
+  "en": "Hmph, all talk, this one...",
+  "note": "no used_in; assumed [PLAYER] (cold remark after the scare)"
+ },
+ {
+  "id": "M1#1377",
+  "en": "Aaagh!!"
+ },
+ {
+  "id": "M1#1378",
+  "en": "Please, spare my life..."
+ },
+ {
+  "id": "M1#1379",
+  "en": "Maybe I should stop drinking blood just for fun..."
+ },
+ {
+  "id": "M1#1380",
+  "en": "Why don't you join the navy too?"
+ },
+ {
+  "id": "M1#1381",
+  "en": "The navy's headquarters?"
+ },
+ {
+  "id": "M1#1382",
+  "en": "If you're ever in trouble, head over to headquarters"
+ },
+ {
+  "id": "M1#1383",
+  "en": "and show your face."
+ },
+ {
+  "id": "M1#1384",
+  "en": "did you have a peaceful day too?",
+  "note": "follows #232 'Hey, ' (new line, lowercase)"
+ },
+ {
+  "id": "M1#1385",
+  "en": "Peace turns out to be"
+ },
+ {
+  "id": "M1#1386",
+  "en": "pretty dull, doesn't it?"
+ },
+ {
+  "id": "M1#1387",
+  "en": "What exploits made you famous?"
+ },
+ {
+  "id": "M1#1388",
+  "en": "Yes. Friedrich, I'd like to hear what exploits"
+ },
+ {
+  "id": "M1#1389",
+  "en": "made you so famous."
+ },
+ {
+  "id": "M1#1390",
+  "en": "Still, a soldier ought to"
+ },
+ {
+  "id": "M1#1391",
+  "en": "be brave, you know."
+ },
+ {
+  "id": "M1#1392",
+  "en": "Well, a spoiled rich kid like you"
+ },
+ {
+  "id": "M1#1393",
+  "en": "couldn't handle this job."
+ },
+ {
+  "id": "M1#1394",
+  "en": "I'd put a stop to it in no time."
+ },
+ {
+  "id": "M1#1395",
+  "en": "(\"I want to become a Nosferatu,\"",
+  "note": "quoted phrase kept inside row 1; 'he' = Friedrich (male, known)"
+ },
+ {
+  "id": "M1#1396",
+  "en": "is that what he means?)"
+ },
+ {
+  "id": "M1#1397",
+  "en": "If you're about to get caught up in a night brawl,"
+ },
+ {
+  "id": "M1#1398",
+  "en": "give me a call."
+ },
+ {
+  "id": "M1#1399",
+  "en": "(So he's saying, \"Come and drink my blood\"...)"
+ },
+ {
+  "id": "M1#1400",
+  "en": "Mumble, mumble..."
+ },
+ {
+  "id": "M1#1401",
+  "en": "He's still half asleep."
+ },
+ {
+  "id": "M1#1402",
+  "en": "Is this man really strong, I wonder..."
+ },
+ {
+  "id": "M1#1403",
+  "en": "I'm a soldier whose name is famous in the navy!",
+  "note": "parallels #1308 (slice 016); keep both phrased alike"
+ },
+ {
+  "id": "M1#1404",
+  "en": "Well, it's worth a try.",
+  "note": "no used_in; assumed [PLAYER] (msg 55401 '[PLAYER] ▼' precedes #1405)"
+ },
+ {
+  "id": "M1#1405",
+  "en": "Let's give Friedrich what he wanted:"
+ },
+ {
+  "id": "M1#1406",
+  "en": "a part in \"real combat.\""
+ },
+ {
+  "id": "M1#1407",
+  "en": "I am your faithful servant...",
+  "note": "works after name + #633 ', my master...' (Jahn and Klaus)"
+ },
+ {
+  "id": "M1#1408",
+  "en": "...I've been sleepy lately, even after drinking coffee."
+ },
+ {
+  "id": "M1#1409",
+  "en": "I'll do anything you wish...",
+  "note": "works after name + #633 ', my master...' (Jahn and Klaus); subject restored"
+ },
+ {
+  "id": "M1#1410",
+  "en": "I got a lump on my head while I was asleep."
+ },
+ {
+  "id": "M1#1411",
+  "en": "Maybe I was sleepwalking?"
+ },
+ {
+  "id": "M1#1412",
+  "en": "Hello. Heading off to work?"
+ },
+ {
+  "id": "M1#1413",
+  "en": "If you like, take a break from work at \"Jahn\""
+ },
+ {
+  "id": "M1#1414",
+  "en": "and come have some coffee."
+ },
+ {
+  "id": "M1#1415",
+  "en": "It's a cafe that I run."
+ },
+ {
+  "id": "M1#1416",
+  "en": "Coffee, huh..."
+ },
+ {
+  "id": "M1#1417",
+  "en": "That wouldn't be bad."
+ },
+ {
+  "id": "M1#1418",
+  "en": "The coffee beans at Cafe \"Jahn\""
+ },
+ {
+  "id": "M1#1419",
+  "en": "come straight from the harbor."
+ },
+ {
+  "id": "M1#1420",
+  "en": "They taste great, and they're cheap, too."
+ },
+ {
+  "id": "M1#1421",
+  "en": "come by \"Jahn\" again sometime.",
+  "note": "follows #183 'Hey, ' + name + #223 ',' -> lowercase"
+ },
+ {
+  "id": "M1#1422",
+  "en": "Do you know Cafe \"Jahn\"?"
+ },
+ {
+  "id": "M1#1423",
+  "en": "That's my cafe, you know."
+ },
+ {
+  "id": "M1#1424",
+  "en": "I'm proud of my direct-import coffee beans."
+ },
+ {
+  "id": "M1#1425",
+  "en": "Oh? Coffee, huh..."
+ },
+ {
+  "id": "M1#1426",
+  "en": "Please do come by, if you like."
+ },
+ {
+  "id": "M1#1427",
+  "en": "If you come by,"
+ },
+ {
+  "id": "M1#1428",
+  "en": "I'll brew you some delicious coffee."
+ },
+ {
+  "id": "M1#1429",
+  "en": ", is that you?",
+  "note": "shared by Jahn/Ernst/Martin/Josef: name is inserted BEFORE this fragment, so English is ', is that you?' (Chris, is that you?)"
+ },
+ {
+  "id": "M1#1430",
+  "en": "Thanks for all your hard work today."
+ },
+ {
+  "id": "M1#1431",
+  "en": "Lately, for some reason, lots of customers",
+  "note": "shared with msg 58828 (casual #1494 must continue 'have been hurt.' / 'been injured.' after 'lots of customers')"
+ },
+ {
+  "id": "M1#1432",
+  "en": "have been getting hurt.",
+  "note": "continues #1431 'lots of customers' + 'have been getting hurt.'"
+ },
+ {
+  "id": "M1#1433",
+  "en": "What on earth is going on?"
+ },
+ {
+  "id": "M1#1434",
+  "en": "Welcome.",
+  "note": "shared by Jahn, Oskar, Rosso, Josef, Romy: neutral 'Welcome.'"
+ },
+ {
+  "id": "M1#1435",
+  "en": "This is Cafe \"Jahn\"."
+ },
+ {
+  "id": "M1#1436",
+  "en": "Is coffee all right for your order?"
+ },
+ {
+  "id": "M1#1437",
+  "en": "That's fine."
+ },
+ {
+  "id": "M1#1438",
+  "en": "Thank you very much.",
+  "note": "shared by Jahn, Oskar, Romy, Alisa: neutral 'Thank you very much.'"
+ },
+ {
+  "id": "M1#1439",
+  "en": "We look forward to your next visit!"
+ }
+]

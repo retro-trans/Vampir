@@ -1,0 +1,337 @@
+[
+ {
+  "id": "M2#6960",
+  "en": "I'm sorry, if there's nothing, I'll excuse myself"
+ },
+ {
+  "id": "M2#6961",
+  "en": "Is there something you need?"
+ },
+ {
+  "id": "M2#6962",
+  "en": "If you're selling something, no thank you."
+ },
+ {
+  "id": "M2#6963",
+  "en": ", is something the matter?",
+  "note": "after the name: '{NAME}, is something the matter?'"
+ },
+ {
+  "id": "M2#6964",
+  "en": "A matter you can't discuss at work?"
+ },
+ {
+  "id": "M2#6965",
+  "en": "Hee hee hee, I'm only joking. Forgive me."
+ },
+ {
+  "id": "M2#6966",
+  "en": "Could it be that you're bored?"
+ },
+ {
+  "id": "M2#6967",
+  "en": "You come so often. It makes me happy."
+ },
+ {
+  "id": "M2#6968",
+  "en": "I'm sure I'm dull company, but"
+ },
+ {
+  "id": "M2#6969",
+  "en": "you're always welcome, so do come by."
+ },
+ {
+  "id": "M2#6970",
+  "en": "I'll always... be waiting for you."
+ },
+ {
+  "id": "M2#6971",
+  "en": "Please do come again."
+ },
+ {
+  "id": "M2#6972",
+  "en": "Oh my, what brings you here so late at night?"
+ },
+ {
+  "id": "M2#6973",
+  "en": "I was sorting papers for my work."
+ },
+ {
+  "id": "M2#6974",
+  "en": "There is a task I want you to help me with."
+ },
+ {
+  "id": "M2#6975",
+  "en": "Now, it is nothing difficult. ",
+  "note": "no used_in; msg 275855 (stern night attack on Winifred): #6974 <p> / #6975 <p> #6976. Wording follows M2#5456"
+ },
+ {
+  "id": "M2#6976",
+  "en": "It will soon be over."
+ },
+ {
+  "id": "M2#6977",
+  "en": "Oh my",
+  "note": "no used_in; msg 275855: #6977 + #152 '...' <p> #6978"
+ },
+ {
+  "id": "M2#6978",
+  "en": " Whatever is it?"
+ },
+ {
+  "id": "M2#6979",
+  "en": "Become my servant, ",
+  "note": "no used_in; msg 275898: #6979 <p> #6980 + '...' on one line"
+ },
+ {
+  "id": "M2#6980",
+  "en": "and live in darkness"
+ },
+ {
+  "id": "M2#6981",
+  "en": "Wh-what are you doing?"
+ },
+ {
+  "id": "M2#6982",
+  "en": "no",
+  "note": "lowercase for msg 325098 (villager 79: #1333 'Oh, ' <p> #6982 + dots = 'Oh, no...'); variant 'No' for msg 275898 (Winifred, new line)",
+  "variants": [
+   {
+    "msg": 275898,
+    "en": "No"
+   }
+  ]
+ },
+ {
+  "id": "M2#6983",
+  "en": "Now I have one more servant"
+ },
+ {
+  "id": "M2#6984",
+  "en": "Hahahaha! "
+ },
+ {
+  "id": "M2#6985",
+  "en": "Just you wait, you little whelp."
+ },
+ {
+  "id": "M2#6986",
+  "en": "I only wished to greet a beautiful lady."
+ },
+ {
+  "id": "M2#6987",
+  "en": "Have I offended you?"
+ },
+ {
+  "id": "M2#6988",
+  "en": "Oh my, not at all... far from it."
+ },
+ {
+  "id": "M2#6989",
+  "en": "The pleasure is mine."
+ },
+ {
+  "id": "M2#6990",
+  "en": "Oh dear, how unladylike of me."
+ },
+ {
+  "id": "M2#6991",
+  "en": "Acting like some young girl"
+ },
+ {
+  "id": "M2#6992",
+  "en": "But to meet you first thing in the morning,"
+ },
+ {
+  "id": "M2#6993",
+  "en": "today is sure to be a good day."
+ },
+ {
+  "id": "M2#6994",
+  "en": "I wonder if I might ask you the way"
+ },
+ {
+  "id": "M2#6995",
+  "en": "Oh my, good evening. How do you do?"
+ },
+ {
+  "id": "M2#6996",
+  "en": "How kind, miss. May I have your name?"
+ },
+ {
+  "id": "M2#6997",
+  "en": "Off on a date with someone on such a night?"
+ },
+ {
+  "id": "M2#6998",
+  "en": "If only I had the chance to meet"
+ },
+ {
+  "id": "M2#6999",
+  "en": "someone as wonderful as you"
+ },
+ {
+  "id": "M2#7000",
+  "en": "<I'm meeting someone>"
+ },
+ {
+  "id": "M2#7001",
+  "en": "Hello. Was this area off-limits?"
+ },
+ {
+  "id": "M2#7002",
+  "en": "I'm terribly sorry, I lost my way."
+ },
+ {
+  "id": "M2#7003",
+  "en": "I would love to know your name."
+ },
+ {
+  "id": "M2#7004",
+  "en": "Oh? I'm afraid you can't come in here."
+ },
+ {
+  "id": "M2#7005",
+  "en": "Hello. So this is where you work."
+ },
+ {
+  "id": "M2#7006",
+  "en": "I'm sorry, I lost my way"
+ },
+ {
+  "id": "M2#7007",
+  "en": "Thank you. Until next time."
+ },
+ {
+  "id": "M2#7008",
+  "en": "I'm sorry. I'll leave right away."
+ },
+ {
+  "id": "M2#7009",
+  "en": "I wanted to see your face, so I just had to."
+ },
+ {
+  "id": "M2#7010",
+  "en": "I have work to do, so"
+ },
+ {
+  "id": "M2#7011",
+  "en": "Another time.",
+  "note": "msg 276516 alone; continues #7010 'I have work to do, so...' (as #6945 'I have work to do, so... another time.')"
+ },
+ {
+  "id": "M2#7012",
+  "en": "Coming to see an old maid like me,",
+  "note": "#6953 (slice 086) follows on the next line and must start lowercase: 'you are a curious one.'"
+ },
+ {
+  "id": "M2#7013",
+  "en": "I humbly await your orders..."
+ },
+ {
+  "id": "M2#7014",
+  "en": "Oh, honestly, how awful."
+ },
+ {
+  "id": "M2#7015",
+  "en": "My skin's so rough, as if I'd been up all night."
+ },
+ {
+  "id": "M2#7016",
+  "en": ", my master, your orders are all that matter",
+  "note": "after the name (servant mode, cf. #754 ', my master'); #152 '...' follows"
+ },
+ {
+  "id": "M2#7017",
+  "en": "Somehow I can't shake this tiredness"
+ },
+ {
+  "id": "M2#7018",
+  "en": "And wounds I don't remember. How odd."
+ },
+ {
+  "id": "M2#7019",
+  "en": "Pardon me, miss, if I may."
+ },
+ {
+  "id": "M2#7020",
+  "en": "Could you tell me the way to the bank?"
+ },
+ {
+  "id": "M2#7021",
+  "en": "The bank? Why, that's where I work."
+ },
+ {
+  "id": "M2#7022",
+  "en": "It's just down the main street."
+ },
+ {
+  "id": "M2#7023",
+  "en": "I see, thank you very much."
+ },
+ {
+  "id": "M2#7024",
+  "en": "I'm new here. You've been a great help."
+ },
+ {
+  "id": "M2#7025",
+  "en": "And you are, miss?"
+ },
+ {
+  "id": "M2#7026",
+  "en": "My name is Sylvia."
+ },
+ {
+  "id": "M2#7027",
+  "en": "Come to the bank, and you'll find me there."
+ },
+ {
+  "id": "M2#7028",
+  "en": "You'll rest easy if you open an account."
+ },
+ {
+  "id": "M2#7029",
+  "en": "Ah, yes, of course. I'll do that."
+ },
+ {
+  "id": "M2#7030",
+  "en": "Thank you for your kindness, Sylvia."
+ },
+ {
+  "id": "M2#7031",
+  "en": "Oh my, we meet again. Hee hee."
+ },
+ {
+  "id": "M2#7032",
+  "en": "I'm glad you look well. Until next time."
+ },
+ {
+  "id": "M2#7033",
+  "en": "You're always up so early."
+ },
+ {
+  "id": "M2#7034",
+  "en": "Seeing you first thing this morning,",
+  "note": "shared with msg 280019, where #7118 (slice 088) follows: #7118 must read after a comma, e.g. 'what luck! Something good's sure to happen.' (lowercase start)"
+ },
+ {
+  "id": "M2#7035",
+  "en": "what luck! Something good's sure to happen."
+ },
+ {
+  "id": "M2#7036",
+  "en": "Do have a pleasant day yourself."
+ },
+ {
+  "id": "M2#7037",
+  "en": "Good evening. The night breeze is lovely."
+ },
+ {
+  "id": "M2#7038",
+  "en": "Oh, oh dear, forgive me. I just called out"
+ },
+ {
+  "id": "M2#7039",
+  "en": "I never usually speak to strangers."
+ }
+]

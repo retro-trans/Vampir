@@ -1,0 +1,333 @@
+[
+ {
+  "id": "M1#1680",
+  "en": "Before I opened this shop, I went through"
+ },
+ {
+  "id": "M1#1681",
+  "en": "plenty of hardship. I started as an apprentice,"
+ },
+ {
+  "id": "M1#1682",
+  "en": "and only now am I a full-fledged craftsman."
+ },
+ {
+  "id": "M1#1683",
+  "en": "See anything you like?"
+ },
+ {
+  "id": "M1#1684",
+  "en": "The best tool, you see, is one that's"
+ },
+ {
+  "id": "M1#1685",
+  "en": "easy to use. Fancy decorations just"
+ },
+ {
+  "id": "M1#1686",
+  "en": "get in the way."
+ },
+ {
+  "id": "M1#1687",
+  "en": "Above all, it has to be easy to use, sturdy,"
+ },
+ {
+  "id": "M1#1688",
+  "en": "and free of anything wasteful."
+ },
+ {
+  "id": "M1#1689",
+  "en": "As a bladesmith, someday I want to"
+ },
+ {
+  "id": "M1#1690",
+  "en": "become a craftsman they call a \"Meister.\""
+ },
+ {
+  "id": "M1#1691",
+  "en": "That's my goal."
+ },
+ {
+  "id": "M1#1692",
+  "en": "If I become a Meister, my social status"
+ },
+ {
+  "id": "M1#1693",
+  "en": "will be recognized as well."
+ },
+ {
+  "id": "M1#1694",
+  "en": "I'll always hold my pride as a bladesmith,"
+ },
+ {
+  "id": "M1#1695",
+  "en": "and I intend to keep on working."
+ },
+ {
+  "id": "M1#1696",
+  "en": "Opening the shop on a night like this?",
+  "note": "Shared #1697 is used twice in msg 66595 (here and after #1712) with no per-msg variant possible, so both sentences are phrased as rhetorical questions that 'Nothing like that here, I'm afraid.' answers"
+ },
+ {
+  "id": "M1#1697",
+  "en": "Nothing like that here, I'm afraid.",
+  "note": "Used twice in the same message (after #1696 and #1712); wording chosen to answer both questions (opening at night / owning such a sword)"
+ },
+ {
+  "id": "M1#1698",
+  "en": "Please come back tomorrow."
+ },
+ {
+  "id": "M1#1699",
+  "en": "Something came up that I need right away."
+ },
+ {
+  "id": "M1#1700",
+  "en": "Would you be able to get it ready for me?"
+ },
+ {
+  "id": "M1#1701",
+  "en": "Needing a blade in the dead of night..."
+ },
+ {
+  "id": "M1#1702",
+  "en": "That sounds like dangerous business."
+ },
+ {
+  "id": "M1#1703",
+  "en": "Is it that rumored vampire, or whatever,"
+ },
+ {
+  "id": "M1#1704",
+  "en": "that you're off to slay?"
+ },
+ {
+  "id": "M1#1705",
+  "en": "Well, you're not wrong."
+ },
+ {
+  "id": "M1#1706",
+  "en": "Just the other day, Mr. Holmwood"
+ },
+ {
+  "id": "M1#1707",
+  "en": "asked me to re-sharpen a \"blessed sword,\""
+ },
+ {
+  "id": "M1#1708",
+  "en": "as he called it.",
+  "note": "see #1707"
+ },
+ {
+  "id": "M1#1709",
+  "en": "I've seen all kinds of blades, but"
+ },
+ {
+  "id": "M1#1710",
+  "en": "a sword with such a strong, pure glow"
+ },
+ {
+  "id": "M1#1711",
+  "en": "is something I've never seen."
+ },
+ {
+  "id": "M1#1712",
+  "en": "A sword that magnificent, in my shop?",
+  "note": "phrased as a question so shared #1697 answers it; see #1696"
+ },
+ {
+  "id": "M1#1713",
+  "en": "(I couldn't bear it if there were several of those!)",
+  "note": "thought of [PLAYER]; ellipsis of subject restored as 'I'"
+ },
+ {
+  "id": "M1#1714",
+  "en": "Hm? Did you say something?"
+ },
+ {
+  "id": "M1#1715",
+  "en": "No, never mind. It's my own affair."
+ },
+ {
+  "id": "M1#1716",
+  "en": "Let's see now."
+ },
+ {
+  "id": "M1#1717",
+  "en": "I think this axe might do nicely."
+ },
+ {
+  "id": "M1#1718",
+  "en": "Whoa!",
+  "note": "no used_in: speaker inferred to be Ernst (reaction before #1720); cannot be verified"
+ },
+ {
+  "id": "M1#1719",
+  "en": "What on earth do you think you're doing?!",
+  "note": "no used_in: speaker inferred to be Ernst; cannot be verified"
+ },
+ {
+  "id": "M1#1720",
+  "en": "What I needed right away was your power!",
+  "note": "echoes #1699 'need right away'"
+ },
+ {
+  "id": "M1#1721",
+  "en": "I've seen how well you sharpen blades."
+ },
+ {
+  "id": "M1#1722",
+  "en": "From now on, I expect just as much from how you use them."
+ },
+ {
+  "id": "M1#1723",
+  "en": "...I'm confident in my Vitality..."
+ },
+ {
+  "id": "M1#1724",
+  "en": "Please give me your orders..."
+ },
+ {
+  "id": "M1#1725",
+  "en": "Good morning. I'm Zille."
+ },
+ {
+  "id": "M1#1726",
+  "en": "I run a farm."
+ },
+ {
+  "id": "M1#1727",
+  "en": "The golden field in front of you is"
+ },
+ {
+  "id": "M1#1728",
+  "en": "my farm."
+ },
+ {
+  "id": "M1#1729",
+  "en": "It's harvest season now, so"
+ },
+ {
+  "id": "M1#1730",
+  "en": "even on the farm I run,"
+ },
+ {
+  "id": "M1#1731",
+  "en": "we're desperately short of hands.",
+  "note": "Shared by msgs 70335/70647/70693/71303/71349 after '..., so' (#1729/#1730 chain, #1757, #1762): must start lowercase and follow a clause ending in a comma"
+ },
+ {
+  "id": "M1#1732",
+  "en": "The early bird gets the worm."
+ },
+ {
+  "id": "M1#1733",
+  "en": "You're hard at work early, I see."
+ },
+ {
+  "id": "M1#1734",
+  "en": "Hey, good evening. I'm Zille."
+ },
+ {
+  "id": "M1#1735",
+  "en": "I run a farm here."
+ },
+ {
+  "id": "M1#1736",
+  "en": "The golden field spreading out ahead is"
+ },
+ {
+  "id": "M1#1737",
+  "en": "Well, that's all the work for today."
+ },
+ {
+  "id": "M1#1738",
+  "en": "I can't wait to get home to my wife and kids"
+ },
+ {
+  "id": "M1#1739",
+  "en": "and see their faces."
+ },
+ {
+  "id": "M1#1740",
+  "en": "A fine evening to you."
+ },
+ {
+  "id": "M1#1741",
+  "en": "I'm Zille."
+ },
+ {
+  "id": "M1#1742",
+  "en": "A farm?"
+ },
+ {
+  "id": "M1#1743",
+  "en": "On your way here, you must have seen"
+ },
+ {
+  "id": "M1#1744",
+  "en": "the golden fields stretching out, right?"
+ },
+ {
+  "id": "M1#1745",
+  "en": "That's my farm."
+ },
+ {
+  "id": "M1#1746",
+  "en": "The farm's in harvest season, and we're"
+ },
+ {
+  "id": "M1#1747",
+  "en": "desperately short of hands."
+ },
+ {
+  "id": "M1#1748",
+  "en": "Time with my wife and kids after work"
+ },
+ {
+  "id": "M1#1749",
+  "en": "is what I look forward to most."
+ },
+ {
+  "id": "M1#1750",
+  "en": "The time I spend with my wife and kids"
+ },
+ {
+  "id": "M1#1751",
+  "en": "makes me forget the day's weariness."
+ },
+ {
+  "id": "M1#1752",
+  "en": "Good of you to come by."
+ },
+ {
+  "id": "M1#1753",
+  "en": "By the way, mister, don't you have a wife?"
+ },
+ {
+  "id": "M1#1754",
+  "en": "Well, a man like you would surely"
+ },
+ {
+  "id": "M1#1755",
+  "en": "be popular with the ladies, I figured."
+ },
+ {
+  "id": "M1#1756",
+  "en": "be popular with the ladies, I'd say."
+ },
+ {
+  "id": "M1#1757",
+  "en": "As you see, the farm is in harvest season, so",
+  "note": "Shared by msgs 70647/71303/71349; with #1731 must stay within 3 lines ('Hey, Name,' + 2 rows) so kept to ONE line (229 px)"
+ },
+ {
+  "id": "M1#1758",
+  "en": "I'm sorry to bother you when you're so busy.",
+  "note": "[PLAYER] gentle but male register"
+ },
+ {
+  "id": "M1#1759",
+  "en": "Oh, don't worry about it."
+ }
+]

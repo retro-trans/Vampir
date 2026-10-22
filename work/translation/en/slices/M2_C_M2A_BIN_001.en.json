@@ -1,0 +1,186 @@
+{
+ "slice": "M2_C_M2A_BIN_001",
+ "file": "M2_C_M2A.BIN",
+ "rows": [
+  {
+   "id": "M2A.BIN@F68"
+  },
+  {
+   "id": "M2A.BIN@F58"
+  },
+  {
+   "id": "M2A.BIN@F3C"
+  },
+  {
+   "id": "M2A.BIN@F24"
+  },
+  {
+   "id": "M2A.BIN@F00"
+  },
+  {
+   "id": "M2A.BIN@EE8"
+  },
+  {
+   "id": "M2A.BIN@ED0"
+  },
+  {
+   "id": "M2A.BIN@EC4"
+  },
+  {
+   "id": "M2A.BIN@EB8"
+  },
+  {
+   "id": "M2A.BIN@EA4"
+  },
+  {
+   "id": "M2A.BIN@E80"
+  },
+  {
+   "id": "M2A.BIN@E6C"
+  },
+  {
+   "id": "M2A.BIN@E5C"
+  },
+  {
+   "id": "M2A.BIN@E50"
+  },
+  {
+   "id": "M2A.BIN@E3C"
+  },
+  {
+   "id": "M2A.BIN@E18"
+  },
+  {
+   "id": "M2A.BIN@E04"
+  },
+  {
+   "id": "M2A.BIN@DF8"
+  },
+  {
+   "id": "M2A.BIN@DEC"
+  },
+  {
+   "id": "M2A.BIN@DCC"
+  },
+  {
+   "id": "M2A.BIN@DC0"
+  },
+  {
+   "id": "M2A.BIN@DA0"
+  },
+  {
+   "id": "M2A.BIN@D84"
+  },
+  {
+   "id": "M2A.BIN@D60"
+  },
+  {
+   "id": "M2A.BIN@D4C"
+  },
+  {
+   "id": "M2A.BIN@D38"
+  },
+  {
+   "id": "M2A.BIN@D08"
+  },
+  {
+   "id": "M2A.BIN@CE4"
+  },
+  {
+   "id": "M2A.BIN@CC4"
+  },
+  {
+   "id": "M2A.BIN@CA0"
+  },
+  {
+   "id": "M2A.BIN@C78"
+  },
+  {
+   "id": "M2A.BIN@C54"
+  },
+  {
+   "id": "M2A.BIN@C40"
+  },
+  {
+   "id": "M2A.BIN@C2C"
+  },
+  {
+   "id": "M2A.BIN@C04"
+  },
+  {
+   "id": "M2A.BIN@BE8"
+  },
+  {
+   "id": "M2A.BIN@BC0"
+  },
+  {
+   "id": "M2A.BIN@B9C"
+  },
+  {
+   "id": "M2A.BIN@B78"
+  },
+  {
+   "id": "M2A.BIN@B50"
+  },
+  {
+   "id": "M2A.BIN@B38"
+  },
+  {
+   "id": "M2A.BIN@B28"
+  },
+  {
+   "id": "M2A.BIN@B08"
+  },
+  {
+   "id": "M2A.BIN@AFC"
+  },
+  {
+   "id": "M2A.BIN@AE0"
+  },
+  {
+   "id": "M2A.BIN@AC0"
+  },
+  {
+   "id": "M2A.BIN@AA0"
+  },
+  {
+   "id": "M2A.BIN@A80"
+  },
+  {
+   "id": "M2A.BIN@4"
+  }
+ ],
+ "before": [
+  {
+   "id": "M2A.BIN@1C0"
+  },
+  {
+   "id": "M2A.BIN@19C"
+  },
+  {
+   "id": "M2A.BIN@178"
+  },
+  {
+   "id": "M2A.BIN@158"
+  },
+  {
+   "id": "M2A.BIN@134"
+  },
+  {
+   "id": "M2A.BIN@114"
+  },
+  {
+   "id": "M2A.BIN@104"
+  },
+  {
+   "id": "M2A.BIN@FB4"
+  },
+  {
+   "id": "M2A.BIN@F98"
+  },
+  {
+   "id": "M2A.BIN@F78"
+  }
+ ],
+ "after": []
+}

@@ -1,0 +1,334 @@
+[
+ {
+  "id": "M1#4960",
+  "en": "You know, Marie is scared of the night."
+ },
+ {
+  "id": "M1#4961",
+  "en": "Why is that?"
+ },
+ {
+  "id": "M1#4962",
+  "en": "'Cause it feels like all of a sudden"
+ },
+ {
+  "id": "M1#4963",
+  "en": "I'm all alone"
+ },
+ {
+  "id": "M1#4964",
+  "en": "It's all right. You're not alone anymore."
+ },
+ {
+  "id": "M1#4965",
+  "en": "You can be with everyone at night, too."
+ },
+ {
+  "id": "M1#4966",
+  "en": "Really"
+ },
+ {
+  "id": "M1#4967",
+  "en": ","
+ },
+ {
+  "id": "M1#4968",
+  "en": ","
+ },
+ {
+  "id": "M1#4969",
+  "en": "Do you study at school too, mister?"
+ },
+ {
+  "id": "M1#4970",
+  "en": "A mister I don't know."
+ },
+ {
+  "id": "M1#4971",
+  "en": "People I don't know,"
+ },
+ {
+  "id": "M1#4972",
+  "en": "I'm not supposed to talk to them, they said."
+ },
+ {
+  "id": "M1#4973",
+  "en": "What's wrong?"
+ },
+ {
+  "id": "M1#4974",
+  "en": "Aren't you feeling well?"
+ },
+ {
+  "id": "M1#4975",
+  "en": ", why do you"
+ },
+ {
+  "id": "M1#4976",
+  "en": ", you"
+ },
+ {
+  "id": "M1#4977",
+  "en": "Do you believe that?"
+ },
+ {
+  "id": "M1#4978",
+  "en": ", too."
+ },
+ {
+  "id": "M1#4979",
+  "en": "Please give me your orders......"
+ },
+ {
+  "id": "M1#4980",
+  "en": "...Currently Closed..."
+ },
+ {
+  "id": "M1#4981",
+  "en": "Business Hours 10:30 - 15:00"
+ },
+ {
+  "id": "M1#4982",
+  "en": "(A wasted trip...)"
+ },
+ {
+  "id": "M1#4983",
+  "en": "(Another wasted trip...)"
+ },
+ {
+  "id": "M1#4984",
+  "en": "Oh, "
+ },
+ {
+  "id": "M1#4985",
+  "en": "I'm so sorry, after you came all this way,"
+ },
+ {
+  "id": "M1#4986",
+  "en": "but we're closed."
+ },
+ {
+  "id": "M1#4987",
+  "en": "Sorry, but I've closed up the shop."
+ },
+ {
+  "id": "M1#4988",
+  "en": "I'm Helene, the owner."
+ },
+ {
+  "id": "M1#4989",
+  "en": "How about this shirt and tie?"
+ },
+ {
+  "id": "M1#4990",
+  "en": "(What poor taste."
+ },
+ {
+  "id": "M1#4991",
+  "en": "It can't hold a candle to Orgo's tie.)"
+ },
+ {
+  "id": "M1#4992",
+  "en": "If there's anything you like,",
+  "variants": [
+   {
+    "msg": 198142,
+    "en": "if there's anything you like,"
+   }
+  ]
+ },
+ {
+  "id": "M1#4993",
+  "en": "you're welcome to try it on."
+ },
+ {
+  "id": "M1#4994",
+  "en": "Clothes are something the lady of the house"
+ },
+ {
+  "id": "M1#4995",
+  "en": "usually sews herself, right? Spinning thread, weaving..."
+ },
+ {
+  "id": "M1#4996",
+  "en": "But now cloth can be woven in factories."
+ },
+ {
+  "id": "M1#4997",
+  "en": "Then it's dyed at a dye works, and a tailor"
+ },
+ {
+  "id": "M1#4998",
+  "en": "sews it up..."
+ },
+ {
+  "id": "M1#4999",
+  "en": "As long as you have money, you don't need"
+ },
+ {
+  "id": "M1#5000",
+  "en": "to make anything yourself. That's the world now."
+ },
+ {
+  "id": "M1#5001",
+  "en": "The fabric, you know, is imported"
+ },
+ {
+  "id": "M1#5002",
+  "en": "on trading ships. It's cheaper that way."
+ },
+ {
+  "id": "M1#5003",
+  "en": "Hard to believe, isn't it?"
+ },
+ {
+  "id": "M1#5004",
+  "en": "Do you know what a sewing machine is?",
+  "variants": [
+   {
+    "msg": 197593,
+    "en": "do you know what a sewing machine is?"
+   }
+  ]
+ },
+ {
+  "id": "M1#5005",
+  "en": "I hear it's a contraption where a machine"
+ },
+ {
+  "id": "M1#5006",
+  "en": "does even the needlework for you."
+ },
+ {
+  "id": "M1#5007",
+  "en": "They say even ordinary households"
+ },
+ {
+  "id": "M1#5008",
+  "en": "in the big cities use them."
+ },
+ {
+  "id": "M1#5009",
+  "en": "It sounds just like magic, doesn't it?"
+ },
+ {
+  "id": "M1#5010",
+  "en": "From now on, you'll need money for everything."
+ },
+ {
+  "id": "M1#5011",
+  "en": "We're heading into a new age, aren't we?"
+ },
+ {
+  "id": "M1#5012",
+  "en": "(A world where coin can buy blood"
+ },
+ {
+  "id": "M1#5013",
+  "en": "is unlikely ever to come.)"
+ },
+ {
+  "id": "M1#5014",
+  "en": "A new age, is it..."
+ },
+ {
+  "id": "M1#5015",
+  "en": "The future means nothing to me."
+ },
+ {
+  "id": "M1#5016",
+  "en": "Mm... mmm."
+ },
+ {
+  "id": "M1#5017",
+  "en": "...You!"
+ },
+ {
+  "id": "M1#5018",
+  "en": "Awake now, Helene?"
+ },
+ {
+  "id": "M1#5019",
+  "en": "That negligee looks like your own handiwork."
+ },
+ {
+  "id": "M1#5020",
+  "en": "What are you doing here?!"
+ },
+ {
+  "id": "M1#5021",
+  "en": "Why are YOU here?!"
+ },
+ {
+  "id": "M1#5022",
+  "en": "Why?!"
+ },
+ {
+  "id": "M1#5023",
+  "en": "Well, well."
+ },
+ {
+  "id": "M1#5024",
+  "en": "For a lady so attuned to the changing times,"
+ },
+ {
+  "id": "M1#5025",
+  "en": "you're awfully flustered by this little change."
+ },
+ {
+  "id": "M1#5026",
+  "en": "At this rate, the new age and your sewing machine"
+ },
+ {
+  "id": "M1#5027",
+  "en": "will both run off and leave you behind."
+ },
+ {
+  "id": "M1#5028",
+  "en": "Get out!"
+ },
+ {
+  "id": "M1#5029",
+  "en": "I'll call for help!"
+ },
+ {
+  "id": "M1#5030",
+  "en": "Just as I thought. For all your talk of machines and money,"
+ },
+ {
+  "id": "M1#5031",
+  "en": "in the end, it's \"people\" you rely on, isn't it?"
+ },
+ {
+  "id": "M1#5032",
+  "en": "Well, no matter."
+ },
+ {
+  "id": "M1#5033",
+  "en": "In fact, I too need living flesh, not machines."
+ },
+ {
+  "id": "M1#5034",
+  "en": "Sorry, Helene, but your trip into the new age"
+ },
+ {
+  "id": "M1#5035",
+  "en": "is one I've decided you won't be taking."
+ },
+ {
+  "id": "M1#5036",
+  "en": "Now, come with me"
+ },
+ {
+  "id": "M1#5037",
+  "en": "and let us walk the \"Devil's Path\" together."
+ },
+ {
+  "id": "M1#5038",
+  "en": "Eeeek!"
+ },
+ {
+  "id": "M1#5039",
+  "en": "(Maybe I should come back at another time...)"
+ }
+]

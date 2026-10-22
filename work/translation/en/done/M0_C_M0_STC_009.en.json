@@ -1,0 +1,343 @@
+[
+ {
+  "id": "M0#720",
+  "en": "Come on, I'm begging you, talk to me."
+ },
+ {
+  "id": "M0#721",
+  "en": "What are you doing here?"
+ },
+ {
+  "id": "M0#722",
+  "en": "Not a face I know. Who are you?",
+  "note": "also used in msg 33684 after 'You again?' (#725): contradiction exists in the source; kept"
+ },
+ {
+  "id": "M0#723",
+  "en": "H-hey"
+ },
+ {
+  "id": "M0#724",
+  "en": "Hmph. If you're not going into the hunting ground, I suppose that's fine."
+ },
+ {
+  "id": "M0#725",
+  "en": "You again? What are you doing here?"
+ },
+ {
+  "id": "M0#726",
+  "en": "Coming around again and again like this,"
+ },
+ {
+  "id": "M0#727",
+  "en": "you really are a suspicious one."
+ },
+ {
+  "id": "M0#728",
+  "en": "You're back again.",
+  "note": "works with #729, #774 and #811"
+ },
+ {
+  "id": "M0#729",
+  "en": "Shady character. You're not getting into the hunting ground."
+ },
+ {
+  "id": "M0#730",
+  "en": "A hunting ground, you say?"
+ },
+ {
+  "id": "M0#731",
+  "en": "Yes, this is the landlord's hunting ground,"
+ },
+ {
+  "id": "M0#732",
+  "en": "and I'm the gamekeeper here."
+ },
+ {
+  "id": "M0#733",
+  "en": "Anyone who isn't from this village,",
+  "note": "object fronted so it reads after #734 'I can't let through.' and after #769 + before #770 'I can't let in.'"
+ },
+ {
+  "id": "M0#734",
+  "en": "I can't let through."
+ },
+ {
+  "id": "M0#735",
+  "en": "(Foolish man. My hunting ground"
+ },
+ {
+  "id": "M0#736",
+  "en": "is this village, where all of you live...)"
+ },
+ {
+  "id": "M0#737",
+  "en": "Then don't worry. I have no intention of"
+ },
+ {
+  "id": "M0#738",
+  "en": "ravaging your territory."
+ },
+ {
+  "id": "M0#739",
+  "en": "Then what in the world are you here for?"
+ },
+ {
+  "id": "M0#740",
+  "en": "What interests me,"
+ },
+ {
+  "id": "M0#741",
+  "en": "is you, if anything."
+ },
+ {
+  "id": "M0#742",
+  "en": "M-me...?"
+ },
+ {
+  "id": "M0#743",
+  "en": "H-hey..."
+ },
+ {
+  "id": "M0#744",
+  "en": "Damn it, he just walked off on me."
+ },
+ {
+  "id": "M0#745",
+  "en": "H-hey, you."
+ },
+ {
+  "id": "M0#746",
+  "en": "That thing from the other day, what did you mean?"
+ },
+ {
+  "id": "M0#747",
+  "en": "That thing, you say?"
+ },
+ {
+  "id": "M0#748",
+  "en": "You said you were interested in m-me. That thing."
+ },
+ {
+  "id": "M0#749",
+  "en": "There's no meaning to speak of. It's just as I said."
+ },
+ {
+  "id": "M0#750",
+  "en": "W-what do you mean, exactly as you said?"
+ },
+ {
+  "id": "M0#751",
+  "en": "Hey, wait a second, let me get a word in."
+ },
+ {
+  "id": "M0#752",
+  "en": "Damn it... You just assume I can't leave"
+ },
+ {
+  "id": "M0#753",
+  "en": "this place",
+  "note": "followed by #66 '...'"
+ },
+ {
+  "id": "M0#754",
+  "en": "Hey, you, let's have a proper talk."
+ },
+ {
+  "id": "M0#755",
+  "en": "I can't stand leaving it like this."
+ },
+ {
+  "id": "M0#756",
+  "en": "I have to stay sharp while I'm on duty,"
+ },
+ {
+  "id": "M0#757",
+  "en": "so come by when I'm off. I'm counting on you."
+ },
+ {
+  "id": "M0#758",
+  "en": "Winter's coming up,"
+ },
+ {
+  "id": "M0#759",
+  "en": "and like this I can't focus on my hunting."
+ },
+ {
+  "id": "M0#760",
+  "en": "...Traps?"
+ },
+ {
+  "id": "M0#761",
+  "en": "Do you make traps yourself?"
+ },
+ {
+  "id": "M0#762",
+  "en": "That's right. I'm a master trapper."
+ },
+ {
+  "id": "M0#763",
+  "en": "My traps will feed you through the winter,",
+  "note": "single line (223 px) so the 3-line group fits; #804 (slice 010, msg 34287) should use the same wording"
+ },
+ {
+  "id": "M0#764",
+  "en": "with no trouble at all."
+ },
+ {
+  "id": "M0#765",
+  "en": "That's amazing."
+ },
+ {
+  "id": "M0#766",
+  "en": "Could I do it too?"
+ },
+ {
+  "id": "M0#767",
+  "en": "Hmm, I couldn't say."
+ },
+ {
+  "id": "M0#768",
+  "en": "But not in this forest."
+ },
+ {
+  "id": "M0#769",
+  "en": "Since this is the landlord's hunting ground,"
+ },
+ {
+  "id": "M0#770",
+  "en": "I can't let in."
+ },
+ {
+  "id": "M0#771",
+  "en": "I see. What a pity..."
+ },
+ {
+  "id": "M0#772",
+  "en": "I'll come back to play."
+ },
+ {
+  "id": "M0#773",
+  "en": "Come to play, huh",
+  "note": "followed by #66 '...'"
+ },
+ {
+  "id": "M0#774",
+  "en": "No matter how often you come, no is no."
+ },
+ {
+  "id": "M0#775",
+  "en": "Hm? Oh, it's you."
+ },
+ {
+  "id": "M0#776",
+  "en": "Come see me in the daytime."
+ },
+ {
+  "id": "M0#777",
+  "en": "I mean, when I'm on watch.",
+  "note": "source says come while he is on watch, which clashes with #756/#757 (come when off duty); kept literal"
+ },
+ {
+  "id": "M0#778",
+  "en": "In a hurry?"
+ },
+ {
+  "id": "M0#779",
+  "en": "Doesn't look like it, though. Don't rush."
+ },
+ {
+  "id": "M0#780",
+  "en": "Good of you to come."
+ },
+ {
+  "id": "M0#781",
+  "en": "How about a little chat?"
+ },
+ {
+  "id": "M0#782",
+  "en": "I've been standing watch with nothing to do,"
+ },
+ {
+  "id": "M0#783",
+  "en": "and I was getting pretty bored of it."
+ },
+ {
+  "id": "M0#784",
+  "en": "Me? ",
+  "note": "trailing space: Sati msgs join the name directly after this row (Me? Name.); also Ios msg 67067 and Osaida 34170"
+ },
+ {
+  "id": "M0#785",
+  "en": "What is your name?"
+ },
+ {
+  "id": "M0#786",
+  "en": "I'm Osaida, but",
+  "note": "followed by #66 '...'"
+ },
+ {
+  "id": "M0#787",
+  "en": "That's not what I was asking.",
+  "note": "no used_in; speaker inferred as Osaida"
+ },
+ {
+  "id": "M0#788",
+  "en": "Huh?",
+  "note": "no used_in; inferred player reaction"
+ },
+ {
+  "id": "M0#789",
+  "en": "Then what...?",
+  "note": "no used_in"
+ },
+ {
+  "id": "M0#790",
+  "en": "Ah... never mind. Forget it.",
+  "note": "no used_in"
+ },
+ {
+  "id": "M0#791",
+  "en": "Do you have business in this forest?",
+  "note": "no used_in; inferred Osaida"
+ },
+ {
+  "id": "M0#792",
+  "en": "The forest?",
+  "note": "no used_in"
+ },
+ {
+  "id": "M0#793",
+  "en": "No, not really...",
+  "note": "no used_in"
+ },
+ {
+  "id": "M0#794",
+  "en": "I see. "
+ },
+ {
+  "id": "M0#795",
+  "en": "Figures.",
+  "note": "no used_in"
+ },
+ {
+  "id": "M0#796",
+  "en": "And you?",
+  "note": "Johanna msgs 107391/108036 ('I'm Johanna. / I usually cut grass by the lake. / And you?') and the Osaida scene"
+ },
+ {
+  "id": "M0#797",
+  "en": "What are you doing here, if I may ask?",
+  "note": "no used_in"
+ },
+ {
+  "id": "M0#798",
+  "en": "Ah, I watch the landlord's hunting ground,",
+  "note": "no used_in; 798+799 one sentence"
+ },
+ {
+  "id": "M0#799",
+  "en": "to make sure no poachers get in.",
+  "note": "no used_in"
+ }
+]

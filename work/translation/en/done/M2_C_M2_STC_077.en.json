@@ -1,0 +1,337 @@
+[
+ {
+  "id": "M2#6160",
+  "en": "I'm collecting information on vampires,",
+  "note": "Shared by msgs 250716 (polite) and 251263 (casual)."
+ },
+ {
+  "id": "M2#6161",
+  "en": "you see."
+ },
+ {
+  "id": "M2#6162",
+  "en": "If there's anything you know, too,"
+ },
+ {
+  "id": "M2#6163",
+  "en": "whatever it is, please tell me."
+ },
+ {
+  "id": "M2#6164",
+  "en": "I'm a newspaper reporter."
+ },
+ {
+  "id": "M2#6165",
+  "en": "The slasher who's got the city in an uproar,"
+ },
+ {
+  "id": "M2#6166",
+  "en": "Jack the Ripper - right now I'm on his trail."
+ },
+ {
+  "id": "M2#6167",
+  "en": "Whatever it may be, if you notice"
+ },
+ {
+  "id": "M2#6168",
+  "en": "something, I'd like you to let me"
+ },
+ {
+  "id": "M2#6169",
+  "en": "know as well."
+ },
+ {
+  "id": "M2#6170",
+  "en": "I'd like your help gathering information."
+ },
+ {
+  "id": "M2#6171",
+  "en": "I'm counting on you."
+ },
+ {
+  "id": "M2#6172",
+  "en": "Hi. I'm digging through all sorts of"
+ },
+ {
+  "id": "M2#6173",
+  "en": "records to do with vampires."
+ },
+ {
+  "id": "M2#6174",
+  "en": "Apparently there are people in this city"
+ },
+ {
+  "id": "M2#6175",
+  "en": "called vampire hunters. I'd love to"
+ },
+ {
+  "id": "M2#6176",
+  "en": "get a word with them, too."
+ },
+ {
+  "id": "M2#6177",
+  "en": "I'm counting on you for information."
+ },
+ {
+  "id": "M2#6178",
+  "en": "Oh, it's only you."
+ },
+ {
+  "id": "M2#6179",
+  "en": "What brings you here at this hour?"
+ },
+ {
+  "id": "M2#6180",
+  "en": "Indeed. I've brought you some"
+ },
+ {
+  "id": "M2#6181",
+  "en": "information about vampires."
+ },
+ {
+  "id": "M2#6182",
+  "en": "What! ",
+  "note": "Line 1 of Gregory's box: #6182<p>#6183."
+ },
+ {
+  "id": "M2#6183",
+  "en": "Really?",
+  "note": "No used_in; placed after #6182 by msg.py (msg 250861)."
+ },
+ {
+  "id": "M2#6184",
+  "en": "Surely ",
+  "note": "No used_in; line 2 = #6184<p>#6185 (msg 250861)."
+ },
+ {
+  "id": "M2#6185",
+  "en": "you're not about to tell me you're",
+  "note": "Cut moved: 'you are a vampire' content carried into #6186, 'about to tell me' into #6185."
+ },
+ {
+  "id": "M2#6186",
+  "en": "the vampire, are you?",
+  "note": "'the vampire': Gregory has said a vampire is in the city (#6158/#6159)."
+ },
+ {
+  "id": "M2#6187",
+  "en": "As it happens, that is my intention."
+ },
+ {
+  "id": "M2#6188",
+  "en": "\"Hard to believe till you see it yourself.\""
+ },
+ {
+  "id": "M2#6189",
+  "en": "Isn't that what they say?"
+ },
+ {
+  "id": "M2#6190",
+  "en": "Then let me show you this 'truth' of yours."
+ },
+ {
+  "id": "M2#6191",
+  "en": "Uh, ",
+  "note": "Trailing space kept so the pause join reads 'Uh, Waaa...'. Followed by a pause and #2340 'Waaaaaaaaah...'."
+ },
+ {
+  "id": "M2#6192",
+  "en": "Seeing is believing, after all.",
+  "note": "Player echoes Gregory's own #6152 (same wording)."
+ },
+ {
+  "id": "M2#6193",
+  "en": "The slasher who's got the city in an uproar,",
+  "note": "Same wording as #6165."
+ },
+ {
+  "id": "M2#6194",
+  "en": "Jack the Ripper - he's the one"
+ },
+ {
+  "id": "M2#6195",
+  "en": "I'm investigating."
+ },
+ {
+  "id": "M2#6196",
+  "en": "Hi. Information really has to be"
+ },
+ {
+  "id": "M2#6197",
+  "en": "earned with legwork, after all."
+ },
+ {
+  "id": "M2#6198",
+  "en": "I'm waiting for news on vampires."
+ },
+ {
+  "id": "M2#6199",
+  "en": "Jack the Ripper - I'm trying to",
+  "note": "After #6193; preceded by #6131 'I'm a newspaper reporter.'"
+ },
+ {
+  "id": "M2#6200",
+  "en": "track him down."
+ },
+ {
+  "id": "M2#6201",
+  "en": "If you hear anything, tell me, will you?"
+ },
+ {
+  "id": "M2#6202",
+  "en": "Hi."
+ },
+ {
+  "id": "M2#6203",
+  "en": "You've got to get out and walk like this"
+ },
+ {
+  "id": "M2#6204",
+  "en": "to get information firsthand."
+ },
+ {
+  "id": "M2#6205",
+  "en": "I take it you know something"
+ },
+ {
+  "id": "M2#6206",
+  "en": "about vampires?"
+ },
+ {
+  "id": "M2#6207",
+  "en": "After all, you're listening so intently",
+  "note": "Shared: + #6208 (polite) / + #6215 (casual)."
+ },
+ {
+  "id": "M2#6208",
+  "en": "to what I have to say."
+ },
+ {
+  "id": "M2#6209",
+  "en": "If you know anything too, whatever it"
+ },
+ {
+  "id": "M2#6210",
+  "en": "may be, let me know."
+ },
+ {
+  "id": "M2#6211",
+  "en": "Help me gather information, will you?"
+ },
+ {
+  "id": "M2#6212",
+  "en": "I'm counting on you."
+ },
+ {
+  "id": "M2#6213",
+  "en": "You know something",
+  "note": "Casual register, msg 251535."
+ },
+ {
+  "id": "M2#6214",
+  "en": "about vampires, right?"
+ },
+ {
+  "id": "M2#6215",
+  "en": "to me."
+ },
+ {
+  "id": "M2#6216",
+  "en": "I am your servant, Master."
+ },
+ {
+  "id": "M2#6217",
+  "en": "Command me as you will..."
+ },
+ {
+  "id": "M2#6218",
+  "en": "What's wrong with me...?",
+  "note": "Shared by msgs 254595 and 254630."
+ },
+ {
+  "id": "M2#6219",
+  "en": "I can't seem to shake this tiredness lately..."
+ },
+ {
+  "id": "M2#6220",
+  "en": "Please, give me your orders..."
+ },
+ {
+  "id": "M2#6221",
+  "en": "I have a wound I don't remember getting."
+ },
+ {
+  "id": "M2#6222",
+  "en": "Oh, who might you be?"
+ },
+ {
+  "id": "M2#6223",
+  "en": "What brings you to the home of one like me?"
+ },
+ {
+  "id": "M2#6224",
+  "en": "My name is Angela. The back of the house"
+ },
+ {
+  "id": "M2#6225",
+  "en": "is a general store. If there's anything",
+  "note": "Shared with #6291 (slice 078), which must end '... The back of the house'."
+ },
+ {
+  "id": "M2#6226",
+  "en": "you need, please come round to the shop."
+ },
+ {
+  "id": "M2#6227",
+  "en": "I'm terribly sorry, I'm cleaning just now..."
+ },
+ {
+  "id": "M2#6228",
+  "en": "It's all a mess, so please come back later."
+ },
+ {
+  "id": "M2#6229",
+  "en": "Oh, you've come again?"
+ },
+ {
+  "id": "M2#6230",
+  "en": "What might you want with someone like me?"
+ },
+ {
+  "id": "M2#6231",
+  "en": "Oh, to a shabby place like this..."
+ },
+ {
+  "id": "M2#6232",
+  "en": "I doubt I can be of any help to you, though."
+ },
+ {
+  "id": "M2#6233",
+  "en": "Having you call on me like this",
+  "note": "After {NAME} + #4055 ', good day to you.' Shared with #6292 (slice 078)."
+ },
+ {
+  "id": "M2#6234",
+  "en": "makes me happier than anything."
+ },
+ {
+  "id": "M2#6235",
+  "en": "Do come by the shop as well."
+ },
+ {
+  "id": "M2#6236",
+  "en": "I'm sure you'll find something you like."
+ },
+ {
+  "id": "M2#6237",
+  "en": "Oh, you've come again."
+ },
+ {
+  "id": "M2#6238",
+  "en": "May I ask you one question?"
+ },
+ {
+  "id": "M2#6239",
+  "en": ","
+ }
+]

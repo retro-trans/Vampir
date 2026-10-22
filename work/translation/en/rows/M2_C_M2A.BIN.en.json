@@ -1,0 +1,2001 @@
+[
+ {
+  "id": "M2A.BIN@A64",
+  "off": 2660,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148375548
+   ]
+  ],
+  "idx": 0,
+  "en": "Do you truly intend to defeat me?",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@A5C",
+  "off": 2652,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148375552
+   ]
+  ],
+  "idx": 1,
+  "en": "Yes.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@A30",
+  "off": 2608,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148375556
+   ]
+  ],
+  "idx": 2,
+  "en": "It's true that I've come here to defeat you. ",
+  "note": "Printed on the same line as A0C, hence trailing space.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@A0C",
+  "off": 2572,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375560
+   ]
+  ],
+  "idx": 3,
+  "en": "So that you may rest in eternal sleep.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@A04",
+  "off": 2564,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148375564
+   ],
+   [
+    "ptr",
+    2148376024
+   ]
+  ],
+  "idx": 4,
+  "en": "...",
+  "note": "Same line as 9F4: '...Very well.'",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@9F4",
+  "off": 2548,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148375568
+   ]
+  ],
+  "idx": 5,
+  "en": "Very well.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@9D4",
+  "off": 2516,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375572
+   ]
+  ],
+  "idx": 6,
+  "en": "Then you shall learn the extent of my power.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@9B0",
+  "off": 2480,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375576
+   ]
+  ],
+  "idx": 7,
+  "en": "Because we failed to finish off the vampire",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@98C",
+  "off": 2444,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375580
+   ]
+  ],
+  "idx": 8,
+  "en": "in Calstatt, its power",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@970",
+  "off": 2416,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148375584
+   ]
+  ],
+  "idx": 9,
+  "en": "seems to have grown...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@948",
+  "off": 2376,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375588
+   ]
+  ],
+  "idx": 10,
+  "en": "We'd better do something about it, and soon.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@920",
+  "off": 2336,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375592
+   ]
+  ],
+  "idx": 11,
+  "en": "Vampires are... pitiful creatures, you know.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@8F4",
+  "off": 2292,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148375596
+   ]
+  ],
+  "idx": 12,
+  "en": "You see, in exchange for being spared death,",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@8C8",
+  "off": 2248,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148375600
+   ]
+  ],
+  "idx": 13,
+  "en": "they must live on, bearing eternal suffering.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@8A4",
+  "off": 2212,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375604
+   ]
+  ],
+  "idx": 14,
+  "en": "Freeing them from that suffering",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@87C",
+  "off": 2172,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375608
+   ]
+  ],
+  "idx": 15,
+  "en": "is our mission as well...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@850",
+  "off": 2128,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148375612
+   ]
+  ],
+  "idx": 16,
+  "en": "And we must not let humans suffer",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@83C",
+  "off": 2108,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148375616
+   ]
+  ],
+  "idx": 17,
+  "en": "any more victims...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@814",
+  "off": 2068,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375620
+   ]
+  ],
+  "idx": 18,
+  "en": "We cannot allow any more tragedy!",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@7E8",
+  "off": 2024,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148375624
+   ]
+  ],
+  "idx": 19,
+  "en": "To bring the vampire down, I have prepared",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@7D0",
+  "off": 2000,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148375628
+   ]
+  ],
+  "idx": 20,
+  "en": "several means of doing so...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@7B8",
+  "off": 1976,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148375632
+   ]
+  ],
+  "idx": 21,
+  "en": "Holy water, holy stakes, crosses.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@78C",
+  "off": 1932,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148375636
+   ]
+  ],
+  "idx": 22,
+  "en": "On my instructions, each of them has been",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@774",
+  "off": 1908,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148375640
+   ]
+  ],
+  "idx": 23,
+  "en": "given to the other hunters to carry...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@74C",
+  "off": 1868,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375644
+   ]
+  ],
+  "idx": 24,
+  "en": "We made sure the vampire's coffin had been",
+  "note": "Subject 'we' restored (he and Harker, per 6D4).",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@724",
+  "off": 1828,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375648
+   ]
+  ],
+  "idx": 25,
+  "en": "loaded as cargo, you see... and traced where it was headed.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@6FC",
+  "off": 1788,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375652
+   ]
+  ],
+  "idx": 26,
+  "en": "Its destination: London, England...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@6D4",
+  "off": 1748,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375656
+   ]
+  ],
+  "idx": 27,
+  "en": "Once Harker confirmed it, he and I",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@6AC",
+  "off": 1708,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375660
+   ]
+  ],
+  "idx": 28,
+  "en": "got ahead of it and came on to London first.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@69C",
+  "off": 1692,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148375664
+   ]
+  ],
+  "idx": 29,
+  "en": "That's how we come to be here.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@67C",
+  "off": 1660,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375668
+   ]
+  ],
+  "idx": 30,
+  "en": "Crosses have the power to purify",
+  "note": "Speaker not identified (a doctor: Seward or Van Helsing).",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@668",
+  "off": 1640,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148375672
+   ]
+  ],
+  "idx": 31,
+  "en": "people who have been turned into vampires.",
+  "note": "Wording follows M0A@5AC.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@640",
+  "off": 1600,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375676
+   ]
+  ],
+  "idx": 32,
+  "en": "Day or night, whatever vampires I find,",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@620",
+  "off": 1568,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375680
+   ]
+  ],
+  "idx": 33,
+  "en": "I make a point of purifying them...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@604",
+  "off": 1540,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148375684
+   ]
+  ],
+  "idx": 34,
+  "en": "In a doctor's terms, this would",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@5EC",
+  "off": 1516,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148375688
+   ]
+  ],
+  "idx": 35,
+  "en": "count as treating a patient.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@5E0",
+  "off": 1504,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148375692
+   ]
+  ],
+  "idx": 36,
+  "en": "...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@5C0",
+  "off": 1472,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375696
+   ]
+  ],
+  "idx": 37,
+  "en": "Have we met somewhere before?",
+  "note": "Speaker not identified (a hunter recognising the player; perhaps Harker). Player answers in 584-550.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@5A0",
+  "off": 1440,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375700
+   ]
+  ],
+  "idx": 38,
+  "en": "Could you be...?",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@584",
+  "off": 1412,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148375704
+   ]
+  ],
+  "idx": 39,
+  "en": "Aren't you imagining things?",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@560",
+  "off": 1376,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375708
+   ]
+  ],
+  "idx": 40,
+  "en": "I have no recollection",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@550",
+  "off": 1360,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148375712
+   ]
+  ],
+  "idx": 41,
+  "en": "of ever meeting you.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@52C",
+  "off": 1324,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375716
+   ]
+  ],
+  "idx": 42,
+  "en": "To think the vampire was after",
+  "note": "Harker (Miss Rose, his would-be fiancée).",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@518",
+  "off": 1304,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148375720
+   ]
+  ],
+  "idx": 43,
+  "en": "London all along...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@4F0",
+  "off": 1264,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375724
+   ]
+  ],
+  "idx": 44,
+  "en": "Miss Rose, who was to be my fiancée...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@4CC",
+  "off": 1228,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375728
+   ]
+  ],
+  "idx": 45,
+  "en": "May no danger be drawing near her...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@4B4",
+  "off": 1204,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148375732
+   ]
+  ],
+  "idx": 46,
+  "en": "I can't help but pray for that.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@4A0",
+  "off": 1184,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148375736
+   ]
+  ],
+  "idx": 47,
+  "en": "Blessed sword, holy water...",
+  "note": "Speaker inferred as Harker (glossary: blessed sword, holy water).",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@478",
+  "off": 1144,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375740
+   ]
+  ],
+  "idx": 48,
+  "en": "These are my weapons for fighting vampires.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@458",
+  "off": 1112,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375744
+   ]
+  ],
+  "idx": 49,
+  "en": "Damn, to think we meekly let the vampire",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@438",
+  "off": 1080,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375748
+   ]
+  ],
+  "idx": 50,
+  "en": "land in the British Empire...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@41C",
+  "off": 1052,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148375752
+   ]
+  ],
+  "idx": 51,
+  "en": "But the real fight starts now!",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@3FC",
+  "off": 1020,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375756
+   ]
+  ],
+  "idx": 52,
+  "en": "We five hunters will do all we can",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@3DC",
+  "off": 988,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375760
+   ]
+  ],
+  "idx": 53,
+  "en": "to thwart the vampire's schemes!!",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@3BC",
+  "off": 956,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375764
+   ]
+  ],
+  "idx": 54,
+  "en": "Just wandering around blindly won't let us",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@3A0",
+  "off": 928,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148375768
+   ]
+  ],
+  "idx": 55,
+  "en": "defeat the vampire...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@388",
+  "off": 904,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148375772
+   ]
+  ],
+  "idx": 56,
+  "en": "We must gather information from residents",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@360",
+  "off": 864,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375776
+   ]
+  ],
+  "idx": 57,
+  "en": "and look into any suspicious places...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@340",
+  "off": 832,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375780
+   ]
+  ],
+  "idx": 58,
+  "en": "Now that the great Morris has arrived,",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@31C",
+  "off": 796,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375784
+   ]
+  ],
+  "idx": 59,
+  "en": "the vampire won't get its way anymore!",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@2F8",
+  "off": 760,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375788
+   ]
+  ],
+  "idx": 60,
+  "en": "By day, I go around setting garlic",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@2E4",
+  "off": 740,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148375792
+   ]
+  ],
+  "idx": 61,
+  "en": "in people's homes.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@2C0",
+  "off": 704,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375796
+   ]
+  ],
+  "idx": 62,
+  "en": "It may just be garlic, but don't you",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@2B0",
+  "off": 688,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148375800
+   ]
+  ],
+  "idx": 63,
+  "en": "go underestimating it!",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@288",
+  "off": 648,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375804
+   ]
+  ],
+  "idx": 64,
+  "en": "Put this in a house, and the vampire",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@260",
+  "off": 608,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375808
+   ]
+  ],
+  "idx": 65,
+  "en": "can't drink blood there at night...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@23C",
+  "off": 572,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375812
+   ]
+  ],
+  "idx": 66,
+  "en": "It can also sap the power of Nosferatu",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@21C",
+  "off": 540,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375816
+   ]
+  ],
+  "idx": 67,
+  "en": "and Dhampir, too...",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@200",
+  "off": 512,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148375820
+   ]
+  ],
+  "idx": 68,
+  "en": "Truth is, I'm just repeating what",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@1EC",
+  "off": 492,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148375824
+   ]
+  ],
+  "idx": 69,
+  "en": "Professor Van Helsing told me.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@1C0",
+  "off": 448,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148375828
+   ]
+  ],
+  "idx": 70,
+  "en": "This time... it won't be a seal. You'll be",
+  "note": "Christopher (polite) to Duran: Duran was sealed before.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@19C",
+  "off": 412,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375832
+   ]
+  ],
+  "idx": 71,
+  "en": "going into eternal sleep.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@178",
+  "off": 376,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375836
+   ]
+  ],
+  "idx": 72,
+  "en": "Do you honestly think that I would bother",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@158",
+  "off": 344,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375840
+   ]
+  ],
+  "idx": 73,
+  "en": "taking on the likes of you?",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@134",
+  "off": 308,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375844
+   ]
+  ],
+  "idx": 74,
+  "en": "Heh... well, do as you please.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@114",
+  "off": 276,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375848
+   ]
+  ],
+  "idx": 75,
+  "en": "Your persistence in coming this far, at least,",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@104",
+  "off": 260,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148375852
+   ]
+  ],
+  "idx": 76,
+  "en": "deserves my praise.",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@FB4",
+  "off": 4020,
+  "size": 36,
+  "slot": 36,
+  "refs": [
+   [
+    "ptr",
+    2148375856
+   ]
+  ],
+  "idx": 77,
+  "en": "I hear Nosferatu and Dhampir have often",
+  "note": "Same as M1A.BIN@C04 / M0A.BIN@DAC",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@F98",
+  "off": 3992,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148375860
+   ]
+  ],
+  "idx": 78,
+  "en": "been appearing around these parts.",
+  "note": "Same as M1A.BIN@BE8 / M0A.BIN@D90",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@F78",
+  "off": 3960,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375864
+   ]
+  ],
+  "idx": 79,
+  "en": "Have you heard any such rumors?",
+  "note": "Same as M1A.BIN@BC8 / M0A.BIN@D70",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@F68",
+  "off": 3944,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148375868
+   ]
+  ],
+  "idx": 80,
+  "en": "<Answer>",
+  "note": "Same as M1A.BIN@BB8 / M0A.BIN@D60",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@F58",
+  "off": 3928,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148375872
+   ]
+  ],
+  "idx": 81,
+  "en": "<Don't answer>",
+  "note": "Same as M1A.BIN@BA8 / M0A.BIN@D50",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@F3C",
+  "off": 3900,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148375876
+   ]
+  ],
+  "idx": 82,
+  "en": "Yes. I've heard about it.",
+  "note": "Same as M1A.BIN@B8C / M0A.BIN@D34",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@F24",
+  "off": 3876,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148375880
+   ]
+  ],
+  "idx": 83,
+  "en": "Yeah. I've heard.",
+  "note": "Same as M1A.BIN@B74 / M0A.BIN@D1C",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@F00",
+  "off": 3840,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375884
+   ]
+  ],
+  "idx": 84,
+  "en": "Then show me where on this map.",
+  "note": "Same as M1A.BIN@B50 / M0A.BIN@CF8",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@EE8",
+  "off": 3816,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148375888
+   ]
+  ],
+  "idx": 85,
+  "en": "They're said to appear around here.",
+  "note": "Same as M1A.BIN@B38 / M0A.BIN@CE0",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@ED0",
+  "off": 3792,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148375892
+   ]
+  ],
+  "idx": 86,
+  "en": "I see. Thank you.",
+  "note": "Same as M1A.BIN@B20 / M0A.BIN@CC8",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@EC4",
+  "off": 3780,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148375896
+   ]
+  ],
+  "idx": 87,
+  "en": "I'm sorry. ",
+  "note": "Same as M1A.BIN@B14 / M0A.BIN@CBC",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@EB8",
+  "off": 3768,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148375900
+   ]
+  ],
+  "idx": 88,
+  "en": "Sorry. ",
+  "note": "Same as M1A.BIN@B08 / M0A.BIN@CB0",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@EA4",
+  "off": 3748,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148375904
+   ]
+  ],
+  "idx": 89,
+  "en": "I've forgotten.",
+  "note": "Same as M1A.BIN@AF4 / M0A.BIN@C9C",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@E80",
+  "off": 3712,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375908
+   ]
+  ],
+  "idx": 90,
+  "en": "Then don't get my hopes up like that.",
+  "note": "Same as M1A.BIN@AD0 / M0A.BIN@C78",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@E6C",
+  "off": 3692,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148375912
+   ]
+  ],
+  "idx": 91,
+  "en": "No, I haven't heard ",
+  "note": "Same as M1A.BIN@ABC / M0A.BIN@C64",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@E5C",
+  "off": 3676,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148375916
+   ]
+  ],
+  "idx": 92,
+  "en": "of any such thing.",
+  "note": "Same as M1A.BIN@AAC / M0A.BIN@C54",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@E50",
+  "off": 3664,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148375920
+   ]
+  ],
+  "idx": 93,
+  "en": "of it.",
+  "note": "Same as M1A.BIN@AA0 / M0A.BIN@C48",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@E3C",
+  "off": 3644,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148375924
+   ]
+  ],
+  "idx": 94,
+  "en": "I see. Sorry to have bothered you.",
+  "note": "Same as M1A.BIN@A8C / M0A.BIN@C34",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@E18",
+  "off": 3608,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375928
+   ]
+  ],
+  "idx": 95,
+  "en": "Lately, at night, Nosferatu and",
+  "note": "Same as M1A.BIN@A68 / M0A.BIN@C10",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@E04",
+  "off": 3588,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148375932
+   ]
+  ],
+  "idx": 96,
+  "en": "Dhampir have been showing up, ",
+  "note": "Same as M1A.BIN@A54 / M0A.BIN@BFC",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@DF8",
+  "off": 3576,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148375936
+   ]
+  ],
+  "idx": 97,
+  "en": "or so I hear.",
+  "note": "Same as M1A.BIN@A48 / M0A.BIN@BF0",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@DEC",
+  "off": 3564,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148375940
+   ]
+  ],
+  "idx": 98,
+  "en": "they say.",
+  "note": "Same as M1A.BIN@A3C / M0A.BIN@BE4",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@DCC",
+  "off": 3532,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375944
+   ]
+  ],
+  "idx": 99,
+  "en": "And they're often seen in this area...",
+  "note": "Same as M1A.BIN@A1C / M0A.BIN@BC4",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@DC0",
+  "off": 3520,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148375948
+   ]
+  ],
+  "idx": 100,
+  "en": "No, uh, ",
+  "note": "Same as M1A.BIN@A10 / M0A.BIN@BB8",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@DA0",
+  "off": 3488,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375952
+   ]
+  ],
+  "idx": 101,
+  "en": "I'm sorry. It's nothing.",
+  "note": "Same as M1A.BIN@9F0 / M0A.BIN@B98",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@D84",
+  "off": 3460,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148375956
+   ]
+  ],
+  "idx": 102,
+  "en": "It's nothing. Forget it.",
+  "note": "Same as M1A.BIN@9D4 / M0A.BIN@B7C",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@D60",
+  "off": 3424,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375960
+   ]
+  ],
+  "idx": 103,
+  "en": "Please don't bother me for no reason!",
+  "note": "Same as M1A.BIN@9B0 / M0A.BIN@B58",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@D4C",
+  "off": 3404,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148375964
+   ]
+  ],
+  "idx": 104,
+  "en": "Really... ",
+  "note": "Same as M1A.BIN@99C / M0A.BIN@B44",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@D38",
+  "off": 3384,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148375968
+   ]
+  ],
+  "idx": 105,
+  "en": "I can't believe that.",
+  "note": "Same as M1A.BIN@988 / M0A.BIN@B30",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@D08",
+  "off": 3336,
+  "size": 46,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148375972
+   ]
+  ],
+  "idx": 106,
+  "en": "I see. Then I'd better not go out at night.",
+  "note": "Same as M1A.BIN@958 / M0A.BIN@B00",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@CE4",
+  "off": 3300,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375976
+   ]
+  ],
+  "idx": 107,
+  "en": "Why do you keep telling me the same thing?",
+  "note": "Same as M1A.BIN@934 / M0A.BIN@ADC",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@CC4",
+  "off": 3268,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148375980
+   ]
+  ],
+  "idx": 108,
+  "en": "Are you really that worried about me?",
+  "note": "Same as M1A.BIN@914 / M0A.BIN@ABC",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@CA0",
+  "off": 3232,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375984
+   ]
+  ],
+  "idx": 109,
+  "en": "That's not what you told me before.",
+  "note": "Same as M1A.BIN@8F0 / M0A.BIN@A98",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@C78",
+  "off": 3192,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148375988
+   ]
+  ],
+  "idx": 110,
+  "en": "Now I can't believe either of your stories.",
+  "note": "Same as M1A.BIN@8C8 / M0A.BIN@A70",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@C54",
+  "off": 3156,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148375992
+   ]
+  ],
+  "idx": 111,
+  "en": "Don't talk to me if you've got no business!",
+  "note": "Same as M1A.BIN@8A4 / M0A.BIN@A4C",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@C40",
+  "off": 3136,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148375996
+   ]
+  ],
+  "idx": 112,
+  "en": "Is that true...? ",
+  "note": "Same as M1A.BIN@890 / M0A.BIN@A38",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@C2C",
+  "off": 3116,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148376000
+   ]
+  ],
+  "idx": 113,
+  "en": "I can't believe it.",
+  "note": "Same as M1A.BIN@87C / M0A.BIN@A24",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@C04",
+  "off": 3076,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148376004
+   ]
+  ],
+  "idx": 114,
+  "en": "I see. Then I guess I'll stay in at night.",
+  "note": "Same as M1A.BIN@854 / M0A.BIN@9FC",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@BE8",
+  "off": 3048,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148376008
+   ]
+  ],
+  "idx": 115,
+  "en": "I heard that one already.",
+  "note": "Same as M1A.BIN@838 / M0A.BIN@9E0",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@BC0",
+  "off": 3008,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148376012
+   ]
+  ],
+  "idx": 116,
+  "en": "Why do you keep saying the same thing?",
+  "note": "Same as M1A.BIN@810 / M0A.BIN@9B8",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@B9C",
+  "off": 2972,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148376016
+   ]
+  ],
+  "idx": 117,
+  "en": "That's not what you said before.",
+  "note": "Same as M1A.BIN@7EC / M0A.BIN@994",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@B78",
+  "off": 2936,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148376020
+   ]
+  ],
+  "idx": 118,
+  "en": "Which one am I supposed to believe...?",
+  "note": "Same as M1A.BIN@7C8 / M0A.BIN@970",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@B50",
+  "off": 2896,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148376028
+   ]
+  ],
+  "idx": 120,
+  "en": "You can't seriously expect me to believe that.",
+  "note": "Same as M1A.BIN@798 / M0A.BIN@940",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@B38",
+  "off": 2872,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148376032
+   ]
+  ],
+  "idx": 121,
+  "en": "I'll take that into account.",
+  "note": "Same as M1A.BIN@780 / M0A.BIN@928",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@B28",
+  "off": 2856,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148376036
+   ]
+  ],
+  "idx": 122,
+  "en": "You don't give up, do you?",
+  "note": "Same as M1A.BIN@770 / M0A.BIN@918",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@B08",
+  "off": 2824,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148376040
+   ]
+  ],
+  "idx": 123,
+  "en": "I understood you the first time.",
+  "note": "Same as M1A.BIN@750 / M0A.BIN@8F8",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@AFC",
+  "off": 2812,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148376044
+   ]
+  ],
+  "idx": 124,
+  "en": "Enough. You're relentless.",
+  "note": "Same as M1A.BIN@744 / M0A.BIN@8EC",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@AE0",
+  "off": 2784,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148376048
+   ]
+  ],
+  "idx": 125,
+  "en": "You've gone too far in mocking me.",
+  "note": "Same as M1A.BIN@728 / M0A.BIN@8D0",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@AC0",
+  "off": 2752,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148376052
+   ]
+  ],
+  "idx": 126,
+  "en": "Bringing a rumor like that to me...",
+  "note": "Same as M1A.BIN@708 / M0A.BIN@8B0",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@AA0",
+  "off": 2720,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148376056
+   ]
+  ],
+  "idx": 127,
+  "en": "what on earth is the point of it!",
+  "note": "Same as M1A.BIN@6E8 / M0A.BIN@890",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@A80",
+  "off": 2688,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148376060
+   ]
+  ],
+  "idx": 128,
+  "en": "Thank you. I'll keep it in mind.",
+  "note": "Same as M1A.BIN@6C8 / M0A.BIN@870",
+  "done": true
+ },
+ {
+  "id": "M2A.BIN@4",
+  "off": 4,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "code",
+    2148322332
+   ]
+  ],
+  "en": "Select a location",
+  "note": "Same as M1A.BIN@4 / M0A.BIN@4",
+  "done": true
+ }
+]

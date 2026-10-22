@@ -1,0 +1,340 @@
+[
+ {
+  "id": "M1#1120",
+  "en": "I-I'm sorry! I'll tell you all. So forgive"
+ },
+ {
+  "id": "M1#1121",
+  "en": "me",
+  "note": "completes #1120 'forgive me'; followed by #2 '...' and #25 '.' (needs #25 variant '' for msgs 45945, 46357)"
+ },
+ {
+  "id": "M1#1122",
+  "en": " A-as for the cargo pilfering,",
+  "note": "leading space: follows '...' + '.' on the same line"
+ },
+ {
+  "id": "M1#1123",
+  "en": "I'm just doing it because someone hired me."
+ },
+ {
+  "id": "M1#1124",
+  "en": "Customs men incite the smuggling and"
+ },
+ {
+  "id": "M1#1125",
+  "en": "deliberately overlook it to make a profit."
+ },
+ {
+  "id": "M1#1126",
+  "en": "The worst of them is Karl, the customs officer."
+ },
+ {
+  "id": "M1#1127",
+  "en": "Y-you. No, I mean, you, sir",
+  "note": "followed by #2 '...' + #25; message continues in 46090 (trailing '/')"
+ },
+ {
+  "id": "M1#1128",
+  "en": "I'm very sorry about the other day."
+ },
+ {
+  "id": "M1#1129",
+  "en": ", my master,",
+  "note": "follows {PLAYER_NAME}: 'Name, my master,' - then #1130 'I won't be rude to you again'"
+ },
+ {
+  "id": "M1#1130",
+  "en": "I won't be rude to you again, so please"
+ },
+ {
+  "id": "M1#1131",
+  "en": "let me off",
+  "note": "followed by #2/#25 in both uses (46090, 46594)"
+ },
+ {
+  "id": "M1#1132",
+  "en": "It's all the fault of customs officer Karl."
+ },
+ {
+  "id": "M1#1133",
+  "en": "Boss, please take me on as your retainer,"
+ },
+ {
+  "id": "M1#1134",
+  "en": "I'm begging you."
+ },
+ {
+  "id": "M1#1135",
+  "en": "Hmph, you submit to anyone strong so fast,"
+ },
+ {
+  "id": "M1#1136",
+  "en": "you're just like a dog."
+ },
+ {
+  "id": "M1#1137",
+  "en": "Very well. Sooner or later I'll give you"
+ },
+ {
+  "id": "M1#1138",
+  "en": "orders",
+  "note": "completes #1137 'I'll give you / orders'; #2/#25 follow"
+ },
+ {
+  "id": "M1#1139",
+  "en": "Yes, sir! I'll be waiting."
+ },
+ {
+  "id": "M1#1140",
+  "en": "Sooner or later I'll give you instructions."
+ },
+ {
+  "id": "M1#1141",
+  "en": "Wait at this inn until then."
+ },
+ {
+  "id": "M1#1142",
+  "en": "Yes, sir. Understood."
+ },
+ {
+  "id": "M1#1143",
+  "en": "Ah, I've been waiting for you,"
+ },
+ {
+  "id": "M1#1144",
+  "en": "What are your orders"
+ },
+ {
+  "id": "M1#1145",
+  "en": "First, take off that shirt and let me see"
+ },
+ {
+  "id": "M1#1146",
+  "en": "your neck up close",
+  "note": "followed by #2/#25"
+ },
+ {
+  "id": "M1#1147",
+  "en": "Huh? That's a strange order."
+ },
+ {
+  "id": "M1#1148",
+  "en": "Orders like this are best finished fast."
+ },
+ {
+  "id": "M1#1149",
+  "en": "Aaaaagh!"
+ },
+ {
+  "id": "M1#1150",
+  "en": "This is only your first order."
+ },
+ {
+  "id": "M1#1151",
+  "en": "Now the real thing begins"
+ },
+ {
+  "id": "M1#1152",
+  "en": "Kid, what do you want?"
+ },
+ {
+  "id": "M1#1153",
+  "en": "I'm Brome, a traveler."
+ },
+ {
+  "id": "M1#1154",
+  "en": "What's with you, kid? Quit skulking."
+ },
+ {
+  "id": "M1#1155",
+  "en": "I've got nothing to talk to you about."
+ },
+ {
+  "id": "M1#1156",
+  "en": "Now get out."
+ },
+ {
+  "id": "M1#1157",
+  "en": "You're awfully persistent, kid."
+ },
+ {
+  "id": "M1#1158",
+  "en": "What the hell do you want with me?"
+ },
+ {
+  "id": "M1#1159",
+  "en": "A traveler, huh? I know all about you."
+ },
+ {
+  "id": "M1#1160",
+  "en": "You're hiding at this inn while making"
+ },
+ {
+  "id": "M1#1161",
+  "en": "a nice profit off dirty deeds, aren't you?"
+ },
+ {
+  "id": "M1#1162",
+  "en": "Playing dumb won't do you any good."
+ },
+ {
+  "id": "M1#1163",
+  "en": "You've been leading cargo pilfering and"
+ },
+ {
+  "id": "M1#1164",
+  "en": "making unfair profits from trade ship"
+ },
+ {
+  "id": "M1#1165",
+  "en": "cargo. I know all about it."
+ },
+ {
+  "id": "M1#1166",
+  "en": "Gnnh. Hey, kid!"
+ },
+ {
+  "id": "M1#1167",
+  "en": "Where did you get that information?"
+ },
+ {
+  "id": "M1#1168",
+  "en": "do as I say",
+  "note": "must complete slice 013 #1109 ('...I'll use force to make you' + 'do as I say!'); same ending as #1110"
+ },
+ {
+  "id": "M1#1169",
+  "en": "I don't think I'm weak enough to lose"
+ },
+ {
+  "id": "M1#1170",
+  "en": "to you."
+ },
+ {
+  "id": "M1#1171",
+  "en": " W-what is this",
+  "note": "leading space: follows #326 'Whoa' + #2 '...' (per slice 004 note)"
+ },
+ {
+  "id": "M1#1172",
+  "en": "Kid, what strength in that hand of yours",
+  "note": "followed by #2/#25 ('...' + '.')"
+ },
+ {
+  "id": "M1#1173",
+  "en": "How about it?",
+  "note": "shared with Wesseli msg 144550 (shop manager, 'How about it?' then 'You've been coming so often...'); works for both"
+ },
+ {
+  "id": "M1#1174",
+  "en": "If you admit the truth, I'm willing to"
+ },
+ {
+  "id": "M1#1175",
+  "en": "let go of you."
+ },
+ {
+  "id": "M1#1176",
+  "en": "Kid!"
+ },
+ {
+  "id": "M1#1177",
+  "en": "N-no, I mean, ",
+  "note": "trailing space: {PLAYER_NAME} follows directly; then #327 ', my master', #2, #25"
+ },
+ {
+  "id": "M1#1178",
+  "en": "Young boss!"
+ },
+ {
+  "id": "M1#1179",
+  "en": "Please take me on as your retainer."
+ },
+ {
+  "id": "M1#1180",
+  "en": "Heh",
+  "note": "followed by #2 '...' + #25 '.' (needs #25 variant '' in msg 46626)"
+ },
+ {
+  "id": "M1#1181",
+  "en": " Not a bad idea, either.",
+  "note": "leading space: follows 'Heh...' on the same line"
+ },
+ {
+  "id": "M1#1182",
+  "en": "Until I get my orders, I'll be at this inn,"
+ },
+ {
+  "id": "M1#1183",
+  "en": "standing by, boss."
+ },
+ {
+  "id": "M1#1184",
+  "en": "Heh heh heh"
+ },
+ {
+  "id": "M1#1185",
+  "en": "Please, do try out my strength tonight"
+ },
+ {
+  "id": "M1#1186",
+  "en": "It's a lovely morning, isn't it?",
+  "note": "shared with Klaus (msg 62134)"
+ },
+ {
+  "id": "M1#1187",
+  "en": "I'm Karl. I work at the customs office."
+ },
+ {
+  "id": "M1#1188",
+  "en": "are you heading out for a walk now?",
+  "note": "lowercase: continues 'Oh, Name,' (#969 + name + #983/#1071 ',')"
+ },
+ {
+  "id": "M1#1189",
+  "en": "Good morning,",
+  "note": "shared with Karl (4 msgs) and Josef (140028/140055); name follows on next line + '.' (#189/#1284)"
+ },
+ {
+  "id": "M1#1190",
+  "en": "Hm? Do I have something on my face?"
+ },
+ {
+  "id": "M1#1191",
+  "en": "Good morning,"
+ },
+ {
+  "id": "M1#1192",
+  "en": "There's something I'd like to tell you,"
+ },
+ {
+  "id": "M1#1193",
+  "en": "and only you."
+ },
+ {
+  "id": "M1#1194",
+  "en": "Please come to my house tonight."
+ },
+ {
+  "id": "M1#1195",
+  "en": "It's gotten cold, hasn't it?"
+ },
+ {
+  "id": "M1#1196",
+  "en": "I work at the customs office, and I'm",
+  "note": "split 'I work at the customs office, and I'm' / 'called Karl.'"
+ },
+ {
+  "id": "M1#1197",
+  "en": "called Karl."
+ },
+ {
+  "id": "M1#1198",
+  "en": "I can't wait to get home and have a drink."
+ },
+ {
+  "id": "M1#1199",
+  "en": "Nothing beats a drink after work."
+ }
+]

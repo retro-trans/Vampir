@@ -1,0 +1,339 @@
+[
+ {
+  "id": "M0#320",
+  "en": "How many times do I have to tell you?"
+ },
+ {
+  "id": "M0#321",
+  "en": "Next time I see you in the forest,"
+ },
+ {
+  "id": "M0#322",
+  "en": "I might shoot, thinking you're a deer,"
+ },
+ {
+  "id": "M0#323",
+  "en": "so please be careful."
+ },
+ {
+  "id": "M0#324",
+  "en": "Oh, too bad,"
+ },
+ {
+  "id": "M0#325",
+  "en": "it seems you spotted me first."
+ },
+ {
+  "id": "M0#326",
+  "en": "My hunt has failed,"
+ },
+ {
+  "id": "M0#327",
+  "en": "so now I'm the one who's your prey."
+ },
+ {
+  "id": "M0#328",
+  "en": "I've set rabbit traps here, too."
+ },
+ {
+  "id": "M0#329",
+  "en": "Please be careful."
+ },
+ {
+  "id": "M0#330",
+  "en": "Exactly. You are my prey."
+ },
+ {
+  "id": "M0#331",
+  "en": "And,",
+  "note": "no used_in; 'And,' links #330 to #332 (separate message boxes); kept as a bare connective"
+ },
+ {
+  "id": "M0#332",
+  "en": "You will be a valuable power to me.",
+  "note": "capitalised because msg 13413 starts with it; speaker is the protagonist in vampire mode"
+ },
+ {
+  "id": "M0#333",
+  "en": "I shall make you a fine servant."
+ },
+ {
+  "id": "M0#334",
+  "en": "Come to me."
+ },
+ {
+  "id": "M0#335",
+  "en": "I'm just heading into the forest."
+ },
+ {
+  "id": "M0#336",
+  "en": "Oh, hey, "
+ },
+ {
+  "id": "M0#337",
+  "en": "I'm about to go hunting."
+ },
+ {
+  "id": "M0#338",
+  "en": "I'm on my way back from a hunt."
+ },
+ {
+  "id": "M0#339",
+  "en": "The hunt went well."
+ },
+ {
+  "id": "M0#340",
+  "en": "My sister Liza lives here with us, too."
+ },
+ {
+  "id": "M0#341",
+  "en": "I bagged a deer on yesterday's hunt,",
+  "note": "cut mirrors #303/#304 so the rows read as in the polite version; sentence completed by #342"
+ },
+ {
+  "id": "M0#342",
+  "en": "so let me treat you to the venison."
+ },
+ {
+  "id": "M0#343",
+  "en": "You there, what's your name?"
+ },
+ {
+  "id": "M0#344",
+  "en": "I-I'm ",
+  "note": "must be paired with 'I'm ' in #522 (Aldous, Miltia use #522 + name + #345)"
+ },
+ {
+  "id": "M0#345",
+  "en": ".",
+  "note": "'.' after the name; works for Theodor, Aldous and Miltia (#344 / #522 supply 'I'm ')"
+ },
+ {
+  "id": "M0#346",
+  "en": "I see, ",
+  "note": "shared with Queeg: 'I see, Name.' works for both"
+ },
+ {
+  "id": "M0#347",
+  "en": "This is a hunting area,"
+ },
+ {
+  "id": "M0#348",
+  "en": "and I can't have people walking in uninvited."
+ },
+ {
+  "id": "M0#349",
+  "en": "If I shot you by mistake,"
+ },
+ {
+  "id": "M0#350",
+  "en": "there'd be nothing I could do about it."
+ },
+ {
+  "id": "M0#351",
+  "en": "Eh? Y-yes, I'll be careful."
+ },
+ {
+  "id": "M0#352",
+  "en": "(I hate to admit it, but I'm intimidated...)"
+ },
+ {
+  "id": "M0#353",
+  "en": "(Compared to when we last met,",
+  "note": "cut at the same point as the Japanese; 'he' = Theodor (male)"
+ },
+ {
+  "id": "M0#354",
+  "en": "he seems quite different...)"
+ },
+ {
+  "id": "M0#355",
+  "en": "Hurry back to the village."
+ },
+ {
+  "id": "M0#356",
+  "en": "You again? What are you doing?"
+ },
+ {
+  "id": "M0#357",
+  "en": "Do you want to get shot?"
+ },
+ {
+  "id": "M0#358",
+  "en": "If I see you around again,"
+ },
+ {
+  "id": "M0#359",
+  "en": "I might mistake you for a deer and shoot."
+ },
+ {
+  "id": "M0#360",
+  "en": "So be careful."
+ },
+ {
+  "id": "M0#361",
+  "en": "Oh, too bad. I missed my shot."
+ },
+ {
+  "id": "M0#362",
+  "en": "Looks like you spotted me first."
+ },
+ {
+  "id": "M0#363",
+  "en": "So my hunt is a failure."
+ },
+ {
+  "id": "M0#364",
+  "en": "Sadly, I seem to have become your prey,"
+ },
+ {
+  "id": "M0#365",
+  "en": "and that's how things stand."
+ },
+ {
+  "id": "M0#366",
+  "en": "Just so you know, I've set traps, too."
+ },
+ {
+  "id": "M0#367",
+  "en": "They're for rabbits, but watch your step."
+ },
+ {
+  "id": "M0#368",
+  "en": ", my master,"
+ },
+ {
+  "id": "M0#369",
+  "en": "I shall do nothing but obey faithfully."
+ },
+ {
+  "id": "M0#370",
+  "en": "I'm sure I sleep soundly at night,"
+ },
+ {
+  "id": "M0#371",
+  "en": "yet I get the feeling that I've been out"
+ },
+ {
+  "id": "M0#372",
+  "en": "somewhere, now and then..."
+ },
+ {
+  "id": "M0#373",
+  "en": "Good morning."
+ },
+ {
+  "id": "M0#374",
+  "en": "Oh, we haven't met before, have we?"
+ },
+ {
+  "id": "M0#375",
+  "en": "I am Silas, a shepherd."
+ },
+ {
+  "id": "M0#376",
+  "en": "I'm just on my way to the pasture."
+ },
+ {
+  "id": "M0#377",
+  "en": "Oh, "
+ },
+ {
+  "id": "M0#378",
+  "en": "Yes, I'm off to check on my sheep."
+ },
+ {
+  "id": "M0#379",
+  "en": "Good evening."
+ },
+ {
+  "id": "M0#380",
+  "en": "I'm just on my way home."
+ },
+ {
+  "id": "M0#381",
+  "en": "Yes, the sheep are doing well, thank you."
+ },
+ {
+  "id": "M0#382",
+  "en": "Yes, what can I do for you?"
+ },
+ {
+  "id": "M0#383",
+  "en": "This is Silas, the shepherd."
+ },
+ {
+  "id": "M0#384",
+  "en": "Yes, we move the sheep elsewhere in winter,"
+ },
+ {
+  "id": "M0#385",
+  "en": "and we go along with them,"
+ },
+ {
+  "id": "M0#386",
+  "en": "so this house stands empty for a while."
+ },
+ {
+  "id": "M0#387",
+  "en": "Have you met my son, Erwin?"
+ },
+ {
+  "id": "M0#388",
+  "en": "Lately he's been a handful.",
+  "note": "he = Erwin (Silas's son)"
+ },
+ {
+  "id": "M0#389",
+  "en": "Erwin...",
+  "note": "'Erwin...' kept neutral so it fits #390 and the other use #425 (slice 005): that row must start with a clause about 'he' ('I wonder if he ...')"
+ },
+ {
+  "id": "M0#390",
+  "en": "I wonder if he dislikes being a shepherd."
+ },
+ {
+  "id": "M0#391",
+  "en": "Oh, forgive me. That has nothing to do with you."
+ },
+ {
+  "id": "M0#392",
+  "en": "Ah, welcome, ",
+  "variants": [
+   {
+    "msg": 66847,
+    "en": "Ah, welcome."
+   }
+  ],
+  "note": "variant for Ios (msg 66847), whose line continues without a name"
+ },
+ {
+  "id": "M0#393",
+  "en": "Erwin is here, too,"
+ },
+ {
+  "id": "M0#394",
+  "en": "so why don't we chat for a little while?"
+ },
+ {
+  "id": "M0#395",
+  "en": "Won't you try some of our family's stew?"
+ },
+ {
+  "id": "M0#396",
+  "en": "Pleased to meet you."
+ },
+ {
+  "id": "M0#397",
+  "en": "Is there something I can do for you?"
+ },
+ {
+  "id": "M0#398",
+  "en": "Hello there,"
+ },
+ {
+  "id": "M0#399",
+  "en": "I'm grazing my sheep here.",
+  "note": "reply to an unseen question"
+ }
+]

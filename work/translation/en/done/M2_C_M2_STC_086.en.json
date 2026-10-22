@@ -1,0 +1,329 @@
+[
+ {
+  "id": "M2#6880",
+  "en": "Likewise, I'm sure."
+ },
+ {
+  "id": "M2#6881",
+  "en": "Until we meet again. Good day."
+ },
+ {
+  "id": "M2#6882",
+  "en": "I'm on my way to work now. Goodbye."
+ },
+ {
+  "id": "M2#6883",
+  "en": "Good morning. You're up early."
+ },
+ {
+  "id": "M2#6884",
+  "en": "I'm off to work now, so see you later."
+ },
+ {
+  "id": "M2#6885",
+  "en": "It's me, Winifred!"
+ },
+ {
+  "id": "M2#6886",
+  "en": "How lovely to see you so early in the day."
+ },
+ {
+  "id": "M2#6887",
+  "en": "Today's going to be a good day, I just know it."
+ },
+ {
+  "id": "M2#6888",
+  "en": "Good evening, miss."
+ },
+ {
+  "id": "M2#6889",
+  "en": "I wonder if I might ask the way",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#6890",
+  "en": "Oh, good evening."
+ },
+ {
+  "id": "M2#6891",
+  "en": "Certainly. Where are you headed?"
+ },
+ {
+  "id": "M2#6892",
+  "en": "I heard there was a bank around here",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#6893",
+  "en": "The banks are in the City district."
+ },
+ {
+  "id": "M2#6894",
+  "en": "But it's evening already and they're closed,"
+ },
+ {
+  "id": "M2#6895",
+  "en": "so why not go tomorrow?"
+ },
+ {
+  "id": "M2#6896",
+  "en": "Thank you for your kindness, miss."
+ },
+ {
+  "id": "M2#6897",
+  "en": "It's Winifred."
+ },
+ {
+  "id": "M2#6898",
+  "en": "Very well, Winifred."
+ },
+ {
+  "id": "M2#6899",
+  "en": ". Please call me that.",
+  "note": "After #525 'I am ' + name. JP is 'Please call me {NAME}'; better if #525 gets a variant 'Please call me ' for msg 275300 and this row becomes '.'"
+ },
+ {
+  "id": "M2#6900",
+  "en": "Thank you for the directions. Until next time."
+ },
+ {
+  "id": "M2#6901",
+  "en": "Good day..."
+ },
+ {
+  "id": "M2#6902",
+  "en": "Are you keeping well?"
+ },
+ {
+  "id": "M2#6903",
+  "en": "I don't know what your work is,"
+ },
+ {
+  "id": "M2#6904",
+  "en": "but you always seem so busy."
+ },
+ {
+  "id": "M2#6905",
+  "en": "Do keep it up."
+ },
+ {
+  "id": "M2#6906",
+  "en": "Good evening. We meet again today."
+ },
+ {
+  "id": "M2#6907",
+  "en": "What brings you out tonight?"
+ },
+ {
+  "id": "M2#6908",
+  "en": "<I'm meeting someone>",
+  "note": "Choice; branch -> #6910-#6914."
+ },
+ {
+  "id": "M2#6909",
+  "en": "<A night stroll>",
+  "note": "Choice; branch -> #6915-#6917."
+ },
+ {
+  "id": "M2#6910",
+  "en": "Oh, meeting someone? How lovely."
+ },
+ {
+  "id": "M2#6911",
+  "en": "I'm so busy with work"
+ },
+ {
+  "id": "M2#6912",
+  "en": "I never get a chance to meet anyone."
+ },
+ {
+  "id": "M2#6913",
+  "en": "I envy you.",
+  "note": "After #152 '...', then pause and #6914 on the same line."
+ },
+ {
+  "id": "M2#6914",
+  "en": "Well, until next time."
+ },
+ {
+  "id": "M2#6915",
+  "en": "What a lovely pastime."
+ },
+ {
+  "id": "M2#6916",
+  "en": "I should stop living only for my work, too,"
+ },
+ {
+  "id": "M2#6917",
+  "en": "and take some time for myself."
+ },
+ {
+  "id": "M2#6918",
+  "en": "Oh? Hello, may I help you?"
+ },
+ {
+  "id": "M2#6919",
+  "en": "For telephone inquiries, see the counter."
+ },
+ {
+  "id": "M2#6920",
+  "en": "Hello. Is this place off-limits, then?"
+ },
+ {
+  "id": "M2#6921",
+  "en": "My apologies. I seem to have lost my way."
+ },
+ {
+  "id": "M2#6922",
+  "en": "Oh, well, if you're lost, it can't be helped."
+ },
+ {
+  "id": "M2#6923",
+  "en": "This is the telephone operators' room."
+ },
+ {
+  "id": "M2#6924",
+  "en": "The counter is on the other side."
+ },
+ {
+  "id": "M2#6925",
+  "en": "Thank you, fair lady."
+ },
+ {
+  "id": "M2#6926",
+  "en": "I would very much like to know your name."
+ },
+ {
+  "id": "M2#6927",
+  "en": "My, what a flatterer."
+ },
+ {
+  "id": "M2#6928",
+  "en": "I'm Winifred. Pleased to meet you."
+ },
+ {
+  "id": "M2#6929",
+  "en": "I'll remember your name. Good day."
+ },
+ {
+  "id": "M2#6930",
+  "en": "Oh? I'm afraid you can't come in here."
+ },
+ {
+  "id": "M2#6931",
+  "en": "Oh, it's you! What brings you here?"
+ },
+ {
+  "id": "M2#6932",
+  "en": "Ah, hello. So this is where you work."
+ },
+ {
+  "id": "M2#6933",
+  "en": "I'm sorry, I got rather lost."
+ },
+ {
+  "id": "M2#6934",
+  "en": "I work as a telephone operator."
+ },
+ {
+  "id": "M2#6935",
+  "en": "This is the operators' room, you see."
+ },
+ {
+  "id": "M2#6936",
+  "en": "The counter is on the other side."
+ },
+ {
+  "id": "M2#6937",
+  "en": "Thank you. Until later, then."
+ },
+ {
+  "id": "M2#6938",
+  "en": "You know where the counter is by now, don't you?"
+ },
+ {
+  "id": "M2#6939",
+  "en": "Oh? ...Oh, dear."
+ },
+ {
+  "id": "M2#6940",
+  "en": "You mustn't come in here."
+ },
+ {
+  "id": "M2#6941",
+  "en": "Pardon me."
+ },
+ {
+  "id": "M2#6942",
+  "en": "I wanted to see you, so I couldn't help myself."
+ },
+ {
+  "id": "M2#6943",
+  "en": "W-why! Please don't joke like that."
+ },
+ {
+  "id": "M2#6944",
+  "en": "Goodness, what am I to say to that?"
+ },
+ {
+  "id": "M2#6945",
+  "en": "I have work to do, so... another time."
+ },
+ {
+  "id": "M2#6946",
+  "en": "Have you come by again?"
+ },
+ {
+  "id": "M2#6947",
+  "en": "What can I do for you today?"
+ },
+ {
+  "id": "M2#6948",
+  "en": "Could it be you're teasing me?"
+ },
+ {
+  "id": "M2#6949",
+  "en": "Still, I'm a little glad you came."
+ },
+ {
+  "id": "M2#6950",
+  "en": "I've no complaints, but nothing ever changes."
+ },
+ {
+  "id": "M2#6951",
+  "en": "Hello. How are you today?"
+ },
+ {
+  "id": "M2#6952",
+  "en": "Coming to see an old maid like me,"
+ },
+ {
+  "id": "M2#6953",
+  "en": "you really are a strange one.",
+  "note": "Lowercase: follows #6952 (comma) and #7012 (should end with a comma)."
+ },
+ {
+  "id": "M2#6954",
+  "en": "I've thrown myself into my work"
+ },
+ {
+  "id": "M2#6955",
+  "en": "Is marriage a woman's happiness after all?"
+ },
+ {
+  "id": "M2#6956",
+  "en": "Or is it love itself, I wonder?"
+ },
+ {
+  "id": "M2#6957",
+  "en": "Hello, is anyone there?"
+ },
+ {
+  "id": "M2#6958",
+  "en": "Yes, who is it?"
+ },
+ {
+  "id": "M2#6959",
+  "en": "Um... did you want something from me?"
+ }
+]

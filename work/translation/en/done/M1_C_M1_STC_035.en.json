@@ -1,0 +1,348 @@
+[
+ {
+  "id": "M1#2800",
+  "en": "What brings you by at this hour?"
+ },
+ {
+  "id": "M1#2801",
+  "en": "Actually, I'm feeling a little hungry."
+ },
+ {
+  "id": "M1#2802",
+  "en": "When I got to thinking about food,"
+ },
+ {
+  "id": "M1#2803",
+  "en": "I just had to have"
+ },
+ {
+  "id": "M1#2804",
+  "en": "a meal at \"Neu\""
+ },
+ {
+  "id": "M1#2805",
+  "en": "Thank you very much."
+ },
+ {
+  "id": "M1#2806",
+  "en": "I'm honored to hear you say that."
+ },
+ {
+  "id": "M1#2807",
+  "en": "Oh, I know!"
+ },
+ {
+  "id": "M1#2808",
+  "en": "If you don't mind whatever I have on hand,"
+ },
+ {
+  "id": "M1#2809",
+  "en": "I'll make you something."
+ },
+ {
+  "id": "M1#2810",
+  "en": "For a regular like you, "
+ },
+ {
+  "id": "M1#2811",
+  "en": ","
+ },
+ {
+  "id": "M1#2812",
+  "en": "consider it special service."
+ },
+ {
+  "id": "M1#2813",
+  "en": "Now then, please wait just a moment."
+ },
+ {
+  "id": "M1#2814",
+  "en": "What are you",
+  "note": "No used_in: assumed to join #2814+#2815+#2816 (+? or !) as Oskar's 'What are you doing?!' when bitten."
+ },
+ {
+  "id": "M1#2815",
+  "en": " doing"
+ },
+ {
+  "id": "M1#2816",
+  "en": "",
+  "note": "Empty: in Helmut msgs 156466/156517 'Anything' + '...' + '' + '?' reads 'Anything...?'. In the #2814-#2815 chain the following ?/! closes the question."
+ },
+ {
+  "id": "M1#2817",
+  "en": "What I really wanted to eat,"
+ },
+ {
+  "id": "M1#2818",
+  "en": "was you, all along."
+ },
+ {
+  "id": "M1#2819",
+  "en": "(Oops, ",
+  "note": "trailing space kept so the pause join reads correctly"
+ },
+ {
+  "id": "M1#2820",
+  "en": "I've gone and done it again...)"
+ },
+ {
+  "id": "M1#2821",
+  "en": "Is there something you require",
+  "note": "no end punctuation: #2 '...' follows"
+ },
+ {
+  "id": "M1#2822",
+  "en": "I'm busy."
+ },
+ {
+  "id": "M1#2823",
+  "en": "Don't bother me."
+ },
+ {
+  "id": "M1#2824",
+  "en": "I told you not to bother me, didn't I?"
+ },
+ {
+  "id": "M1#2825",
+  "en": "Just go away."
+ },
+ {
+  "id": "M1#2826",
+  "en": "Would you quit following me around?"
+ },
+ {
+  "id": "M1#2827",
+  "en": "Hmph. I'm sick of seeing your face."
+ },
+ {
+  "id": "M1#2828",
+  "en": "What's with you?"
+ },
+ {
+  "id": "M1#2829",
+  "en": "Stop tailing me, would you?"
+ },
+ {
+  "id": "M1#2830",
+  "en": "You're a suspicious character."
+ },
+ {
+  "id": "M1#2831",
+  "en": "You don't give up, do you?"
+ },
+ {
+  "id": "M1#2832",
+  "en": "Creepy fellow, aren't you",
+  "note": "#2 '...' follows"
+ },
+ {
+  "id": "M1#2833",
+  "en": "Why on earth do you keep hanging around me",
+  "note": "#414 '!' follows"
+ },
+ {
+  "id": "M1#2834",
+  "en": "Enough already. I want you to stop"
+ },
+ {
+  "id": "M1#2835",
+  "en": "following me around",
+  "note": "#414 '!' follows"
+ },
+ {
+  "id": "M1#2836",
+  "en": "I'll thank you not to walk into my house uninvited."
+ },
+ {
+  "id": "M1#2837",
+  "en": "You don't give up. Now get out of here",
+  "note": "#414 '!' follows"
+ },
+ {
+  "id": "M1#2838",
+  "en": "What on earth do you want, coming all the way to my house?"
+ },
+ {
+  "id": "M1#2839",
+  "en": "Give it a rest",
+  "note": "#414 '!' follows"
+ },
+ {
+  "id": "M1#2840",
+  "en": "Go on, shoo! Off with you."
+ },
+ {
+  "id": "M1#2841",
+  "en": "Still showing up after being run off this often?"
+ },
+ {
+  "id": "M1#2842",
+  "en": "You must be a real oddball."
+ },
+ {
+  "id": "M1#2843",
+  "en": "I'm not so idle that I can sit around"
+ },
+ {
+  "id": "M1#2844",
+  "en": "humoring oddballs."
+ },
+ {
+  "id": "M1#2845",
+  "en": "Shady-looking one, aren't you",
+  "note": "#2 '...' follows"
+ },
+ {
+  "id": "M1#2846",
+  "en": "What are you doing in a place like this?"
+ },
+ {
+  "id": "M1#2847",
+  "en": "Where I go and what I do"
+ },
+ {
+  "id": "M1#2848",
+  "en": "is none of your business."
+ },
+ {
+  "id": "M1#2849",
+  "en": "Oh no, it's very much my business."
+ },
+ {
+  "id": "M1#2850",
+  "en": "I'm the warehouse watchman around here."
+ },
+ {
+  "id": "M1#2851",
+  "en": "I can't let suspicious types come near"
+ },
+ {
+  "id": "M1#2852",
+  "en": "this warehouse.",
+  "variants": [
+   {
+    "msg": 177331,
+    "en": "touch this."
+   }
+  ]
+ },
+ {
+  "id": "M1#2853",
+  "en": "You again",
+  "note": "#2 '...' follows"
+ },
+ {
+  "id": "M1#2854",
+  "en": "You really are a shady one",
+  "note": "#2 '...' follows"
+ },
+ {
+  "id": "M1#2855",
+  "en": "What business do you have here?"
+ },
+ {
+  "id": "M1#2856",
+  "en": "is no business of yours."
+ },
+ {
+  "id": "M1#2857",
+  "en": "That being the case,"
+ },
+ {
+  "id": "M1#2858",
+  "en": "stop prowling around here."
+ },
+ {
+  "id": "M1#2859",
+  "en": "Some warehouses sit unused, but even so,"
+ },
+ {
+  "id": "M1#2860",
+  "en": "all sorts of cargo comes in every day,"
+ },
+ {
+  "id": "M1#2861",
+  "en": "so keeping track of it is hard work."
+ },
+ {
+  "id": "M1#2862",
+  "en": "It seems some scoundrel has been"
+ },
+ {
+  "id": "M1#2863",
+  "en": "pilfering the cargo",
+  "note": "#2 '...' follows; thief kept gender-neutral"
+ },
+ {
+  "id": "M1#2864",
+  "en": "The cargo is clearly dwindling",
+  "note": "#2 '...' follows"
+ },
+ {
+  "id": "M1#2865",
+  "en": "Though you're the most suspicious of all",
+  "note": "#2 '...' follows"
+ },
+ {
+  "id": "M1#2866",
+  "en": "Hmph,"
+ },
+ {
+  "id": "M1#2867",
+  "en": "I have no interest in such trifles."
+ },
+ {
+  "id": "M1#2868",
+  "en": "Shut up",
+  "note": "#414 '!' follows"
+ },
+ {
+  "id": "M1#2869",
+  "en": "Anyone wandering around a place like this"
+ },
+ {
+  "id": "M1#2870",
+  "en": "has to be up to something",
+  "note": "#414 '!' follows"
+ },
+ {
+  "id": "M1#2871",
+  "en": "We had a report of some shady character"
+ },
+ {
+  "id": "M1#2872",
+  "en": "prowling around the warehouses at night."
+ },
+ {
+  "id": "M1#2873",
+  "en": "The shady one seems to be a young man,"
+ },
+ {
+  "id": "M1#2874",
+  "en": "so you don't seem to be involved, but",
+  "note": "#2 '...' + #25 '.' follow: needs #25 variant '' for msg 111703"
+ },
+ {
+  "id": "M1#2875",
+  "en": "Still, you're suspicious all the same."
+ },
+ {
+  "id": "M1#2876",
+  "en": "Now, don't show me your face anymore",
+  "note": "#414 '!' follows"
+ },
+ {
+  "id": "M1#2877",
+  "en": "I'm sick and tired of your face."
+ },
+ {
+  "id": "M1#2878",
+  "en": "Get out of my sight",
+  "note": "#414 '!' follows"
+ },
+ {
+  "id": "M1#2879",
+  "en": "A worthless man who suspects everyone,"
+ }
+]

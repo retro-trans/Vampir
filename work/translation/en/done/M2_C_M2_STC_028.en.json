@@ -1,0 +1,342 @@
+[
+ {
+  "id": "M2#2240",
+  "en": "As opposed to what we are conscious of,"
+ },
+ {
+  "id": "M2#2241",
+  "en": "there is what we are not conscious of."
+ },
+ {
+  "id": "M2#2242",
+  "en": "Once I take my theory this far, a great"
+ },
+ {
+  "id": "M2#2243",
+  "en": "many people already turn against it."
+ },
+ {
+  "id": "M2#2244",
+  "en": "Yet the facts are on my side",
+  "note": "followed by #152 '...'"
+ },
+ {
+  "id": "M2#2245",
+  "en": "Well? Do you think you can follow my theory?",
+  "note": "msg at 0x11999 (72097), branch not decoded: after #2192 'Ah, it's you.' + line break; alternative to #2246"
+ },
+ {
+  "id": "M2#2246",
+  "en": "What did you make of our talk the other day?",
+  "note": "alternative to #2245 (other branch), same box after #2192"
+ },
+ {
+  "id": "M2#2247",
+  "en": "<I think I can follow it>",
+  "note": "answer choice to #2245/#2246 -> msg 72171 ('I see.' + dream theory)"
+ },
+ {
+  "id": "M2#2248",
+  "en": "<I can't quite follow it>",
+  "note": "answer choice to #2245/#2246 -> #2249"
+ },
+ {
+  "id": "M2#2249",
+  "en": "Well, it can't be helped."
+ },
+ {
+  "id": "M2#2250",
+  "en": "Once you feel you can follow it, I'll tell you the rest.",
+  "note": "after #2249, other branch than #2251-#2254"
+ },
+ {
+  "id": "M2#2251",
+  "en": "Some at the conference even laughed aloud."
+ },
+ {
+  "id": "M2#2252",
+  "en": "\"The unconscious? What could exist besides"
+ },
+ {
+  "id": "M2#2253",
+  "en": "the reason we possess right now?\" they said",
+  "note": "followed by #152 '...' and the empty #863 variant"
+ },
+ {
+  "id": "M2#2254",
+  "en": "At least you didn't laugh. That's something."
+ },
+ {
+  "id": "M2#2255",
+  "en": "In fact, I have a theory ready that cannot"
+ },
+ {
+  "id": "M2#2256",
+  "en": "go on without grasping \"the unconscious.\""
+ },
+ {
+  "id": "M2#2257",
+  "en": "There is a doorway to the unconscious,"
+ },
+ {
+  "id": "M2#2258",
+  "en": "which we normally cannot even approach."
+ },
+ {
+  "id": "M2#2259",
+  "en": "That doorway is \"the dream.\"",
+  "note": "as #2163"
+ },
+ {
+  "id": "M2#2260",
+  "en": "\"The dream\"?"
+ },
+ {
+  "id": "M2#2261",
+  "en": "Yes. Surely you have them too."
+ },
+ {
+  "id": "M2#2262",
+  "en": "The things we see while we sleep."
+ },
+ {
+  "id": "M2#2263",
+  "en": "Presenting this theory should bring new"
+ },
+ {
+  "id": "M2#2264",
+  "en": "developments to neurology as well."
+ },
+ {
+  "id": "M2#2265",
+  "en": "During sleep, when consciousness fades,",
+  "note": "mirrors #2170-#2172 (slice 027)"
+ },
+ {
+  "id": "M2#2266",
+  "en": "the unconscious tries to fulfill some wish,"
+ },
+ {
+  "id": "M2#2267",
+  "en": "just as it does with slips of the tongue."
+ },
+ {
+  "id": "M2#2268",
+  "en": "Yes, just as with slips of the tongue.",
+  "note": "mirrors #2182"
+ },
+ {
+  "id": "M2#2269",
+  "en": "Will you be presenting it at this conference?",
+  "note": "gentle parallel of #2183"
+ },
+ {
+  "id": "M2#2270",
+  "en": "Claude."
+ },
+ {
+  "id": "M2#2271",
+  "en": "What brings you here at this hour?"
+ },
+ {
+  "id": "M2#2272",
+  "en": "I was hoping you could help me, Claude."
+ },
+ {
+  "id": "M2#2273",
+  "en": "Do you know someone suffering from neurosis?"
+ },
+ {
+  "id": "M2#2274",
+  "en": "I can examine the person, at least, but"
+ },
+ {
+  "id": "M2#2275",
+  "en": "if it is a neurosis, I cannot treat"
+ },
+ {
+  "id": "M2#2276",
+  "en": "it. Is that still all right?"
+ },
+ {
+  "id": "M2#2277",
+  "en": "No,",
+  "note": "line break follows; #2278 continues lowercase"
+ },
+ {
+  "id": "M2#2278",
+  "en": "it isn't someone else. It's about me."
+ },
+ {
+  "id": "M2#2279",
+  "en": "Very well. Tell me about it, then."
+ },
+ {
+  "id": "M2#2280",
+  "en": "The truth is",
+  "note": "followed by three paused '.' (#265), then #2281; the confession itself is not shown in the Japanese either"
+ },
+ {
+  "id": "M2#2281",
+  "en": "and that's how it is."
+ },
+ {
+  "id": "M2#2282",
+  "en": "I've never seen a case like this."
+ },
+ {
+  "id": "M2#2283",
+  "en": "So you're plagued by the obsessive belief"
+ },
+ {
+  "id": "M2#2284",
+  "en": "that you are a vampire",
+  "note": "followed by #152 '...'"
+ },
+ {
+  "id": "M2#2285",
+  "en": "It isn't an obsession. It's a fact.",
+  "note": "msg at 72482, not decoded (opcode 11 d2)"
+ },
+ {
+  "id": "M2#2286",
+  "en": "S-stop it",
+  "note": "msg at 72489, not decoded: #2286 + #2287 + NAME + '!' / #2288 + '!' / #2289 + '!!'"
+ },
+ {
+  "id": "M2#2287",
+  "en": "! ",
+  "note": "after the name in Sonia/Rose/Janis msgs (next row starts a sentence, like #69 '!'; #6772 and #9044 also follow #69), and between #2286 and the name in Claude's 'S-stop it! {NAME}!'; trailing space is for that same-line use"
+ },
+ {
+  "id": "M2#2288",
+  "en": "Stop fooling around",
+  "note": "followed by #122 '!'"
+ },
+ {
+  "id": "M2#2289",
+  "en": "Waaaaah",
+  "note": "followed by #122 '!' x2"
+ },
+ {
+  "id": "M2#2290",
+  "en": "What you saw once you became a Nosferatu"
+ },
+ {
+  "id": "M2#2291",
+  "en": "was no dream. It is a fact."
+ },
+ {
+  "id": "M2#2292",
+  "en": "So you suspect me too, huh?"
+ },
+ {
+  "id": "M2#2293",
+  "en": "What on earth are you talking about?",
+  "note": "stern register (gentle parallel #2329)"
+ },
+ {
+  "id": "M2#2294",
+  "en": "Don't play dumb. You came here thinking"
+ },
+ {
+  "id": "M2#2295",
+  "en": "I'm the murderer too, didn't ya?"
+ },
+ {
+  "id": "M2#2296",
+  "en": "Like I told the police time and again, I've"
+ },
+ {
+  "id": "M2#2297",
+  "en": "got nothing whatsoever to do with the case."
+ },
+ {
+  "id": "M2#2298",
+  "en": "Please... ya gotta believe me."
+ },
+ {
+  "id": "M2#2299",
+  "en": "I ain't the killer."
+ },
+ {
+  "id": "M2#2300",
+  "en": "I ain't Jack, I tell ya!!"
+ },
+ {
+  "id": "M2#2301",
+  "en": "Oh, it's you."
+ },
+ {
+  "id": "M2#2302",
+  "en": "Sorry I lost my head the other day."
+ },
+ {
+  "id": "M2#2303",
+  "en": "Like I keep saying, I ain't Jack"
+ },
+ {
+  "id": "M2#2304",
+  "en": "or anything of the sort."
+ },
+ {
+  "id": "M2#2305",
+  "en": "Sure, cutting hides with a blade is"
+ },
+ {
+  "id": "M2#2306",
+  "en": "my trade, so I'm used to it, but"
+ },
+ {
+  "id": "M2#2307",
+  "en": "human skin? Don't be ridiculous!"
+ },
+ {
+  "id": "M2#2308",
+  "en": "Truth is, I saw what looked like Jack."
+ },
+ {
+  "id": "M2#2309",
+  "en": "I really did."
+ },
+ {
+  "id": "M2#2310",
+  "en": "Right around the time of the murder, too."
+ },
+ {
+  "id": "M2#2311",
+  "en": "I was nice enough to tell the police, and"
+ },
+ {
+  "id": "M2#2312",
+  "en": "they turned around and suspected me!"
+ },
+ {
+  "id": "M2#2313",
+  "en": "Honestly, this city's police are useless."
+ },
+ {
+  "id": "M2#2314",
+  "en": "See, I happened to spot a guy in a black"
+ },
+ {
+  "id": "M2#2315",
+  "en": "cloak sneakily putting away a bloody knife."
+ },
+ {
+  "id": "M2#2316",
+  "en": "Whoever it was went tearing off"
+ },
+ {
+  "id": "M2#2317",
+  "en": "to the west at an incredible speed."
+ },
+ {
+  "id": "M2#2318",
+  "en": "It was dark, so I couldn't make out their"
+ },
+ {
+  "id": "M2#2319",
+  "en": "shape or face at all, though."
+ }
+]

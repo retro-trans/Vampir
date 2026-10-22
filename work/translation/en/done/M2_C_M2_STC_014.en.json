@@ -1,0 +1,329 @@
+[
+ {
+  "id": "M2#1120",
+  "en": "Hello, welcome!"
+ },
+ {
+  "id": "M2#1121",
+  "en": "A new suit? Or would it be alterations?"
+ },
+ {
+  "id": "M2#1122",
+  "en": "This appears to be a tailor's shop."
+ },
+ {
+  "id": "M2#1123",
+  "en": "And you are the owner of this shop?"
+ },
+ {
+  "id": "M2#1124",
+  "en": "Yes, that's me. I'm Darrell. Nice to meet you."
+ },
+ {
+  "id": "M2#1125",
+  "en": "I take pride in my work."
+ },
+ {
+  "id": "M2#1126",
+  "en": "When you need clothes made, do come to us."
+ },
+ {
+  "id": "M2#1127",
+  "en": "Yes, one of these days."
+ },
+ {
+  "id": "M2#1128",
+  "en": "(A skillful human makes a useful servant...)"
+ },
+ {
+  "id": "M2#1129",
+  "en": "Oh, it's you! Welcome to my shop."
+ },
+ {
+  "id": "M2#1130",
+  "en": "So this is your shop."
+ },
+ {
+  "id": "M2#1131",
+  "en": "It's a finer shop than I expected."
+ },
+ {
+  "id": "M2#1132",
+  "en": "I'm glad to hear you say so."
+ },
+ {
+  "id": "M2#1133",
+  "en": "Come by any time, won't you?"
+ },
+ {
+  "id": "M2#1134",
+  "en": "Oh, hello! Good to see you."
+ },
+ {
+  "id": "M2#1135",
+  "en": "Sorry I can't get up. I'm busy today."
+ },
+ {
+  "id": "M2#1136",
+  "en": "I've got a wife to support, you know."
+ },
+ {
+  "id": "M2#1137",
+  "en": "You are married?"
+ },
+ {
+  "id": "M2#1138",
+  "en": "Ha ha, didn't I tell you before?"
+ },
+ {
+  "id": "M2#1139",
+  "en": "That I've got someone waiting at home?"
+ },
+ {
+  "id": "M2#1140",
+  "en": "We just got married. I'm a happy man."
+ },
+ {
+  "id": "M2#1141",
+  "en": "I see. Be happy, then."
+ },
+ {
+  "id": "M2#1142",
+  "en": "How about it? I'll make you a suit, cheap."
+ },
+ {
+  "id": "M2#1143",
+  "en": "Alterations, anything at all, leave it to me."
+ },
+ {
+  "id": "M2#1144",
+  "en": "I see. Then perhaps I'll ask you next time."
+ },
+ {
+  "id": "M2#1145",
+  "en": "I hear your skill is famous in town, Darrell."
+ },
+ {
+  "id": "M2#1146",
+  "en": "Oh, no, not at all. I've still got a lot to learn."
+ },
+ {
+  "id": "M2#1147",
+  "en": "It's just that this is all I'm good at."
+ },
+ {
+  "id": "M2#1148",
+  "en": "I mean to keep at it honestly all my life."
+ },
+ {
+  "id": "M2#1149",
+  "en": "Come by my place sometime."
+ },
+ {
+  "id": "M2#1150",
+  "en": "I'll have my wife make something tasty,"
+ },
+ {
+  "id": "M2#1151",
+  "en": "so why don't we have a nice long chat?"
+ },
+ {
+  "id": "M2#1152",
+  "en": "I guess you'd call it a reason to live."
+ },
+ {
+  "id": "M2#1153",
+  "en": "Work I can put my heart into, a family I love."
+ },
+ {
+  "id": "M2#1154",
+  "en": "I couldn't ask for anything more."
+ },
+ {
+  "id": "M2#1155",
+  "en": "Oh, who might you be?"
+ },
+ {
+  "id": "M2#1156",
+  "en": "Excuse me.",
+  "note": "Base for Quentin msg 172991 (\"I seem to have come to the wrong place. / Excuse me.\"). Variant: msg 38085 name follows, then #762 '.'",
+  "variants": [
+   {
+    "msg": 38085,
+    "en": "Excuse me. I am "
+   }
+  ]
+ },
+ {
+  "id": "M2#1157",
+  "en": "I thought I should introduce myself."
+ },
+ {
+  "id": "M2#1158",
+  "en": "I see. I'm Darrell. Pleased to meet you."
+ },
+ {
+  "id": "M2#1159",
+  "en": "How kind of you to come by specially."
+ },
+ {
+  "id": "M2#1160",
+  "en": "I'm a tailor by trade."
+ },
+ {
+  "id": "M2#1161",
+  "en": "Do drop by the shop if you feel like it."
+ },
+ {
+  "id": "M2#1162",
+  "en": "What is it?"
+ },
+ {
+  "id": "M2#1163",
+  "en": ", it's you! Come on in."
+ },
+ {
+  "id": "M2#1164",
+  "en": "Feels a bit odd, somehow. I find it easier"
+ },
+ {
+  "id": "M2#1165",
+  "en": "to talk at the shop. My wife's here, see."
+ },
+ {
+  "id": "M2#1166",
+  "en": "My wife's the shy type, you see."
+ },
+ {
+  "id": "M2#1167",
+  "en": "I'll introduce you some time."
+ },
+ {
+  "id": "M2#1168",
+  "en": "Oh, good of you to come!"
+ },
+ {
+  "id": "M2#1169",
+  "en": "I look forward to seeing you and chatting."
+ },
+ {
+  "id": "M2#1170",
+  "en": "And not just to the shop. From now on, come"
+ },
+ {
+  "id": "M2#1171",
+  "en": "to the house often, too! You'll be welcome."
+ },
+ {
+  "id": "M2#1172",
+  "en": "Come by any time you like."
+ },
+ {
+  "id": "M2#1173",
+  "en": "You're up quite early yourself."
+ },
+ {
+  "id": "M2#1174",
+  "en": "Likewise. Well, see you another time."
+ },
+ {
+  "id": "M2#1175",
+  "en": "Ah, yes, you're right. It really is dark."
+ },
+ {
+  "id": "M2#1176",
+  "en": "Thank you for the warning."
+ },
+ {
+  "id": "M2#1177",
+  "en": "Are you on your way home from work?"
+ },
+ {
+  "id": "M2#1178",
+  "en": "Likewise. Well, take care."
+ },
+ {
+  "id": "M2#1179",
+  "en": "Good evening, Darrell."
+ },
+ {
+  "id": "M2#1180",
+  "en": "I'm glad to see you're well too."
+ },
+ {
+  "id": "M2#1181",
+  "en": "I've got someone waiting for me at home."
+ },
+ {
+  "id": "M2#1182",
+  "en": "Hello. This seems to be a tailor's shop."
+ },
+ {
+  "id": "M2#1183",
+  "en": "Are you the owner of this shop?"
+ },
+ {
+  "id": "M2#1184",
+  "en": "Yes, I'll be sure to. That's very kind of you."
+ },
+ {
+  "id": "M2#1185",
+  "en": "Hello. So this is your shop."
+ },
+ {
+  "id": "M2#1186",
+  "en": "What a neat, lovely shop it is."
+ },
+ {
+  "id": "M2#1187",
+  "en": "Yes, I'm sure I will. How kind of you."
+ },
+ {
+  "id": "M2#1188",
+  "en": "I've got to earn enough for my wife, too."
+ },
+ {
+  "id": "M2#1189",
+  "en": "Oh, so you're married."
+ },
+ {
+  "id": "M2#1190",
+  "en": "Well, well. I wish you every happiness."
+ },
+ {
+  "id": "M2#1191",
+  "en": "Sure. Then next time I'll bring along some"
+ },
+ {
+  "id": "M2#1192",
+  "en": "clothes I'd like you to work on."
+ },
+ {
+  "id": "M2#1193",
+  "en": "I hear your work is famous in town, Darrell."
+ },
+ {
+  "id": "M2#1194",
+  "en": "I'll have my wife make something tasty,"
+ },
+ {
+  "id": "M2#1195",
+  "en": "Nice to meet you."
+ },
+ {
+  "id": "M2#1196",
+  "en": "I'm going around greeting the neighbors."
+ },
+ {
+  "id": "M2#1197",
+  "en": "Oh, no need to be so formal."
+ },
+ {
+  "id": "M2#1198",
+  "en": "These days, I really look forward to seeing"
+ },
+ {
+  "id": "M2#1199",
+  "en": "you and having a chat."
+ }
+]

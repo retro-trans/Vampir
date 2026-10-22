@@ -1,0 +1,330 @@
+[
+ {
+  "id": "M2#7360",
+  "en": "How do you do, fair lady."
+ },
+ {
+  "id": "M2#7361",
+  "en": "Indeed, I am not from these parts."
+ },
+ {
+  "id": "M2#7362",
+  "en": "Nor am I. I was born in France."
+ },
+ {
+  "id": "M2#7363",
+  "en": "But sadly, it seems we have different homes."
+ },
+ {
+  "id": "M2#7364",
+  "en": "My name is Bridget."
+ },
+ {
+  "id": "M2#7365",
+  "en": "A pleasure to make your acquaintance."
+ },
+ {
+  "id": "M2#7366",
+  "en": "Out for a stroll? What a fine pastime."
+ },
+ {
+  "id": "M2#7367",
+  "en": "Good morning. Are you going out?"
+ },
+ {
+  "id": "M2#7368",
+  "en": "How nice for men, free to live as you please."
+ },
+ {
+  "id": "M2#7369",
+  "en": "We women lose out, tied to the house."
+ },
+ {
+  "id": "M2#7370",
+  "en": ", how are you?"
+ },
+ {
+  "id": "M2#7371",
+  "en": "You look a little pale today."
+ },
+ {
+  "id": "M2#7372",
+  "en": "Someone must worry for you. Do take care."
+ },
+ {
+  "id": "M2#7373",
+  "en": "Perhaps I'll go out again later for a change."
+ },
+ {
+  "id": "M2#7374",
+  "en": "I've had enough of being shut up at home."
+ },
+ {
+  "id": "M2#7375",
+  "en": "Good evening, fair lady."
+ },
+ {
+  "id": "M2#7376",
+  "en": "Oh, good evening. And who might you be?"
+ },
+ {
+  "id": "M2#7377",
+  "en": "Pardon me. My name is "
+ },
+ {
+  "id": "M2#7378",
+  "en": "You seemed so lonely as you walked."
+ },
+ {
+  "id": "M2#7379",
+  "en": "And, like me, you are not English,",
+  "note": "Followed by #5216 'it seems.' on the next line."
+ },
+ {
+  "id": "M2#7380",
+  "en": "Yes, I was born and raised in France."
+ },
+ {
+  "id": "M2#7381",
+  "en": "My name is Bridget."
+ },
+ {
+  "id": "M2#7382",
+  "en": "Do I look lonely?",
+  "note": "After #152 '...' (pause follows)."
+ },
+ {
+  "id": "M2#7383",
+  "en": "In truth, I am."
+ },
+ {
+  "id": "M2#7384",
+  "en": "I have nothing to do."
+ },
+ {
+  "id": "M2#7385",
+  "en": "I can't even look after my own baby."
+ },
+ {
+  "id": "M2#7386",
+  "en": "The nanny takes everything off my hands."
+ },
+ {
+  "id": "M2#7387",
+  "en": "They say a lady doesn't raise her children."
+ },
+ {
+  "id": "M2#7388",
+  "en": "It's absurd."
+ },
+ {
+  "id": "M2#7389",
+  "en": "You do love walking about town, don't you."
+ },
+ {
+  "id": "M2#7390",
+  "en": "Yet you wear such a grave face for it."
+ },
+ {
+  "id": "M2#7391",
+  "en": "Is something the matter?"
+ },
+ {
+  "id": "M2#7392",
+  "en": "! How nice to see you."
+ },
+ {
+  "id": "M2#7393",
+  "en": "Where do you go, day after day?"
+ },
+ {
+  "id": "M2#7394",
+  "en": "<Just out for a walk>",
+  "note": "Choice after msg 291751 (#7393); walk branch -> #7396/#7397."
+ },
+ {
+  "id": "M2#7395",
+  "en": "<I have a matter to look into>",
+  "note": "Choice after msg 291751; investigation branch -> msg 291784 (#7398-#7400)."
+ },
+ {
+  "id": "M2#7396",
+  "en": "My, you really do love walking."
+ },
+ {
+  "id": "M2#7397",
+  "en": "That's rare to hear from a man."
+ },
+ {
+  "id": "M2#7398",
+  "en": "I see. You must have your reasons."
+ },
+ {
+  "id": "M2#7399",
+  "en": "Did you make any progress today?"
+ },
+ {
+  "id": "M2#7400",
+  "en": "I pray it turns out well for you."
+ },
+ {
+  "id": "M2#7401",
+  "en": "You look well."
+ },
+ {
+  "id": "M2#7402",
+  "en": "I went shopping today, too."
+ },
+ {
+  "id": "M2#7403",
+  "en": "When my child is older, we'll go out together."
+ },
+ {
+  "id": "M2#7404",
+  "en": "For now I must leave it all to the nanny."
+ },
+ {
+  "id": "M2#7405",
+  "en": "It's a little lonely, but it can't be helped."
+ },
+ {
+  "id": "M2#7406",
+  "en": "What brings a gentleman to a ladies' hat shop?"
+ },
+ {
+  "id": "M2#7407",
+  "en": "Forgive the intrusion, fair lady."
+ },
+ {
+  "id": "M2#7408",
+  "en": "I'm ashamed to say I have lost my way."
+ },
+ {
+  "id": "M2#7409",
+  "en": "I shall leave at once."
+ },
+ {
+  "id": "M2#7410",
+  "en": "Oh, please... don't trouble yourself."
+ },
+ {
+  "id": "M2#7411",
+  "en": "I am Bridget."
+ },
+ {
+  "id": "M2#7412",
+  "en": "I trust we'll meet again. Good day."
+ },
+ {
+  "id": "M2#7413",
+  "en": "Oh, you are",
+  "note": "Followed by #152 '...' then a line break: 'Oh, you are... / {NAME}, if I recall.'"
+ },
+ {
+  "id": "M2#7414",
+  "en": ""
+ },
+ {
+  "id": "M2#7415",
+  "en": ", if I recall."
+ },
+ {
+  "id": "M2#7416",
+  "en": "Hee hee. A hat for your wife, perhaps?"
+ },
+ {
+  "id": "M2#7417",
+  "en": "And you, madam? Out shopping?"
+ },
+ {
+  "id": "M2#7418",
+  "en": "Well, yes",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#7419",
+  "en": "Not that I really wish to buy anything."
+ },
+ {
+  "id": "M2#7420",
+  "en": "There's simply nothing for me to do at home."
+ },
+ {
+  "id": "M2#7421",
+  "en": "It just passes the time."
+ },
+ {
+  "id": "M2#7422",
+  "en": "Every day is so dull",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#7423",
+  "en": "I'd almost rather work with the servants."
+ },
+ {
+  "id": "M2#7424",
+  "en": "My, you've come to this shop again?"
+ },
+ {
+  "id": "M2#7425",
+  "en": "Are you so very fond of hats?"
+ },
+ {
+  "id": "M2#7426",
+  "en": "Hee hee, I'm only joking."
+ },
+ {
+  "id": "M2#7427",
+  "en": "The servants do the housework and childcare,"
+ },
+ {
+  "id": "M2#7428",
+  "en": "so I simply sit at home."
+ },
+ {
+  "id": "M2#7429",
+  "en": "My, what a surprise",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#7430",
+  "en": "You've come again. What a curious man."
+ },
+ {
+  "id": "M2#7431",
+  "en": "If only my husband were as amusing"
+ },
+ {
+  "id": "M2#7432",
+  "en": "as you."
+ },
+ {
+  "id": "M2#7433",
+  "en": "As for my husband, he's away on business"
+ },
+ {
+  "id": "M2#7434",
+  "en": "overseas at present."
+ },
+ {
+  "id": "M2#7435",
+  "en": "So I have even less to do."
+ },
+ {
+  "id": "M2#7436",
+  "en": "Perhaps I should find another pastime."
+ },
+ {
+  "id": "M2#7437",
+  "en": "I must make my own life enjoyable."
+ },
+ {
+  "id": "M2#7438",
+  "en": "It's time I found a new pastime, I think."
+ },
+ {
+  "id": "M2#7439",
+  "en": "Perhaps I'll grow flowers in the garden."
+ }
+]

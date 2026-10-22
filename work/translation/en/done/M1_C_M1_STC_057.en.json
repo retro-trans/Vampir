@@ -1,0 +1,334 @@
+[
+ {
+  "id": "M1#4560",
+  "en": "Oh, don't be like that. Just a quick look, eh?"
+ },
+ {
+  "id": "M1#4561",
+  "en": "No means no!"
+ },
+ {
+  "id": "M1#4562",
+  "en": "(A mere human, daring to want to touch Orgo!)",
+  "note": "Orgo = the bat familiar disguised as the necktie (glossary)"
+ },
+ {
+  "id": "M1#4563",
+  "en": "These days I'm interested in all sorts of"
+ },
+ {
+  "id": "M1#4564",
+  "en": "things besides jewels. I've even invested in"
+ },
+ {
+  "id": "M1#4565",
+  "en": "this town's glass works and such, you know."
+ },
+ {
+  "id": "M1#4566",
+  "en": "Well, I've plied many trades since my youth,"
+ },
+ {
+  "id": "M1#4567",
+  "en": "but money never hurts to have, after all."
+ },
+ {
+  "id": "M1#4568",
+  "en": "Won't you let me have a good close look at"
+ },
+ {
+  "id": "M1#4569",
+  "en": "that necktie of yours, just once?"
+ },
+ {
+  "id": "M1#4570",
+  "en": "What, no? What a stingy fellow."
+ },
+ {
+  "id": "M1#4571",
+  "en": "Calling at this hour?"
+ },
+ {
+  "id": "M1#4572",
+  "en": "Y-you're not a burglar, are you?!"
+ },
+ {
+  "id": "M1#4573",
+  "en": "I'm afraid all my jewels are kept at the shop,"
+ },
+ {
+  "id": "M1#4574",
+  "en": "and there's no great sum of money in this house."
+ },
+ {
+  "id": "M1#4575",
+  "en": "No, what I want"
+ },
+ {
+  "id": "M1#4576",
+  "en": "is neither jewels nor money."
+ },
+ {
+  "id": "M1#4577",
+  "en": "It is your blood"
+ },
+ {
+  "id": "M1#4578",
+  "en": "\"Blood,\" you say",
+  "note": "followed by three #180 ('...'); next row #4579 is Dellwald's scream in the same message"
+ },
+ {
+  "id": "M1#4579",
+  "en": "Nngyaaah",
+  "note": "used in msg 177477 (Dellwald's scream as he is bitten), though used_in was empty"
+ },
+ {
+  "id": "M1#4580",
+  "en": "",
+  "note": "empty: the elongation mark is left to #6738 (Mrs. Wiene's scream, msg 275604), which should carry the long scream itself"
+ },
+ {
+  "id": "M1#4581",
+  "en": "I don't recall giving a young whelp like you"
+ },
+ {
+  "id": "M1#4582",
+  "en": "leave to be so familiar with me."
+ },
+ {
+  "id": "M1#4583",
+  "en": ", is it?",
+  "note": "after {PLAYER_NAME}"
+ },
+ {
+  "id": "M1#4584",
+  "en": "That's not a name one hears very often."
+ },
+ {
+  "id": "M1#4585",
+  "en": "I won't have a whelp like you so familiar."
+ },
+ {
+  "id": "M1#4586",
+  "en": "Don't be so familiar with me."
+ },
+ {
+  "id": "M1#4587",
+  "en": "What an impertinent fellow."
+ },
+ {
+  "id": "M1#4588",
+  "en": "Oh, I'm terribly sorry."
+ },
+ {
+  "id": "M1#4589",
+  "en": "(Oops, I got told off.)"
+ },
+ {
+  "id": "M1#4590",
+  "en": "Listen,"
+ },
+ {
+  "id": "M1#4591",
+  "en": "it's best to start saving money while young."
+ },
+ {
+  "id": "M1#4592",
+  "en": "Sorry, but I've no time to chat with you."
+ },
+ {
+  "id": "M1#4593",
+  "en": "I'll have to ask you to leave."
+ },
+ {
+  "id": "M1#4594",
+  "en": "This is a jeweler's. We've no use for whelps."
+ },
+ {
+  "id": "M1#4595",
+  "en": "Hmm, you may be young, but you don't seem",
+  "note": "joins shared #4543 'to be a pauper, at least.'"
+ },
+ {
+  "id": "M1#4596",
+  "en": "Hmm, everything is beautifully displayed."
+ },
+ {
+  "id": "M1#4597",
+  "en": "Every stone is lovely",
+  "note": "followed by #2 '...' and #25"
+ },
+ {
+  "id": "M1#4598",
+  "en": "Well, back again, are you?"
+ },
+ {
+  "id": "M1#4599",
+  "en": "Thinking of buying something for your intended?"
+ },
+ {
+  "id": "M1#4600",
+  "en": "No, there's no one like that, but..."
+ },
+ {
+  "id": "M1#4601",
+  "en": "Still, it might not hurt to have a look"
+ },
+ {
+  "id": "M1#4602",
+  "en": "for the future."
+ },
+ {
+  "id": "M1#4603",
+  "en": "Anyway, you've got to start on all sorts of"
+ },
+ {
+  "id": "M1#4604",
+  "en": "things while you're still young, like you are now."
+ },
+ {
+  "id": "M1#4605",
+  "en": "Otherwise, you'll never build a fortune"
+ },
+ {
+  "id": "M1#4606",
+  "en": "like mine."
+ },
+ {
+  "id": "M1#4607",
+  "en": "My new lord...",
+  "note": "followed by #634 variant ' I await your orders...'"
+ },
+ {
+  "id": "M1#4608",
+  "en": "May God's salvation be with you, too."
+ },
+ {
+  "id": "M1#4609",
+  "en": "The sky, birds in flight, clouds drifting..."
+ },
+ {
+  "id": "M1#4610",
+  "en": "Where hearts are warm, the world is home."
+ },
+ {
+  "id": "M1#4611",
+  "en": "Let us pray to the Lord together..."
+ },
+ {
+  "id": "M1#4612",
+  "en": "You look rather pale."
+ },
+ {
+  "id": "M1#4613",
+  "en": "Is something ailing you...?"
+ },
+ {
+  "id": "M1#4614",
+  "en": "God created this world..."
+ },
+ {
+  "id": "M1#4615",
+  "en": "Life is the most precious thing"
+ },
+ {
+  "id": "M1#4616",
+  "en": "God ever invented."
+ },
+ {
+  "id": "M1#4617",
+  "en": "Those who would defile God's invention,"
+ },
+ {
+  "id": "M1#4618",
+  "en": "I simply cannot forgive."
+ },
+ {
+  "id": "M1#4619",
+  "en": "(Sophistry."
+ },
+ {
+  "id": "M1#4620",
+  "en": "Until quite recently, God's existence"
+ },
+ {
+  "id": "M1#4621",
+  "en": "was a mere tool of politics, was it not?)"
+ },
+ {
+  "id": "M1#4622",
+  "en": "Calstatt was once home to many devout folk,"
+ },
+ {
+  "id": "M1#4623",
+  "en": "and crowds used to come to worship, but"
+ },
+ {
+  "id": "M1#4624",
+  "en": "these days more people come for funerals."
+ },
+ {
+  "id": "M1#4625",
+  "en": "Recently, some people calling themselves"
+ },
+ {
+  "id": "M1#4626",
+  "en": "vampire hunters came here."
+ },
+ {
+  "id": "M1#4627",
+  "en": "They say a vampire is in this town..."
+ },
+ {
+  "id": "M1#4628",
+  "en": "Perhaps...",
+  "note": "msg 181112 ends here; msg 181145 continues with #4629"
+ },
+ {
+  "id": "M1#4629",
+  "en": "Might you know something about it?",
+  "note": "also opens msg 181529, so it stands as a full question"
+ },
+ {
+  "id": "M1#4630",
+  "en": "It's just a feeling I had, that's all."
+ },
+ {
+  "id": "M1#4631",
+  "en": "(So the hunters chose this church as their base.)"
+ },
+ {
+  "id": "M1#4632",
+  "en": "What sort of past you have,"
+ },
+ {
+  "id": "M1#4633",
+  "en": "I cannot know... But"
+ },
+ {
+  "id": "M1#4634",
+  "en": "I see a pale ambition in your eyes."
+ },
+ {
+  "id": "M1#4635",
+  "en": "I beg you, cast off that wicked ambition and"
+ },
+ {
+  "id": "M1#4636",
+  "en": "live with a peaceful heart."
+ },
+ {
+  "id": "M1#4637",
+  "en": "(Cast off my wicked ambition",
+  "note": "followed by #180 '...'; continues in #4638 (msg 181215)"
+ },
+ {
+  "id": "M1#4638",
+  "en": " he says?)",
+  "note": "leading space: follows '(Cast off my wicked ambition' + '...'"
+ },
+ {
+  "id": "M1#4639",
+  "en": "Ah, forgive me. That was rude of me to say."
+ }
+]

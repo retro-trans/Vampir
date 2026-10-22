@@ -1,0 +1,331 @@
+[
+ {
+  "id": "M0#2560",
+  "en": "Those who join us that way,"
+ },
+ {
+  "id": "M0#2561",
+  "en": "I will call \"subordinate Nosferatu\""
+ },
+ {
+  "id": "M0#2562",
+  "en": "from now on."
+ },
+ {
+  "id": "M0#2563",
+  "en": "You can give direct Nosferatu a dispatch,"
+ },
+ {
+  "id": "M0#2564",
+  "en": "which lets you command them directly."
+ },
+ {
+  "id": "M0#2565",
+  "en": "Subordinates act the same as direct ones do.",
+  "note": "JP: subordinates behave as their direct Nosferatu does; kept general"
+ },
+ {
+  "id": "M0#2566",
+  "en": "The other difference is that"
+ },
+ {
+  "id": "M0#2567",
+  "en": "direct ones can build up their numbers,"
+ },
+ {
+  "id": "M0#2568",
+  "en": "but subordinates can't."
+ },
+ {
+  "id": "M0#2569",
+  "en": "If possible, I'd like to see capable people"
+ },
+ {
+  "id": "M0#2570",
+  "en": "made into direct Nosferatu."
+ },
+ {
+  "id": "M0#2571",
+  "en": "Critical Vitality..."
+ },
+ {
+  "id": "M0#2572",
+  "en": "I'm about to tell you something important,"
+ },
+ {
+  "id": "M0#2573",
+  "en": "so listen carefully."
+ },
+ {
+  "id": "M0#2574",
+  "en": "To beat the enemy Vampir and win this war,"
+ },
+ {
+  "id": "M0#2575",
+  "en": "you have to increase this Critical Vitality,"
+ },
+ {
+  "id": "M0#2576",
+  "en": "and there's no other way..."
+ },
+ {
+  "id": "M0#2577",
+  "en": "To increase Critical Vitality,"
+ },
+ {
+  "id": "M0#2578",
+  "en": "you have to share your own Critical Vitality",
+  "note": "object/verb order swapped in English: 2578 holds the verb \"share\", 2579 \"with your Nosferatu\""
+ },
+ {
+  "id": "M0#2579",
+  "en": "with your Nosferatu."
+ },
+ {
+  "id": "M0#2580",
+  "en": "If a Nosferatu is female,"
+ },
+ {
+  "id": "M0#2581",
+  "en": "she'll take the Critical Vitality you gave her,",
+  "note": "\"she\" - sentence sets up female Nosferatu in #2580"
+ },
+ {
+  "id": "M0#2582",
+  "en": "and double it overnight for you."
+ },
+ {
+  "id": "M0#2583",
+  "en": "A male Nosferatu, on the other hand,"
+ },
+ {
+  "id": "M0#2584",
+  "en": "will mostly fight enemy Dhampir,"
+ },
+ {
+  "id": "M0#2585",
+  "en": "to take their Critical Vitality."
+ },
+ {
+  "id": "M0#2586",
+  "en": "Conversely, if a Nosferatu loses a battle,"
+ },
+ {
+  "id": "M0#2587",
+  "en": "the Critical Vitality you shared gets taken away."
+ },
+ {
+  "id": "M0#2588",
+  "en": "Each Nosferatu has a limit on how much"
+ },
+ {
+  "id": "M0#2589",
+  "en": "Critical Vitality they can hold. Past it,"
+ },
+ {
+  "id": "M0#2590",
+  "en": "they can't retain any more."
+ },
+ {
+  "id": "M0#2591",
+  "en": "A Nosferatu with no Critical Vitality that night"
+ },
+ {
+  "id": "M0#2592",
+  "en": "can't hear your commands,"
+ },
+ {
+  "id": "M0#2593",
+  "en": "and can't do anything. Be careful."
+ },
+ {
+  "id": "M0#2594",
+  "en": "Even if a Nosferatu loses a battle,"
+ },
+ {
+  "id": "M0#2595",
+  "en": "they won't die,",
+  "note": "\"they\" gender-neutral"
+ },
+ {
+  "id": "M0#2596",
+  "en": "and they won't turn back into humans either."
+ },
+ {
+  "id": "M0#2597",
+  "en": "As for the fighting at night, your familiar"
+ },
+ {
+  "id": "M0#2598",
+  "en": "Sistina will report to you as it happens,"
+ },
+ {
+  "id": "M0#2599",
+  "en": "so listen carefully."
+ },
+ {
+  "id": "M0#2600",
+  "en": "Before dawn, you'll see how your Nosferatu"
+ },
+ {
+  "id": "M0#2601",
+  "en": "fought and how Critical Vitality changed."
+ },
+ {
+  "id": "M0#2602",
+  "en": "Ideally, you'll learn to judge the situation and give"
+ },
+ {
+  "id": "M0#2603",
+  "en": "your direct Nosferatu the right instructions."
+ },
+ {
+  "id": "M0#2604",
+  "en": "Those who call themselves \"vampire hunters\""
+ },
+ {
+  "id": "M0#2605",
+  "en": "are humans you must be very careful of."
+ },
+ {
+  "id": "M0#2606",
+  "en": "They gather rumors from the residents by day,"
+ },
+ {
+  "id": "M0#2607",
+  "en": "and attack us directly at night."
+ },
+ {
+  "id": "M0#2608",
+  "en": "If a door has \"garlic,\" \"holly,\" or an \"altar\""
+ },
+ {
+  "id": "M0#2609",
+  "en": "on it, someone is trying to seal vampires out."
+ },
+ {
+  "id": "M0#2610",
+  "en": "That's the hunters' handiwork."
+ },
+ {
+  "id": "M0#2611",
+  "en": "You can remove them during the day,"
+ },
+ {
+  "id": "M0#2612",
+  "en": "but touching one unawares at night means",
+  "note": "toucher left unspecified (JP elides it); gerund keeps it neutral"
+ },
+ {
+  "id": "M0#2613",
+  "en": "taking damage, so be careful."
+ },
+ {
+  "id": "M0#2614",
+  "en": "The \"altar\" is especially dangerous. Any"
+ },
+ {
+  "id": "M0#2615",
+  "en": "Nosferatu who touches it is \"purified,\""
+ },
+ {
+  "id": "M0#2616",
+  "en": "and turns back into a human."
+ },
+ {
+  "id": "M0#2617",
+  "en": "If the vampire hunters discover our"
+ },
+ {
+  "id": "M0#2618",
+  "en": "residence, we're in a bit of trouble."
+ },
+ {
+  "id": "M0#2619",
+  "en": "They're after the coffins we rest in..."
+ },
+ {
+  "id": "M0#2620",
+  "en": "If they find it and break open our coffins,"
+ },
+ {
+  "id": "M0#2621",
+  "en": "your stats, like \"Vitality\" and \"Blood Flow,\""
+ },
+ {
+  "id": "M0#2622",
+  "en": "can no longer be recovered..."
+ },
+ {
+  "id": "M0#2623",
+  "en": "If your residence gets found out,",
+  "note": "Also listed under msgs 66581/70938/103189/107285 (Ios, Southwark, Wendy, Johanna) where the text shows only this fragment: looks like a stray reference; not varianted. Self-contained for 135364 (no residence mentioned on its first page)"
+ },
+ {
+  "id": "M0#2624",
+  "en": "use \"Wait\" there to repair the coffins."
+ },
+ {
+  "id": "M0#2625",
+  "en": "That's best."
+ },
+ {
+  "id": "M0#2626",
+  "en": "I wish I had enough power to stand"
+ },
+ {
+  "id": "M0#2627",
+  "en": "against them..."
+ },
+ {
+  "id": "M0#2628",
+  "en": ", I can't be of more help to you.",
+  "note": "follows {PLAYER_NAME}; with #2629 \"I'm sorry.\" (shared with msgs 143435/143469, where it follows \"...I want to be more useful\")"
+ },
+ {
+  "id": "M0#2629",
+  "en": "I'm sorry.",
+  "note": "shared: 135291, 143435, 143469; reads as a plain apology in all three"
+ },
+ {
+  "id": "M0#2630",
+  "en": "If the hunters break open our coffins,"
+ },
+ {
+  "id": "M0#2631",
+  "en": "Some vampire hunters are said to have",
+  "note": "reflowed across 2631-2633 (verb phrase moved); no content dropped"
+ },
+ {
+  "id": "M0#2632",
+  "en": "the power to purify Nosferatu and turn"
+ },
+ {
+  "id": "M0#2633",
+  "en": "them back into humans."
+ },
+ {
+  "id": "M0#2634",
+  "en": "Those hunters are hateful, but"
+ },
+ {
+  "id": "M0#2635",
+  "en": "you could also turn the tables and use them."
+ },
+ {
+  "id": "M0#2636",
+  "en": "Among the residents and the hunters,"
+ },
+ {
+  "id": "M0#2637",
+  "en": "you spread false rumors."
+ },
+ {
+  "id": "M0#2638",
+  "en": "With luck, you can steer the hunters toward the enemy's"
+ },
+ {
+  "id": "M0#2639",
+  "en": "stronghold."
+ }
+]

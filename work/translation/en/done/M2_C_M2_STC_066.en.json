@@ -1,0 +1,326 @@
+[
+ {
+  "id": "M2#5280",
+  "en": "Haven't they caught the murderer yet?"
+ },
+ {
+  "id": "M2#5281",
+  "en": "I know! "
+ },
+ {
+  "id": "M2#5282",
+  "en": ", you"
+ },
+ {
+  "id": "M2#5283",
+  "en": "go catch the bad guy!!"
+ },
+ {
+  "id": "M2#5284",
+  "en": "I just hope he doesn't kill me."
+ },
+ {
+  "id": "M2#5285",
+  "en": "Tim..."
+ },
+ {
+  "id": "M2#5286",
+  "en": "Mmm... mumble... There you are, murderer!"
+ },
+ {
+  "id": "M2#5287",
+  "en": "I'll beat you up"
+ },
+ {
+  "id": "M2#5288",
+  "en": "Huh?",
+  "note": "No used_in; msg.py shows it in msg 214461 after #5287 + three pause dots: 'I'll beat you up... Huh?'"
+ },
+ {
+  "id": "M2#5289",
+  "en": "Whoa, it's "
+ },
+ {
+  "id": "M2#5290",
+  "en": "!"
+ },
+ {
+  "id": "M2#5291",
+  "en": "Is this a dream?"
+ },
+ {
+  "id": "M2#5292",
+  "en": "It's not a dream, Tim."
+ },
+ {
+  "id": "M2#5293",
+  "en": "I'm about to go exploring the town by night."
+ },
+ {
+  "id": "M2#5294",
+  "en": "To look for treasure."
+ },
+ {
+  "id": "M2#5295",
+  "en": "Would you like to come with me?"
+ },
+ {
+  "id": "M2#5296",
+  "en": "Huh, really?"
+ },
+ {
+  "id": "M2#5297",
+  "en": "Of course I'll come!"
+ },
+ {
+  "id": "M2#5298",
+  "en": "Then go and get ready for the treasure hunt."
+ },
+ {
+  "id": "M2#5299",
+  "en": "Okay. Wait just a minute."
+ },
+ {
+  "id": "M2#5300",
+  "en": "I'm sorry, Tim.",
+  "note": "No speaker tag; read as the player apologising before biting Tim."
+ },
+ {
+  "id": "M2#5301",
+  "en": "I'm ready. Whoa...!"
+ },
+ {
+  "id": "M2#5302",
+  "en": "Aaaaaaaah..."
+ },
+ {
+  "id": "M2#5303",
+  "en": "Now then, Tim,"
+ },
+ {
+  "id": "M2#5304",
+  "en": "we're setting off to explore the town by night."
+ },
+ {
+  "id": "M2#5305",
+  "en": "Ahem. My name is Finn, and I am a"
+ },
+ {
+  "id": "M2#5306",
+  "en": "detective."
+ },
+ {
+  "id": "M2#5307",
+  "en": "I hate to boast, but even if you searched"
+ },
+ {
+  "id": "M2#5308",
+  "en": "all of London, you'd find no detective"
+ },
+ {
+  "id": "M2#5309",
+  "en": "as capable as I am, I should think."
+ },
+ {
+  "id": "M2#5310",
+  "en": "Well, what can I say?"
+ },
+ {
+  "id": "M2#5311",
+  "en": "I suppose someone like me is what"
+ },
+ {
+  "id": "M2#5312",
+  "en": "they call a great detective."
+ },
+ {
+  "id": "M2#5313",
+  "en": "It seems you would like to hear"
+ },
+ {
+  "id": "M2#5314",
+  "en": "my deductions. Very well, I shall explain."
+ },
+ {
+  "id": "M2#5315",
+  "en": "What, about Jack the Ripper...?"
+ },
+ {
+  "id": "M2#5316",
+  "en": "It's simple. The crimes were committed"
+ },
+ {
+  "id": "M2#5317",
+  "en": "with a knife, and the blade work is beyond"
+ },
+ {
+  "id": "M2#5318",
+  "en": "any amateur's, so..."
+ },
+ {
+  "id": "M2#5319",
+  "en": "Thus we may deduce that the culprit is one"
+ },
+ {
+  "id": "M2#5320",
+  "en": "who handles blades for a living."
+ },
+ {
+  "id": "M2#5321",
+  "en": "On top of that, a suspicious man was near"
+ },
+ {
+  "id": "M2#5322",
+  "en": "the scene at the time of the crime..."
+ },
+ {
+  "id": "M2#5323",
+  "en": "The culprit can be none other than Lenny"
+ },
+ {
+  "id": "M2#5324",
+  "en": "the tanner."
+ },
+ {
+  "id": "M2#5325",
+  "en": "About Jack the Ripper..."
+ },
+ {
+  "id": "M2#5326",
+  "en": "A new possibility has come to light."
+ },
+ {
+  "id": "M2#5327",
+  "en": "Lenny the tanner appears to be innocent."
+ },
+ {
+  "id": "M2#5328",
+  "en": "The most suspicious person now is"
+ },
+ {
+  "id": "M2#5329",
+  "en": "Count Gordon."
+ },
+ {
+  "id": "M2#5330",
+  "en": "This is my very own deduction, mind you."
+ },
+ {
+  "id": "M2#5331",
+  "en": "Yet another suspicious person has emerged..."
+ },
+ {
+  "id": "M2#5332",
+  "en": "Vanessa, the innkeeper..."
+ },
+ {
+  "id": "M2#5333",
+  "en": "She seems to be hiding some secret."
+ },
+ {
+  "id": "M2#5334",
+  "en": "A man named Oliver who frequents the pub"
+ },
+ {
+  "id": "M2#5335",
+  "en": "seems to know something, but..."
+ },
+ {
+  "id": "M2#5336",
+  "en": "Whoa! Wh-what"
+ },
+ {
+  "id": "M2#5337",
+  "en": "who are you?",
+  "note": "Follows 'Wh- Wh-' (#2339 + variant) in msg 217971, hence lowercase."
+ },
+ {
+  "id": "M2#5338",
+  "en": "Me?"
+ },
+ {
+  "id": "M2#5339",
+  "en": "This is what I am."
+ },
+ {
+  "id": "M2#5340",
+  "en": "A detective, is it?"
+ },
+ {
+  "id": "M2#5341",
+  "en": "Any man can call himself one."
+ },
+ {
+  "id": "M2#5342",
+  "en": "I wonder if he will prove useful."
+ },
+ {
+  "id": "M2#5343",
+  "en": "with a knife, and if we also consider that"
+ },
+ {
+  "id": "M2#5344",
+  "en": "the blade work is beyond any amateur's..."
+ },
+ {
+  "id": "M2#5345",
+  "en": "On top of that, a man was reportedly near"
+ },
+ {
+  "id": "M2#5346",
+  "en": "the scene at the time of the crime..."
+ },
+ {
+  "id": "M2#5347",
+  "en": "Yet more suspicious people..."
+ },
+ {
+  "id": "M2#5348",
+  "en": "Vanessa, the innkeeper... She seems"
+ },
+ {
+  "id": "M2#5349",
+  "en": "to be hiding some secret."
+ },
+ {
+  "id": "M2#5350",
+  "en": "I feel as if the blood is draining from me."
+ },
+ {
+  "id": "M2#5351",
+  "en": "I have a wound, yet I hardly feel any pain."
+ },
+ {
+  "id": "M2#5352",
+  "en": "To serve my master is my greatest"
+ },
+ {
+  "id": "M2#5353",
+  "en": "joy. Now, command me as you will..."
+ },
+ {
+  "id": "M2#5354",
+  "en": "I slept in my bed, yet woke in the parlour."
+ },
+ {
+  "id": "M2#5355",
+  "en": "It would be dreadful if I were sleepwalking."
+ },
+ {
+  "id": "M2#5356",
+  "en": "A lovely morning, isn't it?"
+ },
+ {
+  "id": "M2#5357",
+  "en": "Alas, mornings do not agree with me."
+ },
+ {
+  "id": "M2#5358",
+  "en": "My, my, how unfortunate."
+ },
+ {
+  "id": "M2#5359",
+  "en": "For any person, a pleasant morning is",
+  "note": "Continues in #5360 (slice 067): needs e.g. 'worth more than anything, I'd say.'"
+ }
+]

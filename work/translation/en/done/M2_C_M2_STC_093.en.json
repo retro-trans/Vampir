@@ -1,0 +1,335 @@
+[
+ {
+  "id": "M2#7440",
+  "en": "Good day. And who might you be?"
+ },
+ {
+  "id": "M2#7441",
+  "en": "Is it my husband you want? He's out just now."
+ },
+ {
+  "id": "M2#7442",
+  "en": "Is this the house of Bruce, the philanthropist?"
+ },
+ {
+  "id": "M2#7443",
+  "en": "Yes. Bruce is my father-in-law."
+ },
+ {
+  "id": "M2#7444",
+  "en": "I am Bridget, his son's wife."
+ },
+ {
+  "id": "M2#7445",
+  "en": "If you have business, please go to his office."
+ },
+ {
+  "id": "M2#7446",
+  "en": "Yes, I'll do just that."
+ },
+ {
+  "id": "M2#7447",
+  "en": "Good day, then."
+ },
+ {
+  "id": "M2#7448",
+  "en": "My father-in-law is a director of a charity, you know."
+ },
+ {
+  "id": "M2#7449",
+  "en": "My husband and my father-in-law are both"
+ },
+ {
+  "id": "M2#7450",
+  "en": "absurdly devoted to their work."
+ },
+ {
+  "id": "M2#7451",
+  "en": "They both truly love their work."
+ },
+ {
+  "id": "M2#7452",
+  "en": "Still, I envy men so absorbed in their work."
+ },
+ {
+  "id": "M2#7453",
+  "en": "Women, and wives, have nothing to do."
+ },
+ {
+  "id": "M2#7454",
+  "en": "Men get to enjoy life more, don't they?"
+ },
+ {
+  "id": "M2#7455",
+  "en": "Are you here on business, too?"
+ },
+ {
+  "id": "M2#7456",
+  "en": "You call on people all over town so keenly."
+ },
+ {
+  "id": "M2#7457",
+  "en": "My new pastime is growing flowers."
+ },
+ {
+  "id": "M2#7458",
+  "en": "Once my child is able to go outside,"
+ },
+ {
+  "id": "M2#7459",
+  "en": "we'll water them together."
+ },
+ {
+  "id": "M2#7460",
+  "en": "My days have a purpose now."
+ },
+ {
+  "id": "M2#7461",
+  "en": "In a way, it's thanks to you."
+ },
+ {
+  "id": "M2#7462",
+  "en": "How do you do, charming madam."
+ },
+ {
+  "id": "M2#7463",
+  "en": "Yes, I'm not from around here."
+ },
+ {
+  "id": "M2#7464",
+  "en": "London is a fine city, too. Good day."
+ },
+ {
+  "id": "M2#7465",
+  "en": "Perhaps I'll go somewhere for a change, too."
+ },
+ {
+  "id": "M2#7466",
+  "en": "I refuse to stay shut up at home."
+ },
+ {
+  "id": "M2#7467",
+  "en": "Good evening, madam. Forgive the intrusion."
+ },
+ {
+  "id": "M2#7468",
+  "en": "Oh, good evening. Who might you be?"
+ },
+ {
+  "id": "M2#7469",
+  "en": "You looked rather lonely, and I couldn't resist."
+ },
+ {
+  "id": "M2#7470",
+  "en": "And, like me, you seem to have been born"
+ },
+ {
+  "id": "M2#7471",
+  "en": "Indeed I am. I have nothing to do.",
+  "note": "msg 292372: answers her own 'Do I look lonely?'; wording follows slice 092 #7383/#7384."
+ },
+ {
+  "id": "M2#7472",
+  "en": "<I'm out for a walk>"
+ },
+ {
+  "id": "M2#7473",
+  "en": "<I have something to look into>"
+ },
+ {
+  "id": "M2#7474",
+  "en": "That's rare to hear from a young man.",
+  "note": "Walk branch (parallel of 092 #7397). Branch matched by meaning."
+ },
+ {
+  "id": "M2#7475",
+  "en": "My apologies, madam."
+ },
+ {
+  "id": "M2#7476",
+  "en": "I'm terribly out of place here, aren't I?"
+ },
+ {
+  "id": "M2#7477",
+  "en": "I've lost my way, I'm ashamed to say."
+ },
+ {
+  "id": "M2#7478",
+  "en": "I was bored, so it's a pleasure to talk."
+ },
+ {
+  "id": "M2#7479",
+  "en": "I'm Bridget. Pleased to meet you."
+ },
+ {
+  "id": "M2#7480",
+  "en": "The pleasure is mine, madam."
+ },
+ {
+  "id": "M2#7481",
+  "en": "Hee hee. A hat for your sweetheart, perhaps?"
+ },
+ {
+  "id": "M2#7482",
+  "en": "Are you enjoying your shopping, madam?"
+ },
+ {
+  "id": "M2#7483",
+  "en": "Every day is so dull..."
+ },
+ {
+  "id": "M2#7484",
+  "en": "I wish my husband were amusing, too."
+ },
+ {
+  "id": "M2#7485",
+  "en": "Oh, but that's unfair to my husband."
+ },
+ {
+  "id": "M2#7486",
+  "en": "He's away overseas on business."
+ },
+ {
+  "id": "M2#7487",
+  "en": "So I have even less to do. It's a trial."
+ },
+ {
+  "id": "M2#7488",
+  "en": "A new pastime... growing garden flowers,"
+ },
+ {
+  "id": "M2#7489",
+  "en": "is what I have in mind."
+ },
+ {
+  "id": "M2#7490",
+  "en": "Rather a good idea, don't you think?"
+ },
+ {
+  "id": "M2#7491",
+  "en": "Is this the home of Mr. Bruce, the philanthropist?"
+ },
+ {
+  "id": "M2#7492",
+  "en": "Yes, I'll do that."
+ },
+ {
+  "id": "M2#7493",
+  "en": "Good day to you, madam."
+ },
+ {
+  "id": "M2#7494",
+  "en": "My father-in-law is a director of the Charity Society."
+ },
+ {
+  "id": "M2#7495",
+  "en": "Men can enjoy life more, can't they?"
+ },
+ {
+  "id": "M2#7496",
+  "en": "In a way, I have you to thank for it."
+ },
+ {
+  "id": "M2#7497",
+  "en": "Excuse me, madam."
+ },
+ {
+  "id": "M2#7498",
+  "en": "I have come for some of your time."
+ },
+ {
+  "id": "M2#7499",
+  "en": "You..."
+ },
+ {
+  "id": "M2#7500",
+  "en": "And my time?"
+ },
+ {
+  "id": "M2#7501",
+  "en": "What do you mean?"
+ },
+ {
+  "id": "M2#7502",
+  "en": "It's nothing much."
+ },
+ {
+  "id": "M2#7503",
+  "en": "I'd just like a little help from you."
+ },
+ {
+  "id": "M2#7504",
+  "en": "Well..."
+ },
+ {
+  "id": "M2#7505",
+  "en": "if it's something I can do..."
+ },
+ {
+  "id": "M2#7506",
+  "en": "But you,"
+ },
+ {
+  "id": "M2#7507",
+  "en": "calling at such an hour..."
+ },
+ {
+  "id": "M2#7508",
+  "en": "And how did you get in here..."
+ },
+ {
+  "id": "M2#7509",
+  "en": "I could explain it all in detail, but"
+ },
+ {
+  "id": "M2#7510",
+  "en": "for now, let me do this..."
+ },
+ {
+  "id": "M2#7511",
+  "en": "N-no",
+  "variants": [
+   {
+    "ref": 293106,
+    "en": " we mustn't"
+   },
+   {
+    "msg": 344741,
+    "en": " tired"
+   }
+  ]
+ },
+ {
+  "id": "M2#7512",
+  "en": "... ",
+  "note": "Trailing space so #2339 'Wh-' is separated."
+ },
+ {
+  "id": "M2#7513",
+  "en": "It's only for a moment, so forgive me"
+ },
+ {
+  "id": "M2#7514",
+  "en": "What is your wish? Anything at all"
+ },
+ {
+  "id": "M2#7515",
+  "en": "Phew, I'm tired, so tired. Oof"
+ },
+ {
+  "id": "M2#7516",
+  "en": "Somehow I've been short of sleep lately."
+ },
+ {
+  "id": "M2#7517",
+  "en": "I'm just so worn out."
+ },
+ {
+  "id": "M2#7518",
+  "en": "Come, your orders"
+ },
+ {
+  "id": "M2#7519",
+  "en": "How odd. I've got bruises all over."
+ }
+]

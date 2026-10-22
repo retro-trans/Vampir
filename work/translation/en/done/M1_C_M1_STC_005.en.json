@@ -1,0 +1,337 @@
+[
+ {
+  "id": "M1#400",
+  "en": "Those who were actually called rulers"
+ },
+ {
+  "id": "M1#401",
+  "en": "are numerous."
+ },
+ {
+  "id": "M1#402",
+  "en": "Here,"
+ },
+ {
+  "id": "M1#403",
+  "en": "What's this book?"
+ },
+ {
+  "id": "M1#404",
+  "en": "Whether it can be done or not"
+ },
+ {
+  "id": "M1#405",
+  "en": "is for you to judge."
+ },
+ {
+  "id": "M1#406",
+  "en": "Democracy takes the form of indirect rule"
+ },
+ {
+  "id": "M1#407",
+  "en": "Under a dictatorship, by direct rule,",
+  "note": "Unused row (no msg); sentence is cut off in the source, kept cut off"
+ },
+ {
+  "id": "M1#408",
+  "en": "to bind people, fear rather than happiness",
+  "note": "Unused row; source cuts off before the verb, kept"
+ },
+ {
+  "id": "M1#409",
+  "en": "I feel like I can do it,"
+ },
+ {
+  "id": "M1#410",
+  "en": "Keep teaching me all kinds of things!"
+ },
+ {
+  "id": "M1#411",
+  "en": "I feel like I can do it."
+ },
+ {
+  "id": "M1#412",
+  "en": ", as long as you're with me!",
+  "note": "Name + #98 ('') + this: 'Name, as long as you're with me!'"
+ },
+ {
+  "id": "M1#413",
+  "en": "Ludwig"
+ },
+ {
+  "id": "M1#414",
+  "en": "!"
+ },
+ {
+  "id": "M1#415",
+  "en": "Yes, Master ",
+  "note": "'Master ' lets msg 17974 read 'Yes, Master {NAME}.' with #419='.'; Alisa gets a variant",
+  "variants": [
+   {
+    "msg": 227510,
+    "en": "Yes? "
+   }
+  ]
+ },
+ {
+  "id": "M1#416",
+  "en": "Today begins your rule over humankind."
+ },
+ {
+  "id": "M1#417",
+  "en": "First, practise on the people of Calstatt."
+ },
+ {
+  "id": "M1#418",
+  "en": "Are you ready?"
+ },
+ {
+  "id": "M1#419",
+  "en": ".",
+  "note": "Alisa msg 225894 gets 'My master, ' + name + '.'"
+ },
+ {
+  "id": "M1#420",
+  "en": "Bare your neck."
+ },
+ {
+  "id": "M1#421",
+  "en": "Please take care of me."
+ },
+ {
+  "id": "M1#422",
+  "en": "I'll make you a finer politician than your father."
+ },
+ {
+  "id": "M1#423",
+  "en": "A politician who rules the city through fear."
+ },
+ {
+  "id": "M1#424",
+  "en": "to be your tutor",
+  "note": "Needs #334 = 'Your father asked me' (msg 18114 and #335 in 17113 'to be your tutor...')"
+ },
+ {
+  "id": "M1#425",
+  "en": "(So I'm being ignored...)"
+ },
+ {
+  "id": "M1#426",
+  "en": "You can't just show up at this hour."
+ },
+ {
+  "id": "M1#427",
+  "en": "When I read a book like this,"
+ },
+ {
+  "id": "M1#428",
+  "en": "I feel calm inside."
+ },
+ {
+  "id": "M1#429",
+  "en": "I'd like to share this calm"
+ },
+ {
+  "id": "M1#430",
+  "en": "with other people, too."
+ },
+ {
+  "id": "M1#431",
+  "en": "So you're the new tutor, huh."
+ },
+ {
+  "id": "M1#432",
+  "en": "That makes four already."
+ },
+ {
+  "id": "M1#433",
+  "en": "The ones before you,"
+ },
+ {
+  "id": "M1#434",
+  "en": "I drove every one of them out."
+ },
+ {
+  "id": "M1#435",
+  "en": "They all"
+ },
+ {
+  "id": "M1#436",
+  "en": "can't stand up to my old man,"
+ },
+ {
+  "id": "M1#437",
+  "en": "so they were helpless when I made a fuss."
+ },
+ {
+  "id": "M1#438",
+  "en": "Do you know my old man, too?"
+ },
+ {
+  "id": "M1#439",
+  "en": "No, I only met the mayor the other day."
+ },
+ {
+  "id": "M1#440",
+  "en": "Hmm. That's a new one."
+ },
+ {
+  "id": "M1#441",
+  "en": "Just so you know,",
+  "note": "Needs #351 to be a full sentence 'I'm not going to study at all.' (mirror of #350)"
+ },
+ {
+  "id": "M1#442",
+  "en": "I'm not great enough to"
+ },
+ {
+  "id": "M1#443",
+  "en": "teach anyone anything."
+ },
+ {
+  "id": "M1#444",
+  "en": "You're a strange guy",
+  "note": "No full stop: #180 follows as '...'"
+ },
+ {
+  "id": "M1#445",
+  "en": "But that works out fine."
+ },
+ {
+  "id": "M1#446",
+  "en": "I'll make it look like I'm"
+ },
+ {
+  "id": "M1#447",
+  "en": "studying properly with you."
+ },
+ {
+  "id": "M1#448",
+  "en": "You can do whatever you like in our house."
+ },
+ {
+  "id": "M1#449",
+  "en": "Though it has to be something you can do at home."
+ },
+ {
+  "id": "M1#450",
+  "en": "How about we spend our time without bothering each other?"
+ },
+ {
+  "id": "M1#451",
+  "en": "Shall we settle for that?"
+ },
+ {
+  "id": "M1#452",
+  "en": "It's fine with me, if it's fine with you."
+ },
+ {
+  "id": "M1#453",
+  "en": "All right, it's settled."
+ },
+ {
+  "id": "M1#454",
+  "en": "Let's start doing it this way from tomorrow."
+ },
+ {
+  "id": "M1#455",
+  "en": "You don't have to come so often."
+ },
+ {
+  "id": "M1#456",
+  "en": "Once in a while is fine. Once in a while."
+ },
+ {
+  "id": "M1#457",
+  "en": "Did you go to school properly?"
+ },
+ {
+  "id": "M1#458",
+  "en": "School?"
+ },
+ {
+  "id": "M1#459",
+  "en": "I've never been, not even once."
+ },
+ {
+  "id": "M1#460",
+  "en": "Not even once",
+  "note": "Unused; #461 '?' follows"
+ },
+ {
+  "id": "M1#461",
+  "en": "?"
+ },
+ {
+  "id": "M1#462",
+  "en": "I don't mean dropped out or anything,"
+ },
+ {
+  "id": "M1#463",
+  "en": "you've never been even once?"
+ },
+ {
+  "id": "M1#464",
+  "en": "That's right."
+ },
+ {
+  "id": "M1#465",
+  "en": "Then where did you study?!"
+ },
+ {
+  "id": "M1#466",
+  "en": "I don't think I've ever studied."
+ },
+ {
+  "id": "M1#467",
+  "en": "I had someone at my side to serve me,"
+ },
+ {
+  "id": "M1#468",
+  "en": "and from my daily needs to my worries,"
+ },
+ {
+  "id": "M1#469",
+  "en": "I left everything to that person."
+ },
+ {
+  "id": "M1#470",
+  "en": "You really are a rich kid, just like you look."
+ },
+ {
+  "id": "M1#471",
+  "en": "Still, to have never been to school at all..."
+ },
+ {
+  "id": "M1#472",
+  "en": "Well, I guess I'm about the same."
+ },
+ {
+  "id": "M1#473",
+  "en": "I skip school and stay home,"
+ },
+ {
+  "id": "M1#474",
+  "en": "and I've still got a tutor, after all."
+ },
+ {
+  "id": "M1#475",
+  "en": "Yeah. I'm listening."
+ },
+ {
+  "id": "M1#476",
+  "en": "The adults who gather around me"
+ },
+ {
+  "id": "M1#477",
+  "en": "were all insufferable hypocrites,"
+ },
+ {
+  "id": "M1#478",
+  "en": "but you might be a little different."
+ },
+ {
+  "id": "M1#479",
+  "en": "...Damn."
+ }
+]

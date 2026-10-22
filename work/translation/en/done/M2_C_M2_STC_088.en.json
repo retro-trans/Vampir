@@ -1,0 +1,333 @@
+[
+ {
+  "id": "M2#7040",
+  "en": "No, think nothing of it, miss."
+ },
+ {
+  "id": "M2#7041",
+  "en": "Since we've met, may I ask your name?"
+ },
+ {
+  "id": "M2#7042",
+  "en": "My name is Sylvia."
+ },
+ {
+  "id": "M2#7043",
+  "en": "It's a pleasure to meet you."
+ },
+ {
+  "id": "M2#7044",
+  "en": "But it's strange. Seeing you there,"
+ },
+ {
+  "id": "M2#7045",
+  "en": "I somehow felt I had to say hello",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#7046",
+  "en": "That's quite all right. I'm honored."
+ },
+ {
+  "id": "M2#7047",
+  "en": "I hope we meet again, Sylvia."
+ },
+ {
+  "id": "M2#7048",
+  "en": "How strange. We've only just met, yet"
+ },
+ {
+  "id": "M2#7049",
+  "en": "it's somehow like meeting someone dear",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#7050",
+  "en": "I hope we meet again. Goodbye."
+ },
+ {
+  "id": "M2#7051",
+  "en": "You look well. I'm so glad."
+ },
+ {
+  "id": "M2#7052",
+  "en": "Somehow, seeing you puts me at ease."
+ },
+ {
+  "id": "M2#7053",
+  "en": ", is that you?",
+  "note": "After the name; a pause follows, then a new line."
+ },
+ {
+  "id": "M2#7054",
+  "en": "Oh, I knew it was you."
+ },
+ {
+  "id": "M2#7055",
+  "en": "Are you feeling well today?"
+ },
+ {
+  "id": "M2#7056",
+  "en": "<Very well indeed>"
+ },
+ {
+  "id": "M2#7057",
+  "en": "<A bit under the weather...>"
+ },
+ {
+  "id": "M2#7058",
+  "en": "I'm so glad. That's a relief.",
+  "note": "Answer to #7056; not decoded by talk.py (branch start lost)."
+ },
+ {
+  "id": "M2#7059",
+  "en": "You always seem livelier at night, somehow."
+ },
+ {
+  "id": "M2#7060",
+  "en": "Oh my, what's wrong? I'm worried."
+ },
+ {
+  "id": "M2#7061",
+  "en": "It's just a feeling, but by day you always seem"
+ },
+ {
+  "id": "M2#7062",
+  "en": "so tired. Please take care of yourself."
+ },
+ {
+  "id": "M2#7063",
+  "en": "How may I help you?"
+ },
+ {
+  "id": "M2#7064",
+  "en": "No, I only came to see where this place is."
+ },
+ {
+  "id": "M2#7065",
+  "en": "Pardon the intrusion.",
+  "note": "Also used by the player at Virginia's salon (msg 324674), wrong house."
+ },
+ {
+  "id": "M2#7066",
+  "en": "Oh, I see."
+ },
+ {
+  "id": "M2#7067",
+  "en": "Please come again. Thank you."
+ },
+ {
+  "id": "M2#7068",
+  "en": "How may I help you?... Oh,"
+ },
+ {
+  "id": "M2#7069",
+  "en": "hello! Welcome to our bank.",
+  "note": "Continues #7068 'Oh,'."
+ },
+ {
+  "id": "M2#7070",
+  "en": "Will you be making a deposit?"
+ },
+ {
+  "id": "M2#7071",
+  "en": "Hello, Sylvia."
+ },
+ {
+  "id": "M2#7072",
+  "en": "I'm afraid I'm only dropping by today."
+ },
+ {
+  "id": "M2#7073",
+  "en": "I'm also getting my bearings."
+ },
+ {
+  "id": "M2#7074",
+  "en": "Do come to us to make your deposits."
+ },
+ {
+  "id": "M2#7075",
+  "en": "I'll be waiting for you.",
+  "note": "Shared with Clio msg 402484 (date invitation)."
+ },
+ {
+  "id": "M2#7076",
+  "en": "Welcome, and thank you for coming."
+ },
+ {
+  "id": "M2#7077",
+  "en": "What brings you here today?"
+ },
+ {
+  "id": "M2#7078",
+  "en": "I'll help you any way I can."
+ },
+ {
+  "id": "M2#7079",
+  "en": ", you're",
+  "note": "After the name; #7080 continues on the next line."
+ },
+ {
+  "id": "M2#7080",
+  "en": "quite an amusing man."
+ },
+ {
+  "id": "M2#7081",
+  "en": "Is coming to the bank really so much fun?"
+ },
+ {
+  "id": "M2#7082",
+  "en": "Since you're here, how about a deposit?"
+ },
+ {
+  "id": "M2#7083",
+  "en": "Perhaps I should."
+ },
+ {
+  "id": "M2#7084",
+  "en": "It would be a fine excuse to see you."
+ },
+ {
+  "id": "M2#7085",
+  "en": "Oh my, hee hee, stop it."
+ },
+ {
+  "id": "M2#7086",
+  "en": "So you make jokes like that, too."
+ },
+ {
+  "id": "M2#7087",
+  "en": "I'm flattered. Thank you."
+ },
+ {
+  "id": "M2#7088",
+  "en": "I won't ask about deposits anymore."
+ },
+ {
+  "id": "M2#7089",
+  "en": "Come by whenever you like. Hee hee hee."
+ },
+ {
+  "id": "M2#7090",
+  "en": "The work is tedious, but I"
+ },
+ {
+  "id": "M2#7091",
+  "en": "really like this job."
+ },
+ {
+  "id": "M2#7092",
+  "en": "Oh... hello."
+ },
+ {
+  "id": "M2#7093",
+  "en": "Who might you be? How can I help you?"
+ },
+ {
+  "id": "M2#7094",
+  "en": "Pardon me. I came to introduce myself."
+ },
+ {
+  "id": "M2#7095",
+  "en": "I've only just moved to this area."
+ },
+ {
+  "id": "M2#7096",
+  "en": "Oh, I see. How very kind of you."
+ },
+ {
+  "id": "M2#7097",
+  "en": "My name is Sylvia."
+ },
+ {
+  "id": "M2#7098",
+  "en": "I hope we'll get along. Good day."
+ },
+ {
+  "id": "M2#7099",
+  "en": "Have you come again?"
+ },
+ {
+  "id": "M2#7100",
+  "en": "Did you lose your way? Hee hee."
+ },
+ {
+  "id": "M2#7101",
+  "en": "Oh, ",
+  "note": "Before the name; #98 gives '.'. Also Beth msg 394745."
+ },
+ {
+  "id": "M2#7102",
+  "en": "What is it?"
+ },
+ {
+  "id": "M2#7103",
+  "en": "You come to see me so often lately."
+ },
+ {
+  "id": "M2#7104",
+  "en": "Did you forget something?"
+ },
+ {
+  "id": "M2#7105",
+  "en": "Won't you come in for once?"
+ },
+ {
+  "id": "M2#7106",
+  "en": "You come to see me so often, yet you always"
+ },
+ {
+  "id": "M2#7107",
+  "en": "leave right away."
+ },
+ {
+  "id": "M2#7108",
+  "en": "You came to see me again."
+ },
+ {
+  "id": "M2#7109",
+  "en": "Um... shall we meet somewhere sometime?"
+ },
+ {
+  "id": "M2#7110",
+  "en": "I'd love a longer talk with you."
+ },
+ {
+  "id": "M2#7111",
+  "en": "Um, excuse me, miss."
+ },
+ {
+  "id": "M2#7112",
+  "en": "I'm new here and don't know the area well."
+ },
+ {
+  "id": "M2#7113",
+  "en": ". And you?",
+  "note": "After 'I'm ' (#633) + name."
+ },
+ {
+  "id": "M2#7114",
+  "en": "Come to the bank, and you'll find me there."
+ },
+ {
+  "id": "M2#7115",
+  "en": "Good idea. I'll come by sometime."
+ },
+ {
+  "id": "M2#7116",
+  "en": "Thank you for your kindness, Sylvia."
+ },
+ {
+  "id": "M2#7117",
+  "en": "Oh my, we meet again. Hee hee."
+ },
+ {
+  "id": "M2#7118",
+  "en": "what luck! Something good's sure to happen.",
+  "note": "After #7034 (slice 087) ending in a comma; matches #7035."
+ },
+ {
+  "id": "M2#7119",
+  "en": "Thank you. Have a good day yourself."
+ }
+]

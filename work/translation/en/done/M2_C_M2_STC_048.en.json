@@ -1,0 +1,335 @@
+[
+ {
+  "id": "M2#3840",
+  "en": "Have you heard, young fellow?"
+ },
+ {
+  "id": "M2#3841",
+  "en": "There's a killer by the name of Jack prowling"
+ },
+ {
+  "id": "M2#3842",
+  "en": "about these parts"
+ },
+ {
+  "id": "M2#3843",
+  "en": "I was sketching here by the river"
+ },
+ {
+  "id": "M2#3844",
+  "en": "and up came a body instead of a sketch!"
+ },
+ {
+  "id": "M2#3845",
+  "en": "Even I got quite a fright, I'll admit."
+ },
+ {
+  "id": "M2#3846",
+  "en": "You once found a body around here."
+ },
+ {
+  "id": "M2#3847",
+  "en": "And yet you keep painting here every day..."
+ },
+ {
+  "id": "M2#3848",
+  "en": "Are you not afraid of the killer?"
+ },
+ {
+  "id": "M2#3849",
+  "en": "Bah, the culprit won't bother with a shabby"
+ },
+ {
+  "id": "M2#3850",
+  "en": "old man like me."
+ },
+ {
+  "id": "M2#3851",
+  "en": "Besides, I can't bring myself to abandon"
+ },
+ {
+  "id": "M2#3852",
+  "en": "a half-finished painting."
+ },
+ {
+  "id": "M2#3853",
+  "en": "Have you no family?"
+ },
+ {
+  "id": "M2#3854",
+  "en": "Family, eh..."
+ },
+ {
+  "id": "M2#3855",
+  "en": "I had a wife, and children too"
+ },
+ {
+  "id": "M2#3856",
+  "en": "Fully aware how selfish it is, I wander alone"
+ },
+ {
+  "id": "M2#3857",
+  "en": "like this, painting."
+ },
+ {
+  "id": "M2#3858",
+  "en": "You might say I left my family for my art."
+ },
+ {
+  "id": "M2#3859",
+  "en": "An artist has to do battle with all"
+ },
+ {
+  "id": "M2#3860",
+  "en": "manner of things."
+ },
+ {
+  "id": "M2#3861",
+  "en": "Well now, the composition's coming along."
+ },
+ {
+  "id": "M2#3862",
+  "en": "Ah, it's you. You know, a human life"
+ },
+ {
+  "id": "M2#3863",
+  "en": "is a fleeting thing indeed."
+ },
+ {
+  "id": "M2#3864",
+  "en": "But living is a wonderful thing."
+ },
+ {
+  "id": "M2#3865",
+  "en": "And I'd like my dying to be wonderful too."
+ },
+ {
+  "id": "M2#3866",
+  "en": "Don't you think so?"
+ },
+ {
+  "id": "M2#3867",
+  "en": "Well, well, so you've come."
+ },
+ {
+  "id": "M2#3868",
+  "en": "You're the Grim Reaper, aren't you?"
+ },
+ {
+  "id": "M2#3869",
+  "en": "Now this is a surprise."
+ },
+ {
+  "id": "M2#3870",
+  "en": "What made you think so?"
+ },
+ {
+  "id": "M2#3871",
+  "en": "Who can say? An artist's intuition, perhaps."
+ },
+ {
+  "id": "M2#3872",
+  "en": "I sensed somehow that you were no"
+ },
+ {
+  "id": "M2#3873",
+  "en": "ordinary human."
+ },
+ {
+  "id": "M2#3874",
+  "en": "...",
+  "note": "10 dots shortened to '...'"
+ },
+ {
+  "id": "M2#3875",
+  "en": "Not quite right, I'm afraid,"
+ },
+ {
+  "id": "M2#3876",
+  "en": "but close enough."
+ },
+ {
+  "id": "M2#3877",
+  "en": "But I have not come here"
+ },
+ {
+  "id": "M2#3878",
+  "en": "to kill you."
+ },
+ {
+  "id": "M2#3879",
+  "en": "For a while, you shall merely be"
+ },
+ {
+  "id": "M2#3880",
+  "en": "my servant, nothing more."
+ },
+ {
+  "id": "M2#3881",
+  "en": "I've heard that many artists have a keen"
+ },
+ {
+  "id": "M2#3882",
+  "en": "sense for such things"
+ },
+ {
+  "id": "M2#3883",
+  "en": "Perhaps this old man is a finer artist"
+ },
+ {
+  "id": "M2#3884",
+  "en": "than he appears"
+ },
+ {
+  "id": "M2#3885",
+  "en": "Oh, it's you."
+ },
+ {
+  "id": "M2#3886",
+  "en": "Come in, come in."
+ },
+ {
+  "id": "M2#3887",
+  "en": "I was just adding color to a painting."
+ },
+ {
+  "id": "M2#3888",
+  "en": "You're always welcome here."
+ },
+ {
+  "id": "M2#3889",
+  "en": "Do come by again."
+ },
+ {
+  "id": "M2#3890",
+  "en": "Sir, what might you be doing out here,"
+ },
+ {
+  "id": "M2#3891",
+  "en": "perhaps?",
+  "variants": [
+   {
+    "msg": 153144,
+    "en": "if I may ask?"
+   },
+   {
+    "msg": 153176,
+    "en": "if I may ask?"
+   }
+  ]
+ },
+ {
+  "id": "M2#3892",
+  "en": "Painting by the river where a body turned up"
+ },
+ {
+  "id": "M2#3893",
+  "en": "Aren't you afraid of the killer, sir?"
+ },
+ {
+  "id": "M2#3894",
+  "en": "Sir, don't you have any family?"
+ },
+ {
+  "id": "M2#3895",
+  "en": "If they knew you were painting out here,"
+ },
+ {
+  "id": "M2#3896",
+  "en": "they'd surely be terribly worried."
+ },
+ {
+  "id": "M2#3897",
+  "en": ", my master. Your desire",
+  "note": "after the name, servant mode: '{NAME}, my master. Your desire / is my desire...' (as M2#0 ', my master')"
+ },
+ {
+  "id": "M2#3898",
+  "en": "is my desire"
+ },
+ {
+  "id": "M2#3899",
+  "en": "I'm a sculptor of the soul."
+ },
+ {
+  "id": "M2#3900",
+  "en": "From a single block of stone,"
+ },
+ {
+  "id": "M2#3901",
+  "en": "I can create gods and devils alike."
+ },
+ {
+  "id": "M2#3902",
+  "en": "So, what do you think of my work?"
+ },
+ {
+  "id": "M2#3903",
+  "en": "Magnificent, isn't it?"
+ },
+ {
+  "id": "M2#3904",
+  "en": "Whoops, can't waste time chattering like this."
+ },
+ {
+  "id": "M2#3905",
+  "en": "Rather than talk, an artist"
+ },
+ {
+  "id": "M2#3906",
+  "en": "must create."
+ },
+ {
+  "id": "M2#3907",
+  "en": "In this world, it's easy to tell the rich"
+ },
+ {
+  "id": "M2#3908",
+  "en": "from the poor, right?"
+ },
+ {
+  "id": "M2#3909",
+  "en": "If you've got things, you're rich;"
+ },
+ {
+  "id": "M2#3910",
+  "en": "if you can barely eat, you're poor."
+ },
+ {
+  "id": "M2#3911",
+  "en": "But it's hard to tell the good from the bad,"
+ },
+ {
+  "id": "M2#3912",
+  "en": "isn't it?"
+ },
+ {
+  "id": "M2#3913",
+  "en": "Still, live long enough, and a person's"
+ },
+ {
+  "id": "M2#3914",
+  "en": "character comes to the surface"
+ },
+ {
+  "id": "M2#3915",
+  "en": "in their face."
+ },
+ {
+  "id": "M2#3916",
+  "en": "Hey, have you heard?"
+ },
+ {
+  "id": "M2#3917",
+  "en": "About the monstrous killer loose in"
+ },
+ {
+  "id": "M2#3918",
+  "en": "this city..."
+ },
+ {
+  "id": "M2#3919",
+  "en": "Word is, the killer's already taken a knife",
+  "note": "#3920 (slice 049) should finish: 'to a whole lot of people...'"
+ }
+]

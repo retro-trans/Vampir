@@ -1,0 +1,159 @@
+[
+ {
+  "id": "PR2.BIN@424",
+  "en": "London...",
+  "note": "Protagonist's monologue on arrival (speaker byte 12); Christopher by context, since the partner opcode in @3F0/@3E4 names the one he is chasing."
+ },
+ {
+  "id": "PR2.BIN@3FC",
+  "en": "So this is the British Empire, said to be the center of the world.",
+  "note": "Wraps to 2 lines; box = 3 lines with @424."
+ },
+ {
+  "id": "PR2.BIN@3F0",
+  "en": "What could "
+ },
+ {
+  "id": "PR2.BIN@3E4",
+  "en": "'s purpose"
+ },
+ {
+  "id": "PR2.BIN@3C4",
+  "en": "in this land possibly be...?"
+ },
+ {
+  "id": "PR2.BIN@3AC",
+  "en": "Oh! The wind took my hat...",
+  "note": "Rose (unnamed young lady boarding a carriage; identified in @2A8)."
+ },
+ {
+  "id": "PR2.BIN@388",
+  "en": "You must have any number of hats.",
+  "note": "The man escorting Rose (unnamed; possibly Count Epstein, see report)."
+ },
+ {
+  "id": "PR2.BIN@360",
+  "en": "We're in a hurry now. Give it up."
+ },
+ {
+  "id": "PR2.BIN@354",
+  "en": "But...",
+  "note": "Rose."
+ },
+ {
+  "id": "PR2.BIN@338",
+  "en": "Come, drive on.",
+  "note": "Same man, to the coachman."
+ },
+ {
+  "id": "PR2.BIN@310",
+  "en": "This hat must belong to the young lady",
+  "note": "Protagonist (speaker byte 12). Rows regrouped: 'who just climbed into that carriage' moved to @2FC."
+ },
+ {
+  "id": "PR2.BIN@2FC",
+  "en": "who just climbed into that carriage..."
+ },
+ {
+  "id": "PR2.BIN@2D0",
+  "en": "That was the Epstein family's carriage, then."
+ },
+ {
+  "id": "PR2.BIN@2A8",
+  "en": "So the lady with the hat must be Miss Rose."
+ },
+ {
+  "id": "PR2.BIN@27C",
+  "en": "Word is she's a real beauty, and at her"
+ },
+ {
+  "id": "PR2.BIN@254",
+  "en": "Piccadilly mansion, fellows line up every day"
+ },
+ {
+  "id": "PR2.BIN@238",
+  "en": "to ask for her hand. There's no end to 'em."
+ },
+ {
+  "id": "PR2.BIN@228",
+  "en": "Rose...",
+  "note": "Protagonist."
+ },
+ {
+  "id": "PR2.BIN@204",
+  "en": "If we ever meet again, I'll return"
+ },
+ {
+  "id": "PR2.BIN@1F8",
+  "en": "her hat to her."
+ },
+ {
+  "id": "PR2.BIN@1D4",
+  "en": "Say, you ever heard the talk going round"
+ },
+ {
+  "id": "PR2.BIN@1AC",
+  "en": "about \"Jack the Ripper\", the one who's been",
+  "note": "「」 rendered as ASCII double quotes."
+ },
+ {
+  "id": "PR2.BIN@190",
+  "en": "putting all of London in a fright lately?"
+ },
+ {
+  "id": "PR2.BIN@178",
+  "en": "Jack the Ripper?",
+  "note": "Protagonist."
+ },
+ {
+  "id": "PR2.BIN@168",
+  "en": "Yeah...",
+  "note": "Passer-by; trailing 、 dropped (the next row starts a new line)."
+ },
+ {
+  "id": "PR2.BIN@150",
+  "en": "he's a fearsome killer.",
+  "note": "Lower-case: continues 'Yeah...' across the line break."
+ },
+ {
+  "id": "PR2.BIN@124",
+  "en": "Lots of people have already died by his hand."
+ },
+ {
+  "id": "PR2.BIN@100",
+  "en": "You, too, could be walking through London"
+ },
+ {
+  "id": "PR2.BIN@D8",
+  "en": "and run smack into him, y'know!"
+ },
+ {
+  "id": "PR2.BIN@C8",
+  "en": "So watch yourself."
+ },
+ {
+  "id": "PR2.BIN@A8",
+  "en": "So this is the great city of London..."
+ },
+ {
+  "id": "PR2.BIN@80",
+  "en": "While I slept, it seems, a great deal",
+  "note": "Rows regrouped: 'while I slept' moved to the front."
+ },
+ {
+  "id": "PR2.BIN@6C",
+  "en": "has changed."
+ },
+ {
+  "id": "PR2.BIN@44",
+  "en": "They seem giddy over their so-called science,"
+ },
+ {
+  "id": "PR2.BIN@24",
+  "en": "yet in the end, they are only foolish humans."
+ },
+ {
+  "id": "PR2.BIN@4",
+  "en": "I shall make them feel my power."
+ }
+]

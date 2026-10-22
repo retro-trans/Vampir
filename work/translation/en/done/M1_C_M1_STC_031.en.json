@@ -1,0 +1,336 @@
+[
+ {
+  "id": "M1#2480",
+  "en": "You must be quite taken with this town, eh?"
+ },
+ {
+  "id": "M1#2481",
+  "en": "I hope that Calstatt,"
+ },
+ {
+  "id": "M1#2482",
+  "en": "with so many people staying here like this,"
+ },
+ {
+  "id": "M1#2483",
+  "en": "will be a good town for them."
+ },
+ {
+  "id": "M1#2484",
+  "en": "Please, stay in this town"
+ },
+ {
+  "id": "M1#2485",
+  "en": "for as long as you like."
+ },
+ {
+  "id": "M1#2486",
+  "en": "When you come by, even my work"
+ },
+ {
+  "id": "M1#2487",
+  "en": "feels more worthwhile."
+ },
+ {
+  "id": "M1#2488",
+  "en": "I hear the mayor's son is quite a handful."
+ },
+ {
+  "id": "M1#2489",
+  "en": "\"He won't listen to a word I say!\""
+ },
+ {
+  "id": "M1#2490",
+  "en": "the mayor was fretting."
+ },
+ {
+  "id": "M1#2491",
+  "en": ", isn't it?",
+  "note": "Name is printed at the end of msg 94930 ('You're, uh...' #2408 / NAME); this row follows it: 'NAME, isn't it?'"
+ },
+ {
+  "id": "M1#2492",
+  "en": "It's lonely when I haven't seen you lately."
+ },
+ {
+  "id": "M1#2493",
+  "en": "I work at City Hall, you know."
+ },
+ {
+  "id": "M1#2494",
+  "en": "If you need anything, come to City Hall",
+  "note": "Followed by shared #2415 (slice 030), which must complete it, e.g. 'any time.'"
+ },
+ {
+  "id": "M1#2495",
+  "en": "Good day.",
+  "note": "Shared: Martin/Wolf greeting, Christine farewell; 'Good day.' works both ways"
+ },
+ {
+  "id": "M1#2496",
+  "en": "Well, we do keep running into each other."
+ },
+ {
+  "id": "M1#2497",
+  "en": "I see. Thank you."
+ },
+ {
+  "id": "M1#2498",
+  "en": "If you have time, why not go have a look..."
+ },
+ {
+  "id": "M1#2499",
+  "en": "That's kind of you. Thank you."
+ },
+ {
+  "id": "M1#2500",
+  "en": "Are there any empty houses in this town?"
+ },
+ {
+  "id": "M1#2501",
+  "en": "I hear the mayor's son has turned over a new leaf!"
+ },
+ {
+  "id": "M1#2502",
+  "en": "\"He's become such a kind boy,\""
+ },
+ {
+  "id": "M1#2503",
+  "en": "the mayor said. He was so pleased."
+ },
+ {
+  "id": "M1#2504",
+  "en": "You know this town well."
+ },
+ {
+  "id": "M1#2505",
+  "en": "Now you will use that knowledge for me."
+ },
+ {
+  "id": "M1#2506",
+  "en": "At this hour.",
+  "note": "No used_in; unverified standalone row"
+ },
+ {
+  "id": "M1#2507",
+  "en": "What brings you here so late at night?"
+ },
+ {
+  "id": "M1#2508",
+  "en": "You know this town well, so",
+  "note": "Followed by #180 x3 ('...' each)"
+ },
+ {
+  "id": "M1#2509",
+  "en": "Ah, I understand."
+ },
+ {
+  "id": "M1#2510",
+  "en": "You've had trouble finding a place to stay."
+ },
+ {
+  "id": "M1#2511",
+  "en": "Maybe it's the ship that came in recently, but",
+  "note": "Msg starts with a line break after the previous ▼; kept to one line"
+ },
+ {
+  "id": "M1#2512",
+  "en": "every hotel seems to be full."
+ },
+ {
+  "id": "M1#2513",
+  "en": "Given the hour,"
+ },
+ {
+  "id": "M1#2514",
+  "en": "please, stay at my place tonight."
+ },
+ {
+  "id": "M1#2515",
+  "en": "No, I couldn't..."
+ },
+ {
+  "id": "M1#2516",
+  "en": "It's quite all right. ",
+  "note": "Printed on the same line as #2517: trailing space"
+ },
+ {
+  "id": "M1#2517",
+  "en": "Don't you worry about it."
+ },
+ {
+  "id": "M1#2518",
+  "en": "I'll get a bed ready for you right now."
+ },
+ {
+  "id": "M1#2519",
+  "en": "Sorry to keep you waiting."
+ },
+ {
+  "id": "M1#2520",
+  "en": "Well, it's work again tomorrow. Let's get to bed."
+ },
+ {
+  "id": "M1#2521",
+  "en": "Good night, then."
+ },
+ {
+  "id": "M1#2522",
+  "en": "(Forgive me, Martin.)"
+ },
+ {
+  "id": "M1#2523",
+  "en": "Aaaagh",
+  "note": "Followed by #414 '!' x3"
+ },
+ {
+  "id": "M1#2524",
+  "en": "Ahh, I am your servant..."
+ },
+ {
+  "id": "M1#2525",
+  "en": "Hey, good morning."
+ },
+ {
+  "id": "M1#2526",
+  "en": "I'm just heading off to work at the factory."
+ },
+ {
+  "id": "M1#2527",
+  "en": "The work is hard and grueling..."
+ },
+ {
+  "id": "M1#2528",
+  "en": "I'm off to work at the factory now."
+ },
+ {
+  "id": "M1#2529",
+  "en": "The work is hard and grueling, but"
+ },
+ {
+  "id": "M1#2530",
+  "en": "if I don't work, I don't eat."
+ },
+ {
+  "id": "M1#2531",
+  "en": "Another day of work",
+  "note": "Msg 99012 ends here; msg 99028 continues with #180 '...'"
+ },
+ {
+  "id": "M1#2532",
+  "en": "It's so tough, it's going to wreck my health."
+ },
+ {
+  "id": "M1#2533",
+  "en": "Lately",
+  "note": "Msg 99044 ends here; msg 99060 continues with #180 '...'"
+ },
+ {
+  "id": "M1#2534",
+  "en": "going to the factory's gotten a bit more fun.",
+  "note": "Continues 'Lately...' (#2533 + #180) across a line break, so lower case"
+ },
+ {
+  "id": "M1#2535",
+  "en": "My sweetheart works at the same factory."
+ },
+ {
+  "id": "M1#2536",
+  "en": "I'm Kürten."
+ },
+ {
+  "id": "M1#2537",
+  "en": "What business could a fine gent like you"
+ },
+ {
+  "id": "M1#2538",
+  "en": "possibly have with me?"
+ },
+ {
+  "id": "M1#2539",
+  "en": "Factory work sure is rough..."
+ },
+ {
+  "id": "M1#2540",
+  "en": "Haaah."
+ },
+ {
+  "id": "M1#2541",
+  "en": "I'm completely worn out."
+ },
+ {
+  "id": "M1#2542",
+  "en": "If I came home to a wife waiting for me,"
+ },
+ {
+  "id": "M1#2543",
+  "en": "I bet that would make me happy."
+ },
+ {
+  "id": "M1#2544",
+  "en": "Maybe I should get married after all..."
+ },
+ {
+  "id": "M1#2545",
+  "en": "Hello, I'm Kürten."
+ },
+ {
+  "id": "M1#2546",
+  "en": "Can I help you with something?"
+ },
+ {
+  "id": "M1#2547",
+  "en": "No, I seem to have the wrong house."
+ },
+ {
+  "id": "M1#2548",
+  "en": "I've only just come to this town, so...",
+  "note": "JP ends on 、; ellipsis added because the next message is Kürten's"
+ },
+ {
+  "id": "M1#2549",
+  "en": "You can't find the house you're visiting?"
+ },
+ {
+  "id": "M1#2550",
+  "en": "You wouldn't have business with the likes of me, right?"
+ },
+ {
+  "id": "M1#2551",
+  "en": "Ah, "
+ },
+ {
+  "id": "M1#2552",
+  "en": "You came all the way to my house to hear",
+  "note": "Shared with msg 99863, where it is followed by #2612 (slice 032), which must read 'about my troubles!' (or similar starting 'about')"
+ },
+ {
+  "id": "M1#2553",
+  "en": "about my troubles!"
+ },
+ {
+  "id": "M1#2554",
+  "en": "I'm so touched!!"
+ },
+ {
+  "id": "M1#2555",
+  "en": "Ahh, I wish I had a sweetheart"
+ },
+ {
+  "id": "M1#2556",
+  "en": "Your advice is how I found a sweetheart."
+ },
+ {
+  "id": "M1#2557",
+  "en": "It's all thanks to you.",
+  "note": "Shared with msg 99506: #2594 'Really, ' + NAME + #2595 '.' / 'It's all thanks to you.' (slice 032 must fit)"
+ },
+ {
+  "id": "M1#2558",
+  "en": "It's wonderful to have someone to love who loves you back."
+ },
+ {
+  "id": "M1#2559",
+  "en": "And you are...?"
+ }
+]

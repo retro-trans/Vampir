@@ -1,0 +1,332 @@
+[
+ {
+  "id": "M0#1920",
+  "en": "You might be better off not knowing."
+ },
+ {
+  "id": "M0#1921",
+  "en": "There's nothing here at all, you know.",
+  "note": "Follows #1911 (other slice); stands alone as a full sentence"
+ },
+ {
+  "id": "M0#1922",
+  "en": "Miltia...",
+  "note": "Honorific dropped; polite player"
+ },
+ {
+  "id": "M0#1923",
+  "en": "What is it? Did you want something from me?"
+ },
+ {
+  "id": "M0#1924",
+  "en": "You noticed...?"
+ },
+ {
+  "id": "M0#1925",
+  "en": "Of course I noticed.",
+  "note": "Object supplied from #1926"
+ },
+ {
+  "id": "M0#1926",
+  "en": "That you're different from everyone else, too.",
+  "note": "Continues #1925; reading order assumed"
+ },
+ {
+  "id": "M0#1927",
+  "en": "But in a man, being a little like that"
+ },
+ {
+  "id": "M0#1928",
+  "en": "is rather charming, isn't it?"
+ },
+ {
+  "id": "M0#1929",
+  "en": "Well, then? What are you going to do for me?"
+ },
+ {
+  "id": "M0#1930",
+  "en": "It's this.",
+  "note": "Referent of 'this' unknown (no used_in); kept literal"
+ },
+ {
+  "id": "M0#1931",
+  "en": "Ah, I see. So that was it."
+ },
+ {
+  "id": "M0#1932",
+  "en": "Well, that's fine by me, too."
+ },
+ {
+  "id": "M0#1933",
+  "en": "How can she stay so calm?",
+  "note": "Inner thought of the protagonist; referent Miltia (female per glossary)"
+ },
+ {
+  "id": "M0#1934",
+  "en": "I'm the one who can't settle down..."
+ },
+ {
+  "id": "M0#1935",
+  "en": "Your words rule my entire being"
+ },
+ {
+  "id": "M0#1936",
+  "en": "..."
+ },
+ {
+  "id": "M0#1937",
+  "en": "Oh dear, there are scratches here and there that I don't remember getting..."
+ },
+ {
+  "id": "M0#1938",
+  "en": "Oh, good morning."
+ },
+ {
+  "id": "M0#1939",
+  "en": "Who might you be?"
+ },
+ {
+  "id": "M0#1940",
+  "en": " is my name.",
+  "note": "Name-first fragment; only use is msg 94883"
+ },
+ {
+  "id": "M0#1941",
+  "en": "Oh, how polite. You're so charming that"
+ },
+ {
+  "id": "M0#1942",
+  "en": "I didn't know what to do. Ohohohoho."
+ },
+ {
+  "id": "M0#1943",
+  "en": "I usually weave right over there,"
+ },
+ {
+  "id": "M0#1944",
+  "en": "and my name is Azusha."
+ },
+ {
+  "id": "M0#1945",
+  "en": "I hope our acquaintance will be a long one."
+ },
+ {
+  "id": "M0#1946",
+  "en": ". It must be fate.",
+  "note": "Name-first fragment; expects #1814 = 'Oh, '"
+ },
+ {
+  "id": "M0#1947",
+  "en": "! What a nice surprise.",
+  "note": "Name-first fragment"
+ },
+ {
+  "id": "M0#1948",
+  "en": "Good morning to you."
+ },
+ {
+  "id": "M0#1949",
+  "en": "Do come visit my house, too. It's right"
+ },
+ {
+  "id": "M0#1950",
+  "en": "nearby. I have a child, but if you like,"
+ },
+ {
+  "id": "M0#1951",
+  "en": "perhaps after Olg is in bed. Ohohohoho."
+ },
+ {
+  "id": "M0#1952",
+  "en": "Oh, how silly of me."
+ },
+ {
+  "id": "M0#1953",
+  "en": "Please excuse me."
+ },
+ {
+  "id": "M0#1954",
+  "en": "Oh my, to think someone as charming as you"
+ },
+ {
+  "id": "M0#1955",
+  "en": "has been around here, and I never"
+ },
+ {
+  "id": "M0#1956",
+  "en": "noticed until now."
+ },
+ {
+  "id": "M0#1957",
+  "en": "If you don't mind,"
+ },
+ {
+  "id": "M0#1958",
+  "en": "might I ask your name?"
+ },
+ {
+  "id": "M0#1959",
+  "en": "Oh, what a lovely name."
+ },
+ {
+  "id": "M0#1960",
+  "en": "My name is Azusha."
+ },
+ {
+  "id": "M0#1961",
+  "en": "I usually weave right over there."
+ },
+ {
+  "id": "M0#1962",
+  "en": "I'm just on my way home for today."
+ },
+ {
+  "id": "M0#1963",
+  "en": "My house is, you see, just over there."
+ },
+ {
+  "id": "M0#1964",
+  "en": "What a lovely afternoon."
+ },
+ {
+  "id": "M0#1965",
+  "en": "I'd love to take a leisurely stroll."
+ },
+ {
+  "id": "M0#1966",
+  "en": "I've finished my work, so I'm going home."
+ },
+ {
+  "id": "M0#1967",
+  "en": "Won't you come along with me?"
+ },
+ {
+  "id": "M0#1968",
+  "en": "I was thinking of having dinner, though, well,"
+ },
+ {
+  "id": "M0#1969",
+  "en": "you would have to accept that Olg will be"
+ },
+ {
+  "id": "M0#1970",
+  "en": "there too, I'm afraid."
+ },
+ {
+  "id": "M0#1971",
+  "en": "Um, who might you be?"
+ },
+ {
+  "id": "M0#1972",
+  "en": " is my name.",
+  "note": "Name-first fragment; uses 95136, 95306"
+ },
+ {
+  "id": "M0#1973",
+  "en": "Oh, what a lovely name. My name is"
+ },
+ {
+  "id": "M0#1974",
+  "en": "Azusha. I'm usually outside, weaving,"
+ },
+ {
+  "id": "M0#1975",
+  "en": "you see."
+ },
+ {
+  "id": "M0#1976",
+  "en": "Oh my, it's been so long since I had a guest,"
+ },
+ {
+  "id": "M0#1977",
+  "en": "I'm bound to be clumsy, so please sit over"
+ },
+ {
+  "id": "M0#1978",
+  "en": "there and make yourself at home."
+ },
+ {
+  "id": "M0#1979",
+  "en": "Oh my, "
+ },
+ {
+  "id": "M0#1980",
+  "en": "you came to see me, didn't you?"
+ },
+ {
+  "id": "M0#1981",
+  "en": "Goodness, whatever shall I do?"
+ },
+ {
+  "id": "M0#1982",
+  "en": "Oh my, oh my, "
+ },
+ {
+  "id": "M0#1983",
+  "en": "coming all the way to my house,"
+ },
+ {
+  "id": "M0#1984",
+  "en": "such kindness will be my undoing."
+ },
+ {
+  "id": "M0#1985",
+  "en": "Oh, never mind, I'm just talking to myself."
+ },
+ {
+  "id": "M0#1986",
+  "en": "Ohohohoho."
+ },
+ {
+  "id": "M0#1987",
+  "en": "Oh, please don't show me that lovely face"
+ },
+ {
+  "id": "M0#1988",
+  "en": "so much. I won't be able to forget it."
+ },
+ {
+  "id": "M0#1989",
+  "en": ", you really do"
+ },
+ {
+  "id": "M0#1990",
+  "en": "trouble me. Every time you visit this"
+ },
+ {
+  "id": "M0#1991",
+  "en": "house, my heart is torn to pieces, and yet..."
+ },
+ {
+  "id": "M0#1992",
+  "en": "Next time you come, you may even say"
+ },
+ {
+  "id": "M0#1993",
+  "en": "\"I'm home\" if you like,"
+ },
+ {
+  "id": "M0#1994",
+  "en": "Oh, hello. Fancy a gentleman turning up in"
+ },
+ {
+  "id": "M0#1995",
+  "en": "a place like this!"
+ },
+ {
+  "id": "M0#1996",
+  "en": "Pleased to meet you."
+ },
+ {
+  "id": "M0#1997",
+  "en": "I always weave right here,"
+ },
+ {
+  "id": "M0#1998",
+  "en": "Oh my, "
+ },
+ {
+  "id": "M0#1999",
+  "en": ", is that you?"
+ }
+]

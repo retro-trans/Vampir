@@ -1,0 +1,366 @@
+[
+ {
+  "id": "M2#0",
+  "en": ", my master...",
+  "note": "Fragment after the name (servant mode), as M0#0/M1#633; used by Jeremy, Oliver, Matthew, Stanley, Wayne and more; the next row starts a new sentence. Variants: Kurt the tobacconist greeting a customer (87118/87687) and Clio in love (402261/402743) are not servants",
+  "variants": [
+   {
+    "msg": 87118,
+    "en": ", sir..."
+   },
+   {
+    "msg": 87687,
+    "en": ", sir..."
+   },
+   {
+    "msg": 402261,
+    "en": "..."
+   },
+   {
+    "msg": 402743,
+    "en": "..."
+   }
+  ]
+ },
+ {
+  "id": "M2#1",
+  "en": "My lord and master... Your orders..."
+ },
+ {
+  "id": "M2#2",
+  "en": "My body's my bread and butter, and my joints ache."
+ },
+ {
+  "id": "M2#3",
+  "en": "Am I getting old already...? Drives me nuts."
+ },
+ {
+  "id": "M2#4",
+  "en": "I'll always obey you, Master..."
+ },
+ {
+  "id": "M2#5",
+  "en": "Feels like I didn't sleep a wink. I'm beat..."
+ },
+ {
+  "id": "M2#6",
+  "en": "Don't tell me I've been sleepwalking..."
+ },
+ {
+  "id": "M2#7",
+  "en": "What on earth are you doing?"
+ },
+ {
+  "id": "M2#8",
+  "en": "Whoa, whoa there! Er, afternoon."
+ },
+ {
+  "id": "M2#9",
+  "en": "Setting up for today's street show. Heh heh..."
+ },
+ {
+  "id": "M2#10",
+  "en": "I'm Jeremy. Putting on a show's my job."
+ },
+ {
+  "id": "M2#11",
+  "en": "And getting yelled at by coppers is, too.",
+  "note": "'is (my job), too': follows #10 'Putting on a show's my job.' (msg 684) and #108 (msg 1373, slice 001), which must also end with '... my job.'"
+ },
+ {
+  "id": "M2#12",
+  "en": "Seems doing tricks in the street's a no-no."
+ },
+ {
+  "id": "M2#13",
+  "en": "Ha, to hell with 'em! Watch my act and laugh!"
+ },
+ {
+  "id": "M2#14",
+  "en": "What an odd fellow..."
+ },
+ {
+  "id": "M2#15",
+  "en": "Whoa, whoa! 'Odd fellow,' and that's it?!"
+ },
+ {
+  "id": "M2#16",
+  "en": "Come and watch later, too, all right?"
+ },
+ {
+  "id": "M2#17",
+  "en": "You'll see a knife-throwing act full of thrills!"
+ },
+ {
+  "id": "M2#18",
+  "en": "Nope, nope! I told you, I'm still setting up."
+ },
+ {
+  "id": "M2#19",
+  "en": "Hey there, "
+ },
+ {
+  "id": "M2#20",
+  "en": ", my good sir!"
+ },
+ {
+  "id": "M2#21",
+  "en": "While you're in London, don't you miss"
+ },
+ {
+  "id": "M2#22",
+  "en": "my act, or you'll be sorry!"
+ },
+ {
+  "id": "M2#23",
+  "en": "And tips are always welcome, any time!"
+ },
+ {
+  "id": "M2#24",
+  "en": "Hiya, "
+ },
+ {
+  "id": "M2#25",
+  "en": "!"
+ },
+ {
+  "id": "M2#26",
+  "en": "We keep running into each other! Isn't this"
+ },
+ {
+  "id": "M2#27",
+  "en": "what they call a fated meeting, eh?"
+ },
+ {
+  "id": "M2#28",
+  "en": "Ah, never mind, don't answer. Even I think"
+ },
+ {
+  "id": "M2#29",
+  "en": "that joke was creepy. Sorry, sorry, ha ha!"
+ },
+ {
+  "id": "M2#30",
+  "en": "Hey. You look worn out, mate."
+ },
+ {
+  "id": "M2#31",
+  "en": "Me too. I'm packing it in for today."
+ },
+ {
+  "id": "M2#32",
+  "en": "Come to the main street by day for my act."
+ },
+ {
+  "id": "M2#33",
+  "en": "So you're a street performer..."
+ },
+ {
+  "id": "M2#34",
+  "en": "That's right. Well, I'm off home. See ya."
+ },
+ {
+  "id": "M2#35",
+  "en": "Wanna see me in all my glory? Come by day!"
+ },
+ {
+  "id": "M2#36",
+  "en": "Follow me all you like, I've got no secret hideout."
+ },
+ {
+  "id": "M2#37",
+  "en": "It's me, Jeremy, see?"
+ },
+ {
+  "id": "M2#38",
+  "en": "Nice night, eh? Makes a fella want to brood."
+ },
+ {
+  "id": "M2#39",
+  "en": "Heh, guess that's not really my style, huh?"
+ },
+ {
+  "id": "M2#40",
+  "en": "Nice night, eh? You doing all right?"
+ },
+ {
+  "id": "M2#41",
+  "en": "Say, you've got something on your mind, don't you?"
+ },
+ {
+  "id": "M2#42",
+  "en": "<Something like that...>",
+  "note": "Answer choice (no used_in), stern player; leads to msg 919"
+ },
+ {
+  "id": "M2#43",
+  "en": "<Mind your own business>",
+  "note": "Answer choice (no used_in); leads to msg 937"
+ },
+ {
+  "id": "M2#44",
+  "en": "Thought so. See, I meet all kinds of people,"
+ },
+ {
+  "id": "M2#45",
+  "en": "so I can kind of tell, you know?",
+  "note": "Ends a sentence: followed by #46 (msg 919) and #126 (msg 1628)"
+ },
+ {
+  "id": "M2#46",
+  "en": "So even a guy like you has worries, huh."
+ },
+ {
+  "id": "M2#47",
+  "en": "Oh, is that so? Then that grim"
+ },
+ {
+  "id": "M2#48",
+  "en": "face of yours must be how you were born.",
+  "note": "Continues #47 (msg 937); msg 1648 starts with this row, see report"
+ },
+ {
+  "id": "M2#49",
+  "en": "A good belly laugh helps now and then, eh?"
+ },
+ {
+  "id": "M2#50",
+  "en": "Fretting over a total stranger? What an odd one."
+ },
+ {
+  "id": "M2#51",
+  "en": "Isn't that just normal? Caring doesn't cost"
+ },
+ {
+  "id": "M2#52",
+  "en": "a penny, after all! Heh heh heh..."
+ },
+ {
+  "id": "M2#53",
+  "en": "Roll up! Ladies, gents, boys and girls,"
+ },
+ {
+  "id": "M2#54",
+  "en": "come and see! I, Jeremy, bring you all"
+ },
+ {
+  "id": "M2#55",
+  "en": "a street show full of thrills and laughs!"
+ },
+ {
+  "id": "M2#56",
+  "en": "If you like it, drop a heartfelt tip"
+ },
+ {
+  "id": "M2#57",
+  "en": "in the tin here with a clink!"
+ },
+ {
+  "id": "M2#58",
+  "en": "Or a rustle of banknotes, that's fine, too!"
+ },
+ {
+  "id": "M2#59",
+  "en": "(Hmm, quite nimble. As a servant, he"
+ },
+ {
+  "id": "M2#60",
+  "en": "might prove useful...)"
+ },
+ {
+  "id": "M2#61",
+  "en": "Oh! Who's that I see? The gent from before!"
+ },
+ {
+  "id": "M2#62",
+  "en": "You came to see me in all my glory!"
+ },
+ {
+  "id": "M2#63",
+  "en": "Ooh! All right, today I'm going all out!"
+ },
+ {
+  "id": "M2#64",
+  "en": "Ha ha, you like my act that much?"
+ },
+ {
+  "id": "M2#65",
+  "en": "Now then, behold these blazing sticks!"
+ },
+ {
+  "id": "M2#66",
+  "en": "Watch London's finest juggler, Jeremy,"
+ },
+ {
+  "id": "M2#67",
+  "en": "toss them around as he pleases!"
+ },
+ {
+  "id": "M2#68",
+  "en": "Oh, "
+ },
+ {
+  "id": "M2#69",
+  "en": "!",
+  "variants": [
+   {
+    "msg": 344881,
+    "en": "! "
+   },
+   {
+    "msg": 345870,
+    "en": "! "
+   },
+   {
+    "msg": 320623,
+    "en": ","
+   },
+   {
+    "msg": 321064,
+    "en": ","
+   }
+  ]
+ },
+ {
+  "id": "M2#70",
+  "en": "Back again, are you?"
+ },
+ {
+  "id": "M2#71",
+  "en": "Love a show, eh? You must have time to kill."
+ },
+ {
+  "id": "M2#72",
+  "en": "Well, whatever. Customers are always welcome."
+ },
+ {
+  "id": "M2#73",
+  "en": "Hey."
+ },
+ {
+  "id": "M2#74",
+  "en": "Say what you like, you sure come by a lot."
+ },
+ {
+  "id": "M2#75",
+  "en": "I hear you've been walking all over town."
+ },
+ {
+  "id": "M2#76",
+  "en": "<It's part of my work>",
+  "note": "Answer choice (no used_in); leads to msg 1163"
+ },
+ {
+  "id": "M2#77",
+  "en": "<Don't pry>",
+  "note": "Answer choice (no used_in)"
+ },
+ {
+  "id": "M2#78",
+  "en": "Ooh, a detective or something? How dashing."
+ },
+ {
+  "id": "M2#79",
+  "en": "Unlike me, you're the brainy type, ha ha."
+ }
+]

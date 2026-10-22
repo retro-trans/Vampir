@@ -1,0 +1,340 @@
+[
+ {
+  "id": "M0#1760",
+  "en": ", want to help me gather nuts?",
+  "note": "Follows the name; the nuts are inferred from the scene (she is gathering them)"
+ },
+ {
+  "id": "M0#1761",
+  "en": "Sati."
+ },
+ {
+  "id": "M0#1762",
+  "en": "I like it when you call me that.",
+  "note": "Inferred: 'that' = calling her plain 'Sati' with no honorific"
+ },
+ {
+  "id": "M0#1763",
+  "en": "You sound a bit like a grandpa.",
+  "note": "Subject restored as 'you' (his way of addressing her)"
+ },
+ {
+  "id": "M0#1764",
+  "en": "(Grandpa...?!)"
+ },
+ {
+  "id": "M0#1765",
+  "en": "I'm out gathering nuts like this, but"
+ },
+ {
+  "id": "M0#1766",
+  "en": "I don't really like nut bread",
+  "note": "Cut moved to keep one row per JP row; #1766+#1767 and #1790+#1791 read the same"
+ },
+ {
+  "id": "M0#1767",
+  "en": "all that much."
+ },
+ {
+  "id": "M0#1768",
+  "en": "But if it's a little white bread or"
+ },
+ {
+  "id": "M0#1769",
+  "en": "a lot of nut bread,"
+ },
+ {
+  "id": "M0#1770",
+  "en": "and you ask me which is better,"
+ },
+ {
+  "id": "M0#1771",
+  "en": "I'd go for plenty, you know."
+ },
+ {
+  "id": "M0#1772",
+  "en": "I've learned too, you know,"
+ },
+ {
+  "id": "M0#1773",
+  "en": "how to bake bread."
+ },
+ {
+  "id": "M0#1774",
+  "en": "So next time, try the bread I baked,",
+  "note": "Followed by NAME on its own line (msgs 83092/83639) then '.' (#143/#13)"
+ },
+ {
+  "id": "M0#1775",
+  "en": "if you were my real grandpa,",
+  "note": "After NAME + #1686: needs #1686 = ',' (slice 021)"
+ },
+ {
+  "id": "M0#1776",
+  "en": "that would be so nice.",
+  "note": "Shared by msgs 83119 (grandpa) and 83666 (big brother): 'that would be so nice' works for both"
+ },
+ {
+  "id": "M0#1777",
+  "en": "Good morning. I'm Sati. And you?"
+ },
+ {
+  "id": "M0#1778",
+  "en": "Nice to meet you, "
+ },
+ {
+  "id": "M0#1779",
+  "en": "Morning, "
+ },
+ {
+  "id": "M0#1780",
+  "en": "I'm off to the forest, okay?"
+ },
+ {
+  "id": "M0#1781",
+  "en": "I'm heading home now."
+ },
+ {
+  "id": "M0#1782",
+  "en": "!",
+  "note": "No 'it's' possible before the name (msg starts with NAME); rendered as 'Christop!' / 'Christop, right?'"
+ },
+ {
+  "id": "M0#1783",
+  "en": ", right?",
+  "note": "See #1782"
+ },
+ {
+  "id": "M0#1784",
+  "en": "You're Sati, aren't you?"
+ },
+ {
+  "id": "M0#1785",
+  "en": "What are you doing?"
+ },
+ {
+  "id": "M0#1786",
+  "en": "Sati, right?"
+ },
+ {
+  "id": "M0#1787",
+  "en": ", want to gather nuts with me?"
+ },
+ {
+  "id": "M0#1788",
+  "en": "Hey, Sati. You're full of energy."
+ },
+ {
+  "id": "M0#1789",
+  "en": "Big sis is even more energetic, though."
+ },
+ {
+  "id": "M0#1790",
+  "en": "I don't really like nut bread"
+ },
+ {
+  "id": "M0#1791",
+  "en": "all that much."
+ },
+ {
+  "id": "M0#1792",
+  "en": ", if you were my big brother,",
+  "note": "Follows the name; 'If you were my big brother' (#1776 completes)"
+ },
+ {
+  "id": "M0#1793",
+  "en": "Sati..."
+ },
+ {
+  "id": "M0#1794",
+  "en": "More than the bread you baked,"
+ },
+ {
+  "id": "M0#1795",
+  "en": "I want you...",
+  "note": "Vampire's night line; 'I want you' kept at full strength, subject restored"
+ },
+ {
+  "id": "M0#1796",
+  "en": "When I'm with you,"
+ },
+ {
+  "id": "M0#1797",
+  "en": "I feel I could fight with spirit, too...",
+  "note": "Speaker unmarked (thought); 'too' echoes Sati's energy"
+ },
+ {
+  "id": "M0#1798",
+  "en": "It's only for a little while."
+ },
+ {
+  "id": "M0#1799",
+  "en": "Please help me out, okay?",
+  "note": "Christopher asks Sati for help (request, not offer)"
+ },
+ {
+  "id": "M0#1800",
+  "en": "I will do everything just as you say.",
+  "note": "After #0 ', my master...'"
+ },
+ {
+  "id": "M0#1801",
+  "en": "I wonder what's wrong with me."
+ },
+ {
+  "id": "M0#1802",
+  "en": "The scent of herbs I used to love so much"
+ },
+ {
+  "id": "M0#1803",
+  "en": "smells absolutely awful to me now."
+ },
+ {
+  "id": "M0#1804",
+  "en": "Good morning. I'm Liza."
+ },
+ {
+  "id": "M0#1805",
+  "en": "Pleased to meet you, ",
+  "note": "Name + '.' follows (#143)"
+ },
+ {
+  "id": "M0#1806",
+  "en": "I'm on my way to the forest."
+ },
+ {
+  "id": "M0#1807",
+  "en": "I'm going to the forest now. Would you like to come along?"
+ },
+ {
+  "id": "M0#1808",
+  "en": "Hello. I'm Liza."
+ },
+ {
+  "id": "M0#1809",
+  "en": "I'm on my way home."
+ },
+ {
+  "id": "M0#1810",
+  "en": "I've got some wonderful herbs."
+ },
+ {
+  "id": "M0#1811",
+  "en": "See? Don't they smell lovely?"
+ },
+ {
+  "id": "M0#1812",
+  "en": "I'm Liza."
+ },
+ {
+  "id": "M0#1813",
+  "en": "I wonder if my dad and little brother are around here somewhere."
+ },
+ {
+  "id": "M0#1814",
+  "en": "Oh, ",
+  "note": "Followed by NAME + '.'"
+ },
+ {
+  "id": "M0#1815",
+  "en": "It's herbal tea. Would you like some?"
+ },
+ {
+  "id": "M0#1816",
+  "en": "It's good for your health."
+ },
+ {
+  "id": "M0#1817",
+  "en": "Doesn't it smell lovely?"
+ },
+ {
+  "id": "M0#1818",
+  "en": "Won't you stay for some sweets I made?"
+ },
+ {
+  "id": "M0#1819",
+  "en": "Made with herbs, of course."
+ },
+ {
+  "id": "M0#1820",
+  "en": "I use herbs in ordinary cooking, too."
+ },
+ {
+  "id": "M0#1821",
+  "en": "Next time,"
+ },
+ {
+  "id": "M0#1822",
+  "en": "please stay and enjoy that as well."
+ },
+ {
+  "id": "M0#1823",
+  "en": "Do you have business in the forest, sir?"
+ },
+ {
+  "id": "M0#1824",
+  "en": "My name is Liza."
+ },
+ {
+  "id": "M0#1825",
+  "en": "Do you have business in the forest too?"
+ },
+ {
+  "id": "M0#1826",
+  "en": "I'm gathering herbs, you see."
+ },
+ {
+  "id": "M0#1827",
+  "en": "Herbal tea, you know,"
+ },
+ {
+  "id": "M0#1828",
+  "en": "has been enjoyed since long, long ago."
+ },
+ {
+  "id": "M0#1829",
+  "en": "People of old knew it was healthy, too."
+ },
+ {
+  "id": "M0#1830",
+  "en": "Plenty of herbs grow around here,"
+ },
+ {
+  "id": "M0#1831",
+  "en": "so I never have trouble gathering them."
+ },
+ {
+  "id": "M0#1832",
+  "en": "Now I just have to think up good uses.",
+  "note": "Fit: msg 87095 page 2 must stay 3 lines"
+ },
+ {
+  "id": "M0#1833",
+  "en": "Beyond just making tea,"
+ },
+ {
+  "id": "M0#1834",
+  "en": "there are all sorts of ways to use them."
+ },
+ {
+  "id": "M0#1835",
+  "en": "Actually, I'm also seeking herbs for"
+ },
+ {
+  "id": "M0#1836",
+  "en": "the landlord's illness, but sadly, good ones",
+  "note": "See #1835"
+ },
+ {
+  "id": "M0#1837",
+  "en": "just aren't common around here."
+ },
+ {
+  "id": "M0#1838",
+  "en": "Since I'm always surrounded by herbs, see?"
+ },
+ {
+  "id": "M0#1839",
+  "en": "I smell lovely too, don't I?"
+ }
+]

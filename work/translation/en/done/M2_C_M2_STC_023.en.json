@@ -1,0 +1,342 @@
+[
+ {
+  "id": "M2#1840",
+  "en": "I do house repairs and remodeling too, see."
+ },
+ {
+  "id": "M2#1841",
+  "en": "I'm Peter the carpenter."
+ },
+ {
+  "id": "M2#1842",
+  "en": "I do house repairs and remodeling too."
+ },
+ {
+  "id": "M2#1843",
+  "en": ", it's you. What's up?",
+  "note": "After the name: '{NAME}, it's you. What's up?' (as #1784)."
+ },
+ {
+  "id": "M2#1844",
+  "en": "Did your roof cave in or something?"
+ },
+ {
+  "id": "M2#1845",
+  "en": "If you need my muscle, just call anytime."
+ },
+ {
+  "id": "M2#1846",
+  "en": "I'll take my fee in full, mind you."
+ },
+ {
+  "id": "M2#1847",
+  "en": "What, back again?"
+ },
+ {
+  "id": "M2#1848",
+  "en": "Don't tell me you've got no home to go to?"
+ },
+ {
+  "id": "M2#1849",
+  "en": ", hey.",
+  "note": "After the name: '{NAME}, hey.'"
+ },
+ {
+  "id": "M2#1850",
+  "en": "Taken a liking to this house?"
+ },
+ {
+  "id": "M2#1851",
+  "en": "The family says you're welcome here."
+ },
+ {
+  "id": "M2#1852",
+  "en": "Drop by for tea whenever you like."
+ },
+ {
+  "id": "M2#1853",
+  "en": "Oh, I said come anytime, and here you are already."
+ },
+ {
+  "id": "M2#1854",
+  "en": "You're an impatient one. Ha ha ha ha."
+ },
+ {
+  "id": "M2#1855",
+  "en": "Hey, mornin', mate."
+ },
+ {
+  "id": "M2#1856",
+  "en": "Yes, that's right. Hello."
+ },
+ {
+  "id": "M2#1857",
+  "en": "Pleased to meet you.",
+  "note": "Peter's scene: player greeting. Clotilde (msgs 340654/340792) accepts the player's offer to explain the map: variant.",
+  "variants": [
+   {
+    "msg": 340654,
+    "en": "Yes, please."
+   },
+   {
+    "msg": 340792,
+    "en": "Yes, please."
+   }
+  ]
+ },
+ {
+  "id": "M2#1858",
+  "en": "That's the basics."
+ },
+ {
+  "id": "M2#1859",
+  "en": "My brat sometimes whines about not being a"
+ },
+ {
+  "id": "M2#1860",
+  "en": "morning person too. Then I smack the kid"
+ },
+ {
+  "id": "M2#1861",
+  "en": "awake."
+ },
+ {
+  "id": "M2#1862",
+  "en": "Bwahahaha!"
+ },
+ {
+  "id": "M2#1863",
+  "en": "Hey, mate. Nice night."
+ },
+ {
+  "id": "M2#1864",
+  "en": "Yes, something like that."
+ },
+ {
+  "id": "M2#1865",
+  "en": "Are you heading home from work too, sir?"
+ },
+ {
+  "id": "M2#1866",
+  "en": "Me, called \"sir\"? Well, I never."
+ },
+ {
+  "id": "M2#1867",
+  "en": "Doesn't suit me. Just call me Peter."
+ },
+ {
+  "id": "M2#1868",
+  "en": "Very well. Pleased to meet you, Peter."
+ },
+ {
+  "id": "M2#1869",
+  "en": "Oh, mighty polite of you. Thanks."
+ },
+ {
+  "id": "M2#1870",
+  "en": "You like roaming around at night, do you?"
+ },
+ {
+  "id": "M2#1871",
+  "en": "Oh, so it is. My apologies."
+ },
+ {
+  "id": "M2#1872",
+  "en": "So this café is under construction."
+ },
+ {
+  "id": "M2#1873",
+  "en": "How reassuring. I'll do just that."
+ },
+ {
+  "id": "M2#1874",
+  "en": "The house I live in now is quite old, you see."
+ },
+ {
+  "id": "M2#1875",
+  "en": "Don't be like my wife and drink it till "
+ },
+ {
+  "id": "M2#1876",
+  "en": "you get a bellyache."
+ },
+ {
+  "id": "M2#1877",
+  "en": "Ha ha ha ha."
+ },
+ {
+  "id": "M2#1878",
+  "en": "Hello, Peter."
+ },
+ {
+  "id": "M2#1879",
+  "en": "You're hard at work every day."
+ },
+ {
+  "id": "M2#1880",
+  "en": "Nothing gets done unless I do it."
+ },
+ {
+  "id": "M2#1881",
+  "en": ", say, if you like,",
+  "note": "After the name: '{NAME}, say, if you like, / come round our place now and then.'"
+ },
+ {
+  "id": "M2#1882",
+  "en": "come round our place now and then."
+ },
+ {
+  "id": "M2#1883",
+  "en": "My kid's been acting strange lately,"
+ },
+ {
+  "id": "M2#1884",
+  "en": "and a visit from you might be a nice change"
+ },
+ {
+  "id": "M2#1885",
+  "en": "of pace."
+ },
+ {
+  "id": "M2#1886",
+  "en": "Your fence outside seems to have fallen over."
+ },
+ {
+  "id": "M2#1887",
+  "en": "Well, I'll take my fee in full, mind you."
+ },
+ {
+  "id": "M2#1888",
+  "en": "The wife says you're welcome here too."
+ },
+ {
+  "id": "M2#1889",
+  "en": "That's my wife for you. Likes a pretty face."
+ },
+ {
+  "id": "M2#1890",
+  "en": "Bwahaha!"
+ },
+ {
+  "id": "M2#1891",
+  "en": "Pauline's been all wrong lately, but"
+ },
+ {
+  "id": "M2#1892",
+  "en": "she doesn't seem to dislike you,"
+ },
+ {
+  "id": "M2#1893",
+  "en": "so keep her company a bit, eh?"
+ },
+ {
+  "id": "M2#1894",
+  "en": "So there you have it. You're welcome anytime."
+ },
+ {
+  "id": "M2#1895",
+  "en": "Peter"
+ },
+ {
+  "id": "M2#1896",
+  "en": "Please lend me your strength."
+ },
+ {
+  "id": "M2#1897",
+  "en": "If they lose him,",
+  "note": "Player's thought during the turning of Peter (msg 63674)."
+ },
+ {
+  "id": "M2#1898",
+  "en": "his family will grieve, I suppose"
+ },
+ {
+  "id": "M2#1899",
+  "en": "But,",
+  "note": "Shared with Sylvia msg 280821 ('But,' then a new line)."
+ },
+ {
+  "id": "M2#1900",
+  "en": "your strength is useful",
+  "note": "No message found that uses this row (decoder shows #1899 + pause and nothing after in msg 63674); lowercase on the guess that it follows #1899 'But,'."
+ },
+ {
+  "id": "M2#1901",
+  "en": "What the",
+  "note": "Followed by a pause and #1902 on the next line (as M2#264 'What the')."
+ },
+ {
+  "id": "M2#1902",
+  "en": "Urgh"
+ },
+ {
+  "id": "M2#1903",
+  "en": "So that there's no more sorrow than this,"
+ },
+ {
+  "id": "M2#1904",
+  "en": "please work hard"
+ },
+ {
+  "id": "M2#1905",
+  "en": ", my master. As you command",
+  "note": "After the name, #152 '...' follows: '{NAME}, my master. As you command...' (servant rule from slice 000 #0)."
+ },
+ {
+  "id": "M2#1906",
+  "en": "So sleepy"
+ },
+ {
+  "id": "M2#1907",
+  "en": "Bet I could sleep all day and still want more."
+ },
+ {
+  "id": "M2#1908",
+  "en": "Now, give me any order you wish"
+ },
+ {
+  "id": "M2#1909",
+  "en": "Ouch, how'd I get a cut here"
+ },
+ {
+  "id": "M2#1910",
+  "en": "Don't tell me the old man slugged me."
+ },
+ {
+  "id": "M2#1911",
+  "en": "Huh? I haven't seen you before."
+ },
+ {
+  "id": "M2#1912",
+  "en": "Is this your first time around here?"
+ },
+ {
+  "id": "M2#1913",
+  "en": "Well, yes.",
+  "note": "Shared: Dean (answer to 'first time here?') and Sonia ('you came for me')."
+ },
+ {
+  "id": "M2#1914",
+  "en": "Huh, is that so? Nice to meet you."
+ },
+ {
+  "id": "M2#1915",
+  "en": "I'm Dean, a watchmaker."
+ },
+ {
+  "id": "M2#1916",
+  "en": "I don't mean to brag, but..."
+ },
+ {
+  "id": "M2#1917",
+  "en": "I can fix a watch in no time at all."
+ },
+ {
+  "id": "M2#1918",
+  "en": "Off to work? Daily grind's a pain for us both."
+ },
+ {
+  "id": "M2#1919",
+  "en": "We meet again. Hard at work, I see."
+ }
+]

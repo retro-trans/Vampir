@@ -1,0 +1,329 @@
+[
+ {
+  "id": "M2#2080",
+  "en": "Hm? Are you attending the coming conference too?"
+ },
+ {
+  "id": "M2#2081",
+  "en": "<Yes, I am>",
+  "note": "answer choice to #2080"
+ },
+ {
+  "id": "M2#2082",
+  "en": "<No, I'm not>",
+  "note": "answer choice to #2080"
+ },
+ {
+  "id": "M2#2083",
+  "en": "I am Claude. I have a neurology practice."
+ },
+ {
+  "id": "M2#2084",
+  "en": "I'm in England for the conference here."
+ },
+ {
+  "id": "M2#2085",
+  "en": "I recently published a theory, but sadly,"
+ },
+ {
+  "id": "M2#2086",
+  "en": "it has not been well received."
+ },
+ {
+  "id": "M2#2087",
+  "en": "In my view, I merely set down facts from my"
+ },
+ {
+  "id": "M2#2088",
+  "en": "clinical experience, carefully observed",
+  "note": "followed by #152 '...' and the #863 variant '' (msg 70624/70737/71668/71781)"
+ },
+ {
+  "id": "M2#2089",
+  "en": "You carry yourself calmly, and you seem"
+ },
+ {
+  "id": "M2#2090",
+  "en": "intelligent. You might understand it better"
+ },
+ {
+  "id": "M2#2091",
+  "en": "than the hidebound men at the conference."
+ },
+ {
+  "id": "M2#2092",
+  "en": "If you would care to,"
+ },
+ {
+  "id": "M2#2093",
+  "en": "do read it some time."
+ },
+ {
+  "id": "M2#2094",
+  "en": "This is the book setting out my theory."
+ },
+ {
+  "id": "M2#2095",
+  "en": "\"Three Essays on Sexuality\"?",
+  "note": "Freud's Three Essays (1905); Japanese title is 'Three essays on sex', shortened from the real English title for fit"
+ },
+ {
+  "id": "M2#2096",
+  "en": "Yes."
+ },
+ {
+  "id": "M2#2097",
+  "en": "I'm sure you can see how it differs"
+ },
+ {
+  "id": "M2#2098",
+  "en": "from quack psychotherapy."
+ },
+ {
+  "id": "M2#2099",
+  "en": "Now and then I rest my mind here in the park."
+ },
+ {
+  "id": "M2#2100",
+  "en": "But I can't help thinking about the paper"
+ },
+ {
+  "id": "M2#2101",
+  "en": "I'm preparing."
+ },
+ {
+  "id": "M2#2102",
+  "en": "Come to think of it, I never properly"
+ },
+ {
+  "id": "M2#2103",
+  "en": "introduced myself."
+ },
+ {
+  "id": "M2#2104",
+  "en": "I've come to England for the conference"
+ },
+ {
+  "id": "M2#2105",
+  "en": "being held here."
+ },
+ {
+  "id": "M2#2106",
+  "en": "You spoke of \"clinical experience\" before."
+ },
+ {
+  "id": "M2#2107",
+  "en": "Then you are a physician, not a scholar?"
+ },
+ {
+  "id": "M2#2108",
+  "en": "I have a neurology practice in Vienna."
+ },
+ {
+  "id": "M2#2109",
+  "en": "I am most certainly a \"doctor.\""
+ },
+ {
+  "id": "M2#2110",
+  "en": "Through treating patients, I carry on my"
+ },
+ {
+  "id": "M2#2111",
+  "en": "research in neurology."
+ },
+ {
+  "id": "M2#2112",
+  "en": "This is medicine: clinical results are vital."
+ },
+ {
+  "id": "M2#2113",
+  "en": "So then,"
+ },
+ {
+  "id": "M2#2114",
+  "en": "why \"Three Essays on Sexuality\"?"
+ },
+ {
+  "id": "M2#2115",
+  "en": "What is it you treat?"
+ },
+ {
+  "id": "M2#2116",
+  "en": "I mainly treat illnesses such as hysteria"
+ },
+ {
+  "id": "M2#2117",
+  "en": "and anxiety neurosis."
+ },
+ {
+  "id": "M2#2118",
+  "en": "A great many of these illnesses are caused"
+ },
+ {
+  "id": "M2#2119",
+  "en": "by sexual repression."
+ },
+ {
+  "id": "M2#2120",
+  "en": "Even now, with science so advanced, I know"
+ },
+ {
+  "id": "M2#2121",
+  "en": "full well that this is a dangerous subject."
+ },
+ {
+  "id": "M2#2122",
+  "en": "Some at the conference even laughed at it."
+ },
+ {
+  "id": "M2#2123",
+  "en": "But science must not let its progress be"
+ },
+ {
+  "id": "M2#2124",
+  "en": "halted by the world's foolish prattle."
+ },
+ {
+  "id": "M2#2125",
+  "en": "I have argued that hysteria is an illness"
+ },
+ {
+  "id": "M2#2126",
+  "en": "men can have too. What do you think?"
+ },
+ {
+  "id": "M2#2127",
+  "en": "Does \"hystera\" not mean womb?",
+  "note": "Greek hystera = womb"
+ },
+ {
+  "id": "M2#2128",
+  "en": "Yes. That is why I brought clinical cases"
+ },
+ {
+  "id": "M2#2129",
+  "en": "to the conference. But those hidebound men"
+ },
+ {
+  "id": "M2#2130",
+  "en": "will not even listen."
+ },
+ {
+  "id": "M2#2131",
+  "en": "Even something this small meets resistance."
+ },
+ {
+  "id": "M2#2132",
+  "en": "What I mean to present next will surely"
+ },
+ {
+  "id": "M2#2133",
+  "en": "meet even greater resistance..."
+ },
+ {
+  "id": "M2#2134",
+  "en": "There's a theme I want to present in the"
+ },
+ {
+  "id": "M2#2135",
+  "en": "paper I'm writing. Hear me out a moment."
+ },
+ {
+  "id": "M2#2136",
+  "en": "First, I suspect that besides the mind we"
+ },
+ {
+  "id": "M2#2137",
+  "en": "are normally conscious of, we have another"
+ },
+ {
+  "id": "M2#2138",
+  "en": "mind that we cannot be aware of."
+ },
+ {
+  "id": "M2#2139",
+  "en": "This other mind we cannot be aware of"
+ },
+ {
+  "id": "M2#2140",
+  "en": "I have named \"the unconscious.\""
+ },
+ {
+  "id": "M2#2141",
+  "en": "And what has that to do with treating"
+ },
+ {
+  "id": "M2#2142",
+  "en": "neuroses?"
+ },
+ {
+  "id": "M2#2143",
+  "en": "This part we are not aware of is the key."
+ },
+ {
+  "id": "M2#2144",
+  "en": "People with agoraphobia or anxiety neurosis"
+ },
+ {
+  "id": "M2#2145",
+  "en": "have no idea at all why they are that way."
+ },
+ {
+  "id": "M2#2146",
+  "en": "But in the part we call the unconscious,"
+ },
+ {
+  "id": "M2#2147",
+  "en": "the cause is plainly written down."
+ },
+ {
+  "id": "M2#2148",
+  "en": "By probing the unconscious and laying it"
+ },
+ {
+  "id": "M2#2149",
+  "en": "bare in the conscious mind, neurosis can be cured."
+ },
+ {
+  "id": "M2#2150",
+  "en": "",
+  "note": "empty on purpose: the sentence ends in #2149 (msg 71003) and in M2#2974 (Craig, msg 103742); a trailing empty line takes no space"
+ },
+ {
+  "id": "M2#2151",
+  "en": "\"I feel angry, and I don't know why,\" or"
+ },
+ {
+  "id": "M2#2152",
+  "en": "\"I don't know why, but I must go to London\""
+ },
+ {
+  "id": "M2#2153",
+  "en": "--have you never felt anything like that?"
+ },
+ {
+  "id": "M2#2154",
+  "en": "Compulsive neuroses of this kind are cured"
+ },
+ {
+  "id": "M2#2155",
+  "en": "once the \"why\" is understood."
+ },
+ {
+  "id": "M2#2156",
+  "en": "Everyone has had a similar experience."
+ },
+ {
+  "id": "M2#2157",
+  "en": "So the unconscious exists not only in"
+ },
+ {
+  "id": "M2#2158",
+  "en": "neurotic patients but in healthy people too."
+ },
+ {
+  "id": "M2#2159",
+  "en": "It is just that the cases of neurotics",
+  "note": "continues in M2#2160 (slice 027): 'make it easy to demonstrate.'"
+ }
+]

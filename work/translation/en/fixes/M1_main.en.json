@@ -1,0 +1,155 @@
+[
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#21",
+  "variants": [
+   {
+    "msg": 50018,
+    "en": "Good evening, "
+   },
+   {
+    "msg": 50952,
+    "en": "Good evening, "
+   },
+   {
+    "msg": 54084,
+    "en": "Good evening, "
+   }
+  ],
+  "why": "join: greeting followed by the player's name"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1631",
+  "en": "isn't easy work, is it?",
+  "why": "double space: #1587 already ends with a space (only use: msg 63144)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1804",
+  "en": "Picture a young gentleman farming.",
+  "why": "fit: msg 71548 was 4 lines (only use)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#180",
+  "en": "."
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1403",
+  "why": "fit msg 55377",
+  "en": "I'm a soldier famous in the navy!"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1617",
+  "why": "fit msg 62669",
+  "en": "Didn't you understand my directions?"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1782",
+  "en": "What, no?"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#422",
+  "en": "I'll make you a finer politician than your dad."
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2357",
+  "why": "fit msg 91348",
+  "en": "But I won't drag my precious men into"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2358",
+  "why": "fit msg 91348",
+  "en": "a pointless \"night battle\""
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1928",
+  "why": "#1260 adds the period after a pause (msg 75574)",
+  "en": "It's me"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1929",
+  "why": "join after \"{N},\"",
+  "variants": [
+   {
+    "msg": 75574,
+    "en": " what seems to be the trouble?"
+   }
+  ]
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#414",
+  "why": "space before the player's name after a pause",
+  "variants": [
+   {
+    "msg": 71781,
+    "en": "! "
+   }
+  ]
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1340",
+  "en": "Well, it's my reputation that made me famous."
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2606",
+  "en": "No one could have business with me."
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#326",
+  "variants": [
+   {
+    "msg": 108100,
+    "en": "Whoa, "
+   }
+  ],
+  "why": "join before the player name"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#332",
+  "variants": [
+   {
+    "msg": 115529,
+    "en": "Hello, "
+   },
+   {
+    "msg": 116191,
+    "en": "Hello, "
+   },
+   {
+    "msg": 217825,
+    "en": "Hello, "
+   },
+   {
+    "msg": 218365,
+    "en": "Hello, "
+   }
+  ],
+  "why": "join before the player name"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1451",
+  "variants": [
+   {
+    "msg": 202383,
+    "en": " welcome."
+   }
+  ],
+  "why": "after \"{name},\""
+ }
+]

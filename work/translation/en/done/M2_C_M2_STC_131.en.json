@@ -1,0 +1,326 @@
+[
+ {
+  "id": "M2#10480",
+  "en": "...This is a ladies' hat shop, isn't it?"
+ },
+ {
+  "id": "M2#10481",
+  "en": "I may not look it, but I am a man."
+ },
+ {
+  "id": "M2#10482",
+  "en": "But I truly think they would suit you"
+ },
+ {
+  "id": "M2#10483",
+  "en": "ever so well."
+ },
+ {
+  "id": "M2#10484",
+  "en": "The pink lace is just adorable."
+ },
+ {
+  "id": "M2#10485",
+  "en": "Among fine ladies and young noblewomen,"
+ },
+ {
+  "id": "M2#10486",
+  "en": "our hats are very popular, you know."
+ },
+ {
+  "id": "M2#10487",
+  "en": "Why, the famed beauty... the Epstein family's"
+ },
+ {
+  "id": "M2#10488",
+  "en": "Miss Rose loves our hats too."
+ },
+ {
+  "id": "M2#10489",
+  "en": "I simply must have you wear"
+ },
+ {
+  "id": "M2#10490",
+  "en": "a certain dress for me."
+ },
+ {
+  "id": "M2#10491",
+  "en": "As I keep telling you, I'm a man!"
+ },
+ {
+  "id": "M2#10492",
+  "en": "When it comes to beauty, man or woman"
+ },
+ {
+  "id": "M2#10493",
+  "en": "makes no difference..."
+ },
+ {
+  "id": "M2#10494",
+  "en": "When it comes to wearing a dress, it does"
+ },
+ {
+  "id": "M2#10495",
+  "en": "make a difference, I'd think..."
+ },
+ {
+  "id": "M2#10496",
+  "en": "Please, I beg you."
+ },
+ {
+  "id": "M2#10497",
+  "en": "Just once, won't you try on a dress"
+ },
+ {
+  "id": "M2#10498",
+  "en": "for me...?"
+ },
+ {
+  "id": "M2#10499",
+  "en": "No, I must politely decline."
+ },
+ {
+  "id": "M2#10500",
+  "en": "Please come again tomorrow."
+ },
+ {
+  "id": "M2#10501",
+  "en": "I'll be waiting for you tomorrow."
+ },
+ {
+  "id": "M2#10502",
+  "en": "I've already closed the shop..."
+ },
+ {
+  "id": "M2#10503",
+  "en": "If there's a hat you like,"
+ },
+ {
+  "id": "M2#10504",
+  "en": "I'll gladly set it aside for you."
+ },
+ {
+  "id": "M2#10505",
+  "en": "You're "
+ },
+ {
+  "id": "M2#10506",
+  "en": ", aren't you?"
+ },
+ {
+  "id": "M2#10507",
+  "en": "How did you know?"
+ },
+ {
+  "id": "M2#10508",
+  "en": "I know, you see."
+ },
+ {
+  "id": "M2#10509",
+  "en": "Why you've come here",
+  "note": "followed by three '.' pause rows (#265) and #863 variant '' -> 'Why you've come here...'"
+ },
+ {
+  "id": "M2#10510",
+  "en": "You wanted to wear a dress,"
+ },
+ {
+  "id": "M2#10511",
+  "en": "so you came here, didn't you?"
+ },
+ {
+  "id": "M2#10512",
+  "en": "No, that's not it.",
+  "note": "night scene, stern player register (#10507-#10519 have no used_in; msg 402953)"
+ },
+ {
+  "id": "M2#10513",
+  "en": "There's no need to be shy."
+ },
+ {
+  "id": "M2#10514",
+  "en": "Everyone longs for beautiful things."
+ },
+ {
+  "id": "M2#10515",
+  "en": "It's only natural."
+ },
+ {
+  "id": "M2#10516",
+  "en": "Very well."
+ },
+ {
+  "id": "M2#10517",
+  "en": "I'll change into that dress, so"
+ },
+ {
+  "id": "M2#10518",
+  "en": "would you put out the light..."
+ },
+ {
+  "id": "M2#10519",
+  "en": "All right."
+ },
+ {
+  "id": "M2#10520",
+  "en": "Now, let me help you change."
+ },
+ {
+  "id": "M2#10521",
+  "en": "Ah, what...?"
+ },
+ {
+  "id": "M2#10522",
+  "en": "Eeeeek...!"
+ },
+ {
+  "id": "M2#10523",
+  "en": "Good grief, I was nearly put through",
+  "note": "no speaker tag; read as the player after Clio's scream"
+ },
+ {
+  "id": "M2#10524",
+  "en": "a dreadful ordeal..."
+ },
+ {
+  "id": "M2#10525",
+  "en": "Ask whatever you will of me."
+ },
+ {
+  "id": "M2#10526",
+  "en": "Give me any order you please."
+ },
+ {
+  "id": "M2#10527",
+  "en": "My, my! What a handsome man you are!"
+ },
+ {
+  "id": "M2#10528",
+  "en": "Sir, yours isn't the sort of face one sees in a"
+ },
+ {
+  "id": "M2#10529",
+  "en": "back-street liquor shop like this."
+ },
+ {
+  "id": "M2#10530",
+  "en": "Whatever whim brought you here,"
+ },
+ {
+  "id": "M2#10531",
+  "en": "do buy a bottle before you go."
+ },
+ {
+  "id": "M2#10532",
+  "en": "Everyone needs a drink in this life, sir."
+ },
+ {
+  "id": "M2#10533",
+  "en": "Say, sir, lately the whole town's whispering of",
+  "note": "wording agreed with slice 132 (#10569 'Lately the whole town's been whispering of'); #10534 shared"
+ },
+ {
+  "id": "M2#10534",
+  "en": "a killer who slashes folk. Have you heard?"
+ },
+ {
+  "id": "M2#10535",
+  "en": "Seems the bodies get carved up with a knife,"
+ },
+ {
+  "id": "M2#10536",
+  "en": "and folk have given the killer a nickname:"
+ },
+ {
+  "id": "M2#10537",
+  "en": "\"Jack the Ripper.\""
+ },
+ {
+  "id": "M2#10538",
+  "en": "With a murderer like that on the prowl,"
+ },
+ {
+  "id": "M2#10539",
+  "en": "I'm too scared to set foot outside at night."
+ },
+ {
+  "id": "M2#10540",
+  "en": "That knife murderer still hasn't been caught,"
+ },
+ {
+  "id": "M2#10541",
+  "en": "it seems."
+ },
+ {
+  "id": "M2#10542",
+  "en": "What on earth are the police doing?"
+ },
+ {
+  "id": "M2#10543",
+  "en": "Hopeless, the lot of 'em!"
+ },
+ {
+  "id": "M2#10544",
+  "en": "Just how frightened us common folk are -"
+ },
+ {
+  "id": "M2#10545",
+  "en": "I bet they've no idea."
+ },
+ {
+  "id": "M2#10546",
+  "en": "Oh my, I've gone and got carried away."
+ },
+ {
+  "id": "M2#10547",
+  "en": "Do buy a drop of something before you go."
+ },
+ {
+  "id": "M2#10548",
+  "en": "Say, sir, have you heard?"
+ },
+ {
+  "id": "M2#10549",
+  "en": "Lady Rose, Count Epstein's daughter."
+ },
+ {
+  "id": "M2#10550",
+  "en": "She's ever so beautiful, she is."
+ },
+ {
+  "id": "M2#10551",
+  "en": "What sort of man will end up marrying her,"
+ },
+ {
+  "id": "M2#10552",
+  "en": "I wonder."
+ },
+ {
+  "id": "M2#10553",
+  "en": "Every notable in London wants to take her"
+ },
+ {
+  "id": "M2#10554",
+  "en": "as his bride, from what I hear..."
+ },
+ {
+  "id": "M2#10555",
+  "en": "Lady Rose of the Epstein family - a beauty"
+ },
+ {
+  "id": "M2#10556",
+  "en": "like her, I've never seen in all my days."
+ },
+ {
+  "id": "M2#10557",
+  "en": "You often hear tales of folk made unhappy"
+ },
+ {
+  "id": "M2#10558",
+  "en": "by their good looks..."
+ },
+ {
+  "id": "M2#10559",
+  "en": "But folk made unhappy by being plain are far"
+ }
+]

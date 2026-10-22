@@ -1,0 +1,334 @@
+[
+ {
+  "id": "M1#2560",
+  "en": "I thought you might be the new factory manager."
+ },
+ {
+  "id": "M1#2561",
+  "en": "You look like such a fine gentleman."
+ },
+ {
+  "id": "M1#2562",
+  "en": "Hello. I'm Kürten."
+ },
+ {
+  "id": "M1#2563",
+  "en": "Do you remember me?"
+ },
+ {
+  "id": "M1#2564",
+  "en": "I remember you very well."
+ },
+ {
+  "id": "M1#2565",
+  "en": "I mean, you don't often see someone"
+ },
+ {
+  "id": "M1#2566",
+  "en": "dressed the way you are..."
+ },
+ {
+  "id": "M1#2567",
+  "en": "Ahh... What should I do..."
+ },
+ {
+  "id": "M1#2568",
+  "en": ", please hear me out."
+ },
+ {
+  "id": "M1#2569",
+  "en": "The truth is, there's someone I'm in love with."
+ },
+ {
+  "id": "M1#2570",
+  "en": "She's a woman I always see in Alster Park,"
+ },
+ {
+  "id": "M1#2571",
+  "en": "and she is ever so beautiful..."
+ },
+ {
+  "id": "M1#2572",
+  "en": "If you love her that much, why not tell her?"
+ },
+ {
+  "id": "M1#2573",
+  "en": "Would she even look at someone like me?",
+  "note": "Shared by 99395 and 100056 (in 100056 it follows 'Hmmm. But...', so no leading 'But')."
+ },
+ {
+  "id": "M1#2574",
+  "en": ", I finally worked up my courage"
+ },
+ {
+  "id": "M1#2575",
+  "en": "and spoke to the woman in Alster Park."
+ },
+ {
+  "id": "M1#2576",
+  "en": "But it was no good, just as I feared..."
+ },
+ {
+  "id": "M1#2577",
+  "en": "She's waiting there for her lover to return,"
+ },
+ {
+  "id": "M1#2578",
+  "en": "or so I'm told."
+ },
+ {
+  "id": "M1#2579",
+  "en": "Oh, I just want to die."
+ },
+ {
+  "id": "M1#2580",
+  "en": "There is no need to die over it."
+ },
+ {
+  "id": "M1#2581",
+  "en": "Come now, I'm sure you will soon"
+ },
+ {
+  "id": "M1#2582",
+  "en": "find yourself a new love."
+ },
+ {
+  "id": "M1#2583",
+  "en": "Do you think so?"
+ },
+ {
+  "id": "M1#2584",
+  "en": "It's strange, but when you say so, I start"
+ },
+ {
+  "id": "M1#2585",
+  "en": "to feel that it might be true."
+ },
+ {
+  "id": "M1#2586",
+  "en": "For now, I'll think a little longer about"
+ },
+ {
+  "id": "M1#2587",
+  "en": "whether to live or die..."
+ },
+ {
+  "id": "M1#2588",
+  "en": "Thank you!"
+ },
+ {
+  "id": "M1#2589",
+  "en": "Thanks to you, I've found a new love."
+ },
+ {
+  "id": "M1#2590",
+  "en": "She works at the same factory, and she's",
+  "note": "Shared by 99506 (+#2591) and 100180 (+#2649, slice 033): the next row must continue 'and she's ...'."
+ },
+ {
+  "id": "M1#2591",
+  "en": "the sweetest-natured girl..."
+ },
+ {
+  "id": "M1#2592",
+  "en": "It's because you told me not to die back then"
+ },
+ {
+  "id": "M1#2593",
+  "en": "that I've been able to find such happiness."
+ },
+ {
+  "id": "M1#2594",
+  "en": "I mean it, ",
+  "note": "'I mean it, ' + NAME + #2595 '.' / then #2557 'It's all thanks to you.' (99506) or #2599 (99572)."
+ },
+ {
+  "id": "M1#2595",
+  "en": ".",
+  "note": "'.' as agreed with slice 031 (#2557). Also used by Kröger msgs 132468 (after #3374) and 133325 (after #3433): those rows must end so NAME + '.' closes a sentence."
+ },
+ {
+  "id": "M1#2596",
+  "en": "But now I have a new worry."
+ },
+ {
+  "id": "M1#2597",
+  "en": "Whether or not I should marry her...",
+  "note": "Shared by 99506 and 100180 (followed by #2655 'That's my new worry'-type line)."
+ },
+ {
+  "id": "M1#2598",
+  "en": "A happy sort of problem to have, isn't it?"
+ },
+ {
+  "id": "M1#2599",
+  "en": "I owe it all to you."
+ },
+ {
+  "id": "M1#2600",
+  "en": "Whether I should marry her or not... I think",
+  "note": "Shared by 99572 and 100238."
+ },
+ {
+  "id": "M1#2601",
+  "en": "I'll keep agonizing over that for a while."
+ },
+ {
+  "id": "M1#2602",
+  "en": "Is there something you want with me?"
+ },
+ {
+  "id": "M1#2603",
+  "en": "Haah... Factory work is so rough..."
+ },
+ {
+  "id": "M1#2604",
+  "en": "You must have come to the wrong house."
+ },
+ {
+  "id": "M1#2605",
+  "en": "I mean, ",
+  "note": "No used_in; assumed to precede #2606 in msg 99784 (after #2604)."
+ },
+ {
+  "id": "M1#2606",
+  "en": "I can't imagine anyone having business with me.",
+  "note": "No used_in; Kürten continuing #2604/#2605."
+ },
+ {
+  "id": "M1#2607",
+  "en": "No, that's not it. Um, well",
+  "note": "No used_in; assumed [PLAYER] line followed by #180 '...' in msg 99824, so no final punctuation ('Um, well...')."
+ },
+ {
+  "id": "M1#2608",
+  "en": "If you don't mind, would you be my friend?"
+ },
+ {
+  "id": "M1#2609",
+  "en": "Huh? Really?"
+ },
+ {
+  "id": "M1#2610",
+  "en": "If you'll have me, I'd love to be your friend."
+ },
+ {
+  "id": "M1#2611",
+  "en": "I'd love to be friends with you."
+ },
+ {
+  "id": "M1#2612",
+  "en": "about my troubles!",
+  "note": "Continues #2552 'You came all the way to my house to hear' (slice 031), like #2553."
+ },
+ {
+  "id": "M1#2613",
+  "en": "I knew it, you're my true friend!"
+ },
+ {
+  "id": "M1#2614",
+  "en": "Now that I have a friend, should I give up"
+ },
+ {
+  "id": "M1#2615",
+  "en": "on having a sweetheart?"
+ },
+ {
+  "id": "M1#2616",
+  "en": "I found my sweetheart thanks to your advice."
+ },
+ {
+  "id": "M1#2617",
+  "en": "Someone to love who loves me, and a friend..."
+ },
+ {
+  "id": "M1#2618",
+  "en": "How happy I am!"
+ },
+ {
+  "id": "M1#2619",
+  "en": "And you are...?"
+ },
+ {
+  "id": "M1#2620",
+  "en": "Nice to meet you.",
+  "note": "Shared with Lily msg 247287."
+ },
+ {
+  "id": "M1#2621",
+  "en": "Did you need something here at the factory?"
+ },
+ {
+  "id": "M1#2622",
+  "en": "No, not really... Um,"
+ },
+ {
+  "id": "M1#2623",
+  "en": "what if I said I'd like you to be my friend?",
+  "note": "Also appears as a speaker-less prefix in msgs 87322, 99098, 119578, 165146, 221978; looks like an extraction artifact, translated for 99944 only."
+ },
+ {
+  "id": "M1#2624",
+  "en": "Would that be all right?"
+ },
+ {
+  "id": "M1#2625",
+  "en": "Huh? Friends with me, of all people!?"
+ },
+ {
+  "id": "M1#2626",
+  "en": "W-Why, I'd be delighted."
+ },
+ {
+  "id": "M1#2627",
+  "en": "I'm so happy."
+ },
+ {
+  "id": "M1#2628",
+  "en": "From today on, you're my true friend."
+ },
+ {
+  "id": "M1#2629",
+  "en": "Ah, my friend."
+ },
+ {
+  "id": "M1#2630",
+  "en": "Thanks for listening to my troubles."
+ },
+ {
+  "id": "M1#2631",
+  "en": ", listen to this."
+ },
+ {
+  "id": "M1#2632",
+  "en": "The truth is, there's someone I like."
+ },
+ {
+  "id": "M1#2633",
+  "en": "and she's really, really pretty..."
+ },
+ {
+  "id": "M1#2634",
+  "en": "If you like her that much, why not just tell her?"
+ },
+ {
+  "id": "M1#2635",
+  "en": "Hmmm. But..."
+ },
+ {
+  "id": "M1#2636",
+  "en": ", I finally worked up my nerve"
+ },
+ {
+  "id": "M1#2637",
+  "en": "But yeah, it was no good..."
+ },
+ {
+  "id": "M1#2638",
+  "en": "She's waiting there for her sweetheart"
+ },
+ {
+  "id": "M1#2639",
+  "en": "to come back, apparently."
+ }
+]

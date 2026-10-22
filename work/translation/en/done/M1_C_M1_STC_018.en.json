@@ -1,0 +1,350 @@
+[
+ {
+  "id": "M1#1440",
+  "en": "I believe we've met before..."
+ },
+ {
+  "id": "M1#1441",
+  "en": "Thank you very much. Right away,"
+ },
+ {
+  "id": "M1#1442",
+  "en": "I'll bring your coffee."
+ },
+ {
+  "id": "M1#1443",
+  "en": "Please, have another cup."
+ },
+ {
+  "id": "M1#1444",
+  "en": "Hello. Welcome."
+ },
+ {
+  "id": "M1#1445",
+  "en": "We got some especially fine beans in today."
+ },
+ {
+  "id": "M1#1446",
+  "en": "And dirt cheap, too... eh?"
+ },
+ {
+  "id": "M1#1447",
+  "en": "If you're after hidden gems from the harbor,"
+ },
+ {
+  "id": "M1#1448",
+  "en": "you could try the warehouse by the docks."
+ },
+ {
+  "id": "M1#1449",
+  "en": "It's well worth a look."
+ },
+ {
+  "id": "M1#1450",
+  "en": "Hello, ",
+  "note": "Greeting; Jahn msg 58377 prints 'Hello, NAME' with no period (#98 is empty)"
+ },
+ {
+  "id": "M1#1451",
+  "en": "Welcome.",
+  "note": "Maitz (86960) variant 'Welcome, ' so it reads 'Welcome, NAME.'",
+  "variants": [
+   {
+    "msg": 86960,
+    "en": "Welcome, "
+   }
+  ]
+ },
+ {
+  "id": "M1#1452",
+  "en": "The hidden-gem warehouse I told you about,"
+ },
+ {
+  "id": "M1#1453",
+  "en": "did you go and see it?"
+ },
+ {
+  "id": "M1#1454",
+  "en": "<I went>",
+  "note": "Answer choice, brackets as <>"
+ },
+ {
+  "id": "M1#1455",
+  "en": "<I'm not going>"
+ },
+ {
+  "id": "M1#1456",
+  "en": "You got to see some rare things, didn't you?",
+  "note": "No used_in; reply to <I went>"
+ },
+ {
+  "id": "M1#1457",
+  "en": "I recommend you go and see it",
+  "note": "No fixed antecedent: 'it' = the warehouse"
+ },
+ {
+  "id": "M1#1458",
+  "en": "at least once."
+ },
+ {
+  "id": "M1#1459",
+  "en": "Hey, welcome."
+ },
+ {
+  "id": "M1#1460",
+  "en": " has really become",
+  "note": "Needs #1525 (slice 019) as ' has really become' too"
+ },
+ {
+  "id": "M1#1461",
+  "en": "one of my regulars, huh?"
+ },
+ {
+  "id": "M1#1462",
+  "en": "When it comes to coffee, aroma is everything."
+ },
+ {
+  "id": "M1#1463",
+  "en": "Mine is always freshly ground."
+ },
+ {
+  "id": "M1#1464",
+  "en": "It's been ages since anyone visited my home."
+ },
+ {
+  "id": "M1#1465",
+  "en": "The shop gets customers every day, though."
+ },
+ {
+  "id": "M1#1466",
+  "en": "If you'd like, stop by Café Jahn.",
+  "note": "Ends with a period; #1528 (slice 019) follows it in msg 59141"
+ },
+ {
+  "id": "M1#1467",
+  "en": "Please do. It's my cafe."
+ },
+ {
+  "id": "M1#1468",
+  "en": "A cafe, hm..."
+ },
+ {
+  "id": "M1#1469",
+  "en": "A coffee now and then would do no harm."
+ },
+ {
+  "id": "M1#1470",
+  "en": "Next time, at Café Jahn,",
+  "note": "Comma ending; #1531 (slice 019) must follow 'Next time, at Café Jahn,'"
+ },
+ {
+  "id": "M1#1471",
+  "en": "let's meet."
+ },
+ {
+  "id": "M1#1472",
+  "en": "is there something I can do for you?",
+  "note": "lowercase: follows #232 'Hey, ' + NAME + #223 ','"
+ },
+ {
+  "id": "M1#1473",
+  "en": "Well, well, "
+ },
+ {
+  "id": "M1#1474",
+  "en": "To think you'd come all this way to see me."
+ },
+ {
+  "id": "M1#1475",
+  "en": "I know! You want some coffee, right?"
+ },
+ {
+  "id": "M1#1476",
+  "en": "No good, I'm afraid. You have to come to the shop during business hours."
+ },
+ {
+  "id": "M1#1477",
+  "en": "Say, if you've got nothing to do right now,"
+ },
+ {
+  "id": "M1#1478",
+  "en": "how about a cup of coffee?"
+ },
+ {
+  "id": "M1#1479",
+  "en": "If you want to flirt, talk to a woman."
+ },
+ {
+  "id": "M1#1480",
+  "en": "I may not look it, but I am a man."
+ },
+ {
+  "id": "M1#1481",
+  "en": "Oh, my apologies. I didn't mean it that way."
+ },
+ {
+  "id": "M1#1482",
+  "en": "You see, I run a cafe."
+ },
+ {
+  "id": "M1#1483",
+  "en": "It has the same name as me: Jahn."
+ },
+ {
+  "id": "M1#1484",
+  "en": "Hmm, is that so?"
+ },
+ {
+  "id": "M1#1485",
+  "en": "It's true, all right."
+ },
+ {
+  "id": "M1#1486",
+  "en": "Well then, I'll be waiting."
+ },
+ {
+  "id": "M1#1487",
+  "en": "I'll be waiting, so do come by!"
+ },
+ {
+  "id": "M1#1488",
+  "en": ","
+ },
+ {
+  "id": "M1#1489",
+  "en": "did you like the coffee?",
+  "note": "lowercase: follows #183 'Hey, ' + NAME + #1488 ','"
+ },
+ {
+  "id": "M1#1490",
+  "en": ", is that you?",
+  "note": "Jahn (58741) variant 'NAME! Well, hello there.'; others 'NAME, is that you?' (Stanberg, Hugo)",
+  "variants": [
+   {
+    "msg": 58741,
+    "en": "! Well, hello there."
+   }
+  ]
+ },
+ {
+  "id": "M1#1491",
+  "en": "When you're here, other customers flock in."
+ },
+ {
+  "id": "M1#1492",
+  "en": "Do you know Café Jahn?"
+ },
+ {
+  "id": "M1#1493",
+  "en": "Stop by the shop again sometime."
+ },
+ {
+  "id": "M1#1494",
+  "en": "have been injured, you know.",
+  "note": "Continues #1431 (slice 017), which must end before 'have been injured'"
+ },
+ {
+  "id": "M1#1495",
+  "en": "What on earth is going on?"
+ },
+ {
+  "id": "M1#1496",
+  "en": "Why... what a beautiful person."
+ },
+ {
+  "id": "M1#1497",
+  "en": "I think I'll give you some special service."
+ },
+ {
+  "id": "M1#1498",
+  "en": "<I may not look it, but I'm a man!>",
+  "note": "Answer choice"
+ },
+ {
+  "id": "M1#1499",
+  "en": "<Then I'll take that service>",
+  "note": "Answer choice"
+ },
+ {
+  "id": "M1#1500",
+  "en": "I see. A man, is it?",
+  "note": "No used_in; Jahn's reply to <I may not look it...>"
+ },
+ {
+  "id": "M1#1501",
+  "en": "I don't mind, even so!"
+ },
+ {
+  "id": "M1#1502",
+  "en": "Just kidding."
+ },
+ {
+  "id": "M1#1503",
+  "en": "No, I'm joking. Anyway, man or woman,"
+ },
+ {
+  "id": "M1#1504",
+  "en": "a glamorous visitor brings in customers,"
+ },
+ {
+  "id": "M1#1505",
+  "en": "and that makes me happy."
+ },
+ {
+  "id": "M1#1506",
+  "en": "Here, drink up. It's my special coffee.",
+  "note": "Reply to <Then I'll take that service>"
+ },
+ {
+  "id": "M1#1507",
+  "en": "No, I know perfectly well you're a man."
+ },
+ {
+  "id": "M1#1508",
+  "en": "But when someone glamorous comes by,"
+ },
+ {
+  "id": "M1#1509",
+  "en": "I get more customers, and I'm happy."
+ },
+ {
+  "id": "M1#1510",
+  "en": "Huh, you're the one I met before..."
+ },
+ {
+  "id": "M1#1511",
+  "en": "So you really did come."
+ },
+ {
+  "id": "M1#1512",
+  "en": "I'll get your coffee ready right away."
+ },
+ {
+  "id": "M1#1513",
+  "en": "When someone glamorous like you comes by,"
+ },
+ {
+  "id": "M1#1514",
+  "en": "I get more customers, and I'm happy."
+ },
+ {
+  "id": "M1#1515",
+  "en": "Care for another cup before you go?"
+ },
+ {
+  "id": "M1#1516",
+  "en": "Welcome. You came at a good time."
+ },
+ {
+  "id": "M1#1517",
+  "en": "We got some especially fine beans in today."
+ },
+ {
+  "id": "M1#1518",
+  "en": "If you're after hidden gems from the harbor,"
+ },
+ {
+  "id": "M1#1519",
+  "en": "you could try the warehouse by the docks."
+ }
+]

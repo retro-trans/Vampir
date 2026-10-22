@@ -1,0 +1,349 @@
+[
+ {
+  "id": "M1#1600",
+  "en": "Oh, they're nothing but baseless rumors."
+ },
+ {
+  "id": "M1#1601",
+  "en": "Everybody's bored, so they talk like that"
+ },
+ {
+  "id": "M1#1602",
+  "en": "to work off their daily frustrations, I'd say."
+ },
+ {
+  "id": "M1#1603",
+  "en": "(This fellow's peace is a figment of his imagination.)"
+ },
+ {
+  "id": "M1#1604",
+  "en": "Ugly rumors about vampires and Dhampirs"
+ },
+ {
+  "id": "M1#1605",
+  "en": "never seem to die down, but"
+ },
+ {
+  "id": "M1#1606",
+  "en": "I've never heard of a single victim."
+ },
+ {
+  "id": "M1#1607",
+  "en": "Rumors really are just rumors, after all."
+ },
+ {
+  "id": "M1#1608",
+  "en": "Oh, I don't believe we've met."
+ },
+ {
+  "id": "M1#1609",
+  "en": "I work at the Coast Guard."
+ },
+ {
+  "id": "M1#1610",
+  "en": "The Coast Guard, is it?"
+ },
+ {
+  "id": "M1#1611",
+  "en": "Yes."
+ },
+ {
+  "id": "M1#1612",
+  "en": "If you go south on Calstatt Road,"
+ },
+ {
+  "id": "M1#1613",
+  "en": "you'll find a church."
+ },
+ {
+  "id": "M1#1614",
+  "en": "The Coast Guard is right across from it."
+ },
+ {
+  "id": "M1#1615",
+  "en": "If anything comes up, please go there."
+ },
+ {
+  "id": "M1#1616",
+  "en": "The Coast Guard's location...",
+  "note": "0 uses; speaker unknown (menu/question title?). Literal."
+ },
+ {
+  "id": "M1#1617",
+  "en": "Did you not understand my earlier directions?",
+  "note": "0 uses; Klaus asking, followed by the two choices #1618/#1619"
+ },
+ {
+  "id": "M1#1618",
+  "en": "<I've got it already>",
+  "note": "menu choice"
+ },
+ {
+  "id": "M1#1619",
+  "en": "<I want to hear it again>",
+  "note": "menu choice"
+ },
+ {
+  "id": "M1#1620",
+  "en": "I see.",
+  "variants": [
+   {
+    "msg": 209841,
+    "en": "I see. "
+   },
+   {
+    "msg": 209886,
+    "en": "I see. "
+   }
+  ]
+ },
+ {
+  "id": "M1#1621",
+  "en": "Understood."
+ },
+ {
+  "id": "M1#1622",
+  "en": "I'm about to have a meal."
+ },
+ {
+  "id": "M1#1623",
+  "en": "I wonder what's on the menu today."
+ },
+ {
+  "id": "M1#1624",
+  "en": "My wife is a wonderful cook..."
+ },
+ {
+  "id": "M1#1625",
+  "en": "Aha, so you're after my wife's cooking!"
+ },
+ {
+  "id": "M1#1626",
+  "en": "(Not knowing anything"
+ },
+ {
+  "id": "M1#1627",
+  "en": "really is a blessing, isn't it.)"
+ },
+ {
+  "id": "M1#1628",
+  "en": "No, it's nothing."
+ },
+ {
+  "id": "M1#1629",
+  "en": "Captain Stelan says Calstatt ",
+  "note": "same line as #1630: trailing space"
+ },
+ {
+  "id": "M1#1630",
+  "en": "is a town that grew up almost overnight."
+ },
+ {
+  "id": "M1#1631",
+  "en": " isn't easy work, is it?",
+  "note": "follows M1#1587 (slice 019) on one line: leading space here; #1587 must not end with a space and must be a noun phrase like 'Even just watching for smuggling and illegal entry'"
+ },
+ {
+  "id": "M1#1632",
+  "en": "I'd imagine smuggling and illegal entry are common, though?"
+ },
+ {
+  "id": "M1#1633",
+  "en": "(Maybe peace is all in how you look at it.)"
+ },
+ {
+  "id": "M1#1634",
+  "en": "Ugly rumors about vampires and Nosferatu"
+ },
+ {
+  "id": "M1#1635",
+  "en": "The Coast Guard?"
+ },
+ {
+  "id": "M1#1636",
+  "en": "<Understood>",
+  "note": "menu choice"
+ },
+ {
+  "id": "M1#1637",
+  "en": "<Please tell me once more>",
+  "note": "menu choice"
+ },
+ {
+  "id": "M1#1638",
+  "en": "Sorry, but could you tell me once more?",
+  "note": "msg 63385 labels this [Klaus] but it is the PLAYER's request (answer to #1637), followed by Klaus's #1621"
+ },
+ {
+  "id": "M1#1639",
+  "en": "He's so carefree, but"
+ },
+ {
+  "id": "M1#1640",
+  "en": "will he be all right?"
+ },
+ {
+  "id": "M1#1641",
+  "en": "What's wrong? At this hour of the night?",
+  "note": "0 uses; assumed Klaus"
+ },
+ {
+  "id": "M1#1642",
+  "en": "Vampires and Nosferatu are",
+  "note": "0 uses; continues #1643"
+ },
+ {
+  "id": "M1#1643",
+  "en": "making a commotion outside!"
+ },
+ {
+  "id": "M1#1644",
+  "en": "It seems it was true after all!",
+  "note": "0 uses; referent (rumors?) not stated"
+ },
+ {
+  "id": "M1#1645",
+  "en": "I'll pretend I never heard that.",
+  "note": "0 uses; speaker assumed Klaus"
+ },
+ {
+  "id": "M1#1646",
+  "en": "Mr. Klaus!"
+ },
+ {
+  "id": "M1#1647",
+  "en": "Hey, please wake up."
+ },
+ {
+  "id": "M1#1648",
+  "en": "Please, ",
+  "note": "+ NAME + #189 '.'"
+ },
+ {
+  "id": "M1#1649",
+  "en": "Don't take my peaceful life away from me."
+ },
+ {
+  "id": "M1#1650",
+  "en": "Mr. Klaus, I'm so sorry!",
+  "note": "0 uses; addressed to Klaus"
+ },
+ {
+  "id": "M1#1651",
+  "en": "What are you doing?!",
+  "note": "0 uses; Klaus assumed"
+ },
+ {
+  "id": "M1#1652",
+  "en": "Even if you become a Nosferatu,"
+ },
+ {
+  "id": "M1#1653",
+  "en": "you can still spend your days in peace..."
+ },
+ {
+  "id": "M1#1654",
+  "en": "A blade-wielder, hm? That's reassuring."
+ },
+ {
+  "id": "M1#1655",
+  "en": "But you mustn't let human blood be shed"
+ },
+ {
+  "id": "M1#1656",
+  "en": "needlessly."
+ },
+ {
+  "id": "M1#1657",
+  "en": "Understood, Master......"
+ },
+ {
+  "id": "M1#1658",
+  "en": "A blade-wielder... how interesting."
+ },
+ {
+  "id": "M1#1659",
+  "en": "Make a bloody offering of all who defy you."
+ },
+ {
+  "id": "M1#1660",
+  "en": "This is the \"Knife Shop.\"",
+  "note": "knife shop per M1/job16 label"
+ },
+ {
+  "id": "M1#1661",
+  "en": "I'm Ernst. I'm the owner of this shop."
+ },
+ {
+  "id": "M1#1662",
+  "en": "I was just sharpening a blade."
+ },
+ {
+  "id": "M1#1663",
+  "en": "Sorry, we're not open yet."
+ },
+ {
+  "id": "M1#1664",
+  "en": "Taking care of your blades is the key."
+ },
+ {
+  "id": "M1#1665",
+  "en": "Even the handiest tool will end up"
+ },
+ {
+  "id": "M1#1666",
+  "en": "useless if you neglect it."
+ },
+ {
+  "id": "M1#1667",
+  "en": "Are you taking good care of your tools?"
+ },
+ {
+  "id": "M1#1668",
+  "en": "Bring them here, and I'll take care of"
+ },
+ {
+  "id": "M1#1669",
+  "en": "any blade you've got."
+ },
+ {
+  "id": "M1#1670",
+  "en": "From little knives to big"
+ },
+ {
+  "id": "M1#1671",
+  "en": "axes. We've got everything."
+ },
+ {
+  "id": "M1#1672",
+  "en": "Welcome. Sorry the shop was closed"
+ },
+ {
+  "id": "M1#1673",
+  "en": "the other day."
+ },
+ {
+  "id": "M1#1674",
+  "en": "I'm Ernst, the owner. Pleased to meet you."
+ },
+ {
+  "id": "M1#1675",
+  "en": "The shop is full of blades I've sharpened."
+ },
+ {
+  "id": "M1#1676",
+  "en": "Take your time and look around."
+ },
+ {
+  "id": "M1#1677",
+  "en": "As a kid I went to trade school while"
+ },
+ {
+  "id": "M1#1678",
+  "en": "working, and after graduating I kept training"
+ },
+ {
+  "id": "M1#1679",
+  "en": "under my master learning blade-making."
+ }
+]

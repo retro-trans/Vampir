@@ -1,0 +1,327 @@
+[
+ {
+  "id": "M2#10000",
+  "en": "I came to London to see the sights."
+ },
+ {
+  "id": "M2#10001",
+  "en": "I see. May your trip be a pleasant one."
+ },
+ {
+  "id": "M2#10002",
+  "en": "Thank you for earlier."
+ },
+ {
+  "id": "M2#10003",
+  "en": "It's almost a bit cold tonight."
+ },
+ {
+  "id": "M2#10004",
+  "en": "The days are quite mild, but the nights"
+ },
+ {
+  "id": "M2#10005",
+  "en": "get cold, don't they? Please take care"
+ },
+ {
+  "id": "M2#10006",
+  "en": "of yourself."
+ },
+ {
+  "id": "M2#10007",
+  "en": "Strange, ",
+  "note": "Before the name + #7896 \", you're\" + #10008: \"Strange, {NAME}, you're / easy to spot even at night.\""
+ },
+ {
+  "id": "M2#10008",
+  "en": "easy to spot even at night."
+ },
+ {
+  "id": "M2#10009",
+  "en": "You draw the eye, or... no, it's that the"
+ },
+ {
+  "id": "M2#10010",
+  "en": "night suits you. Yes, I'm sure of it."
+ },
+ {
+  "id": "M2#10011",
+  "en": "Hello? Is something the matter?"
+ },
+ {
+  "id": "M2#10012",
+  "en": "Huh? ...Oh, it's nothing."
+ },
+ {
+  "id": "M2#10013",
+  "en": "Everything here is so new to me, I was"
+ },
+ {
+  "id": "M2#10014",
+  "en": "just lost in it, that's all."
+ },
+ {
+  "id": "M2#10015",
+  "en": "I see. My apologies."
+ },
+ {
+  "id": "M2#10016",
+  "en": "It seems I disturbed you by calling out."
+ },
+ {
+  "id": "M2#10017",
+  "en": "Not at all."
+ },
+ {
+  "id": "M2#10018",
+  "en": "My name is Anna. I'm visiting London"
+ },
+ {
+  "id": "M2#10019",
+  "en": "as a tourist."
+ },
+ {
+  "id": "M2#10020",
+  "en": "This museum is really amazing."
+ },
+ {
+  "id": "M2#10021",
+  "en": "I think I'll keep coming for a while."
+ },
+ {
+  "id": "M2#10022",
+  "en": "Indeed, one day is not enough to see it all."
+ },
+ {
+  "id": "M2#10023",
+  "en": "I hope you enjoy your trip."
+ },
+ {
+  "id": "M2#10024",
+  "en": "Thank you. See you again."
+ },
+ {
+  "id": "M2#10025",
+  "en": "We have in fact met before. Do you"
+ },
+ {
+  "id": "M2#10026",
+  "en": "recall, I wonder?"
+ },
+ {
+  "id": "M2#10027",
+  "en": "Disturb me? Not at all... Oh?"
+ },
+ {
+  "id": "M2#10028",
+  "en": "That's right, we met in town."
+ },
+ {
+  "id": "M2#10029",
+  "en": "Meeting again... what a lovely twist of fate."
+ },
+ {
+  "id": "M2#10030",
+  "en": "Anyway...",
+  "note": "Standalone, because the next row #10020 also starts a sentence in msg 386006."
+ },
+ {
+  "id": "M2#10031",
+  "en": "Take your time and enjoy it."
+ },
+ {
+  "id": "M2#10032",
+  "en": "I never tire of it, no matter how often I look!"
+ },
+ {
+  "id": "M2#10033",
+  "en": "Oh, we meet again."
+ },
+ {
+  "id": "M2#10034",
+  "en": ", so you like"
+ },
+ {
+  "id": "M2#10035",
+  "en": "museums too."
+ },
+ {
+  "id": "M2#10036",
+  "en": "Yes, of course."
+ },
+ {
+  "id": "M2#10037",
+  "en": "I am drawn to old and time-honored things."
+ },
+ {
+  "id": "M2#10038",
+  "en": "So am I."
+ },
+ {
+  "id": "M2#10039",
+  "en": "It's like touching history, and sometimes"
+ },
+ {
+  "id": "M2#10040",
+  "en": "it moves me deeply."
+ },
+ {
+  "id": "M2#10041",
+  "en": "Oh, I'm so glad I came..."
+ },
+ {
+  "id": "M2#10042",
+  "en": "I wish I could stay here forever."
+ },
+ {
+  "id": "M2#10043",
+  "en": "Ahaha, we meet again."
+ },
+ {
+  "id": "M2#10044",
+  "en": "You'd think I'm here all day, wouldn't you?"
+ },
+ {
+  "id": "M2#10045",
+  "en": "Well, maybe that's not far from the truth."
+ },
+ {
+  "id": "M2#10046",
+  "en": "I've really fallen in love with this place."
+ },
+ {
+  "id": "M2#10047",
+  "en": "Though I'd like to see other places too."
+ },
+ {
+  "id": "M2#10048",
+  "en": "When I graduate, I want to live in London."
+ },
+ {
+  "id": "M2#10049",
+  "en": "Being a curator here would be wonderful."
+ },
+ {
+  "id": "M2#10050",
+  "en": "I should have made my stay longer."
+ },
+ {
+  "id": "M2#10051",
+  "en": "There are still places I haven't seen."
+ },
+ {
+  "id": "M2#10052",
+  "en": "Oh, I wish I had more time."
+ },
+ {
+  "id": "M2#10053",
+  "en": "Oh, what can I do for you?"
+ },
+ {
+  "id": "M2#10054",
+  "en": "You look much too grand for a cheap inn."
+ },
+ {
+  "id": "M2#10055",
+  "en": "I'm just a tourist, you know."
+ },
+ {
+  "id": "M2#10056",
+  "en": "I can't think what you'd want with me..."
+ },
+ {
+  "id": "M2#10057",
+  "en": "This place is pretty cheap. A real bargain."
+ },
+ {
+  "id": "M2#10058",
+  "en": "Are you staying here too, by any chance?"
+ },
+ {
+  "id": "M2#10059",
+  "en": "Then they must have posher rooms too...",
+  "note": "If he is a guest here too, the inn must have better rooms than hers."
+ },
+ {
+  "id": "M2#10060",
+  "en": ", what's the matter?",
+  "note": "After the name: \"{NAME}, what's the matter?\""
+ },
+ {
+  "id": "M2#10061",
+  "en": "Ahaha, did you think you wouldn't find"
+ },
+ {
+  "id": "M2#10062",
+  "en": "me at the museum?"
+ },
+ {
+  "id": "M2#10063",
+  "en": "Don't worry, I'm there every day."
+ },
+ {
+  "id": "M2#10064",
+  "en": "I hope we meet again at the museum."
+ },
+ {
+  "id": "M2#10065",
+  "en": "Still, you and this inn are such an odd"
+ },
+ {
+  "id": "M2#10066",
+  "en": "match. It's funny."
+ },
+ {
+  "id": "M2#10067",
+  "en": "I mean, ",
+  "note": "Before the name + #7896 \", you're\" + #10068 (or #10095, slice 126, same text)."
+ },
+ {
+  "id": "M2#10068",
+  "en": "as refined as a nobleman, yet you think"
+ },
+ {
+  "id": "M2#10069",
+  "en": "nothing of coming to odd places. Ahaha."
+ },
+ {
+  "id": "M2#10070",
+  "en": "I don't mind, so come by anytime."
+ },
+ {
+  "id": "M2#10071",
+  "en": "Perhaps humans are drawn to history and"
+ },
+ {
+  "id": "M2#10072",
+  "en": "tradition because their lives are too short."
+ },
+ {
+  "id": "M2#10073",
+  "en": "Then, as my servant,"
+ },
+ {
+  "id": "M2#10074",
+  "en": "I shall prolong that life of yours."
+ },
+ {
+  "id": "M2#10075",
+  "en": "Now work for me to your heart's content."
+ },
+ {
+  "id": "M2#10076",
+  "en": "I just wanted to take a different road."
+ },
+ {
+  "id": "M2#10077",
+  "en": "I see. I hope you have a good trip."
+ },
+ {
+  "id": "M2#10078",
+  "en": "I'm glad I could help. Well, goodbye."
+ },
+ {
+  "id": "M2#10079",
+  "en": "Well, I think that's the only one."
+ }
+]

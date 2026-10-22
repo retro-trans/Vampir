@@ -1,0 +1,335 @@
+[
+ {
+  "id": "M1#800",
+  "en": "The shop is closed."
+ },
+ {
+  "id": "M1#801",
+  "en": "Sorry, but please come back another time."
+ },
+ {
+  "id": "M1#802",
+  "en": "We're closed at the moment."
+ },
+ {
+  "id": "M1#803",
+  "en": "Ah, it's ",
+  "note": "'Ah, it's ' + NAME + '.'/','/', young master.'/', sir!'/', my master...'"
+ },
+ {
+  "id": "M1#804",
+  "en": "Thank you for your patronage, as always.",
+  "variants": [
+   {
+    "msg": 58108,
+    "en": "thank you for your patronage, as always."
+   },
+   {
+    "msg": 226552,
+    "en": "thank you for your patronage, as always."
+   }
+  ]
+ },
+ {
+  "id": "M1#805",
+  "en": "Please keep favoring us with your custom."
+ },
+ {
+  "id": "M1#806",
+  "en": "Welcome, sir."
+ },
+ {
+  "id": "M1#807",
+  "en": "I'm Bernhard,",
+  "note": "word order moved: 'I'm Bernhard,' + 'the bodyguard of this jewelry store.' (name row 808 carries the job)"
+ },
+ {
+  "id": "M1#808",
+  "en": "the bodyguard of this jewelry store.",
+  "note": "see #807"
+ },
+ {
+  "id": "M1#809",
+  "en": "If you keep a bodyguard, the jewels"
+ },
+ {
+  "id": "M1#810",
+  "en": "you sell must be quite valuable."
+ },
+ {
+  "id": "M1#811",
+  "en": "Of course, sir. My duty is to guard"
+ },
+ {
+  "id": "M1#812",
+  "en": "these precious wares from anyone who"
+ },
+ {
+  "id": "M1#813",
+  "en": "has their eye on the jewels."
+ },
+ {
+  "id": "M1#814",
+  "en": "Please come again, sir."
+ },
+ {
+  "id": "M1#815",
+  "en": "Sir, don't you go getting any"
+ },
+ {
+  "id": "M1#816",
+  "en": "funny ideas."
+ },
+ {
+  "id": "M1#817",
+  "en": "Fact is, I'm rather sure of my strength,"
+ },
+ {
+  "id": "M1#818",
+  "en": "you see."
+ },
+ {
+  "id": "M1#819",
+  "en": "You'd be in worse shape than just crippled."
+ },
+ {
+  "id": "M1#820",
+  "en": "Mind you, I doubt you of all people would"
+ },
+ {
+  "id": "M1#821",
+  "en": "do any such thing."
+ },
+ {
+  "id": "M1#822",
+  "en": "Welcome, "
+ },
+ {
+  "id": "M1#823",
+  "en": "The boss has been waiting for you."
+ },
+ {
+  "id": "M1#824",
+  "en": "Has anything new come in?"
+ },
+ {
+  "id": "M1#825",
+  "en": "As it happens, a rare ceramic jar"
+ },
+ {
+  "id": "M1#826",
+  "en": "has just come in."
+ },
+ {
+  "id": "M1#827",
+  "en": "It's a fair weight. Then again,"
+ },
+ {
+  "id": "M1#828",
+  "en": "for a man proud of his strength like me,"
+ },
+ {
+  "id": "M1#829",
+  "en": "it's no weight at all."
+ },
+ {
+  "id": "M1#830",
+  "en": "With vitality and brawn like that,"
+ },
+ {
+  "id": "M1#831",
+  "en": "why not quit guarding and find some other"
+ },
+ {
+  "id": "M1#832",
+  "en": "line of work?"
+ },
+ {
+  "id": "M1#833",
+  "en": "You're mistaken on one point, sir."
+ },
+ {
+  "id": "M1#834",
+  "en": "Being a bodyguard takes more than"
+ },
+ {
+  "id": "M1#835",
+  "en": "brute strength, you know."
+ },
+ {
+  "id": "M1#836",
+  "en": "Mr. Dellwald's valuable property"
+ },
+ {
+  "id": "M1#837",
+  "en": "has been entrusted to me."
+ },
+ {
+  "id": "M1#838",
+  "en": "It's a job that takes the boss's trust."
+ },
+ {
+  "id": "M1#839",
+  "en": "Of course, the only thing I trust is my pay,"
+ },
+ {
+  "id": "M1#840",
+  "en": "or in other words, money and nothing else."
+ },
+ {
+  "id": "M1#841",
+  "en": "After all, this place pays well."
+ },
+ {
+  "id": "M1#842",
+  "en": "The only thing I trust,"
+ },
+ {
+  "id": "M1#843",
+  "en": "when all's said and done, is money."
+ },
+ {
+  "id": "M1#844",
+  "en": "With this guy's Vitality and brawn,"
+ },
+ {
+  "id": "M1#845",
+  "en": "I'd gain considerable power myself."
+ },
+ {
+  "id": "M1#846",
+  "en": "What are you doing here at this hour, sir?"
+ },
+ {
+  "id": "M1#847",
+  "en": "Don't tell me you're after the jewels..."
+ },
+ {
+  "id": "M1#848",
+  "en": "It seems what I told you the other day"
+ },
+ {
+  "id": "M1#849",
+  "en": "didn't sink in."
+ },
+ {
+  "id": "M1#850",
+  "en": "Don't misunderstand."
+ },
+ {
+  "id": "M1#851",
+  "en": "I've come to give you what you want."
+ },
+ {
+  "id": "M1#852",
+  "en": "What I want?"
+ },
+ {
+  "id": "M1#853",
+  "en": "Work that pays...?"
+ },
+ {
+  "id": "M1#854",
+  "en": "This is what you truly believe in, isn't it!"
+ },
+ {
+  "id": "M1#855",
+  "en": "Damn it, what are you doing!"
+ },
+ {
+  "id": "M1#856",
+  "en": "Ugh,"
+ },
+ {
+  "id": "M1#857",
+  "en": "so strong..."
+ },
+ {
+  "id": "M1#858",
+  "en": "What you truly believe in is power."
+ },
+ {
+  "id": "M1#859",
+  "en": "You will work hard as my servant."
+ },
+ {
+  "id": "M1#860",
+  "en": ", young master."
+ },
+ {
+  "id": "M1#861",
+  "en": "Welcome, young master."
+ },
+ {
+  "id": "M1#862",
+  "en": "My duty is to guard against anyone"
+ },
+ {
+  "id": "M1#863",
+  "en": "who targets these precious wares."
+ },
+ {
+  "id": "M1#864",
+  "en": "Please come again, young master."
+ },
+ {
+  "id": "M1#865",
+  "en": "Young master, don't you go getting any"
+ },
+ {
+  "id": "M1#866",
+  "en": "Mind you, you don't look like the sort of"
+ },
+ {
+  "id": "M1#867",
+  "en": "person who'd do any such thing."
+ },
+ {
+  "id": "M1#868",
+  "en": "Anything unusual in stock?"
+ },
+ {
+  "id": "M1#869",
+  "en": "We got in a ceramic jar, among other things."
+ },
+ {
+  "id": "M1#870",
+  "en": "Bernhard, with the muscle you've got,"
+ },
+ {
+  "id": "M1#871",
+  "en": "there must have been plenty of other jobs."
+ },
+ {
+  "id": "M1#872",
+  "en": "You're mistaken on one point, young master."
+ },
+ {
+  "id": "M1#873",
+  "en": "brute strength."
+ },
+ {
+  "id": "M1#874",
+  "en": "Bernhard..."
+ },
+ {
+  "id": "M1#875",
+  "en": "I'll be taking a share of your strength..."
+ },
+ {
+  "id": "M1#876",
+  "en": "What are you doing here at this hour, young master?"
+ },
+ {
+  "id": "M1#877",
+  "en": "Please don't misunderstand."
+ },
+ {
+  "id": "M1#878",
+  "en": "Whoa, calm down."
+ },
+ {
+  "id": "M1#879",
+  "en": "There's no choice, then. How about this!"
+ }
+]

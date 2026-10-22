@@ -1,0 +1,203 @@
+[
+ {
+  "id": "PR1.BIN@4C8",
+  "en": "I'll lie low in this disused dock"
+ },
+ {
+  "id": "PR1.BIN@4B4",
+  "en": "for a while."
+ },
+ {
+  "id": "PR1.BIN@4AC",
+  "en": "Most likely ",
+  "note": "Followed by the partner-name opcode and @4A8 on the same line: 'Most likely {PARTNER_NAME}, too,'."
+ },
+ {
+  "id": "PR1.BIN@4A8",
+  "en": ", too,"
+ },
+ {
+  "id": "PR1.BIN@484",
+  "en": "is waiting for his chance to set sail."
+ },
+ {
+  "id": "PR1.BIN@460",
+  "en": "Compared with Medoekia, this is quite"
+ },
+ {
+  "id": "PR1.BIN@450",
+  "en": "a large town."
+ },
+ {
+  "id": "PR1.BIN@434",
+  "en": "First, let me see what the town is like."
+ },
+ {
+  "id": "PR1.BIN@418",
+  "en": "Orgo, arrange for the coffin to be",
+  "note": "Duran to Orgo. Rows regrouped: 'London estate' moved to @3F8."
+ },
+ {
+  "id": "PR1.BIN@3F8",
+  "en": "delivered to the London estate."
+ },
+ {
+  "id": "PR1.BIN@3DC",
+  "en": "Understood, Master."
+ },
+ {
+  "id": "PR1.BIN@3B4",
+  "en": "It will be some time before the ship sails.",
+  "note": "Duran."
+ },
+ {
+  "id": "PR1.BIN@38C",
+  "en": "I shall be staying in this town a while, then."
+ },
+ {
+  "id": "PR1.BIN@380",
+  "en": "..."
+ },
+ {
+  "id": "PR1.BIN@358",
+  "en": "So at last we are to be wed."
+ },
+ {
+  "id": "PR1.BIN@340",
+  "en": "It all seems like a dream."
+ },
+ {
+  "id": "PR1.BIN@31C",
+  "en": "Rowena, after the wedding, I had meant",
+  "note": "Duran (flashback)."
+ },
+ {
+  "id": "PR1.BIN@2F8",
+  "en": "to hold the rite to formally welcome you"
+ },
+ {
+  "id": "PR1.BIN@2E0",
+  "en": "into our clan."
+ },
+ {
+  "id": "PR1.BIN@2D0",
+  "en": "But..."
+ },
+ {
+  "id": "PR1.BIN@2AC",
+  "en": "If you join our clan and gain eternal life,"
+ },
+ {
+  "id": "PR1.BIN@284",
+  "en": "you must lose something in exchange."
+ },
+ {
+  "id": "PR1.BIN@258",
+  "en": "With your power, basking in the sun by day"
+ },
+ {
+  "id": "PR1.BIN@240",
+  "en": "would no longer be possible."
+ },
+ {
+  "id": "PR1.BIN@21C",
+  "en": "And the rose you now hold in your hand..."
+ },
+ {
+  "id": "PR1.BIN@1F8",
+  "en": "Roses never let monsters draw near."
+ },
+ {
+  "id": "PR1.BIN@1D0",
+  "en": "However beautiful we may find them,"
+ },
+ {
+  "id": "PR1.BIN@1A8",
+  "en": "we can never touch them..."
+ },
+ {
+  "id": "PR1.BIN@194",
+  "en": "If we force ourselves to touch one",
+  "note": "Followed on the same line by @190 printed six times with pauses: '......'."
+ },
+ {
+  "id": "PR1.BIN@190",
+  "en": ".",
+  "note": "Shared: printed six times after @194 and six times after @180, each with a pause, giving '......' (same approach as EP0@8FC / EP1@FC)."
+ },
+ {
+  "id": "PR1.BIN@184",
+  "en": "this is what happens."
+ },
+ {
+  "id": "PR1.BIN@180",
+  "en": "Ah!",
+  "note": "Rowena's startled cry (lone ！), followed by @190 x6: 'Ah!......'. Same rendering as EP1@5C."
+ },
+ {
+  "id": "PR1.BIN@154",
+  "en": "You, who love roses so dearly,",
+  "note": "Duran."
+ },
+ {
+  "id": "PR1.BIN@12C",
+  "en": "might be happier if you could remain"
+ },
+ {
+  "id": "PR1.BIN@118",
+  "en": "human, just as you are..."
+ },
+ {
+  "id": "PR1.BIN@108",
+  "en": "Pardon me, ",
+  "note": "Messenger (soldier); followed by the player-name opcode and @100: 'Pardon me, {PLAYER_NAME}, my lord.' Trailing space."
+ },
+ {
+  "id": "PR1.BIN@100",
+  "en": ", my lord."
+ },
+ {
+  "id": "PR1.BIN@F4",
+  "en": "What is it?!",
+  "note": "Duran."
+ },
+ {
+  "id": "PR1.BIN@CC",
+  "en": "The army of Rakova, which borders our Medoekia,"
+ },
+ {
+  "id": "PR1.BIN@A4",
+  "en": "has invaded our lands. Word has just come."
+ },
+ {
+  "id": "PR1.BIN@8C",
+  "en": "Very well. I shall go at once.",
+  "note": "Duran; same opening as EP0@364/EP1@898 ('Very well. I shall come at once'), 'go' here since he leaves for the front."
+ },
+ {
+  "id": "PR1.BIN@70",
+  "en": "You, go and gather the troops."
+ },
+ {
+  "id": "PR1.BIN@64",
+  "en": "Yes, my lord!",
+  "note": "Messenger."
+ },
+ {
+  "id": "PR1.BIN@3C",
+  "en": "Rowena, I shall return in ten days or so...",
+  "note": "Duran."
+ },
+ {
+  "id": "PR1.BIN@28",
+  "en": "Wait for me."
+ },
+ {
+  "id": "PR1.BIN@1C",
+  "en": "To battle!"
+ },
+ {
+  "id": "PR1.BIN@4",
+  "en": "I shall spare no one!"
+ }
+]

@@ -1,0 +1,279 @@
+{
+ "slice": "M2_C_M2A_BIN_000",
+ "file": "M2_C_M2A.BIN",
+ "rows": [
+  {
+   "id": "M2A.BIN@A64"
+  },
+  {
+   "id": "M2A.BIN@A5C"
+  },
+  {
+   "id": "M2A.BIN@A30"
+  },
+  {
+   "id": "M2A.BIN@A0C"
+  },
+  {
+   "id": "M2A.BIN@A04"
+  },
+  {
+   "id": "M2A.BIN@9F4"
+  },
+  {
+   "id": "M2A.BIN@9D4"
+  },
+  {
+   "id": "M2A.BIN@9B0"
+  },
+  {
+   "id": "M2A.BIN@98C"
+  },
+  {
+   "id": "M2A.BIN@970"
+  },
+  {
+   "id": "M2A.BIN@948"
+  },
+  {
+   "id": "M2A.BIN@920"
+  },
+  {
+   "id": "M2A.BIN@8F4"
+  },
+  {
+   "id": "M2A.BIN@8C8"
+  },
+  {
+   "id": "M2A.BIN@8A4"
+  },
+  {
+   "id": "M2A.BIN@87C"
+  },
+  {
+   "id": "M2A.BIN@850"
+  },
+  {
+   "id": "M2A.BIN@83C"
+  },
+  {
+   "id": "M2A.BIN@814"
+  },
+  {
+   "id": "M2A.BIN@7E8"
+  },
+  {
+   "id": "M2A.BIN@7D0"
+  },
+  {
+   "id": "M2A.BIN@7B8"
+  },
+  {
+   "id": "M2A.BIN@78C"
+  },
+  {
+   "id": "M2A.BIN@774"
+  },
+  {
+   "id": "M2A.BIN@74C"
+  },
+  {
+   "id": "M2A.BIN@724"
+  },
+  {
+   "id": "M2A.BIN@6FC"
+  },
+  {
+   "id": "M2A.BIN@6D4"
+  },
+  {
+   "id": "M2A.BIN@6AC"
+  },
+  {
+   "id": "M2A.BIN@69C"
+  },
+  {
+   "id": "M2A.BIN@67C"
+  },
+  {
+   "id": "M2A.BIN@668"
+  },
+  {
+   "id": "M2A.BIN@640"
+  },
+  {
+   "id": "M2A.BIN@620"
+  },
+  {
+   "id": "M2A.BIN@604"
+  },
+  {
+   "id": "M2A.BIN@5EC"
+  },
+  {
+   "id": "M2A.BIN@5E0"
+  },
+  {
+   "id": "M2A.BIN@5C0"
+  },
+  {
+   "id": "M2A.BIN@5A0"
+  },
+  {
+   "id": "M2A.BIN@584"
+  },
+  {
+   "id": "M2A.BIN@560"
+  },
+  {
+   "id": "M2A.BIN@550"
+  },
+  {
+   "id": "M2A.BIN@52C"
+  },
+  {
+   "id": "M2A.BIN@518"
+  },
+  {
+   "id": "M2A.BIN@4F0"
+  },
+  {
+   "id": "M2A.BIN@4CC"
+  },
+  {
+   "id": "M2A.BIN@4B4"
+  },
+  {
+   "id": "M2A.BIN@4A0"
+  },
+  {
+   "id": "M2A.BIN@478"
+  },
+  {
+   "id": "M2A.BIN@458"
+  },
+  {
+   "id": "M2A.BIN@438"
+  },
+  {
+   "id": "M2A.BIN@41C"
+  },
+  {
+   "id": "M2A.BIN@3FC"
+  },
+  {
+   "id": "M2A.BIN@3DC"
+  },
+  {
+   "id": "M2A.BIN@3BC"
+  },
+  {
+   "id": "M2A.BIN@3A0"
+  },
+  {
+   "id": "M2A.BIN@388"
+  },
+  {
+   "id": "M2A.BIN@360"
+  },
+  {
+   "id": "M2A.BIN@340"
+  },
+  {
+   "id": "M2A.BIN@31C"
+  },
+  {
+   "id": "M2A.BIN@2F8"
+  },
+  {
+   "id": "M2A.BIN@2E4"
+  },
+  {
+   "id": "M2A.BIN@2C0"
+  },
+  {
+   "id": "M2A.BIN@2B0"
+  },
+  {
+   "id": "M2A.BIN@288"
+  },
+  {
+   "id": "M2A.BIN@260"
+  },
+  {
+   "id": "M2A.BIN@23C"
+  },
+  {
+   "id": "M2A.BIN@21C"
+  },
+  {
+   "id": "M2A.BIN@200"
+  },
+  {
+   "id": "M2A.BIN@1EC"
+  },
+  {
+   "id": "M2A.BIN@1C0"
+  },
+  {
+   "id": "M2A.BIN@19C"
+  },
+  {
+   "id": "M2A.BIN@178"
+  },
+  {
+   "id": "M2A.BIN@158"
+  },
+  {
+   "id": "M2A.BIN@134"
+  },
+  {
+   "id": "M2A.BIN@114"
+  },
+  {
+   "id": "M2A.BIN@104"
+  },
+  {
+   "id": "M2A.BIN@FB4"
+  },
+  {
+   "id": "M2A.BIN@F98"
+  },
+  {
+   "id": "M2A.BIN@F78"
+  }
+ ],
+ "before": [],
+ "after": [
+  {
+   "id": "M2A.BIN@F68"
+  },
+  {
+   "id": "M2A.BIN@F58"
+  },
+  {
+   "id": "M2A.BIN@F3C"
+  },
+  {
+   "id": "M2A.BIN@F24"
+  },
+  {
+   "id": "M2A.BIN@F00"
+  },
+  {
+   "id": "M2A.BIN@EE8"
+  },
+  {
+   "id": "M2A.BIN@ED0"
+  },
+  {
+   "id": "M2A.BIN@EC4"
+  },
+  {
+   "id": "M2A.BIN@EB8"
+  },
+  {
+   "id": "M2A.BIN@EA4"
+  }
+ ]
+}

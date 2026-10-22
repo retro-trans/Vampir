@@ -1,0 +1,327 @@
+[
+ {
+  "id": "M1#2240",
+  "en": "Well, never mind all that."
+ },
+ {
+  "id": "M1#2241",
+  "en": "You're a valued customer of mine."
+ },
+ {
+  "id": "M1#2242",
+  "en": "Drop by the place anytime you like."
+ },
+ {
+  "id": "M1#2243",
+  "en": "Whoa. We're closed right now."
+ },
+ {
+  "id": "M1#2244",
+  "en": "Afraid we're closed right now."
+ },
+ {
+  "id": "M1#2245",
+  "en": "We're closed at the moment."
+ },
+ {
+  "id": "M1#2246",
+  "en": "Sorry 'bout that."
+ },
+ {
+  "id": "M1#2247",
+  "en": "To drink... a beer, I think."
+ },
+ {
+  "id": "M1#2248",
+  "en": "Well, come on in."
+ },
+ {
+  "id": "M1#2249",
+  "en": "This is the Sans Souci tavern."
+ },
+ {
+  "id": "M1#2250",
+  "en": "You made it during opening hours this time."
+ },
+ {
+  "id": "M1#2251",
+  "en": "Could I have a beer?"
+ },
+ {
+  "id": "M1#2252",
+  "en": "Huh?"
+ },
+ {
+  "id": "M1#2253",
+  "en": "Oh dear, do you dislike me?"
+ },
+ {
+  "id": "M1#2254",
+  "en": "Nah, I like you well enough."
+ },
+ {
+  "id": "M1#2255",
+  "en": "just kidding.",
+  "note": "Lower-case: always follows 'Ha ha ha. ' + #1046 'No, ' (87322) or #2259 'Again, ' (87376/87405)."
+ },
+ {
+  "id": "M1#2256",
+  "en": "Oh, stop teasing me!"
+ },
+ {
+  "id": "M1#2257",
+  "en": "Ah, sir, your change..."
+ },
+ {
+  "id": "M1#2258",
+  "en": "I'm sure I paid the exact amount."
+ },
+ {
+  "id": "M1#2259",
+  "en": "Again, "
+ },
+ {
+  "id": "M1#2260",
+  "en": "Ah, sir, you forgot something..."
+ },
+ {
+  "id": "M1#2261",
+  "en": "No, I'm sure I came empty-handed."
+ },
+ {
+  "id": "M1#2262",
+  "en": "(He really does hate me...)"
+ },
+ {
+  "id": "M1#2263",
+  "en": "Without a care. In other words, easygoing.",
+  "note": "Sans Souci = 'without a care'; #2233 (slice 027) should match."
+ },
+ {
+  "id": "M1#2264",
+  "en": "One minute you're smiling, then all at once"
+ },
+ {
+  "id": "M1#2265",
+  "en": "you get this lonely, cold sort of look."
+ },
+ {
+  "id": "M1#2266",
+  "en": "Ah, sorry. Don't take it the wrong way."
+ },
+ {
+  "id": "M1#2267",
+  "en": "(I guess he really doesn't like me...)"
+ },
+ {
+  "id": "M1#2268",
+  "en": "Maitz, you may not like me, but"
+ },
+ {
+  "id": "M1#2269",
+  "en": "I need to borrow your strength."
+ },
+ {
+  "id": "M1#2270",
+  "en": "Forgive me..."
+ },
+ {
+  "id": "M1#2271",
+  "en": "This way, we can become friends.",
+  "note": "No speaker tag; read as the player (biting scene)."
+ },
+ {
+  "id": "M1#2272",
+  "en": "I hate handsome meeen!"
+ },
+ {
+  "id": "M1#2273",
+  "en": "Mumble, mumble..."
+ },
+ {
+  "id": "M1#2274",
+  "en": "That startled me. He's talking in his sleep."
+ },
+ {
+  "id": "M1#2275",
+  "en": "No use thinking too hard about it."
+ },
+ {
+  "id": "M1#2276",
+  "en": "Like Maitz, I'll go without a care"
+ },
+ {
+  "id": "M1#2277",
+  "en": "and just take it easy."
+ },
+ {
+  "id": "M1#2278",
+  "en": "You have no time left to deliberate."
+ },
+ {
+  "id": "M1#2279",
+  "en": "You will become my soldier..."
+ },
+ {
+  "id": "M1#2280",
+  "en": "I am Thomas, an officer of the navy."
+ },
+ {
+  "id": "M1#2281",
+  "en": "Being a naval officer keeps one quite busy."
+ },
+ {
+  "id": "M1#2282",
+  "en": "Time is precious, so I must press on."
+ },
+ {
+  "id": "M1#2283",
+  "en": "You again?"
+ },
+ {
+  "id": "M1#2284",
+  "en": "Forgive me, but I'm busy. Good day."
+ },
+ {
+  "id": "M1#2285",
+  "en": "You don't really wish to join the army,"
+ },
+ {
+  "id": "M1#2286",
+  "en": "it would seem.",
+  "note": "Shared: Thomas 90841/90913/91597 and player's line in Anna's shop 222607/222659 (#5619 + '...' + this)."
+ },
+ {
+  "id": "M1#2287",
+  "en": "I am Thomas. I serve as a naval officer."
+ },
+ {
+  "id": "M1#2288",
+  "en": "I'm on my way back to my quarters."
+ },
+ {
+  "id": "M1#2289",
+  "en": "I'm returning to quarters. Excuse me."
+ },
+ {
+  "id": "M1#2290",
+  "en": "If you have business, come to headquarters"
+ },
+ {
+  "id": "M1#2291",
+  "en": "tomorrow, if you please."
+ },
+ {
+  "id": "M1#2292",
+  "en": "You're not looking to enlist,"
+ },
+ {
+  "id": "M1#2293",
+  "en": "Whatever your purpose may be,"
+ },
+ {
+  "id": "M1#2294",
+  "en": "you are an odd fellow, I'll say that."
+ },
+ {
+  "id": "M1#2295",
+  "en": "What business have you at navy quarters?"
+ },
+ {
+  "id": "M1#2296",
+  "en": "I am Thomas, naval officer."
+ },
+ {
+  "id": "M1#2297",
+  "en": "If you need me, come to headquarters."
+ },
+ {
+  "id": "M1#2298",
+  "en": "I'll hear you out at headquarters."
+ },
+ {
+  "id": "M1#2299",
+  "en": "Civilians may not enter the navy barracks"
+ },
+ {
+  "id": "M1#2300",
+  "en": "without permission.",
+  "note": "Shared tail of #2299 and #2302."
+ },
+ {
+  "id": "M1#2301",
+  "en": "I must ask you to leave."
+ },
+ {
+  "id": "M1#2302",
+  "en": "Civilians may not enter the barracks"
+ },
+ {
+  "id": "M1#2303",
+  "en": "How many times must I tell you!"
+ },
+ {
+  "id": "M1#2304",
+  "en": "You can't just walk into the barracks."
+ },
+ {
+  "id": "M1#2305",
+  "en": "I must ask you to step outside."
+ },
+ {
+  "id": "M1#2306",
+  "en": "Now, out you go."
+ },
+ {
+  "id": "M1#2307",
+  "en": "I am Thomas, a naval officer."
+ },
+ {
+  "id": "M1#2308",
+  "en": "Are you here to enlist?"
+ },
+ {
+  "id": "M1#2309",
+  "en": "Well, you seem to have the makings."
+ },
+ {
+  "id": "M1#2310",
+  "en": "I'd say you're the sort who'll use any means"
+ },
+ {
+  "id": "M1#2311",
+  "en": "to reach his goal, am I right?"
+ },
+ {
+  "id": "M1#2312",
+  "en": "Thomas, naval officer."
+ },
+ {
+  "id": "M1#2313",
+  "en": "You came all this way. Do you wish to enlist?"
+ },
+ {
+  "id": "M1#2314",
+  "en": "You seem to have the makings."
+ },
+ {
+  "id": "M1#2315",
+  "en": "As to whether you become a soldier,"
+ },
+ {
+  "id": "M1#2316",
+  "en": "think it over well before you decide."
+ },
+ {
+  "id": "M1#2317",
+  "en": "To pull the trigger without any reason..."
+ },
+ {
+  "id": "M1#2318",
+  "en": "That is what it means to be a soldier."
+ },
+ {
+  "id": "M1#2319",
+  "en": "Could you do that?"
+ }
+]

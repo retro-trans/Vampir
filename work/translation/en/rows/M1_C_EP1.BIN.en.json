@@ -1,0 +1,1481 @@
+[
+ {
+  "id": "EP1.BIN@AA8",
+  "off": 2728,
+  "size": 36,
+  "slot": 36,
+  "refs": [
+   [
+    "ptr",
+    2148364072
+   ]
+  ],
+  "idx": 0,
+  "en": "You will not set foot in London alive...",
+  "note": "Christopher (scene 1, Christopher-scenario ending).",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@A84",
+  "off": 2692,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148364076
+   ]
+  ],
+  "idx": 1,
+  "en": "I will end this here and now...!",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@A74",
+  "off": 2676,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148364080
+   ]
+  ],
+  "idx": 2,
+  "en": "Hmph. Whelp",
+  "note": "Duran; followed by @A68 on the same line (as EP0 'Whelp' + '...').",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@A68",
+  "off": 2664,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148364084
+   ]
+  ],
+  "idx": 3,
+  "en": "...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@A40",
+  "off": 2624,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148364088
+   ]
+  ],
+  "idx": 4,
+  "en": "While I was toying with these foolish humans,",
+  "note": "240 px, exactly one line.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@A24",
+  "off": 2596,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148364092
+   ]
+  ],
+  "idx": 5,
+  "en": "the ship carrying my coffin",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@A00",
+  "off": 2560,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148364096
+   ]
+  ],
+  "idx": 6,
+  "en": "has reached its destination, London.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@9D8",
+  "off": 2520,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148364100
+   ]
+  ],
+  "idx": 7,
+  "en": "I will let no one stand in my way.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@9AC",
+  "off": 2476,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148364104
+   ]
+  ],
+  "idx": 8,
+  "en": "Not those irksome vampire hunters,",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@998",
+  "off": 2456,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148364108
+   ]
+  ],
+  "idx": 9,
+  "en": "and not you either.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@988",
+  "off": 2440,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148364112
+   ]
+  ],
+  "idx": 10,
+  "en": "......",
+  "note": "Christopher.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@974",
+  "off": 2420,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148364116
+   ]
+  ],
+  "idx": 11,
+  "en": ", my lord, shall we go after him?",
+  "note": "Sistina; preceded by the player-name opcode: '{PLAYER_NAME}, my lord, shall we go after him?' (same as EP0@774).",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@95C",
+  "off": 2396,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148364120
+   ]
+  ],
+  "idx": 12,
+  "en": "I will arrange a ship at once.",
+  "note": "Christopher.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@938",
+  "off": 2360,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148364124
+   ]
+  ],
+  "idx": 13,
+  "en": "Sistina, send word to Ragash.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@928",
+  "off": 2344,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148364128
+   ]
+  ],
+  "idx": 14,
+  "en": "I'm counting on you...!",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@908",
+  "off": 2312,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148364132
+   ]
+  ],
+  "idx": 15,
+  "en": "Our little game ends here.",
+  "note": "Scene 2 (Duran-scenario ending): Duran to the defeated opponent (Christopher?).",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@8E4",
+  "off": 2276,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148364136
+   ]
+  ],
+  "idx": 16,
+  "en": "...Now begone from my sight!",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@8D0",
+  "off": 2256,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148364140
+   ]
+  ],
+  "idx": 17,
+  "en": ", my lord, please hurry.",
+  "note": "Servant (unidentified, as EP0@39C); preceded by the player-name opcode: '{PLAYER_NAME}, my lord, please hurry.'",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@8B0",
+  "off": 2224,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148364144
+   ]
+  ],
+  "idx": 18,
+  "en": "The ship will be leaving port shortly.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@898",
+  "off": 2200,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148364148
+   ]
+  ],
+  "idx": 19,
+  "en": "Very well. I shall come at once.",
+  "note": "Duran; same wording as EP0@364.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@880",
+  "off": 2176,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148364152
+   ]
+  ],
+  "idx": 20,
+  "en": "Go ahead and wait for me on the ship.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@85C",
+  "off": 2140,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148364156
+   ]
+  ],
+  "idx": 21,
+  "en": "So you have cheated death once again.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@83C",
+  "off": 2108,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148364160
+   ]
+  ],
+  "idx": 22,
+  "en": "Let this be a lesson: never again show",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@81C",
+  "off": 2076,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148364164
+   ]
+  ],
+  "idx": 23,
+  "en": "your face before me...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@7F8",
+  "off": 2040,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148364168
+   ]
+  ],
+  "idx": 24,
+  "en": "Lately the livestock keep dyin' strange-like.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@7D8",
+  "off": 2008,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148364172
+   ]
+  ],
+  "idx": 25,
+  "en": "Found 'em collapsed, dead from losin' blood.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@7B4",
+  "off": 1972,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148364176
+   ]
+  ],
+  "idx": 26,
+  "en": "And the babies bein' born, why,",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@794",
+  "off": 1940,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148364180
+   ]
+  ],
+  "idx": 27,
+  "en": "every one's deformed. They die right off.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@770",
+  "off": 1904,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148364184
+   ]
+  ],
+  "idx": 28,
+  "en": "Wondered why the critters in the woods were",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@754",
+  "off": 1876,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148364188
+   ]
+  ],
+  "idx": 29,
+  "en": "gettin' so scarce, and behind the lord's manor",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@72C",
+  "off": 1836,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148364192
+   ]
+  ],
+  "idx": 30,
+  "en": "there was a whole mountain of dead animals!",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@708",
+  "off": 1800,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148364196
+   ]
+  ],
+  "idx": 31,
+  "en": "The lord's away at the war right now...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@6E0",
+  "off": 1760,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148364200
+   ]
+  ],
+  "idx": 32,
+  "en": "This is all that outsider bride's doing,",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@6D0",
+  "off": 1744,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148364204
+   ]
+  ],
+  "idx": 33,
+  "en": "I'm sure of it...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@6AC",
+  "off": 1708,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148364208
+   ]
+  ],
+  "idx": 34,
+  "en": "Ever since that bride came, it's been",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@698",
+  "off": 1688,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148364212
+   ]
+  ],
+  "idx": 35,
+  "en": "one queer thing after another...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@67C",
+  "off": 1660,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148364216
+   ]
+  ],
+  "idx": 36,
+  "en": "That woman's a witch, sure as anything!",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@65C",
+  "off": 1628,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148364220
+   ]
+  ],
+  "idx": 37,
+  "en": "Burn her at the stake! Put her to death!",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@64C",
+  "off": 1612,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148364224
+   ]
+  ],
+  "idx": 38,
+  "en": "!!!!!!",
+  "note": "The lord (name inserted later via opcode; Duran in context) returning.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@62C",
+  "off": 1580,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148364228
+   ]
+  ],
+  "idx": 39,
+  "en": "What is the meaning of this!",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@610",
+  "off": 1552,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148364232
+   ]
+  ],
+  "idx": 40,
+  "en": "What has happened here!",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@608",
+  "off": 1544,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148364236
+   ]
+  ],
+  "idx": 41,
+  "en": "...",
+  "note": "Servant; followed on the same line by the player-name opcode and @5F8.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@5F8",
+  "off": 1528,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148364240
+   ]
+  ],
+  "idx": 42,
+  "en": ", my lord, while you were away,",
+  "note": "Line reads '...{PLAYER_NAME}, my lord, while you were away,'.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@5D0",
+  "off": 1488,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148364244
+   ]
+  ],
+  "idx": 43,
+  "en": "the villagers seized Lady Rowena as a witch",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@5A4",
+  "off": 1444,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148364248
+   ]
+  ],
+  "idx": 44,
+  "en": "and took her away from the castle.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@578",
+  "off": 1400,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148364252
+   ]
+  ],
+  "idx": 45,
+  "en": "By the time I noticed, it was already...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@55C",
+  "off": 1372,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148364256
+   ]
+  ],
+  "idx": 46,
+  "en": "All I could do was bring her body",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@534",
+  "off": 1332,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148364260
+   ]
+  ],
+  "idx": 47,
+  "en": "back like this. I am so sorry.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@528",
+  "off": 1320,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148364264
+   ]
+  ],
+  "idx": 48,
+  "en": "All because I",
+  "note": "The lord; printed on its own line.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@500",
+  "off": 1280,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148364268
+   ]
+  ],
+  "idx": 49,
+  "en": "never gave you eternal life...",
+  "note": "Trailing 、 dropped.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@4F0",
+  "off": 1264,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148364272
+   ]
+  ],
+  "idx": 50,
+  "en": "Rowena!",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@4C4",
+  "off": 1220,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148364276
+   ]
+  ],
+  "idx": 51,
+  "en": "If it is not too late, I will give you all",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@4AC",
+  "off": 1196,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148364280
+   ]
+  ],
+  "idx": 52,
+  "en": "of my blood...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@484",
+  "off": 1156,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148364284
+   ]
+  ],
+  "idx": 53,
+  "en": "...if only that would bring you back to life...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@464",
+  "off": 1124,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148364288
+   ]
+  ],
+  "idx": 54,
+  "en": "She may draw breath again.",
+  "note": "Servant (unidentified). Subject (Rowena) restored as 'She'.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@444",
+  "off": 1092,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148364292
+   ]
+  ],
+  "idx": 55,
+  "en": "Though surely only for a moment...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@434",
+  "off": 1076,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148364296
+   ]
+  ],
+  "idx": 56,
+  "en": "Oh, my love. ",
+  "note": "Rowena (wife) to her husband; trailing space: followed by the player-name opcode and @428 on the same line.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@428",
+  "off": 1064,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148364300
+   ]
+  ],
+  "idx": 57,
+  "en": "...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@418",
+  "off": 1048,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148364304
+   ]
+  ],
+  "idx": 58,
+  "en": "I'm so glad...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@3F4",
+  "off": 1012,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148364308
+   ]
+  ],
+  "idx": 59,
+  "en": "that I could see you once more, like this.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@3E0",
+  "off": 992,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148364312
+   ]
+  ],
+  "idx": 60,
+  "en": "Rowena...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@3B4",
+  "off": 948,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148364316
+   ]
+  ],
+  "idx": 61,
+  "en": "I am human, so I will die, but you",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@388",
+  "off": 904,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148364320
+   ]
+  ],
+  "idx": 62,
+  "en": "are a vampire who lives forever, aren't you?",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@360",
+  "off": 864,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148364324
+   ]
+  ],
+  "idx": 63,
+  "en": "Then I will be born again,",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@340",
+  "off": 832,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148364328
+   ]
+  ],
+  "idx": 64,
+  "en": "and I know I will meet you once more.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@314",
+  "off": 788,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148364332
+   ]
+  ],
+  "idx": 65,
+  "en": "Remember the linden tree in London?",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@2E8",
+  "off": 744,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148364336
+   ]
+  ],
+  "idx": 66,
+  "en": "It was beneath that linden tree",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@2BC",
+  "off": 700,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148364340
+   ]
+  ],
+  "idx": 67,
+  "en": "that I met you. ...That tree is the tree of life...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@294",
+  "off": 660,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148364344
+   ]
+  ],
+  "idx": 68,
+  "en": "I know I will be born again.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@270",
+  "off": 624,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148364348
+   ]
+  ],
+  "idx": 69,
+  "en": "So please, don't grieve...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@258",
+  "off": 600,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148364352
+   ]
+  ],
+  "idx": 70,
+  "en": "All because I shrank from",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@23C",
+  "off": 572,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148364356
+   ]
+  ],
+  "idx": 71,
+  "en": "drinking human blood,",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@228",
+  "off": 552,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148364360
+   ]
+  ],
+  "idx": 72,
+  "en": "it has come to this...",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@214",
+  "off": 532,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148364364
+   ]
+  ],
+  "idx": 73,
+  "en": "I will not forgive this! I will not!",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@1FC",
+  "off": 508,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148364368
+   ]
+  ],
+  "idx": 74,
+  "en": "Foolish humans!!!",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@1EC",
+  "off": 492,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148364372
+   ]
+  ],
+  "idx": 75,
+  "en": "I beg you, ",
+  "note": "Servant; trailing space: followed by the player-name opcode and @1E8 on the same line.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@1E8",
+  "off": 488,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148364376
+   ]
+  ],
+  "idx": 76,
+  "en": ", my lord,",
+  "note": "Line reads 'I beg you, {PLAYER_NAME}, my lord,'.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@1CC",
+  "off": 460,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148364380
+   ]
+  ],
+  "idx": 77,
+  "en": "please come back to your senses.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@1A0",
+  "off": 416,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148364384
+   ]
+  ],
+  "idx": 78,
+  "en": "You were so gentle you shrank from drinking human blood, ",
+  "note": "Trailing space: followed by the player-name opcode and @194 on the same line; 2 box lines.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@194",
+  "off": 404,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148364388
+   ]
+  ],
+  "idx": 79,
+  "en": ", my lord...",
+  "note": "Line reads '...human blood, {PLAYER_NAME}, my lord...'.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@16C",
+  "off": 364,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148364392
+   ]
+  ],
+  "idx": 80,
+  "en": "His grief has driven him out of his senses.",
+  "note": "Speaker inferred as Ragash (same speaker code as @2C; uses all his Critical Vitality in @B8). 'him' = the lord {PLAYER_NAME} (Rowena's husband). Followed by a newline and a button wait.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@160",
+  "off": 352,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148364396
+   ]
+  ],
+  "idx": 81,
+  "en": "If we cannot stop Lord ",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@158",
+  "off": 344,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148364400
+   ]
+  ],
+  "idx": 82,
+  "en": " now,",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@12C",
+  "off": 300,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148364404
+   ]
+  ],
+  "idx": 83,
+  "en": "and he unleashes all of his power,",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@100",
+  "off": 256,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148364408
+   ]
+  ],
+  "idx": 84,
+  "en": "even Eisen Castle itself will crumble.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@FC",
+  "off": 252,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148364412
+   ]
+  ],
+  "idx": 85,
+  "en": ".",
+  "note": "Printed three times with pauses -> '...' (same as EP0@8FC).",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@EC",
+  "off": 236,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148364416
+   ]
+  ],
+  "idx": 86,
+  "en": "There is no other way.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@D8",
+  "off": 216,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148364420
+   ]
+  ],
+  "idx": 87,
+  "en": " must be sealed in the tower.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@B8",
+  "off": 184,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148364424
+   ]
+  ],
+  "idx": 88,
+  "en": "I will use all of my Critical Vitality.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@A0",
+  "off": 160,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148364428
+   ]
+  ],
+  "idx": 89,
+  "en": "The rest of you, lend me your strength.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@90",
+  "off": 144,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148364432
+   ]
+  ],
+  "idx": 90,
+  "en": " shall be put to sleep,",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@6C",
+  "off": 108,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148364436
+   ]
+  ],
+  "idx": 91,
+  "en": "and inside the tower of Eisen near the village",
+  "note": "'the tower of Eisen' as in OPN.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@60",
+  "off": 96,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148364440
+   ]
+  ],
+  "idx": 92,
+  "en": "he shall be sealed.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@5C",
+  "off": 92,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148364444
+   ]
+  ],
+  "idx": 93,
+  "en": "Ah!",
+  "note": "Lone ！ (startled reaction, then a pause) rendered 'Ah!'.",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@38",
+  "off": 56,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148364448
+   ]
+  ],
+  "idx": 94,
+  "en": "I hear a baby crying inside the coffin!",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@2C",
+  "off": 44,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148364452
+   ]
+  ],
+  "idx": 95,
+  "en": "Impossible!",
+  "done": true
+ },
+ {
+  "id": "EP1.BIN@4",
+  "off": 4,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148364456
+   ]
+  ],
+  "idx": 96,
+  "en": "But Lady Rowena is dead...",
+  "done": true
+ }
+]

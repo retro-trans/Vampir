@@ -1,0 +1,333 @@
+[
+ {
+  "id": "M0#640",
+  "en": "It's dangerous.",
+  "note": "shared by msgs 29686/30190; follows 'Just don't get too close' (#670) - reads fine; #639 (slice 007) must also end in a way that leaves 'It's dangerous.' a new sentence"
+ },
+ {
+  "id": "M0#641",
+  "en": "This is my workshop."
+ },
+ {
+  "id": "M0#642",
+  "en": "If you want to watch, stay well back,"
+ },
+ {
+  "id": "M0#643",
+  "en": "and take your time looking.",
+  "note": "shared: follows #642 'stay well back,' and #672 'stay well back,' -> 'and take your time looking.'"
+ },
+ {
+  "id": "M0#644",
+  "en": "Usually I make pots and farm tools."
+ },
+ {
+  "id": "M0#645",
+  "en": "Horseshoes, too."
+ },
+ {
+  "id": "M0#646",
+  "en": "Not that you'd have much use for those, huh?"
+ },
+ {
+  "id": "M0#647",
+  "en": "Anyway, if you spot any, take a good look,"
+ },
+ {
+  "id": "M0#648",
+  "en": "and you'll see what my work is like."
+ },
+ {
+  "id": "M0#649",
+  "en": "Seen the well on the village's west side?"
+ },
+ {
+  "id": "M0#650",
+  "en": "The finely made one."
+ },
+ {
+  "id": "M0#651",
+  "en": "I made that, too."
+ },
+ {
+  "id": "M0#652",
+  "en": "I fussed over every little detail,"
+ },
+ {
+  "id": "M0#653",
+  "en": "so take a good, long look at it sometime."
+ },
+ {
+  "id": "M0#654",
+  "en": "I heat iron with charcoal."
+ },
+ {
+  "id": "M0#655",
+  "en": "But there's no charcoal hut near here,"
+ },
+ {
+  "id": "M0#656",
+  "en": "so it's a bit of a struggle."
+ },
+ {
+  "id": "M0#657",
+  "en": "A blacksmith's training never ends."
+ },
+ {
+  "id": "M0#658",
+  "en": "You can always see a higher peak ahead."
+ },
+ {
+  "id": "M0#659",
+  "en": "That's why I love being a blacksmith."
+ },
+ {
+  "id": "M0#660",
+  "en": "I like you, pal."
+ },
+ {
+  "id": "M0#661",
+  "en": "Say, those iron tools I've made,",
+  "note": "sentence cut across #661/#624: 'Say, those iron tools I've made, / [have you ever seen any?]'. #624 (slice 007) must read as a continuation e.g. 'have you ever seen any?'"
+ },
+ {
+  "id": "M0#662",
+  "en": "You'll see just how skilled a blacksmith I am,",
+  "note": "cut across #662/#627: 'You'll see just how skilled a blacksmith I am, / [I think.]'. #627 (slice 007) must read as a tag e.g. 'I think.' (follows #625 'Take a look.')"
+ },
+ {
+  "id": "M0#663",
+  "en": "Seen anything I've made?"
+ },
+ {
+  "id": "M0#664",
+  "en": "For example, if you flip a horse over,"
+ },
+ {
+  "id": "M0#665",
+  "en": "it's right there, you know."
+ },
+ {
+  "id": "M0#666",
+  "en": "Huh? Who are you?"
+ },
+ {
+  "id": "M0#667",
+  "en": "You here for something at Halk's workshop?"
+ },
+ {
+  "id": "M0#668",
+  "en": "No, I'm just watching."
+ },
+ {
+  "id": "M0#669",
+  "en": "I see. Well, watch as much as you like."
+ },
+ {
+  "id": "M0#670",
+  "en": "Just don't get too close."
+ },
+ {
+  "id": "M0#671",
+  "en": "If you want to watch,"
+ },
+ {
+  "id": "M0#672",
+  "en": "stay well back,"
+ },
+ {
+  "id": "M0#673",
+  "en": "Whenever iron rang out here years ago,",
+  "note": "compressed to fit 3 lines (msg 30333 box 1)"
+ },
+ {
+  "id": "M0#674",
+  "en": "a kid always came to watch."
+ },
+ {
+  "id": "M0#675",
+  "en": "He must have loved it."
+ },
+ {
+  "id": "M0#676",
+  "en": "Since he kept watching like that,"
+ },
+ {
+  "id": "M0#677",
+  "en": "by the time he became a blacksmith,"
+ },
+ {
+  "id": "M0#678",
+  "en": "he thought he could do anything."
+ },
+ {
+  "id": "M0#679",
+  "en": "But, well, reality"
+ },
+ {
+  "id": "M0#680",
+  "en": "isn't that easy."
+ },
+ {
+  "id": "M0#681",
+  "en": "He was careless and badly hurt his wife,"
+ },
+ {
+  "id": "M0#682",
+  "en": "and that was how he learned how arrogant he'd been."
+ },
+ {
+  "id": "M0#683",
+  "en": "Then he mended his ways and learned.",
+  "note": "compressed to fit 3 lines"
+ },
+ {
+  "id": "M0#684",
+  "en": "He gave his all to everything, this time,"
+ },
+ {
+  "id": "M0#685",
+  "en": "to really build up his own skill, you see."
+ },
+ {
+  "id": "M0#686",
+  "en": "Do you think I'm a skilled blacksmith?"
+ },
+ {
+  "id": "M0#687",
+  "en": "Yes, I think so."
+ },
+ {
+  "id": "M0#688",
+  "en": "In that case,",
+  "note": "no used_in (unlinked); #689 is shown alone in msg 30418, so #689 is written as a standalone sentence"
+ },
+ {
+  "id": "M0#689",
+  "en": "That means all that effort wasn't wasted, either.",
+  "note": "standalone in msg 30418; the kid = Halk, he is told his effort paid off"
+ },
+ {
+  "id": "M0#690",
+  "en": "You can always see a higher peak ahead."
+ },
+ {
+  "id": "M0#691",
+  "en": "Halk,"
+ },
+ {
+  "id": "M0#692",
+  "en": "I've seen enough of your skill."
+ },
+ {
+  "id": "M0#693",
+  "en": "So I have a request."
+ },
+ {
+  "id": "M0#694",
+  "en": "Please help me."
+ },
+ {
+  "id": "M0#695",
+  "en": "Please lend me your skill at night, too."
+ },
+ {
+  "id": "M0#696",
+  "en": ", my master, any order from you,"
+ },
+ {
+  "id": "M0#697",
+  "en": "I will carry out without fail."
+ },
+ {
+  "id": "M0#698",
+  "en": "Setting traps is a pain, too..."
+ },
+ {
+  "id": "M0#699",
+  "en": "Hold it, don't move!"
+ },
+ {
+  "id": "M0#700",
+  "en": "You know this is the trapper Osaida's hut,"
+ },
+ {
+  "id": "M0#701",
+  "en": "and you came in anyway?"
+ },
+ {
+  "id": "M0#702",
+  "en": "I've got traps for big game in here, too."
+ },
+ {
+  "id": "M0#703",
+  "en": "Wouldn't you be better off not moving rashly?"
+ },
+ {
+  "id": "M0#704",
+  "en": "(Threatening me? You have some nerve, for a human."
+ },
+ {
+  "id": "M0#705",
+  "en": "You will learn your place in time...)",
+  "note": "closing parenthesis kept"
+ },
+ {
+  "id": "M0#706",
+  "en": "That's it, just head home quietly."
+ },
+ {
+  "id": "M0#707",
+  "en": "You again?"
+ },
+ {
+  "id": "M0#708",
+  "en": "You never learn, do you?"
+ },
+ {
+  "id": "M0#709",
+  "en": "Th-that one's..."
+ },
+ {
+  "id": "M0#710",
+  "en": "...Damn it, unless I'm on the job,"
+ },
+ {
+  "id": "M0#711",
+  "en": "I can't catch them",
+  "note": "+ #66 '...' printed after"
+ },
+ {
+  "id": "M0#712",
+  "en": "Again"
+ },
+ {
+  "id": "M0#713",
+  "en": "Are you messing with me?"
+ },
+ {
+  "id": "M0#714",
+  "en": "Glad you came. Come on in."
+ },
+ {
+  "id": "M0#715",
+  "en": "you have traps in your room, don't you?"
+ },
+ {
+  "id": "M0#716",
+  "en": "I've taken every last trap out."
+ },
+ {
+  "id": "M0#717",
+  "en": "I should still stay on my guard.",
+  "note": "continues #264 'No,'"
+ },
+ {
+  "id": "M0#718",
+  "en": "Hang on a second..."
+ },
+ {
+  "id": "M0#719",
+  "en": "Damn it."
+ }
+]

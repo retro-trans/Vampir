@@ -1,0 +1,229 @@
+[
+ {
+  "id": "EP2.BIN@548",
+  "en": "With this, it's truly over...!!",
+  "note": "Christopher (side 11) after the final battle, Christopher-scenario ending (script D1FE). The row also turns up in data runs at 718C-A64F (tables, not dialogue)."
+ },
+ {
+  "id": "EP2.BIN@520",
+  "en": "When did you become so strong?",
+  "note": "Duran (side 12), defeated, to Christopher."
+ },
+ {
+  "id": "EP2.BIN@4F4",
+  "en": "It seems I underestimated your power..."
+ },
+ {
+  "id": "EP2.BIN@4CC",
+  "en": "If the dawn finds me with this mortal wound,"
+ },
+ {
+  "id": "EP2.BIN@4B0",
+  "en": "I shall turn to ash."
+ },
+ {
+  "id": "EP2.BIN@484",
+  "en": "And I shall be freed from eternal suffering..."
+ },
+ {
+  "id": "EP2.BIN@468",
+  "en": "No... it will not be so."
+ },
+ {
+  "id": "EP2.BIN@440",
+  "en": "For a Vampir, there is no means of escape"
+ },
+ {
+  "id": "EP2.BIN@428",
+  "en": "from eternal suffering..."
+ },
+ {
+  "id": "EP2.BIN@418",
+  "en": "You, too, will one day"
+ },
+ {
+  "id": "EP2.BIN@3EC",
+  "en": "come to taste that same suffering..."
+ },
+ {
+  "id": "EP2.BIN@3D8",
+  "en": ", I've been waiting for you.",
+  "note": "Rose (side 12); preceded by the player-name opcode: '{PLAYER_NAME}, I've been waiting for you.'"
+ },
+ {
+  "id": "EP2.BIN@3B8",
+  "en": "Come, take me with you."
+ },
+ {
+  "id": "EP2.BIN@39C",
+  "en": "Ragash is going to be so surprised"
+ },
+ {
+  "id": "EP2.BIN@378",
+  "en": "when I come home with a bride..."
+ },
+ {
+  "id": "EP2.BIN@360",
+  "en": "But I've made up my mind."
+ },
+ {
+  "id": "EP2.BIN@340",
+  "en": "Rose, I'm going to marry you."
+ },
+ {
+  "id": "EP2.BIN@324",
+  "en": "Let's go to my castle together."
+ },
+ {
+  "id": "EP2.BIN@300",
+  "en": "In time, I'll formally welcome you to the clan."
+ },
+ {
+  "id": "EP2.BIN@2E4",
+  "en": "Rose, I love you..."
+ },
+ {
+  "id": "EP2.BIN@2C0",
+  "en": "It seems you'll only learn the hard way."
+ },
+ {
+  "id": "EP2.BIN@2A8",
+  "en": "This is your end."
+ },
+ {
+  "id": "EP2.BIN@29C",
+  "en": "Please, ",
+  "note": "Rose (side 11), stepping in; trailing space: followed by the player-name opcode (Duran in this scenario) and @298: 'Please, {PLAYER_NAME}.'"
+ },
+ {
+  "id": "EP2.BIN@298",
+  "en": "."
+ },
+ {
+  "id": "EP2.BIN@278",
+  "en": "Don't do this anymore..."
+ },
+ {
+  "id": "EP2.BIN@26C",
+  "en": "...!?",
+  "note": "Duran."
+ },
+ {
+  "id": "EP2.BIN@254",
+  "en": "R-Rowena...",
+  "note": "Duran sees Rowena in Rose."
+ },
+ {
+  "id": "EP2.BIN@248",
+  "en": "Your name",
+  "note": "Duran to his opponent. Followed by @244 three times with pauses: 'Your name...'."
+ },
+ {
+  "id": "EP2.BIN@244",
+  "en": ".",
+  "note": "Printed three times with pauses -> '...' (after @248, and after the partner name in D2E3: '{PARTNER_NAME}...')."
+ },
+ {
+  "id": "EP2.BIN@23C",
+  "en": "...was ",
+  "note": "Trailing space: pause, then the partner-name opcode and @228 on the same line: '...was {PARTNER_NAME}, you said...'."
+ },
+ {
+  "id": "EP2.BIN@228",
+  "en": ", you said..."
+ },
+ {
+  "id": "EP2.BIN@21C",
+  "en": "..."
+ },
+ {
+  "id": "EP2.BIN@1FC",
+  "en": "I'm going to have a baby."
+ },
+ {
+  "id": "EP2.BIN@1DC",
+  "en": "And so, if it's a girl, \"Rose\",",
+  "note": "「」 rendered as ASCII double quotes (as PR2@1AC)."
+ },
+ {
+  "id": "EP2.BIN@1CC",
+  "en": "and if it's a boy, \"",
+  "note": "Followed by the partner-name opcode and @1C4: 'and if it's a boy, \"{PARTNER_NAME}\"...'."
+ },
+ {
+  "id": "EP2.BIN@1C4",
+  "en": "\"..."
+ },
+ {
+  "id": "EP2.BIN@1A4",
+  "en": "that's what I'd like to name our baby...",
+  "note": "Lower case: continues the sentence across the line break. 'our' = Rowena and her husband (settled by the scene)."
+ },
+ {
+  "id": "EP2.BIN@18C",
+  "en": "<Finish off the enemy>",
+  "note": "Menu choice; 『』 rendered as <> (STC precedent)."
+ },
+ {
+  "id": "EP2.BIN@174",
+  "en": "<Hold back the attack>",
+  "note": "Menu choice."
+ },
+ {
+  "id": "EP2.BIN@15C",
+  "en": "...Rowena...",
+  "note": "Duran, in the branch after the menu (see report)."
+ },
+ {
+  "id": "EP2.BIN@140",
+  "en": "You would tell me, of all people,"
+ },
+ {
+  "id": "EP2.BIN@120",
+  "en": "to give up this fight...?"
+ },
+ {
+  "id": "EP2.BIN@10C",
+  "en": "Rowena..."
+ },
+ {
+  "id": "EP2.BIN@E8",
+  "en": "Sentiment does not become me...",
+  "note": "Duran."
+ },
+ {
+  "id": "EP2.BIN@E4",
+  "en": ",",
+  "note": "Follows the partner-name opcode at the start of a line: '{PARTNER_NAME},'."
+ },
+ {
+  "id": "EP2.BIN@C0",
+  "en": "vanish from my sight...!"
+ },
+ {
+  "id": "EP2.BIN@A4",
+  "en": "Living coldly and cunningly in this world,",
+  "note": "Closing narration (full page, 264 px). Line 2 starts with the player-name opcode (Duran)."
+ },
+ {
+  "id": "EP2.BIN@8C",
+  "en": " Valaur, the Count,",
+  "note": "Line reads '{PLAYER_NAME} Valaur, the Count,': the name opens the line, so 'Count' cannot precede it (glossary: Count Valaur). Leading space."
+ },
+ {
+  "id": "EP2.BIN@78",
+  "en": "was born, here and now."
+ },
+ {
+  "id": "EP2.BIN@54",
+  "en": "Devouring humans as nothing more than food,"
+ },
+ {
+  "id": "EP2.BIN@30",
+  "en": "he reigns over humankind. In him, it may be said,"
+ },
+ {
+  "id": "EP2.BIN@4",
+  "en": "we see the true form of the vampire..."
+ }
+]

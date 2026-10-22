@@ -1,0 +1,328 @@
+[
+ {
+  "id": "OPN.BIN@ADC",
+  "en": "The calamity that the evil Vampir brings"
+ },
+ {
+  "id": "OPN.BIN@AB4",
+  "en": "can be stopped by your power. That is my"
+ },
+ {
+  "id": "OPN.BIN@AAC",
+  "en": "hope"
+ },
+ {
+  "id": "OPN.BIN@AA0",
+  "en": "I am counting on you, "
+ },
+ {
+  "id": "OPN.BIN@A9C",
+  "en": "\""
+ },
+ {
+  "id": "OPN.BIN@A88",
+  "en": "\", \"Critical Vitality\"",
+  "note": "Christopher's thought; the inserted name is player 2 (Duran)."
+ },
+ {
+  "id": "OPN.BIN@A70",
+  "en": "There was so much I never knew"
+ },
+ {
+  "id": "OPN.BIN@A50",
+  "en": "Lord Ragash told me everything."
+ },
+ {
+  "id": "OPN.BIN@A24",
+  "en": "I'll be your guide to Medoekia Village."
+ },
+ {
+  "id": "OPN.BIN@A0C",
+  "en": "Come on, let's be off."
+ },
+ {
+  "id": "OPN.BIN@9EC",
+  "en": "So you have awakened at last."
+ },
+ {
+  "id": "OPN.BIN@9C4",
+  "en": "I have waited so long for this moment."
+ },
+ {
+  "id": "OPN.BIN@9B8",
+  "en": " Who are you?",
+  "note": "Leading space: follows the shared '...' row."
+ },
+ {
+  "id": "OPN.BIN@9B0",
+  "en": ", my lord."
+ },
+ {
+  "id": "OPN.BIN@994",
+  "en": "My name is Orgo."
+ },
+ {
+  "id": "OPN.BIN@96C",
+  "en": "I made this tower my roost and waited here"
+ },
+ {
+  "id": "OPN.BIN@948",
+  "en": "for the day your seal would be broken."
+ },
+ {
+  "id": "OPN.BIN@920",
+  "en": "Please, take me as your familiar, and"
+ },
+ {
+  "id": "OPN.BIN@908",
+  "en": "command me in anything you wish."
+ },
+ {
+  "id": "OPN.BIN@8E4",
+  "en": " I have no memory of being sealed in this tower.",
+  "note": "Leading space: follows the shared '...' row."
+ },
+ {
+  "id": "OPN.BIN@8C4",
+  "en": "Why can I not remember"
+ },
+ {
+  "id": "OPN.BIN@89C",
+  "en": "Master, you have been asleep for over 100"
+ },
+ {
+  "id": "OPN.BIN@874",
+  "en": "years. It is only natural if parts of your"
+ },
+ {
+  "id": "OPN.BIN@858",
+  "en": "memory are still unclear."
+ },
+ {
+  "id": "OPN.BIN@82C",
+  "en": "It will surely come back to you in time."
+ },
+ {
+  "id": "OPN.BIN@808",
+  "en": "You spoke of a \"seal\" just now, did you not?"
+ },
+ {
+  "id": "OPN.BIN@7F8",
+  "en": "Yes. A barrier was laid on this tower so that you, Lord "
+ },
+ {
+  "id": "OPN.BIN@7EC",
+  "en": ", cannot"
+ },
+ {
+  "id": "OPN.BIN@7C0",
+  "en": "go outside."
+ },
+ {
+  "id": "OPN.BIN@798",
+  "en": "To break the barrier, a human must be made"
+ },
+ {
+  "id": "OPN.BIN@778",
+  "en": "to open the door at this tower's entrance."
+ },
+ {
+  "id": "OPN.BIN@750",
+  "en": "The seal was made so that neither I nor any"
+ },
+ {
+  "id": "OPN.BIN@728",
+  "en": "other Vampir could ever break it."
+ },
+ {
+  "id": "OPN.BIN@720",
+  "en": "A human"
+ },
+ {
+  "id": "OPN.BIN@71C",
+  "en": " must be made"
+ },
+ {
+  "id": "OPN.BIN@700",
+  "en": " to open the door? Is there no other way?"
+ },
+ {
+  "id": "OPN.BIN@6D4",
+  "en": "I can slip out through a gap in the window,"
+ },
+ {
+  "id": "OPN.BIN@6AC",
+  "en": "but I cannot break the seal."
+ },
+ {
+  "id": "OPN.BIN@680",
+  "en": "The villagers are all too frightened to even"
+ },
+ {
+  "id": "OPN.BIN@670",
+  "en": "come near this tower."
+ },
+ {
+  "id": "OPN.BIN@64C",
+  "en": "How shall we get the seal broken?"
+ },
+ {
+  "id": "OPN.BIN@620",
+  "en": "If the villagers won't do, then I need only"
+ },
+ {
+  "id": "OPN.BIN@604",
+  "en": "lure someone here from elsewhere."
+ },
+ {
+  "id": "OPN.BIN@5FC",
+  "en": "A letter"
+ },
+ {
+  "id": "OPN.BIN@5F0",
+  "en": "?",
+  "note": "Follows the shared '...' row: 'A letter...?'"
+ },
+ {
+  "id": "OPN.BIN@5E0",
+  "en": "Orgo, take this"
+ },
+ {
+  "id": "OPN.BIN@5BC",
+  "en": "Have this delivered to the Association of"
+ },
+ {
+  "id": "OPN.BIN@5B0",
+  "en": "Patent Agents in England."
+ },
+ {
+  "id": "OPN.BIN@59C",
+  "en": "Yes, Master."
+ },
+ {
+  "id": "OPN.BIN@574",
+  "en": "...The Diary of Jonathan Harker..."
+ },
+ {
+  "id": "OPN.BIN@568",
+  "en": "<Read>"
+ },
+ {
+  "id": "OPN.BIN@558",
+  "en": "<Don't read>"
+ },
+ {
+  "id": "OPN.BIN@548",
+  "en": "<August 21>"
+ },
+ {
+  "id": "OPN.BIN@518",
+  "en": "Through the winding gorge I came at last to"
+ },
+ {
+  "id": "OPN.BIN@4EC",
+  "en": "the Black Pass, with the tower of Eisen far off."
+ },
+ {
+  "id": "OPN.BIN@4BC",
+  "en": "For a while I stared, as though dazed, at the"
+ },
+ {
+  "id": "OPN.BIN@4A8",
+  "en": "shadow of the mist-shrouded tower."
+ },
+ {
+  "id": "OPN.BIN@478",
+  "en": "Below me lay pastures, a scattering of houses,"
+ },
+ {
+  "id": "OPN.BIN@450",
+  "en": "and a small church at the center of the village."
+ },
+ {
+  "id": "OPN.BIN@424",
+  "en": "The faint gloom I sense about this village—"
+ },
+ {
+  "id": "OPN.BIN@404",
+  "en": "is it only the fault of the dismal weather?"
+ },
+ {
+  "id": "OPN.BIN@3D4",
+  "en": "Already I am reduced to pining for the bustle"
+ },
+ {
+  "id": "OPN.BIN@3C8",
+  "en": "of the great city of London."
+ },
+ {
+  "id": "OPN.BIN@3B8",
+  "en": "<August 22>"
+ },
+ {
+  "id": "OPN.BIN@38C",
+  "en": "I have come from my native England to this"
+ },
+ {
+  "id": "OPN.BIN@368",
+  "en": "land of Medoekia, here in Eastern Europe,"
+ },
+ {
+  "id": "OPN.BIN@33C",
+  "en": " at the request of Count Valaur, made by letter,",
+  "note": "Script appends this row to the 368 line after a button wait (no newline); leading space added."
+ },
+ {
+  "id": "OPN.BIN@318",
+  "en": "to finalize the contract for the purchase of"
+ },
+ {
+  "id": "OPN.BIN@304",
+  "en": "an estate in London."
+ },
+ {
+  "id": "OPN.BIN@2E0",
+  "en": "For me, as a patent agent, concluding this"
+ },
+ {
+  "id": "OPN.BIN@2B8",
+  "en": "contract is a trial of sorts."
+ },
+ {
+  "id": "OPN.BIN@288",
+  "en": "When this venture succeeds, an honorable"
+ },
+ {
+  "id": "OPN.BIN@25C",
+  "en": "marriage is to be arranged for me."
+ },
+ {
+  "id": "OPN.BIN@24C",
+  "en": "<August 26>"
+ },
+ {
+  "id": "OPN.BIN@224",
+  "en": "At last came my audience with the Count."
+ },
+ {
+  "id": "OPN.BIN@1FC",
+  "en": "Invited in, I opened the door of the old tower."
+ },
+ {
+  "id": "OPN.BIN@1D4",
+  "en": "I explained to the Count where his London estate"
+ },
+ {
+  "id": "OPN.BIN@1AC",
+  "en": "lay, and once the deed's formalities were done,"
+ },
+ {
+  "id": "OPN.BIN@18C",
+  "en": "I discovered the astonishing secret of"
+ },
+ {
+  "id": "OPN.BIN@178",
+  "en": "this man",
+  "note": "Followed by shared '...' + '.' rows: 'this man....'"
+ }
+]

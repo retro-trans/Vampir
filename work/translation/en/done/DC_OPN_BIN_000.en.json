@@ -1,0 +1,326 @@
+[
+ {
+  "id": "OPN.BIN@1290",
+  "en": "Tell me, what do you think it means to die?"
+ },
+ {
+  "id": "OPN.BIN@1268",
+  "en": "That I'm going to die very soon..."
+ },
+ {
+  "id": "OPN.BIN@1250",
+  "en": "can you imagine it?"
+ },
+ {
+  "id": "OPN.BIN@1238",
+  "en": "When I'm so full of life right now."
+ },
+ {
+  "id": "OPN.BIN@1230",
+  "en": "..."
+ },
+ {
+  "id": "OPN.BIN@1228",
+  "en": "I'm scared."
+ },
+ {
+  "id": "OPN.BIN@120C",
+  "en": "I don't want to die yet."
+ },
+ {
+  "id": "OPN.BIN@1200",
+  "en": "Tell me,"
+ },
+ {
+  "id": "OPN.BIN@11D8",
+  "en": "do you know the word \"Vampir\"?"
+ },
+ {
+  "id": "OPN.BIN@11C4",
+  "en": "I'm a vampire, you see."
+ },
+ {
+  "id": "OPN.BIN@11BC",
+  "en": "Oh my!"
+ },
+ {
+  "id": "OPN.BIN@1190",
+  "en": "Then you'll never die, will you?"
+ },
+ {
+  "id": "OPN.BIN@1168",
+  "en": "Aren't you afraid of me?"
+ },
+ {
+  "id": "OPN.BIN@1148",
+  "en": "Why would I be? You're wonderful."
+ },
+ {
+  "id": "OPN.BIN@112C",
+  "en": "Those blue eyes and that golden hair..."
+ },
+ {
+  "id": "OPN.BIN@1100",
+  "en": "Say, what should I call you?"
+ },
+ {
+  "id": "OPN.BIN@10F0",
+  "en": "What a lovely name.",
+  "note": "Follows name entry (player names Christopher)."
+ },
+ {
+  "id": "OPN.BIN@10E0",
+  "en": "And what's your name?"
+ },
+ {
+  "id": "OPN.BIN@10BC",
+  "en": "Oh, didn't I tell you?..."
+ },
+ {
+  "id": "OPN.BIN@10B8",
+  "en": "M"
+ },
+ {
+  "id": "OPN.BIN@10B4",
+  "en": "y"
+ },
+ {
+  "id": "OPN.BIN@10B0",
+  "en": " na"
+ },
+ {
+  "id": "OPN.BIN@10AC",
+  "en": "me"
+ },
+ {
+  "id": "OPN.BIN@10A8",
+  "en": " is"
+ },
+ {
+  "id": "OPN.BIN@10A4",
+  "en": "."
+ },
+ {
+  "id": "OPN.BIN@10A0",
+  "en": "."
+ },
+ {
+  "id": "OPN.BIN@109C",
+  "en": "."
+ },
+ {
+  "id": "OPN.BIN@1098",
+  "en": " R"
+ },
+ {
+  "id": "OPN.BIN@1094",
+  "en": "o"
+ },
+ {
+  "id": "OPN.BIN@1090",
+  "en": "—"
+ },
+ {
+  "id": "OPN.BIN@1084",
+  "en": "Wake up."
+ },
+ {
+  "id": "OPN.BIN@1068",
+  "en": "Lord Ragash is calling for you."
+ },
+ {
+  "id": "OPN.BIN@104C",
+  "en": "He says it's something important."
+ },
+ {
+  "id": "OPN.BIN@1024",
+  "en": "Now get ready and come to the great hall."
+ },
+ {
+  "id": "OPN.BIN@1018",
+  "en": "She looks so much like..."
+ },
+ {
+  "id": "OPN.BIN@1000",
+  "en": "the girl in my dream just now."
+ },
+ {
+  "id": "OPN.BIN@FD4",
+  "en": "My mother, who died right after I was born."
+ },
+ {
+  "id": "OPN.BIN@FB0",
+  "en": "Is that why I had a dream like that?"
+ },
+ {
+  "id": "OPN.BIN@FA4",
+  "en": "So you've come, ",
+  "note": "Followed by {PLAYER_NAME} then FA0."
+ },
+ {
+  "id": "OPN.BIN@FA0",
+  "en": "."
+ },
+ {
+  "id": "OPN.BIN@F80",
+  "en": "I have something important to tell you today."
+ },
+ {
+  "id": "OPN.BIN@F70",
+  "en": "You are to leave this castle"
+ },
+ {
+  "id": "OPN.BIN@F50",
+  "en": "and go down to the human world below."
+ },
+ {
+  "id": "OPN.BIN@F40",
+  "en": "Why so suddenly?"
+ },
+ {
+  "id": "OPN.BIN@F18",
+  "en": "Our Eisen vampire clan has always lived"
+ },
+ {
+  "id": "OPN.BIN@EF4",
+  "en": "quietly, hidden from human eyes, and yet..."
+ },
+ {
+  "id": "OPN.BIN@EE0",
+  "en": "Listen well."
+ },
+ {
+  "id": "OPN.BIN@EC4",
+  "en": "It was 150 years ago now,"
+ },
+ {
+  "id": "OPN.BIN@E98",
+  "en": "At Medoekia, the village below this castle,"
+ },
+ {
+  "id": "OPN.BIN@E90",
+  "en": "our clan fought \"",
+  "note": "Followed by inserted name (Duran, player-2 name) then E80; line 2 = 'our clan fought \"Duran\",'."
+ },
+ {
+  "id": "OPN.BIN@E80",
+  "en": "\","
+ },
+ {
+  "id": "OPN.BIN@E5C",
+  "en": "a lone Vampir."
+ },
+ {
+  "id": "OPN.BIN@E30",
+  "en": "His heart cursed and eaten by evil, he tried to",
+  "note": "Each Japanese row is a hand-broken 20-char line, so each English row kept within 240 px."
+ },
+ {
+  "id": "OPN.BIN@E08",
+  "en": "use his vast power to destroy humans and us."
+ },
+ {
+  "id": "OPN.BIN@DEC",
+  "en": "It took our whole clan to subdue "
+ },
+ {
+  "id": "OPN.BIN@DE0",
+  "en": ","
+ },
+ {
+  "id": "OPN.BIN@DC0",
+  "en": "and we sealed him away in a certain tower."
+ },
+ {
+  "id": "OPN.BIN@D98",
+  "en": "But lately, the power of the seal has been"
+ },
+ {
+  "id": "OPN.BIN@D84",
+  "en": "weakening rapidly."
+ },
+ {
+  "id": "OPN.BIN@D58",
+  "en": "In that last battle, our clan used up nearly"
+ },
+ {
+  "id": "OPN.BIN@D2C",
+  "en": "all the power it had, and we have no means"
+ },
+ {
+  "id": "OPN.BIN@D18",
+  "en": "left to stand against him."
+ },
+ {
+  "id": "OPN.BIN@D04",
+  "en": "Except for you, that is."
+ },
+ {
+  "id": "OPN.BIN@CD8",
+  "en": "Of all of us, you have inherited one of the"
+ },
+ {
+  "id": "OPN.BIN@CAC",
+  "en": "greatest powers: the power, held only by the"
+ },
+ {
+  "id": "OPN.BIN@C8C",
+  "en": "direct Eisen line, to wield \"Critical Vitality\"."
+ },
+ {
+  "id": "OPN.BIN@C80",
+  "en": "Critical Vitality?"
+ },
+ {
+  "id": "OPN.BIN@C54",
+  "en": "For us, drinking blood means keeping our"
+ },
+ {
+  "id": "OPN.BIN@C28",
+  "en": "eternal life, but for the direct line, it means"
+ },
+ {
+  "id": "OPN.BIN@C20",
+  "en": "more than that."
+ },
+ {
+  "id": "OPN.BIN@BFC",
+  "en": "By using humans to nurture Critical Vitality,"
+ },
+ {
+  "id": "OPN.BIN@BD0",
+  "en": "you can gain greater fighting strength and"
+ },
+ {
+  "id": "OPN.BIN@BC8",
+  "en": "healing power."
+ },
+ {
+  "id": "OPN.BIN@B9C",
+  "en": "Using Critical Vitality, you can do what we"
+ },
+ {
+  "id": "OPN.BIN@B84",
+  "en": "could not 150 years ago, and erase "
+ },
+ {
+  "id": "OPN.BIN@B80",
+  "en": ""
+ },
+ {
+  "id": "OPN.BIN@B64",
+  "en": "from this world."
+ },
+ {
+  "id": "OPN.BIN@B38",
+  "en": "This is urgent, so leave here at once."
+ },
+ {
+  "id": "OPN.BIN@B10",
+  "en": "I'll have Rusalie guide you"
+ },
+ {
+  "id": "OPN.BIN@B04",
+  "en": "to Medoekia village."
+ }
+]

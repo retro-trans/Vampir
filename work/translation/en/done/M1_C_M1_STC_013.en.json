@@ -1,0 +1,364 @@
+[
+ {
+  "id": "M1#1040",
+  "en": "Hey, Paul."
+ },
+ {
+  "id": "M1#1041",
+  "en": "Who is it?"
+ },
+ {
+  "id": "M1#1042",
+  "en": "At this hour..."
+ },
+ {
+  "id": "M1#1043",
+  "en": "Hm",
+  "note": "Shared 'Hm' (no comma): Wolf is followed by one #180 '...'; Kroeger (131806, 131954) and Dietrich (169083) by three #180 = '.........' -- see report. Msg 42352 (Paul, followed by #1044) gets 'Hm, '.",
+  "variants": [
+   {
+    "msg": 42352,
+    "en": "Hm, "
+   }
+  ]
+ },
+ {
+  "id": "M1#1044",
+  "en": "what on earth do you want?",
+  "note": "Continues #1043 (unused row, event script); lowercase on purpose."
+ },
+ {
+  "id": "M1#1045",
+  "en": "I came to help you with your work."
+ },
+ {
+  "id": "M1#1046",
+  "en": "No, ",
+  "note": "'No, ' (Maitz 87322: 'No, just kidding'); Friedrich msgs get variant 'Well, ' (modest hesitation) before #180.",
+  "variants": [
+   {
+    "msg": 54235,
+    "en": "Well, "
+   },
+   {
+    "msg": 54317,
+    "en": "Well, "
+   },
+   {
+    "msg": 54994,
+    "en": "Well, "
+   },
+   {
+    "msg": 55076,
+    "en": "Well, "
+   }
+  ]
+ },
+ {
+  "id": "M1#1047",
+  "en": "you will help me with my work.",
+  "note": "Continues #1046 'No, '."
+ },
+ {
+  "id": "M1#1048",
+  "en": "Either way is fine, so"
+ },
+ {
+  "id": "M1#1049",
+  "en": "let's talk about it tomorrow."
+ },
+ {
+  "id": "M1#1050",
+  "en": "Good night."
+ },
+ {
+  "id": "M1#1051",
+  "en": "I'm not done talking yet!"
+ },
+ {
+  "id": "M1#1052",
+  "en": "Hey, what are you doing?!"
+ },
+ {
+  "id": "M1#1053",
+  "en": "Talking will get us nowhere."
+ },
+ {
+  "id": "M1#1054",
+  "en": "Then I'll make you understand the hard way.",
+  "note": "'with the body' idiom rendered 'the hard way'."
+ },
+ {
+  "id": "M1#1055",
+  "en": "Huh? Who on earth are you?"
+ },
+ {
+  "id": "M1#1056",
+  "en": "You will carry my messages to the others"
+ },
+ {
+  "id": "M1#1057",
+  "en": "and relay them faithfully."
+ },
+ {
+  "id": "M1#1058",
+  "en": "For someone who delivers letters,"
+ },
+ {
+  "id": "M1#1059",
+  "en": "it's the perfect job, isn't it?"
+ },
+ {
+  "id": "M1#1060",
+  "en": "Oh, so you're a mail carrier."
+ },
+ {
+  "id": "M1#1061",
+  "en": "Are you off to work too?"
+ },
+ {
+  "id": "M1#1062",
+  "en": ","
+ },
+ {
+  "id": "M1#1063",
+  "en": ", it's you!"
+ },
+ {
+  "id": "M1#1064",
+  "en": "Have you come to"
+ },
+ {
+  "id": "M1#1065",
+  "en": "help me with my work?"
+ },
+ {
+  "id": "M1#1066",
+  "en": "Just kidding."
+ },
+ {
+  "id": "M1#1067",
+  "en": "You too?"
+ },
+ {
+  "id": "M1#1068",
+  "en": "We keep running into each other lately."
+ },
+ {
+  "id": "M1#1069",
+  "en": "Do you live nearby, maybe?"
+ },
+ {
+  "id": "M1#1070",
+  "en": "take it to the post office or a postbox."
+ },
+ {
+  "id": "M1#1071",
+  "en": ","
+ },
+ {
+  "id": "M1#1072",
+  "en": "you're always so flashy."
+ },
+ {
+  "id": "M1#1073",
+  "en": "I'd love to try clothes like that once."
+ },
+ {
+  "id": "M1#1074",
+  "en": "Tell me about that shop too!"
+ },
+ {
+  "id": "M1#1075",
+  "en": "You're early.",
+  "note": "Scene unknown (no context row before it); 'early' read from the Japanese."
+ },
+ {
+  "id": "M1#1076",
+  "en": "You've come already.",
+  "note": "Kept literal: 'You've come already.' Referent of the visit not settled."
+ },
+ {
+  "id": "M1#1077",
+  "en": "Maybe it's a letter to your sweetheart,"
+ },
+ {
+  "id": "M1#1078",
+  "en": "and that's why you're shy?"
+ },
+ {
+  "id": "M1#1079",
+  "en": "I'd like to ask you something,"
+ },
+ {
+  "id": "M1#1080",
+  "en": "to be delivered?"
+ },
+ {
+  "id": "M1#1081",
+  "en": "(In areas with a railway, mail may be"
+ },
+ {
+  "id": "M1#1082",
+  "en": "more reliable than Sistina.)"
+ },
+ {
+  "id": "M1#1083",
+  "en": "About that... message, no, telegraph,",
+  "note": "Player slips: says denrei (message) then corrects to denshin (telegraph). Ends with a comma; continues into done #1022."
+ },
+ {
+  "id": "M1#1084",
+  "en": "(That sounds more capable than Sistina...)",
+  "note": "Subject omitted in the Japanese (the telegraph / Paul); kept neutral 'That'."
+ },
+ {
+  "id": "M1#1085",
+  "en": "a familiar off just to carry a message.)"
+ },
+ {
+  "id": "M1#1086",
+  "en": "(That's just what Sistina says.)",
+  "note": "Subject omitted; neutral 'That'. Mirrors #1039."
+ },
+ {
+  "id": "M1#1087",
+  "en": " I'll show you my power at night.",
+  "note": " Leading space because #2 '...' precedes it in msg 45707. 'at night' vs 'tonight' not settled by the scene."
+ },
+ {
+  "id": "M1#1088",
+  "en": "Can I help you?"
+ },
+ {
+  "id": "M1#1089",
+  "en": "I'm Brome. A traveler."
+ },
+ {
+  "id": "M1#1090",
+  "en": "Is there something you want?"
+ },
+ {
+  "id": "M1#1091",
+  "en": "I've got nothing to talk to you about."
+ },
+ {
+  "id": "M1#1092",
+  "en": "Now, get out."
+ },
+ {
+  "id": "M1#1093",
+  "en": "You're awfully persistent."
+ },
+ {
+  "id": "M1#1094",
+  "en": "With a mere traveler like me, what on earth"
+ },
+ {
+  "id": "M1#1095",
+  "en": "business could you have?"
+ },
+ {
+  "id": "M1#1096",
+  "en": "Hmph, a traveler? Don't make me laugh."
+ },
+ {
+  "id": "M1#1097",
+  "en": "You hide in this inn and, behind the scenes,"
+ },
+ {
+  "id": "M1#1098",
+  "en": "make a fortune on dirty deals, don't you?"
+ },
+ {
+  "id": "M1#1099",
+  "en": "W-What"
+ },
+ {
+  "id": "M1#1100",
+  "en": " What are you talking about?",
+  "note": "Leading space: always follows #2 '...' in 45845/46357."
+ },
+ {
+  "id": "M1#1101",
+  "en": "I don't know anything about that"
+ },
+ {
+  "id": "M1#1102",
+  "en": "Quit making baseless accusations."
+ },
+ {
+  "id": "M1#1103",
+  "en": "Don't play dumb. You lead the pilfering"
+ },
+ {
+  "id": "M1#1104",
+  "en": "and reap sweet profits from the cargo"
+ },
+ {
+  "id": "M1#1105",
+  "en": "of trade ships. I know all about it."
+ },
+ {
+  "id": "M1#1106",
+  "en": "Ngh."
+ },
+ {
+  "id": "M1#1107",
+  "en": "Hey, where did you get that information?"
+ },
+ {
+  "id": "M1#1108",
+  "en": "You're going to tell me everything."
+ },
+ {
+  "id": "M1#1109",
+  "en": "If you won't talk, I'll use force to make",
+  "note": "Shared by 45845 (#1110) and 46357 (#1168 expected: 'you do as I say')."
+ },
+ {
+  "id": "M1#1110",
+  "en": "you do as I say"
+ },
+ {
+  "id": "M1#1111",
+  "en": "Foolish",
+  "note": "Followed by #2 '...' and #25 '.': needs a #25 variant of '' for msg 45945 or it prints four dots."
+ },
+ {
+  "id": "M1#1112",
+  "en": " Did you think scum like you",
+  "note": "Leading space (follows '...' + '.')."
+ },
+ {
+  "id": "M1#1113",
+  "en": "could ever get the better of me?"
+ },
+ {
+  "id": "M1#1114",
+  "en": " Ow ow ow ow",
+  "note": "Leading space (follows #326 'Whoa' + #2 '...')."
+ },
+ {
+  "id": "M1#1115",
+  "en": "What strength you have in that hand",
+  "note": "Followed by #2 + #25: same four-dot problem for msgs 45945/46357."
+ },
+ {
+  "id": "M1#1116",
+  "en": "You're not human"
+ },
+ {
+  "id": "M1#1117",
+  "en": " Are you a monster",
+  "note": "Leading space; followed by #414 '!' + #461 '?' = 'Are you a monster!?'."
+ },
+ {
+  "id": "M1#1118",
+  "en": "Heh heh heh. Shall I crack your skull"
+ },
+ {
+  "id": "M1#1119",
+  "en": "open with my bare hands, just like this?"
+ }
+]

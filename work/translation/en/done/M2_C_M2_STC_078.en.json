@@ -1,0 +1,328 @@
+[
+ {
+  "id": "M2#6240",
+  "en": "where are you from?"
+ },
+ {
+  "id": "M2#6241",
+  "en": "Even the shop folk say they've never seen"
+ },
+ {
+  "id": "M2#6242",
+  "en": "a gentleman as fine as you."
+ },
+ {
+  "id": "M2#6243",
+  "en": "So I simply had to ask."
+ },
+ {
+  "id": "M2#6244",
+  "en": "I'm sorry... but I cannot answer that."
+ },
+ {
+  "id": "M2#6245",
+  "en": "Oh, listen to me... I'm terribly sorry."
+ },
+ {
+  "id": "M2#6246",
+  "en": "I asked something I had no business asking."
+ },
+ {
+  "id": "M2#6247",
+  "en": "Are you looking for something?"
+ },
+ {
+  "id": "M2#6248",
+  "en": "I'm looking for pen and ink."
+ },
+ {
+  "id": "M2#6249",
+  "en": "This shop certainly has a lot of wares."
+ },
+ {
+  "id": "M2#6250",
+  "en": "Why, our selection is our pride and joy."
+ },
+ {
+  "id": "M2#6251",
+  "en": "I'll bring them right out. Just a moment!"
+ },
+ {
+  "id": "M2#6252",
+  "en": "Will these do? Both are of good quality"
+ },
+ {
+  "id": "M2#6253",
+  "en": "and will last you a long time."
+ },
+ {
+  "id": "M2#6254",
+  "en": "Then I'll take these."
+ },
+ {
+  "id": "M2#6255",
+  "en": "Please do come again."
+ },
+ {
+  "id": "M2#6256",
+  "en": "Oh, how nice of you to come by."
+ },
+ {
+  "id": "M2#6257",
+  "en": "This shop certainly has a lot of wares."
+ },
+ {
+  "id": "M2#6258",
+  "en": "Certainly. One moment, please."
+ },
+ {
+  "id": "M2#6259",
+  "en": "How about these? Both are of good quality"
+ },
+ {
+  "id": "M2#6260",
+  "en": "Are you looking for something again?"
+ },
+ {
+  "id": "M2#6261",
+  "en": "Have you taken a liking to our shop?"
+ },
+ {
+  "id": "M2#6262",
+  "en": "<Yes>"
+ },
+ {
+  "id": "M2#6263",
+  "en": "<Not really...>"
+ },
+ {
+  "id": "M2#6264",
+  "en": "I'm so glad to hear you say that."
+ },
+ {
+  "id": "M2#6265",
+  "en": "We carry a few imported goods, too."
+ },
+ {
+  "id": "M2#6266",
+  "en": "Please do keep coming to our shop."
+ },
+ {
+  "id": "M2#6267",
+  "en": "Oh... what a pity."
+ },
+ {
+  "id": "M2#6268",
+  "en": "I'm so glad you've been coming often lately."
+ },
+ {
+  "id": "M2#6269",
+  "en": "Yes, this shop is handy for all sorts of things."
+ },
+ {
+  "id": "M2#6270",
+  "en": "And you've been a great help too. I'm grateful."
+ },
+ {
+  "id": "M2#6271",
+  "en": "Oh, you're too kind... Thank you so much."
+ },
+ {
+  "id": "M2#6272",
+  "en": "If there's ever anything I can do for you,"
+ },
+ {
+  "id": "M2#6273",
+  "en": "anything at all, please just ask."
+ },
+ {
+  "id": "M2#6274",
+  "en": "(Anything, she says"
+ },
+ {
+  "id": "M2#6275",
+  "en": " One day, it will come to that.)"
+ },
+ {
+  "id": "M2#6276",
+  "en": "Um... ",
+  "variants": [
+   {
+    "msg": 320510,
+    "en": "Um..."
+   }
+  ]
+ },
+ {
+  "id": "M2#6277",
+  "en": "Would you listen to me?"
+ },
+ {
+  "id": "M2#6278",
+  "en": "I have a little dream."
+ },
+ {
+  "id": "M2#6279",
+  "en": "Someday, I want a shop of my own"
+ },
+ {
+  "id": "M2#6280",
+  "en": " That's all."
+ },
+ {
+  "id": "M2#6281",
+  "en": "Oh dear, how silly of me."
+ },
+ {
+  "id": "M2#6282",
+  "en": "Why am I telling you all this?"
+ },
+ {
+  "id": "M2#6283",
+  "en": "But somehow, "
+ },
+ {
+  "id": "M2#6284",
+  "en": ", talking with you"
+ },
+ {
+  "id": "M2#6285",
+  "en": "puts me at ease."
+ },
+ {
+  "id": "M2#6286",
+  "en": "I see. I hope your dream comes true."
+ },
+ {
+  "id": "M2#6287",
+  "en": "(How foolish..."
+ },
+ {
+  "id": "M2#6288",
+  "en": "when your fate is already sealed.)"
+ },
+ {
+  "id": "M2#6289",
+  "en": "Seeing you somehow lifts my spirits."
+ },
+ {
+  "id": "M2#6290",
+  "en": "It reminds me of my own dream."
+ },
+ {
+  "id": "M2#6291",
+  "en": "I'm Angela. The back of the house"
+ },
+ {
+  "id": "M2#6292",
+  "en": "makes me so very happy."
+ },
+ {
+  "id": "M2#6293",
+  "en": "Do come by the shop again, too."
+ },
+ {
+  "id": "M2#6294",
+  "en": "Sorry, I'd rather not talk about that."
+ },
+ {
+  "id": "M2#6295",
+  "en": "I ran away from home, you see..."
+ },
+ {
+  "id": "M2#6296",
+  "en": "I'm sorry, I shouldn't have pried..."
+ },
+ {
+  "id": "M2#6297",
+  "en": "Forgive me if I offended you."
+ },
+ {
+  "id": "M2#6298",
+  "en": "No, it's fine. Don't worry about it."
+ },
+ {
+  "id": "M2#6299",
+  "en": "I'm looking for pen and ink."
+ },
+ {
+  "id": "M2#6300",
+  "en": "There's so much here, I can't find them."
+ },
+ {
+  "id": "M2#6301",
+  "en": "I'll bring them right out. One moment, please."
+ },
+ {
+  "id": "M2#6302",
+  "en": "Then I'll take these."
+ },
+ {
+  "id": "M2#6303",
+  "en": "Not at all, it's my job."
+ },
+ {
+  "id": "M2#6304",
+  "en": "Thank you. Please come again."
+ },
+ {
+  "id": "M2#6305",
+  "en": "Welcome! Are you looking for something?"
+ },
+ {
+  "id": "M2#6306",
+  "en": "Oh! You're..."
+ },
+ {
+  "id": "M2#6307",
+  "en": "I'm looking for pen and ink, but..."
+ },
+ {
+  "id": "M2#6308",
+  "en": "How about these? They're fine goods."
+ },
+ {
+  "id": "M2#6309",
+  "en": "Oh, I'm glad I could help."
+ },
+ {
+  "id": "M2#6310",
+  "en": "Do come again!"
+ },
+ {
+  "id": "M2#6311",
+  "en": "Welcome! Please keep coming back to us."
+ },
+ {
+  "id": "M2#6312",
+  "en": "<Of course>"
+ },
+ {
+  "id": "M2#6313",
+  "en": "Yes, I'm very fond of this shop."
+ },
+ {
+  "id": "M2#6314",
+  "en": "And I look forward to seeing you, Angela."
+ },
+ {
+  "id": "M2#6315",
+  "en": " I...)"
+ },
+ {
+  "id": "M2#6316",
+  "en": "Someday, I want to have a shop of my own."
+ },
+ {
+  "id": "M2#6317",
+  "en": "Somehow,"
+ },
+ {
+  "id": "M2#6318",
+  "en": " talking with you puts me at ease."
+ },
+ {
+  "id": "M2#6319",
+  "en": "That's a lovely dream. I hope it comes true."
+ }
+]

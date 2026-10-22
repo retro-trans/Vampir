@@ -1,0 +1,306 @@
+[
+ {
+  "id": "M0/name0",
+  "en": "Olg"
+ },
+ {
+  "id": "M0/job0",
+  "en": "field watcher"
+ },
+ {
+  "id": "M0/name1",
+  "en": "Erwin"
+ },
+ {
+  "id": "M0/job1",
+  "en": "wood gatherer"
+ },
+ {
+  "id": "M0/name2",
+  "en": "Himmler"
+ },
+ {
+  "id": "M0/job2",
+  "en": "clog maker"
+ },
+ {
+  "id": "M0/name3",
+  "en": "Theodor"
+ },
+ {
+  "id": "M0/job3",
+  "en": "hunter"
+ },
+ {
+  "id": "M0/name4",
+  "en": "Silas"
+ },
+ {
+  "id": "M0/job4",
+  "en": "herdsman"
+ },
+ {
+  "id": "M0/name5",
+  "en": "Aldous"
+ },
+ {
+  "id": "M0/job5",
+  "en": "wheelwright"
+ },
+ {
+  "id": "M0/name6",
+  "en": "Ramon"
+ },
+ {
+  "id": "M0/job6",
+  "en": "priest"
+ },
+ {
+  "id": "M0/name7",
+  "en": "Halk"
+ },
+ {
+  "id": "M0/job7",
+  "en": "blacksmith"
+ },
+ {
+  "id": "M0/name8",
+  "en": "Osaida"
+ },
+ {
+  "id": "M0/job8",
+  "en": "gamekeeper"
+ },
+ {
+  "id": "M0/name9",
+  "en": "Jus"
+ },
+ {
+  "id": "M0/job9",
+  "en": "carpenter"
+ },
+ {
+  "id": "M0/name10",
+  "en": "Vent"
+ },
+ {
+  "id": "M0/job10",
+  "en": "woodcutter"
+ },
+ {
+  "id": "M0/name11",
+  "en": "Queeg"
+ },
+ {
+  "id": "M0/job11",
+  "en": "potter"
+ },
+ {
+  "id": "M0/name12",
+  "en": "Ranke"
+ },
+ {
+  "id": "M0/job12",
+  "en": "horse tender"
+ },
+ {
+  "id": "M0/name13",
+  "en": "Otti"
+ },
+ {
+  "id": "M0/job13",
+  "en": "angler"
+ },
+ {
+  "id": "M0/name14",
+  "en": "Katusa"
+ },
+ {
+  "id": "M0/job14",
+  "en": "farmhand"
+ },
+ {
+  "id": "M0/name15",
+  "en": "Lehn"
+ },
+ {
+  "id": "M0/job15",
+  "en": "innkeeper"
+ },
+ {
+  "id": "M0/name16",
+  "en": "Ios"
+ },
+ {
+  "id": "M0/job16",
+  "en": "cowherd"
+ },
+ {
+  "id": "M0/name17",
+  "en": "Southwark"
+ },
+ {
+  "id": "M0/job17",
+  "en": "brewer"
+ },
+ {
+  "id": "M0/name18",
+  "en": "Daedalus"
+ },
+ {
+  "id": "M0/job18",
+  "en": "landlord"
+ },
+ {
+  "id": "M0/name19",
+  "en": "May"
+ },
+ {
+  "id": "M0/job19",
+  "en": "playing dolls"
+ },
+ {
+  "id": "M0/name20",
+  "en": "Sati"
+ },
+ {
+  "id": "M0/job20",
+  "en": "nut gatherer"
+ },
+ {
+  "id": "M0/name21",
+  "en": "Liza"
+ },
+ {
+  "id": "M0/job21",
+  "en": "herb picker"
+ },
+ {
+  "id": "M0/name22",
+  "en": "Miltia"
+ },
+ {
+  "id": "M0/job22",
+  "en": "honey maker"
+ },
+ {
+  "id": "M0/name23",
+  "en": "Azusha"
+ },
+ {
+  "id": "M0/job23",
+  "en": "weaver"
+ },
+ {
+  "id": "M0/name24",
+  "en": "Celia"
+ },
+ {
+  "id": "M0/job24",
+  "en": "jam maker"
+ },
+ {
+  "id": "M0/name25",
+  "en": "Wendy"
+ },
+ {
+  "id": "M0/job25",
+  "en": "laundress"
+ },
+ {
+  "id": "M0/name26",
+  "en": "Johanna"
+ },
+ {
+  "id": "M0/job26",
+  "en": "mower"
+ },
+ {
+  "id": "M0/name27",
+  "en": "Veta"
+ },
+ {
+  "id": "M0/job27",
+  "en": "seamstress"
+ },
+ {
+  "id": "M0/name28",
+  "en": "Emmy"
+ },
+ {
+  "id": "M0/job28",
+  "en": "farmhand"
+ },
+ {
+  "id": "M0/name29",
+  "en": "Luisa"
+ },
+ {
+  "id": "M0/job29",
+  "en": "goods seller"
+ },
+ {
+  "id": "M0/name30",
+  "en": "Rusalie"
+ },
+ {
+  "id": "M0/job30",
+  "en": "Vampir"
+ },
+ {
+  "id": "M0/name31",
+  "en": "Rusalie"
+ },
+ {
+  "id": "M0/job31",
+  "en": "Vampir"
+ },
+ {
+  "id": "M0/name32",
+  "en": "Rusalie"
+ },
+ {
+  "id": "M0/job32",
+  "en": "Vampir"
+ },
+ {
+  "id": "M0/name33",
+  "en": "Rusalie"
+ },
+ {
+  "id": "M0/job33",
+  "en": "Vampir"
+ },
+ {
+  "id": "M0/name34",
+  "en": "Rusalie"
+ },
+ {
+  "id": "M0/job34",
+  "en": "Vampir"
+ },
+ {
+  "id": "M0/name35",
+  "en": "Rusalie"
+ },
+ {
+  "id": "M0/job35",
+  "en": "Vampir"
+ },
+ {
+  "id": "M0/name36",
+  "en": "Sistina"
+ },
+ {
+  "id": "M0/job36",
+  "en": "Woof woof!"
+ },
+ {
+  "id": "M0/name37",
+  "en": "Orgo"
+ },
+ {
+  "id": "M0/job37",
+  "en": "bat"
+ }
+]

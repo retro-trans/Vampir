@@ -1,0 +1,329 @@
+[
+ {
+  "id": "M2#3440",
+  "en": "Welcome, "
+ },
+ {
+  "id": "M2#3441",
+  "en": "!"
+ },
+ {
+  "id": "M2#3442",
+  "en": "Have a drink with me. That's why you came, right?"
+ },
+ {
+  "id": "M2#3443",
+  "en": "Or did you come to sweet-talk my missus?"
+ },
+ {
+  "id": "M2#3444",
+  "en": "You're welcome here any time."
+ },
+ {
+  "id": "M2#3445",
+  "en": "All the more if you bring some pricey liquor."
+ },
+ {
+  "id": "M2#3446",
+  "en": "Welcome. Drink up, go on, have a drink."
+ },
+ {
+  "id": "M2#3447",
+  "en": "Wouldn't be right, me drinking alone."
+ },
+ {
+  "id": "M2#3448",
+  "en": "Have a drink."
+ },
+ {
+  "id": "M2#3449",
+  "en": "You sure can hold your liquor."
+ },
+ {
+  "id": "M2#3450",
+  "en": "Seems I'm the only one drinking."
+ },
+ {
+  "id": "M2#3451",
+  "en": "Hey, welcome."
+ },
+ {
+  "id": "M2#3452",
+  "en": "This is the liquor shop. I'm Scott."
+ },
+ {
+  "id": "M2#3453",
+  "en": "You seem well soused already, shopkeeper."
+ },
+ {
+  "id": "M2#3454",
+  "en": "No fancy liquor here of the sort you'd buy,"
+ },
+ {
+  "id": "M2#3455",
+  "en": "but there's plenty of the kind I like."
+ },
+ {
+  "id": "M2#3456",
+  "en": "It's my shop, after all."
+ },
+ {
+  "id": "M2#3457",
+  "en": "Huh? You're the one who came to my place.",
+  "note": "Worded so the player's 'Yes, I am {NAME}.' (#396 variant + #2919) can answer it."
+ },
+ {
+  "id": "M2#3458",
+  "en": "It might not suit your taste, but"
+ },
+ {
+  "id": "M2#3459",
+  "en": "buy some liquor off me, eh? Some liquor!"
+ },
+ {
+  "id": "M2#3460",
+  "en": "Or you could drink it here. ",
+  "note": "Trailing space: #3461 follows on the same line."
+ },
+ {
+  "id": "M2#3461",
+  "en": "And spare me a drop or two, eh?"
+ },
+ {
+  "id": "M2#3462",
+  "en": "Yet you seem to have only cheap liquor here."
+ },
+ {
+  "id": "M2#3463",
+  "en": "Well, sure."
+ },
+ {
+  "id": "M2#3464",
+  "en": "Folks like us can't afford to drink"
+ },
+ {
+  "id": "M2#3465",
+  "en": "much better than this, see."
+ },
+ {
+  "id": "M2#3466",
+  "en": "Oh, staying for a drink?"
+ },
+ {
+  "id": "M2#3467",
+  "en": "Hey, you're back again, eh?"
+ },
+ {
+  "id": "M2#3468",
+  "en": "Wanna drink after all, I bet. Who wouldn't?"
+ },
+ {
+  "id": "M2#3469",
+  "en": "I mean, I drink even on the job."
+ },
+ {
+  "id": "M2#3470",
+  "en": "Say, I hear you've been wandering around"
+ },
+ {
+  "id": "M2#3471",
+  "en": "here on business."
+ },
+ {
+  "id": "M2#3472",
+  "en": "My missus was telling me all sorts."
+ },
+ {
+  "id": "M2#3473",
+  "en": "Mind you, nothing's less reliable"
+ },
+ {
+  "id": "M2#3474",
+  "en": "than her gossip."
+ },
+ {
+  "id": "M2#3475",
+  "en": "If you're saying you work while"
+ },
+ {
+  "id": "M2#3476",
+  "en": "my shop's open,"
+ },
+ {
+  "id": "M2#3477",
+  "en": "you're welcome to come when it's closed."
+ },
+ {
+  "id": "M2#3478",
+  "en": "But bring some liquor when you do."
+ },
+ {
+  "id": "M2#3479",
+  "en": "Why do women have to be such"
+ },
+ {
+  "id": "M2#3480",
+  "en": "nags, eh?"
+ },
+ {
+  "id": "M2#3481",
+  "en": "Well, by women I mean my missus and the old"
+ },
+ {
+  "id": "M2#3482",
+  "en": "gal who comes to drink, that's all."
+ },
+ {
+  "id": "M2#3483",
+  "en": "Hmph. You were no use to humankind,",
+  "note": "Stern player after drinking blood (servant mode)."
+ },
+ {
+  "id": "M2#3484",
+  "en": "so devote yourself to me instead."
+ },
+ {
+  "id": "M2#3485",
+  "en": "Just as I thought... a vulgar taste."
+ },
+ {
+  "id": "M2#3486",
+  "en": "Hello. What are you doing?"
+ },
+ {
+  "id": "M2#3487",
+  "en": "Huh?"
+ },
+ {
+  "id": "M2#3488",
+  "en": "If this looks like anything but drinking,"
+ },
+ {
+  "id": "M2#3489",
+  "en": "I'd like to hear it."
+ },
+ {
+  "id": "M2#3490",
+  "en": "Well, you seem to be drinking a lot,"
+ },
+ {
+  "id": "M2#3491",
+  "en": "so I wondered if it was a celebration."
+ },
+ {
+  "id": "M2#3492",
+  "en": "Don't need a reason to drink."
+ },
+ {
+  "id": "M2#3493",
+  "en": "If folks only drank on happy occasions,"
+ },
+ {
+  "id": "M2#3494",
+  "en": "I'd be out of business."
+ },
+ {
+  "id": "M2#3495",
+  "en": "Come when the shop's open."
+ },
+ {
+  "id": "M2#3496",
+  "en": "I'll pour you a drink."
+ },
+ {
+  "id": "M2#3497",
+  "en": "That's my trade, after all."
+ },
+ {
+  "id": "M2#3498",
+  "en": "You come round a lot, don't ya."
+ },
+ {
+  "id": "M2#3499",
+  "en": "Next time, bring some liquor, will ya?"
+ },
+ {
+  "id": "M2#3500",
+  "en": "When I'm open, it's all going out,"
+ },
+ {
+  "id": "M2#3501",
+  "en": "so when I'm shut, you gotta bring some in,"
+ },
+ {
+  "id": "M2#3502",
+  "en": "or it don't even out."
+ },
+ {
+  "id": "M2#3503",
+  "en": "Did you bring me some liquor?"
+ },
+ {
+  "id": "M2#3504",
+  "en": "Be a pal",
+  "note": "Followed by shared #122 '!'."
+ },
+ {
+  "id": "M2#3505",
+  "en": "You sure can hold your drink."
+ },
+ {
+  "id": "M2#3506",
+  "en": "This is the liquor shop. Having a drink?"
+ },
+ {
+  "id": "M2#3507",
+  "en": "No, I'm just stopping by for a moment."
+ },
+ {
+  "id": "M2#3508",
+  "en": "That won't do. You're missing half of life."
+ },
+ {
+  "id": "M2#3509",
+  "en": "Though for a fine-looking fella like you,"
+ },
+ {
+  "id": "M2#3510",
+  "en": "I bet the other half's plenty.",
+  "note": "The other half of life = women (see #3524/#3525)."
+ },
+ {
+  "id": "M2#3511",
+  "en": "Oh, so you're in the mood for a drink?"
+ },
+ {
+  "id": "M2#3512",
+  "en": "Or is it a celebration?"
+ },
+ {
+  "id": "M2#3513",
+  "en": "Come to think of it, I don't know your name."
+ },
+ {
+  "id": "M2#3514",
+  "en": "That's right."
+ },
+ {
+  "id": "M2#3515",
+  "en": "I'm ",
+  "note": "Before the name; #452 '.' follows. Also used by msg 320994 (Samantha scene)."
+ },
+ {
+  "id": "M2#3516",
+  "en": "So, d'you know my name?"
+ },
+ {
+  "id": "M2#3517",
+  "en": "No, I don't believe I've heard it."
+ },
+ {
+  "id": "M2#3518",
+  "en": "That's right, my name's a secret."
+ },
+ {
+  "id": "M2#3519",
+  "en": "I'm Secret Scott.",
+  "note": "Joke: he gives his name away while calling it secret (#3522 'How'd he know my name?')."
+ }
+]

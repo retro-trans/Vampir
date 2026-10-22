@@ -1,0 +1,334 @@
+[
+ {
+  "id": "M1#4640",
+  "en": "Please, don't take it too much to heart."
+ },
+ {
+  "id": "M1#4641",
+  "en": "(If 'life'"
+ },
+ {
+  "id": "M1#4642",
+  "en": "is a creation of this God you speak of,)"
+ },
+ {
+  "id": "M1#4643",
+  "en": "(then 'death'"
+ },
+ {
+  "id": "M1#4644",
+  "en": "is my craft for surviving on and on.)"
+ },
+ {
+  "id": "M1#4645",
+  "en": "Repent before God, before you bring ruin on yourself."
+ },
+ {
+  "id": "M1#4646",
+  "en": "There is the sky, the birds fly, the clouds drift"
+ },
+ {
+  "id": "M1#4647",
+  "en": "Let us pray to the Lord together"
+ },
+ {
+  "id": "M1#4648",
+  "en": "God created this world"
+ },
+ {
+  "id": "M1#4649",
+  "en": "(We vampires are creatures of contradiction, but"
+ },
+ {
+  "id": "M1#4650",
+  "en": "are humans creatures of self-deception, too?)"
+ },
+ {
+  "id": "M1#4651",
+  "en": "(So the hunters use this church as their base."
+ },
+ {
+  "id": "M1#4652",
+  "en": "Drinking blood near here may be too risky.)"
+ },
+ {
+  "id": "M1#4653",
+  "en": "Did something I said offend you?"
+ },
+ {
+  "id": "M1#4654",
+  "en": "No, I was just thinking to myself."
+ },
+ {
+  "id": "M1#4655",
+  "en": "your clear blue eyes brim with sorrow,"
+ },
+ {
+  "id": "M1#4656",
+  "en": "and somehow, they leave people feeling"
+ },
+ {
+  "id": "M1#4657",
+  "en": "uneasy."
+ },
+ {
+  "id": "M1#4658",
+  "en": "I am a being that stands against God..."
+ },
+ {
+  "id": "M1#4659",
+  "en": "However much I long for people, I can never be human."
+ },
+ {
+  "id": "M1#4660",
+  "en": "Isn't that only what you"
+ },
+ {
+  "id": "M1#4661",
+  "en": "believe about yourself?"
+ },
+ {
+  "id": "M1#4662",
+  "en": "God cherishes all things."
+ },
+ {
+  "id": "M1#4663",
+  "en": "Will God forgive me?"
+ },
+ {
+  "id": "M1#4664",
+  "en": "Will you forgive me, Pastor?"
+ },
+ {
+  "id": "M1#4665",
+  "en": "...",
+  "note": "Variant for msg 181644: followed by #25 '.', so '..' + '.' = '...'. Standalone in msg 181712.",
+  "variants": [
+   {
+    "msg": 181644,
+    "en": ".."
+   }
+  ]
+ },
+ {
+  "id": "M1#4666",
+  "en": "God and I both understand"
+ },
+ {
+  "id": "M1#4667",
+  "en": "the guilt that rules your heart"
+ },
+ {
+  "id": "M1#4668",
+  "en": "Even if you are a being that stands against God,"
+ },
+ {
+  "id": "M1#4669",
+  "en": "God will forgive you."
+ },
+ {
+  "id": "M1#4670",
+  "en": "Come, if you will have me, in God's stead"
+ },
+ {
+  "id": "M1#4671",
+  "en": "I will lend you my strength."
+ },
+ {
+  "id": "M1#4672",
+  "en": "I am a being that stands against God"
+ },
+ {
+  "id": "M1#4673",
+  "en": ", my master! To protect your house,"
+ },
+ {
+  "id": "M1#4674",
+  "en": "I will fight with all my strength."
+ },
+ {
+  "id": "M1#4675",
+  "en": "Lately, I keep calling the House of Stanberg"
+ },
+ {
+  "id": "M1#4676",
+  "en": "the House of Nosferatu."
+ },
+ {
+  "id": "M1#4677",
+  "en": "Even I think it's absurd, mind you."
+ },
+ {
+  "id": "M1#4678",
+  "en": "the House of Dhampir."
+ },
+ {
+  "id": "M1#4679",
+  "en": " if you would,",
+  "note": "Leading space: follows {PLAYER_NAME} + #1488 ','."
+ },
+ {
+  "id": "M1#4680",
+  "en": "please keep watching warmly"
+ },
+ {
+  "id": "M1#4681",
+  "en": "over the two of them from now on."
+ },
+ {
+  "id": "M1#4682",
+  "en": "So Stuart shunned arranged marriages"
+ },
+ {
+  "id": "M1#4683",
+  "en": "because of Luisa, did he?"
+ },
+ {
+  "id": "M1#4684",
+  "en": "Well, as things stand, perhaps that's fine."
+ },
+ {
+  "id": "M1#4685",
+  "en": "Both the House of Stanberg and Calstatt"
+ },
+ {
+  "id": "M1#4686",
+  "en": "may be at a time of great change."
+ },
+ {
+  "id": "M1#4687",
+  "en": "If I make it my decision, my wife, too,"
+ },
+ {
+  "id": "M1#4688",
+  "en": "will give her consent, I believe."
+ },
+ {
+  "id": "M1#4689",
+  "en": "Though I'm sure her feelings will be mixed."
+ },
+ {
+  "id": "M1#4690",
+  "en": "...",
+  "note": "Follows #517 'Ah, ' + name."
+ },
+ {
+  "id": "M1#4691",
+  "en": "can finally lay down my work, it seems.",
+  "note": "Lowercase: follows #4256 'I, too,'."
+ },
+ {
+  "id": "M1#4692",
+  "en": "Stuart"
+ },
+ {
+  "id": "M1#4693",
+  "en": "has promised me he will carry on the house."
+ },
+ {
+  "id": "M1#4694",
+  "en": "When he showed up with Luisa,"
+ },
+ {
+  "id": "M1#4695",
+  "en": "I'll admit even I was taken aback."
+ },
+ {
+  "id": "M1#4696",
+  "en": "Given the standing of the House of Stanberg,"
+ },
+ {
+  "id": "M1#4697",
+  "en": "it's true she may not be a fitting match."
+ },
+ {
+  "id": "M1#4698",
+  "en": "But the fact remains that Luisa herself"
+ },
+ {
+  "id": "M1#4699",
+  "en": "was born a noble,"
+ },
+ {
+  "id": "M1#4700",
+  "en": "and the politics of this town have changed."
+ },
+ {
+  "id": "M1#4701",
+  "en": "Calstatt is no longer the Stanbergs' fief."
+ },
+ {
+  "id": "M1#4702",
+  "en": "So unless it's someone who'd disgrace"
+ },
+ {
+  "id": "M1#4703",
+  "en": "the Stanberg name, anyone will do."
+ },
+ {
+  "id": "M1#4704",
+  "en": "With that in mind, I gave my consent."
+ },
+ {
+  "id": "M1#4705",
+  "en": "And what of your wife?",
+  "note": "Stern player register; polite counterpart is #4786 (msg 185765)."
+ },
+ {
+  "id": "M1#4706",
+  "en": "She'll object, I expect, but if it's my will,"
+ },
+ {
+  "id": "M1#4707",
+  "en": "she will surely allow it."
+ },
+ {
+  "id": "M1#4708",
+  "en": "What does my wife find so wrong with Luisa?",
+  "note": "Subject inferred: Mrs. Stanberg (cf. #4714 'My wife and the maid', #4706)."
+ },
+ {
+  "id": "M1#4709",
+  "en": "To treat her so harshly..."
+ },
+ {
+  "id": "M1#4710",
+  "en": "It's a real headache."
+ },
+ {
+  "id": "M1#4711",
+  "en": "What happened? A quarrel?"
+ },
+ {
+  "id": "M1#4712",
+  "en": "Quite a mess in here."
+ },
+ {
+  "id": "M1#4713",
+  "en": "You've caught us at an embarrassing moment."
+ },
+ {
+  "id": "M1#4714",
+  "en": "My wife and the maid..."
+ },
+ {
+  "id": "M1#4715",
+  "en": "No need to say more."
+ },
+ {
+  "id": "M1#4716",
+  "en": "Ah, so you knew."
+ },
+ {
+  "id": "M1#4717",
+  "en": "Luisa may be a maid now, but"
+ },
+ {
+  "id": "M1#4718",
+  "en": "she was born a noble's daughter."
+ },
+ {
+  "id": "M1#4719",
+  "en": "As I'm sure you know as well,"
+ }
+]

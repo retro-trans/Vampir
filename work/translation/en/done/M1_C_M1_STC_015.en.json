@@ -1,0 +1,358 @@
+[
+ {
+  "id": "M1#1200",
+  "en": "What's wrong, "
+ },
+ {
+  "id": "M1#1201",
+  "en": "Do I have something on my face?"
+ },
+ {
+  "id": "M1#1202",
+  "en": "Please come to my house tonight."
+ },
+ {
+  "id": "M1#1203",
+  "en": "I'll tell only you the"
+ },
+ {
+  "id": "M1#1204",
+  "en": "truth."
+ },
+ {
+  "id": "M1#1205",
+  "en": "And I'd like you to help me."
+ },
+ {
+  "id": "M1#1206",
+  "en": "Hello there. I work at the customs"
+ },
+ {
+  "id": "M1#1207",
+  "en": "house. My name is Karl."
+ },
+ {
+  "id": "M1#1208",
+  "en": "Thank you for such a courteous"
+ },
+ {
+  "id": "M1#1209",
+  "en": "greeting."
+ },
+ {
+  "id": "M1#1210",
+  "en": "Getting to know someone like you"
+ },
+ {
+  "id": "M1#1211",
+  "en": "makes me happy."
+ },
+ {
+  "id": "M1#1212",
+  "en": "Is there something I can help you with today?"
+ },
+ {
+  "id": "M1#1213",
+  "en": "If you'd like, stop by my house for"
+ },
+ {
+  "id": "M1#1214",
+  "en": "a drink."
+ },
+ {
+  "id": "M1#1215",
+  "en": "I've just gotten in some fine liquor."
+ },
+ {
+  "id": "M1#1216",
+  "en": "Ah, "
+ },
+ {
+  "id": "M1#1217",
+  "en": "I'm a bit tied up at home just now."
+ },
+ {
+  "id": "M1#1218",
+  "en": "I'm sorry, but could we make it"
+ },
+ {
+  "id": "M1#1219",
+  "en": "another time?"
+ },
+ {
+  "id": "M1#1220",
+  "en": "I'm sorry. I'm tied up right now."
+ },
+ {
+  "id": "M1#1221",
+  "en": "Ah, ",
+  "variants": [
+   {
+    "msg": 205532,
+    "en": "Ah"
+   },
+   {
+    "msg": 238619,
+    "en": "Ah"
+   }
+  ],
+  "note": "variants drop the trailing space where '...' follows directly"
+ },
+ {
+  "id": "M1#1222",
+  "en": "Could you come back after a little"
+ },
+ {
+  "id": "M1#1223",
+  "en": "more time has passed?"
+ },
+ {
+  "id": "M1#1224",
+  "en": "I have something important to discuss."
+ },
+ {
+  "id": "M1#1225",
+  "en": "Tonight"
+ },
+ {
+  "id": "M1#1226",
+  "en": " I'll be waiting for you.",
+  "variants": [
+   {
+    "msg": 58496,
+    "en": "I'll be waiting for you."
+   }
+  ],
+  "note": "leading space: follows 'Tonight' + '...'; Jahn (58496) variant has none"
+ },
+ {
+  "id": "M1#1227",
+  "en": "Hello. I've worked at this customs house for about 20 years."
+ },
+ {
+  "id": "M1#1228",
+  "en": "My name is Karl."
+ },
+ {
+  "id": "M1#1229",
+  "en": "Lately, some outrageous incidents have"
+ },
+ {
+  "id": "M1#1230",
+  "en": "been happening at Calstatt's port."
+ },
+ {
+  "id": "M1#1231",
+  "en": "Put simply, cargo is being robbed"
+ },
+ {
+  "id": "M1#1232",
+  "en": " pilfered",
+  "note": "leading space: follows '...' (#2)"
+ },
+ {
+  "id": "M1#1233",
+  "en": "by scoundrels. The authorities are doing all"
+ },
+ {
+  "id": "M1#1234",
+  "en": "they can to investigate, but"
+ },
+ {
+  "id": "M1#1235",
+  "en": "we have no idea who the culprits are"
+ },
+ {
+  "id": "M1#1236",
+  "en": "Hello there."
+ },
+ {
+  "id": "M1#1237",
+  "en": "This is the customs house, where I've"
+ },
+ {
+  "id": "M1#1238",
+  "en": "worked for about 20 years."
+ },
+ {
+  "id": "M1#1239",
+  "en": "If you're sightseeing, try the town"
+ },
+ {
+  "id": "M1#1240",
+  "en": "hall for a guide to the city."
+ },
+ {
+  "id": "M1#1241",
+  "en": ", welcome!",
+  "variants": [
+   {
+    "msg": 50416,
+    "en": ". Welcome."
+   }
+  ],
+  "note": "Margarete: NAME + ', welcome!'; Karl variant gives 'Hello, NAME. Welcome.'"
+ },
+ {
+  "id": "M1#1242",
+  "en": "What? Me, leading the pilfering"
+ },
+ {
+  "id": "M1#1243",
+  "en": "Don't be absurd."
+ },
+ {
+  "id": "M1#1244",
+  "en": "Why would you say such a thing?"
+ },
+ {
+  "id": "M1#1245",
+  "en": "A man named Brome, at the inn, told me so."
+ },
+ {
+  "id": "M1#1246",
+  "en": "Anyway,"
+ },
+ {
+  "id": "M1#1247",
+  "en": "I've done nothing of the sort."
+ },
+ {
+  "id": "M1#1248",
+  "en": "Me, pilfering cargo?"
+ },
+ {
+  "id": "M1#1249",
+  "en": "You must be joking."
+ },
+ {
+  "id": "M1#1250",
+  "en": "Hey.",
+  "variants": [
+   {
+    "msg": 50502,
+    "en": "Hello, "
+   }
+  ]
+ },
+ {
+  "id": "M1#1251",
+  "en": "I can't have my name slandered with"
+ },
+ {
+  "id": "M1#1252",
+  "en": "groundless rumors."
+ },
+ {
+  "id": "M1#1253",
+  "en": "I would like you, just once, to listen"
+ },
+ {
+  "id": "M1#1254",
+  "en": "carefully to what I have to say."
+ },
+ {
+  "id": "M1#1255",
+  "en": "I'm sure you, at least, will listen and"
+ },
+ {
+  "id": "M1#1256",
+  "en": "understand."
+ },
+ {
+  "id": "M1#1257",
+  "en": "Please come to my house tonight."
+ },
+ {
+  "id": "M1#1258",
+  "en": "Please, come to my house tonight."
+ },
+ {
+  "id": "M1#1259",
+  "en": "There's something I'd like your advice on"
+ },
+ {
+  "id": "M1#1260",
+  "en": ".",
+  "note": "'.' closes #1259 (shared: Emil/Kurten/Henri use it as 'I'm NAME.')"
+ },
+ {
+  "id": "M1#1261",
+  "en": "I'll be waiting for you"
+ },
+ {
+  "id": "M1#1262",
+  "en": "(This presence"
+ },
+ {
+  "id": "M1#1263",
+  "en": ")"
+ },
+ {
+  "id": "M1#1264",
+  "en": "Heh heh heh. You fool."
+ },
+ {
+  "id": "M1#1265",
+  "en": "You didn't even realize I was lying in wait,"
+ },
+ {
+  "id": "M1#1266",
+  "en": "and just wandered right in"
+ },
+ {
+  "id": "M1#1267",
+  "en": "Now that you know my secret,"
+ },
+ {
+  "id": "M1#1268",
+  "en": "you're not leaving this town alive"
+ },
+ {
+  "id": "M1#1269",
+  "en": " Hey",
+  "note": "leading space: follows '...' + #25 (needs #25 = '' in msgs 50625/51560)"
+ },
+ {
+  "id": "M1#1270",
+  "en": "Surround him and beat him to a pulp"
+ },
+ {
+  "id": "M1#1271",
+  "en": "Ha ha ha.",
+  "note": "no used_in: read as [PLAYER] answering Karl's ambush in msg 50625 (rows 1271-1274 player, 1275-1276 Karl, 1277 player, 1278-1279 Karl)"
+ },
+ {
+  "id": "M1#1272",
+  "en": "You're the fool here."
+ },
+ {
+  "id": "M1#1273",
+  "en": "A mere human like you,"
+ },
+ {
+  "id": "M1#1274",
+  "en": "daring to lay a hand on me? Laughable."
+ },
+ {
+  "id": "M1#1275",
+  "en": "W-what is the meaning of this?"
+ },
+ {
+  "id": "M1#1276",
+  "en": "My men, taken down in an instant!"
+ },
+ {
+  "id": "M1#1277",
+  "en": "Now, you're next.",
+  "note": "player line (cf. #1297/#1298)"
+ },
+ {
+  "id": "M1#1278",
+  "en": "I can't believe it..."
+ },
+ {
+  "id": "M1#1279",
+  "en": "You... are you really a demon?"
+ }
+]

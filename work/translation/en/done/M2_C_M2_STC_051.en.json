@@ -1,0 +1,327 @@
+[
+ {
+  "id": "M2#4080",
+  "en": "I see. That's a fine profession."
+ },
+ {
+  "id": "M2#4081",
+  "en": "I hope we meet again. Goodbye."
+ },
+ {
+  "id": "M2#4082",
+  "en": "It must be hard for you too, Justin."
+ },
+ {
+  "id": "M2#4083",
+  "en": "Handling money is important work."
+ },
+ {
+  "id": "M2#4084",
+  "en": "Hello. I hope you can help me."
+ },
+ {
+  "id": "M2#4085",
+  "en": "Actually, I don't know the first thing about"
+ },
+ {
+  "id": "M2#4086",
+  "en": "bank accounts. Could you explain them?"
+ },
+ {
+  "id": "M2#4087",
+  "en": "A customer opening his very first account!"
+ },
+ {
+  "id": "M2#4088",
+  "en": "I'm sorry."
+ },
+ {
+  "id": "M2#4089",
+  "en": "This is my first time in a city..."
+ },
+ {
+  "id": "M2#4090",
+  "en": "I'm not used to civilized society."
+ },
+ {
+  "id": "M2#4091",
+  "en": "Now then, shall I explain?"
+ },
+ {
+  "id": "M2#4092",
+  "en": "Yes, please do."
+ },
+ {
+  "id": "M2#4093",
+  "en": "Hello. Good to see you."
+ },
+ {
+  "id": "M2#4094",
+  "en": "We really do keep meeting, don't we?"
+ },
+ {
+  "id": "M2#4095",
+  "en": "Thank you. I'll be counting on you."
+ },
+ {
+  "id": "M2#4096",
+  "en": "Sorry, I just stopped by today"
+ },
+ {
+  "id": "M2#4097",
+  "en": "to see how you were doing",
+  "note": "ends without punctuation: #152 '...' follows."
+ },
+ {
+  "id": "M2#4098",
+  "en": "Am I being a nuisance?"
+ },
+ {
+  "id": "M2#4099",
+  "en": "No, this is our first meeting."
+ },
+ {
+  "id": "M2#4100",
+  "en": "And it seems I've got the wrong house."
+ },
+ {
+  "id": "M2#4101",
+  "en": "I'm sorry. Excuse me."
+ },
+ {
+  "id": "M2#4102",
+  "en": ", my master. Ah, my liege"
+ },
+ {
+  "id": "M2#4103",
+  "en": "I am your hands and feet. As you wish"
+ },
+ {
+  "id": "M2#4104",
+  "en": "Did I bump into something reading again?"
+ },
+ {
+  "id": "M2#4105",
+  "en": "I've got a bruise. ...Oh, well."
+ },
+ {
+  "id": "M2#4106",
+  "en": "Your orders, please. Anything at all"
+ },
+ {
+  "id": "M2#4107",
+  "en": "I dreamed I fought people like a beast."
+ },
+ {
+  "id": "M2#4108",
+  "en": "It might well have been real."
+ },
+ {
+  "id": "M2#4109",
+  "en": "Whoa... Careful."
+ },
+ {
+  "id": "M2#4110",
+  "en": "Walking while reading"
+ },
+ {
+  "id": "M2#4111",
+  "en": "is hardly wise, wouldn't you say?"
+ },
+ {
+  "id": "M2#4112",
+  "en": "Hm? ...Ahh, I'm so sorry."
+ },
+ {
+  "id": "M2#4113",
+  "en": "This book is just so fascinating"
+ },
+ {
+  "id": "M2#4114",
+  "en": "Forgive me. Are you hurt?"
+ },
+ {
+  "id": "M2#4115",
+  "en": "I am fine, but"
+ },
+ {
+  "id": "M2#4116",
+  "en": "your other books appear to have fallen."
+ },
+ {
+  "id": "M2#4117",
+  "en": "Oh, I didn't even notice"
+ },
+ {
+  "id": "M2#4118",
+  "en": "Sorry, and thank you."
+ },
+ {
+  "id": "M2#4119",
+  "en": "I'm Ralph. You'll find me at the library."
+ },
+ {
+  "id": "M2#4120",
+  "en": "Do watch where you walk."
+ },
+ {
+  "id": "M2#4121",
+  "en": "Whoops! Pardon me..."
+ },
+ {
+  "id": "M2#4122",
+  "en": "I can't help reading as I walk,"
+ },
+ {
+  "id": "M2#4123",
+  "en": "so I don't notice what's around me."
+ },
+ {
+  "id": "M2#4124",
+  "en": "Do you like books?"
+ },
+ {
+  "id": "M2#4125",
+  "en": "Do visit the library sometime."
+ },
+ {
+  "id": "M2#4126",
+  "en": "I'll recommend some books to you."
+ },
+ {
+  "id": "M2#4127",
+  "en": "And in the library, I never ever",
+  "note": "cut before 'bump': #4128 and #4229 (slice 052, msg 165520) continue with lowercase 'bump into anything.'"
+ },
+ {
+  "id": "M2#4128",
+  "en": "bump into anything."
+ },
+ {
+  "id": "M2#4129",
+  "en": "I know it better than my own house."
+ },
+ {
+  "id": "M2#4130",
+  "en": "! Well, well!"
+ },
+ {
+  "id": "M2#4131",
+  "en": "Good day. How have you been lately?"
+ },
+ {
+  "id": "M2#4132",
+  "en": "Ah, you look well. That's what matters."
+ },
+ {
+  "id": "M2#4133",
+  "en": "Do come to the library, too."
+ },
+ {
+  "id": "M2#4134",
+  "en": "I'll give you first pick of the books."
+ },
+ {
+  "id": "M2#4135",
+  "en": "Mind you, I'm not supposed to.",
+  "note": "follows #152 '...' on the same line: '...Mind you, I'm not supposed to.'"
+ },
+ {
+  "id": "M2#4136",
+  "en": "Hey!"
+ },
+ {
+  "id": "M2#4137",
+  "en": "Excuse me"
+ },
+ {
+  "id": "M2#4138",
+  "en": "You dropped your wallet, did you not",
+  "note": "#537 '?' follows."
+ },
+ {
+  "id": "M2#4139",
+  "en": "Huh"
+ },
+ {
+  "id": "M2#4140",
+  "en": "Ahh, good heavens. My wallet"
+ },
+ {
+  "id": "M2#4141",
+  "en": "S-sorry, and thank you so much."
+ },
+ {
+  "id": "M2#4142",
+  "en": "Walking about reading when it's this dark"
+ },
+ {
+  "id": "M2#4143",
+  "en": "is dangerous."
+ },
+ {
+  "id": "M2#4144",
+  "en": "No, you're absolutely right"
+ },
+ {
+  "id": "M2#4145",
+  "en": "Sorry. You saved my wallet."
+ },
+ {
+  "id": "M2#4146",
+  "en": "Reading as I walk is a habit of mine."
+ },
+ {
+  "id": "M2#4147",
+  "en": "Oh, let me thank you properly."
+ },
+ {
+  "id": "M2#4148",
+  "en": "Please, tell me your name."
+ },
+ {
+  "id": "M2#4149",
+  "en": "I need no thanks."
+ },
+ {
+  "id": "M2#4150",
+  "en": "Take care where you walk from now on."
+ },
+ {
+  "id": "M2#4151",
+  "en": "Yes, I'll try my best."
+ },
+ {
+  "id": "M2#4152",
+  "en": "Thank you very much.",
+  "note": "also Anthony the jeweller thanking a customer (msg 185209)."
+ },
+ {
+  "id": "M2#4153",
+  "en": "! Hello there."
+ },
+ {
+  "id": "M2#4154",
+  "en": "Lovely moonlit night. Perfect for reading."
+ },
+ {
+  "id": "M2#4155",
+  "en": "On a night like this, strolling in the breeze"
+ },
+ {
+  "id": "M2#4156",
+  "en": "with a favorite book is simply wonderful."
+ },
+ {
+  "id": "M2#4157",
+  "en": "Terrible crimes are happening around here."
+ },
+ {
+  "id": "M2#4158",
+  "en": "You'd do well not to walk about at night."
+ },
+ {
+  "id": "M2#4159",
+  "en": "Huh? Is that so?"
+ }
+]

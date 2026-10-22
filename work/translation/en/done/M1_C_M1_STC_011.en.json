@@ -1,0 +1,347 @@
+[
+ {
+  "id": "M1#880",
+  "en": "From now on, you'll also work as",
+  "note": "Spoken by [PLAYER] to Bernhard; 3 rows = 3 lines"
+ },
+ {
+  "id": "M1#881",
+  "en": "my bodyguard at night."
+ },
+ {
+  "id": "M1#882",
+  "en": "I can't pay you, though."
+ },
+ {
+  "id": "M1#883",
+  "en": "Order me to do anything at all.",
+  "note": "follows msg 37478 '{NAME}' + #633 ', my master...'"
+ },
+ {
+  "id": "M1#884",
+  "en": "I got hurt while I was asleep."
+ },
+ {
+  "id": "M1#885",
+  "en": " A man's body is his livelihood, so getting hurt is a real problem, huh?",
+  "note": "leading space: joins #884 on one line"
+ },
+ {
+  "id": "M1#886",
+  "en": "Give me any order..."
+ },
+ {
+  "id": "M1#887",
+  "en": "Welcome! This is Beckel Bakery."
+ },
+ {
+  "id": "M1#888",
+  "en": "Or so I'd like to say, but the shop isn't"
+ },
+ {
+  "id": "M1#889",
+  "en": "open right now.",
+  "note": "continues #888 'but the shop isn't'"
+ },
+ {
+  "id": "M1#890",
+  "en": "Sorry, but come back again, okay?"
+ },
+ {
+  "id": "M1#891",
+  "en": "Sorry you came all this way."
+ },
+ {
+  "id": "M1#892",
+  "en": "I've got nothing to sell.",
+  "note": "shared with #891/#935 (wording works with both leads)"
+ },
+ {
+  "id": "M1#893",
+  "en": "Come back when the shop's open."
+ },
+ {
+  "id": "M1#894",
+  "en": "Come back when the shop's open, okay?"
+ },
+ {
+  "id": "M1#895",
+  "en": "Oh, if it isn't ",
+  "note": "msg 37649: 'Oh, if it isn't ' + NAME + #896 '.'"
+ },
+ {
+  "id": "M1#896",
+  "en": ".",
+  "note": "closes #895 after the name"
+ },
+ {
+  "id": "M1#897",
+  "en": "If it's my bread you want, then fresh"
+ },
+ {
+  "id": "M1#898",
+  "en": "from the oven is the way to go."
+ },
+ {
+  "id": "M1#899",
+  "en": "Come back once the shop is open."
+ },
+ {
+  "id": "M1#900",
+  "en": "And come early, before we sell out."
+ },
+ {
+  "id": "M1#901",
+  "en": "Truth is, they say fresh-baked bread"
+ },
+ {
+  "id": "M1#902",
+  "en": "isn't good for your stomach."
+ },
+ {
+  "id": "M1#903",
+  "en": "But I just won't settle for bread that"
+ },
+ {
+  "id": "M1#904",
+  "en": "isn't fresh from the oven."
+ },
+ {
+  "id": "M1#905",
+  "en": "In a word, my bread sells on its plain, honest taste.",
+  "note": "must stay <= 2 lines (shared by 4 msgs)"
+ },
+ {
+  "id": "M1#906",
+  "en": "I'll take the one in front."
+ },
+ {
+  "id": "M1#907",
+  "en": "Black bread, right? Thanks a lot!"
+ },
+ {
+  "id": "M1#908",
+  "en": "Oh, you came when we're open this time."
+ },
+ {
+  "id": "M1#909",
+  "en": "So, which bread will it be?"
+ },
+ {
+  "id": "M1#910",
+  "en": "Come again!"
+ },
+ {
+  "id": "M1#911",
+  "en": "Welcome! Thanks for stopping by!"
+ },
+ {
+  "id": "M1#912",
+  "en": "That bread from before was good, wasn't it?"
+ },
+ {
+  "id": "M1#913",
+  "en": "It's bread made with rye."
+ },
+ {
+  "id": "M1#914",
+  "en": "I buy my rye from Zille Farm, east of",
+  "note": "continues in #915 / #939 'town.'"
+ },
+ {
+  "id": "M1#915",
+  "en": "town.",
+  "note": "'town.' completes #914"
+ },
+ {
+  "id": "M1#916",
+  "en": ", thanks for coming!"
+ },
+ {
+  "id": "M1#917",
+  "en": "Say, do you know the bakery called Kuchen,"
+ },
+ {
+  "id": "M1#918",
+  "en": "up in the north of town?"
+ },
+ {
+  "id": "M1#919",
+  "en": "<I know it>",
+  "note": "menu option; angle brackets as in M0#1435"
+ },
+ {
+  "id": "M1#920",
+  "en": "<I don't know it>",
+  "note": "menu option"
+ },
+ {
+  "id": "M1#921",
+  "en": "Oh, you know it? Their bread is",
+  "note": "speaker is Michael (row labelled [PLAYER] in the tool only because it follows the menu)"
+ },
+ {
+  "id": "M1#922",
+  "en": "great too! The owner, Mr. Nikolaus, is",
+  "note": "ends with 'is' to join #923 (shared with #925)"
+ },
+ {
+  "id": "M1#923",
+  "en": "my master. Ha ha ha.",
+  "note": "completes '... Mr. Nikolaus, is' from #922/#925"
+ },
+ {
+  "id": "M1#924",
+  "en": "Their bread is great too!"
+ },
+ {
+  "id": "M1#925",
+  "en": "After all, the owner, Mr. Nikolaus, is",
+  "note": "ends with 'is' to join #923"
+ },
+ {
+  "id": "M1#926",
+  "en": "You see, Master Nikolaus's shop,"
+ },
+ {
+  "id": "M1#927",
+  "en": "Kuchen, has fancy pastries I could"
+ },
+ {
+  "id": "M1#928",
+  "en": "never make. I'm too clumsy."
+ },
+ {
+  "id": "M1#929",
+  "en": "But plain bread suits this country just fine."
+ },
+ {
+  "id": "M1#930",
+  "en": "That's what makes it the kind of bread"
+ },
+ {
+  "id": "M1#931",
+  "en": "everyone loves, I think. Fresh, of course!"
+ },
+ {
+  "id": "M1#932",
+  "en": "As long as there are customers like you,"
+ },
+ {
+  "id": "M1#933",
+  "en": "I'll keep being a baker all my life."
+ },
+ {
+  "id": "M1#934",
+  "en": "And every morning I'll get up early and bake."
+ },
+ {
+  "id": "M1#935",
+  "en": "Sorry you came all this way, but"
+ },
+ {
+  "id": "M1#936",
+  "en": "come back when the shop's open, okay?"
+ },
+ {
+  "id": "M1#937",
+  "en": "I think I'll take the one in front."
+ },
+ {
+  "id": "M1#938",
+  "en": "Oh, glad you came in when we're open."
+ },
+ {
+  "id": "M1#939",
+  "en": "town. Gotta be picky about the ingredients.",
+  "note": "completes #914 'east of' + 'town.'"
+ },
+ {
+  "id": "M1#940",
+  "en": "Oh, you knew it."
+ },
+ {
+  "id": "M1#941",
+  "en": "Their bread's good too, right?"
+ },
+ {
+  "id": "M1#942",
+  "en": "If I've got regulars like you,",
+  "note": "leads into #933"
+ },
+ {
+  "id": "M1#943",
+  "en": "Who is it at this hour...?",
+  "note": "no question mark in source; kept as a question"
+ },
+ {
+  "id": "M1#944",
+  "en": "I have to get up early tomorrow, too,",
+  "note": "msg 38412 starts with NAME + #752 (needs ', is that you?')"
+ },
+ {
+  "id": "M1#945",
+  "en": "so I can't have you showing up at this hour."
+ },
+ {
+  "id": "M1#946",
+  "en": "I need your help for a short while at night."
+ },
+ {
+  "id": "M1#947",
+  "en": "I need your strength, Michael."
+ },
+ {
+  "id": "M1#948",
+  "en": "For a short while at night...?"
+ },
+ {
+  "id": "M1#949",
+  "en": "Help...?"
+ },
+ {
+  "id": "M1#950",
+  "en": "All I know how to do is bake bread."
+ },
+ {
+  "id": "M1#951",
+  "en": "What exactly do you want me to help with?"
+ },
+ {
+  "id": "M1#952",
+  "en": "Have you heard the talk about vampires"
+ },
+ {
+  "id": "M1#953",
+  "en": "appearing around here?"
+ },
+ {
+  "id": "M1#954",
+  "en": "I've heard a bit from customers...",
+  "note": "Michael trails off; unfinished sentence kept"
+ },
+ {
+  "id": "M1#955",
+  "en": "And what does that have to do with a bakery?",
+  "note": "no used_in: speaker assumed Michael"
+ },
+ {
+  "id": "M1#956",
+  "en": "Hmm. This is a problem.",
+  "note": "no used_in: speaker assumed [PLAYER] (gentle), unverified"
+ },
+ {
+  "id": "M1#957",
+  "en": "Sorry!",
+  "note": "no used_in: speaker assumed [PLAYER] before drinking, unverified"
+ },
+ {
+  "id": "M1#958",
+  "en": "S-stop it."
+ },
+ {
+  "id": "M1#959",
+  "en": "I can't help with something like that",
+  "note": "followed by #2 '...'"
+ }
+]

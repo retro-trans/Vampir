@@ -1,0 +1,326 @@
+[
+ {
+  "id": "M2#3520",
+  "en": "I see."
+ },
+ {
+  "id": "M2#3521",
+  "en": "Good day to you, then, Mr. Scott."
+ },
+ {
+  "id": "M2#3522",
+  "en": "How'd that fella know my name",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#3523",
+  "en": "Can't pour the shop's liquor when I'm closed."
+ },
+ {
+  "id": "M2#3524",
+  "en": "Half of life's pleasure is drinkin'."
+ },
+ {
+  "id": "M2#3525",
+  "en": "The other half's bein' with the woman you love."
+ },
+ {
+  "id": "M2#3526",
+  "en": "So women, right from the start,"
+ },
+ {
+  "id": "M2#3527",
+  "en": "are missin' out on half of life, I reckon."
+ },
+ {
+  "id": "M2#3528",
+  "en": "Your order... I mean,",
+  "note": "Servant msg: next line is 'Your orders......' (pun on order/orders)."
+ },
+ {
+  "id": "M2#3529",
+  "en": "Welcome to our refined restaurant,"
+ },
+ {
+  "id": "M2#3530",
+  "en": "\"Thompson's\"."
+ },
+ {
+  "id": "M2#3531",
+  "en": "Our specialty is tender, juicy"
+ },
+ {
+  "id": "M2#3532",
+  "en": "roast beef."
+ },
+ {
+  "id": "M2#3533",
+  "en": "By the way, sir, might you have"
+ },
+ {
+  "id": "M2#3534",
+  "en": "a reservation?"
+ },
+ {
+  "id": "M2#3535",
+  "en": "I have made no such thing."
+ },
+ {
+  "id": "M2#3536",
+  "en": "My apologies."
+ },
+ {
+  "id": "M2#3537",
+  "en": "We are fully booked for today."
+ },
+ {
+  "id": "M2#3538",
+  "en": "I can book you for tomorrow or later,"
+ },
+ {
+  "id": "M2#3539",
+  "en": "so may I have your name?"
+ },
+ {
+  "id": "M2#3540",
+  "en": "Your reservation is confirmed."
+ },
+ {
+  "id": "M2#3541",
+  "en": "We look forward to your visit."
+ },
+ {
+  "id": "M2#3542",
+  "en": "I have none."
+ },
+ {
+  "id": "M2#3543",
+  "en": "Ah, you have a reservation, sir."
+ },
+ {
+  "id": "M2#3544",
+  "en": "Allow me to show you to your table."
+ },
+ {
+  "id": "M2#3545",
+  "en": "How would you like your meat cooked?"
+ },
+ {
+  "id": "M2#3546",
+  "en": "Make it rare."
+ },
+ {
+  "id": "M2#3547",
+  "en": "Certainly."
+ },
+ {
+  "id": "M2#3548",
+  "en": "Thank you for waiting. Our specialty,"
+ },
+ {
+  "id": "M2#3549",
+  "en": "No heavy sauce, just salt, pepper"
+ },
+ {
+  "id": "M2#3550",
+  "en": "and herbs to bring out the meat's flavor."
+ },
+ {
+  "id": "M2#3551",
+  "en": "And here is some Yorkshire pudding."
+ },
+ {
+  "id": "M2#3552",
+  "en": "Enjoy.",
+  "note": "Shared: after Yorkshire pudding (#3551) and after the dessert line (#3560)."
+ },
+ {
+  "id": "M2#3553",
+  "en": "Hmm..."
+ },
+ {
+  "id": "M2#3554",
+  "en": "This is rather good."
+ },
+ {
+  "id": "M2#3555",
+  "en": "We will prepare the special dinner"
+ },
+ {
+  "id": "M2#3556",
+  "en": "right away."
+ },
+ {
+  "id": "M2#3557",
+  "en": "Today's menu is"
+ },
+ {
+  "id": "M2#3558",
+  "en": "roast lamb with mint sauce"
+ },
+ {
+  "id": "M2#3559",
+  "en": "and quail casserole."
+ },
+ {
+  "id": "M2#3560",
+  "en": "For dessert, apple and blackberry pie."
+ },
+ {
+  "id": "M2#3561",
+  "en": "Hmm. That was rather good."
+ },
+ {
+  "id": "M2#3562",
+  "en": "Was everything to your liking?"
+ },
+ {
+  "id": "M2#3563",
+  "en": "I'll book another reservation for you."
+ },
+ {
+  "id": "M2#3564",
+  "en": "Might I suggest fish today?"
+ },
+ {
+  "id": "M2#3565",
+  "en": "We can prepare the finest Dover sole"
+ },
+ {
+  "id": "M2#3566",
+  "en": "for you."
+ },
+ {
+  "id": "M2#3567",
+  "en": "I leave it to you."
+ },
+ {
+  "id": "M2#3568",
+  "en": "Please wait a moment."
+ },
+ {
+  "id": "M2#3569",
+  "en": "Thank you for waiting."
+ },
+ {
+  "id": "M2#3570",
+  "en": "Besides the sole, we have prepared trout"
+ },
+ {
+  "id": "M2#3571",
+  "en": "baked in foil with plenty of herbs, and"
+ },
+ {
+  "id": "M2#3572",
+  "en": "Scottish salmon."
+ },
+ {
+  "id": "M2#3573",
+  "en": "Well, fish is not bad either."
+ },
+ {
+  "id": "M2#3574",
+  "en": "Bringing out the flavor with salt, pepper"
+ },
+ {
+  "id": "M2#3575",
+  "en": "and herbs is this country's traditional"
+ },
+ {
+  "id": "M2#3576",
+  "en": "way of cooking."
+ },
+ {
+  "id": "M2#3577",
+  "en": "This is \"Thompson's\" restaurant."
+ },
+ {
+  "id": "M2#3578",
+  "en": "We are in the middle of preparing"
+ },
+ {
+  "id": "M2#3579",
+  "en": "for dinner."
+ },
+ {
+  "id": "M2#3580",
+  "en": "We open after noon, so please wait a little."
+ },
+ {
+  "id": "M2#3581",
+  "en": "The restaurant is not open yet."
+ },
+ {
+  "id": "M2#3582",
+  "en": "It's still a bit early"
+ },
+ {
+  "id": "M2#3583",
+  "en": "for dinner."
+ },
+ {
+  "id": "M2#3584",
+  "en": "Could you wait a little longer?"
+ },
+ {
+  "id": "M2#3585",
+  "en": "Christmas is coming soon, after all."
+ },
+ {
+  "id": "M2#3586",
+  "en": "We must prepare a superb menu"
+ },
+ {
+  "id": "M2#3587",
+  "en": "Should it be goose with apple sauce,"
+ },
+ {
+  "id": "M2#3588",
+  "en": "or turkey with cranberry sauce?"
+ },
+ {
+  "id": "M2#3589",
+  "en": "I just can't decide."
+ },
+ {
+  "id": "M2#3590",
+  "en": "For Christmas dessert, of course, we'll"
+ },
+ {
+  "id": "M2#3591",
+  "en": "serve pudding."
+ },
+ {
+  "id": "M2#3592",
+  "en": "Did you know?"
+ },
+ {
+  "id": "M2#3593",
+  "en": "Whoever finds a silver coin in the pudding"
+ },
+ {
+  "id": "M2#3594",
+  "en": "is promised a year of good luck..."
+ },
+ {
+  "id": "M2#3595",
+  "en": "(Hmph. Christmas, is it? What drivel."
+ },
+ {
+  "id": "M2#3596",
+  "en": "Let them carry on like fools, then.)"
+ },
+ {
+  "id": "M2#3597",
+  "en": "Can't I come in without a reservation?"
+ },
+ {
+  "id": "M2#3598",
+  "en": "I can book you for tomorrow or later,"
+ },
+ {
+  "id": "M2#3599",
+  "en": ", is it, sir?",
+  "note": "After {PLAYER_NAME}: 'Chris, is it, sir?'"
+ }
+]

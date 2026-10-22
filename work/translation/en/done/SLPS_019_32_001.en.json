@@ -1,0 +1,312 @@
+[
+ {
+  "id": "SLPS_019.32@13EC",
+  "en": "???",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@1ECC",
+  "en": "Not all allotted yet.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@700C4",
+  "en": "Nobody here...",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@700D8",
+  "en": "Nobody here...",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@700EC",
+  "en": "Work",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@700F0",
+  "en": "Home",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@700F4",
+  "en": "@",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@700F8",
+  "en": "Fast forward",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70104",
+  "en": "Garlic had been set!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70120",
+  "en": "An altar had been set!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70138",
+  "en": "Holly has been set!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70150",
+  "en": "C",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70154",
+  "en": "Can't summon or command!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@7016C",
+  "en": "You can't transform!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70180",
+  "en": "Cannot message!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70194",
+  "en": "Sleeping...",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@701A4",
+  "en": "No transform power left!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@701BC",
+  "en": "You can't command!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@7093C",
+  "en": "Pasture",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70944",
+  "en": "Churchyard",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70950",
+  "en": "Forest",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70954",
+  "en": "Fields",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70958",
+  "en": "Monument",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70964",
+  "en": "Harbor St.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@7096C",
+  "en": "Harbor Park",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70974",
+  "en": "South Houses",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70980",
+  "en": "S. Coast Rd.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@7098C",
+  "en": "Church",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70994",
+  "en": "Market St.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@709A0",
+  "en": "Town Hall",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@709A8",
+  "en": "Riesel St.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@709B8",
+  "en": "Town Hall St.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@709C4",
+  "en": "Alster Park",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@709D4",
+  "en": "W. Alster St.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@709E8",
+  "en": "S. Alster St.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@709FC",
+  "en": "E. Alster St.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70A10",
+  "en": "N. Alster St.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70A24",
+  "en": "Calstatt Road",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70A38",
+  "en": "Navy Grounds",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70A44",
+  "en": "Warehouses",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70A4C",
+  "en": "Factory Grounds",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70A58",
+  "en": "Riesel Park",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70A68",
+  "en": "South Houses",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70A74",
+  "en": "E. Hall Houses",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70A84",
+  "en": "Zille Farm",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70A94",
+  "en": "Undertaker",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70A9C",
+  "en": "Cemetery",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70AA4",
+  "en": "Alster Houses",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70AB8",
+  "en": "Forest",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70ABC",
+  "en": "Uptown",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70AC8",
+  "en": "School",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70AD0",
+  "en": "Piccadilly",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70AE0",
+  "en": "The Strand",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70AF0",
+  "en": "The City",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70AFC",
+  "en": "Westminster",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70B14",
+  "en": "South Bank",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70B28",
+  "en": "Southwark",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@70B38",
+  "en": "The Thames",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@71198",
+  "en": "Medoekia",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@711CC",
+  "en": "Medoekia",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@71F6C",
+  "en": "Tower of Eisen",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@7D916",
+  "en": "-",
+  "note": "from work/translation/en/exe_en.tsv"
+ }
+]

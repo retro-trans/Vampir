@@ -1,0 +1,340 @@
+[
+ {
+  "id": "M1#1920",
+  "en": "Please, go on."
+ },
+ {
+  "id": "M1#1921",
+  "en": "I see",
+  "note": "'I see' + '...' (#2) or + '.' (#25) or three #180: Schneider msg 123689 and Christine msg 239177 print 'I see....' (four dots) unless M1#25 gets variants '' for those msgs (same as msg 1299/18114)."
+ },
+ {
+  "id": "M1#1922",
+  "en": "As for taking over the family,"
+ },
+ {
+  "id": "M1#1923",
+  "en": "why are you hesitating?"
+ },
+ {
+  "id": "M1#1924",
+  "en": "it were someone else's business, but do you",
+  "note": "Continues M1#1902 (slice 023): that row must end 'You speak of your own family as if'."
+ },
+ {
+  "id": "M1#1925",
+  "en": "dislike your family's power?"
+ },
+ {
+  "id": "M1#1926",
+  "en": "I see"
+ },
+ {
+  "id": "M1#1927",
+  "en": "Who's there?!"
+ },
+ {
+  "id": "M1#1928",
+  "en": "It's me.",
+  "note": "Standalone line (msg 75574): 'It's me.' - could be the start of a longer cut-off phrase; kept short."
+ },
+ {
+  "id": "M1#1929",
+  "en": "What seems to be the trouble?"
+ },
+ {
+  "id": "M1#1930",
+  "en": "An extremely noble ",
+  "note": "Rows 1930-1944 (no used_in except 1941-1944): Christopher's entranced mumbling (1930-1934, 1938) and a speaker with honorific speech (1935-1937, 1939-1940), inferred as Mrs. Stanberg from msg 279847 (scream 'Gya'+'a'x4). Trailing spaces inside fragments assume plain concatenation."
+ },
+ {
+  "id": "M1#1931",
+  "en": ""
+ },
+ {
+  "id": "M1#1932",
+  "en": "bloodline, the ",
+  "note": "Joined: 'An extremely noble bloodline, the Stanberg family'."
+ },
+ {
+  "id": "M1#1933",
+  "en": "Stan"
+ },
+ {
+  "id": "M1#1934",
+  "en": "berg family"
+ },
+ {
+  "id": "M1#1935",
+  "en": "What on earth is the matter with you?"
+ },
+ {
+  "id": "M1#1936",
+  "en": "You turn up in the dead of night, mumbling"
+ },
+ {
+  "id": "M1#1937",
+  "en": "and muttering things that make no sense."
+ },
+ {
+  "id": "M1#1938",
+  "en": "Noble...",
+  "note": "Single word, read as the player muttering again; ellipsis added to mark mumbling."
+ },
+ {
+  "id": "M1#1939",
+  "en": "Are you even conscious?"
+ },
+ {
+  "id": "M1#1940",
+  "en": "Come on, pull yourself together."
+ },
+ {
+  "id": "M1#1941",
+  "en": "Gya",
+  "note": "Pairs with #1942 'a' (x4) in msg 279847, where M1#6833 (slice 085) must be 'Gya' so it reads 'Gyaaaaa!'. This row itself is not used by a known message."
+ },
+ {
+  "id": "M1#1942",
+  "en": "a",
+  "note": "Lengthening mark: one 'a' each, printed four times after M1#6833 'Gya'."
+ },
+ {
+  "id": "M1#1943",
+  "en": "Delicious."
+ },
+ {
+  "id": "M1#1944",
+  "en": "It's too delicious.",
+  "note": "No speaker tag (msg 75775): continues the player's line from #1943."
+ },
+ {
+  "id": "M1#1945",
+  "en": "Pleased to meet you, sir."
+ },
+ {
+  "id": "M1#1946",
+  "en": "I do business down at the market,",
+  "note": "Joined with #1947: 'I do business down at the market, and the name's Emil.'"
+ },
+ {
+  "id": "M1#1947",
+  "en": "and the name's Emil.",
+  "note": "See #1946; msg 79520 uses #2049 + #1260 instead."
+ },
+ {
+  "id": "M1#1948",
+  "en": "Oh, the market, is it?"
+ },
+ {
+  "id": "M1#1949",
+  "en": "My shop's just north of Market Street."
+ },
+ {
+  "id": "M1#1950",
+  "en": "Sir, do drop by and see me."
+ },
+ {
+  "id": "M1#1951",
+  "en": "Sir, come and visit the market too,"
+ },
+ {
+  "id": "M1#1952",
+  "en": "please.",
+  "note": "Shared by msgs 78505/78599/79283/79421; lead rows (#1951, #2040, #2044) must end with a verb phrase like 'visit the market too,'."
+ },
+ {
+  "id": "M1#1953",
+  "en": ", sir!",
+  "note": "After NAME: 'NAME, sir!'; fits #803 'Ah, it's ' + NAME + ', sir!'."
+ },
+ {
+  "id": "M1#1954",
+  "en": "Well now, you're up awfully early today!"
+ },
+ {
+  "id": "M1#1955",
+  "en": ", sir! Look who it is!",
+  "note": "After NAME: 'NAME, sir! Look who it is!' (Japanese: 'if it isn't NAME-danna!')."
+ },
+ {
+  "id": "M1#1956",
+  "en": "Thanks for being such a loyal customer,"
+ },
+ {
+  "id": "M1#1957",
+  "en": "it really helps me out."
+ },
+ {
+  "id": "M1#1958",
+  "en": "Don't suppose a sweet deal's lying around"
+ },
+ {
+  "id": "M1#1959",
+  "en": "somewhere, eh..."
+ },
+ {
+  "id": "M1#1960",
+  "en": "Business is booming, thanks to you!"
+ },
+ {
+  "id": "M1#1961",
+  "en": "I can't stop grinning. Ha ha ha!"
+ },
+ {
+  "id": "M1#1962",
+  "en": "Welcome to this humble shack, sir."
+ },
+ {
+  "id": "M1#1963",
+  "en": "Next time, visit the market too,",
+  "note": "Msg 79564 continues with M1#2050, which then needs 'please,' (and presumably 'young master!' after it)."
+ },
+ {
+  "id": "M1#1964",
+  "en": "please, sir!"
+ },
+ {
+  "id": "M1#1965",
+  "en": "Hey there, welcome!"
+ },
+ {
+  "id": "M1#1966",
+  "en": "Sir, let me say that more often at the market,"
+ },
+ {
+  "id": "M1#1967",
+  "en": "if you don't mind."
+ },
+ {
+  "id": "M1#1968",
+  "en": "Rather than lounge about at home, I'm more"
+ },
+ {
+  "id": "M1#1969",
+  "en": "at ease when I'm working, I tell ya..."
+ },
+ {
+  "id": "M1#1970",
+  "en": "So, sir, by all means come to the market,"
+ },
+ {
+  "id": "M1#1971",
+  "en": "please!",
+  "note": "Completes #1970: 'by all means come to the market, / please!'"
+ },
+ {
+  "id": "M1#1972",
+  "en": "Welcome!"
+ },
+ {
+  "id": "M1#1973",
+  "en": "And it's all thanks to you coming by, sir!"
+ },
+ {
+  "id": "M1#1974",
+  "en": "Sir! Come and visit the market again too,"
+ },
+ {
+  "id": "M1#1975",
+  "en": "please!"
+ },
+ {
+  "id": "M1#1976",
+  "en": "Step right up, step right up!"
+ },
+ {
+  "id": "M1#1977",
+  "en": "Emil's got better goods at lower prices"
+ },
+ {
+  "id": "M1#1978",
+  "en": "than any other shop, for every customer!"
+ },
+ {
+  "id": "M1#1979",
+  "en": "Well, well, what a fine gentleman."
+ },
+ {
+  "id": "M1#1980",
+  "en": "How about a piece of fruit?"
+ },
+ {
+  "id": "M1#1981",
+  "en": "Cheap, fresh, and the taste can't be beat!"
+ },
+ {
+  "id": "M1#1982",
+  "en": "I'll take one."
+ },
+ {
+  "id": "M1#1983",
+  "en": "Why take just one? Take a whole bag home"
+ },
+ {
+  "id": "M1#1984",
+  "en": "with you. Don't worry, same price is fine."
+ },
+ {
+  "id": "M1#1985",
+  "en": "In return, come back and see me again!",
+  "note": "Msg 79820: #2042 follows on a new line (needs variant 'Young master!' there); msg 79343 uses #2042 after NAME as ', young master!'."
+ },
+ {
+  "id": "M1#1986",
+  "en": "Well now, sir, we've met before, haven't we?"
+ },
+ {
+  "id": "M1#1987",
+  "en": "When you're a merchant, you remember your"
+ },
+ {
+  "id": "M1#1988",
+  "en": "customers' faces, you know."
+ },
+ {
+  "id": "M1#1989",
+  "en": "How about some tomatoes today?"
+ },
+ {
+  "id": "M1#1990",
+  "en": "Well, why not. I'll take one."
+ },
+ {
+  "id": "M1#1991",
+  "en": "Why take just one? Take a whole bag home"
+ },
+ {
+  "id": "M1#1992",
+  "en": "with you. Don't worry, same price is fine."
+ },
+ {
+  "id": "M1#1993",
+  "en": "Thanks again, sir!"
+ },
+ {
+  "id": "M1#1994",
+  "en": "Hey, sir! Welcome!!"
+ },
+ {
+  "id": "M1#1995",
+  "en": "At this market, you'll find anything you need"
+ },
+ {
+  "id": "M1#1996",
+  "en": "for daily life. Go on, take a look, sir!"
+ },
+ {
+  "id": "M1#1997",
+  "en": "(This might be a good place to find someone to drink from, too...)"
+ },
+ {
+  "id": "M1#1998",
+  "en": "Don't go looking elsewhere, sir."
+ },
+ {
+  "id": "M1#1999",
+  "en": "Not when there's such fine merchandise",
+  "note": "Continues into M1#2000 (slice 025): must read 'right in front of you.' (lined up/after all omitted)."
+ }
+]

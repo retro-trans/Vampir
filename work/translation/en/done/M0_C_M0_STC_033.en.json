@@ -1,0 +1,332 @@
+[
+ {
+  "id": "M0#2640",
+  "en": "Use your power to become a \"bat\" or a \"wolf\","
+ },
+ {
+  "id": "M0#2641",
+  "en": "and then fog... transform into \"Mist\""
+ },
+ {
+  "id": "M0#2642",
+  "en": "too."
+ },
+ {
+  "id": "M0#2643",
+  "en": "But when your Blood Flow is low,"
+ },
+ {
+  "id": "M0#2644",
+  "en": "you can't transform."
+ },
+ {
+  "id": "M0#2645",
+  "en": "If you need to move fast or avoid danger,"
+ },
+ {
+  "id": "M0#2646",
+  "en": "and so on, each form has its own"
+ },
+ {
+  "id": "M0#2647",
+  "en": "abilities, so use them wisely, okay?"
+ },
+ {
+  "id": "M0#2648",
+  "en": "The important things I wanted to tell you,"
+ },
+ {
+  "id": "M0#2649",
+  "en": "I'll write them down in a notebook."
+ },
+ {
+  "id": "M0#2650",
+  "en": "Read it if you don't understand something."
+ },
+ {
+  "id": "M0#2651",
+  "en": "The help I can give ",
+  "note": "Reads \"The help I can give {NAME} / is only / this much.\""
+ },
+ {
+  "id": "M0#2652",
+  "en": "",
+  "note": "Empty on purpose: #2651 carries \"The help I can give \" + name; line break follows the name."
+ },
+ {
+  "id": "M0#2653",
+  "en": "is only"
+ },
+ {
+  "id": "M0#2654",
+  "en": "this much."
+ },
+ {
+  "id": "M0#2655",
+  "en": "I wish I could be more useful to you...",
+  "note": "Shared by msgs 143435 and 143469; both followed by #2629 which must be \"I'm sorry.\""
+ },
+ {
+  "id": "M0#2656",
+  "en": "I'm going back to Eisen Castle tomorrow,"
+ },
+ {
+  "id": "M0#2657",
+  "en": "so I'll write the notebook tonight."
+ },
+ {
+  "id": "M0#2658",
+  "en": "Lady Rusalie has left a notebook"
+ },
+ {
+  "id": "M0#2659",
+  "en": "in my keeping."
+ },
+ {
+  "id": "M0#2660",
+  "en": "She asked that you look at it if you"
+ },
+ {
+  "id": "M0#2661",
+  "en": "ever find yourself in any trouble."
+ },
+ {
+  "id": "M0#2662",
+  "en": "      ... \"Rusalie's Notebook\" ...",
+  "note": "Leading spaces mimic the two full-width spaces of the original."
+ },
+ {
+  "id": "M0#2663",
+  "en": "<Read>"
+ },
+ {
+  "id": "M0#2664",
+  "en": "<Don't read>"
+ },
+ {
+  "id": "M0#2665",
+  "en": "Game Objective: Critical Vitality",
+  "note": "Menu entry; ASCII colon replaces －...－."
+ },
+ {
+  "id": "M0#2666",
+  "en": "Drinking Blood: Creating Nosferatu",
+  "note": "Menu entry; ASCII colon replaces －."
+ },
+ {
+  "id": "M0#2667",
+  "en": "Vampire Hunters",
+  "note": "Menu entry (topic title)."
+ },
+ {
+  "id": "M0#2668",
+  "en": "<Game Objective>"
+ },
+ {
+  "id": "M0#2669",
+  "en": "Drink human blood to build up the Vampir's"
+ },
+ {
+  "id": "M0#2670",
+  "en": "special source of power, \"Critical Vitality,\""
+ },
+ {
+  "id": "M0#2671",
+  "en": "and defeat the vampire."
+ },
+ {
+  "id": "M0#2672",
+  "en": "Build up the set value before the enemy does"
+ },
+ {
+  "id": "M0#2673",
+  "en": "to clear the stage."
+ },
+ {
+  "id": "M0#2674",
+  "en": "<How to Increase Critical Vitality>"
+ },
+ {
+  "id": "M0#2675",
+  "en": "Drink a human's blood to create a servant,"
+ },
+ {
+  "id": "M0#2676",
+  "en": "a \"Nosferatu.\""
+ },
+ {
+  "id": "M0#2677",
+  "en": "When this happens, both the Nosferatu and the"
+ },
+ {
+  "id": "M0#2678",
+  "en": "player gain 1 point of Critical Vitality."
+ },
+ {
+  "id": "M0#2679",
+  "en": "· Critical Vitality can be freely distributed"
+ },
+ {
+  "id": "M0#2680",
+  "en": "  among your servant Nosferatu."
+ },
+ {
+  "id": "M0#2681",
+  "en": "· A Nosferatu with no Critical Vitality"
+ },
+ {
+  "id": "M0#2682",
+  "en": "  cannot act at night."
+ },
+ {
+  "id": "M0#2683",
+  "en": "<Nosferatu and Critical Vitality>"
+ },
+ {
+  "id": "M0#2684",
+  "en": "Female - Production type"
+ },
+ {
+  "id": "M0#2685",
+  "en": "  Doubles the Critical Vitality she holds in a night.",
+  "note": "Female Nosferatu = production type, \"she\" is safe (type is defined by sex)."
+ },
+ {
+  "id": "M0#2686",
+  "en": "Male - Combat type"
+ },
+ {
+  "id": "M0#2687",
+  "en": "  Takes Critical Vitality from enemy Dhampir."
+ },
+ {
+  "id": "M0#2688",
+  "en": "· The Critical Vitality a single Nosferatu can"
+ },
+ {
+  "id": "M0#2689",
+  "en": "  hold is limited."
+ },
+ {
+  "id": "M0#2690",
+  "en": "  A Nosferatu that holds a lot of"
+ },
+ {
+  "id": "M0#2691",
+  "en": "  Critical Vitality will grow, and"
+ },
+ {
+  "id": "M0#2692",
+  "en": "  become able to hold even more."
+ },
+ {
+  "id": "M0#2693",
+  "en": "<Drinking Blood>"
+ },
+ {
+  "id": "M0#2694",
+  "en": "Visit a home at night to drink its residents' blood."
+ },
+ {
+  "id": "M0#2695",
+  "en": "· The better you get along with a resident, the"
+ },
+ {
+  "id": "M0#2696",
+  "en": "  more effectively they turn into a Nosferatu."
+ },
+ {
+  "id": "M0#2697",
+  "en": "· When a resident has fully become a Nosferatu,"
+ },
+ {
+  "id": "M0#2698",
+  "en": "  ",
+  "note": "Whitespace-only indent for the name line (original is one full-width space)."
+ },
+ {
+  "id": "M0#2699",
+  "en": "'s stats rise.",
+  "note": "Follows the name: \"{NAME}'s stats rise.\""
+ },
+ {
+  "id": "M0#2700",
+  "en": "· When the Blood Flow used for drinking blood"
+ },
+ {
+  "id": "M0#2701",
+  "en": "  runs low, you can no longer drink blood."
+ },
+ {
+  "id": "M0#2702",
+  "en": "  Blood Flow has an upper limit, so the number of"
+ },
+ {
+  "id": "M0#2703",
+  "en": "  times you can drink blood in a night is limited."
+ },
+ {
+  "id": "M0#2704",
+  "en": "· \"Stats\" such as Blood Flow and Health"
+ },
+ {
+  "id": "M0#2705",
+  "en": "  recover in the morning."
+ },
+ {
+  "id": "M0#2706",
+  "en": "· Visit a resident's workplace every day"
+ },
+ {
+  "id": "M0#2707",
+  "en": "  during the day to become friends with them."
+ },
+ {
+  "id": "M0#2708",
+  "en": "· If the enemy is drinking the same person,"
+ },
+ {
+  "id": "M0#2709",
+  "en": "  it can be hard to make them a Nosferatu."
+ },
+ {
+  "id": "M0#2710",
+  "en": "<About Nosferatu>"
+ },
+ {
+  "id": "M0#2711",
+  "en": "Humans brought under your control by drinking"
+ },
+ {
+  "id": "M0#2712",
+  "en": "their blood are called \"Nosferatu,\""
+ },
+ {
+  "id": "M0#2713",
+  "en": "and humans under an enemy vampire's control"
+ },
+ {
+  "id": "M0#2714",
+  "en": "are called \"Dhampir.\""
+ },
+ {
+  "id": "M0#2715",
+  "en": "<Direct and Subordinate Nosferatu>"
+ },
+ {
+  "id": "M0#2716",
+  "en": "Those you make by drinking yourself are \"direct,\""
+ },
+ {
+  "id": "M0#2717",
+  "en": "and those a direct one creates are \"subordinate.\""
+ },
+ {
+  "id": "M0#2718",
+  "en": "· Direct Nosferatu take orders straight from "
+ },
+ {
+  "id": "M0#2719",
+  "en": "."
+ }
+]

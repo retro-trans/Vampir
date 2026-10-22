@@ -1,0 +1,74 @@
+[
+ {
+  "id": "EP1.BIN@16C",
+  "en": "His grief has driven him out of his senses.",
+  "note": "Speaker inferred as Ragash (same speaker code as @2C; uses all his Critical Vitality in @B8). 'him' = the lord {PLAYER_NAME} (Rowena's husband). Followed by a newline and a button wait."
+ },
+ {
+  "id": "EP1.BIN@160",
+  "en": "If we cannot stop Lord "
+ },
+ {
+  "id": "EP1.BIN@158",
+  "en": " now,"
+ },
+ {
+  "id": "EP1.BIN@12C",
+  "en": "and he unleashes all of his power,"
+ },
+ {
+  "id": "EP1.BIN@100",
+  "en": "even Eisen Castle itself will crumble."
+ },
+ {
+  "id": "EP1.BIN@FC",
+  "en": ".",
+  "note": "Printed three times with pauses -> '...' (same as EP0@8FC)."
+ },
+ {
+  "id": "EP1.BIN@EC",
+  "en": "There is no other way."
+ },
+ {
+  "id": "EP1.BIN@D8",
+  "en": " must be sealed in the tower."
+ },
+ {
+  "id": "EP1.BIN@B8",
+  "en": "I will use all of my Critical Vitality."
+ },
+ {
+  "id": "EP1.BIN@A0",
+  "en": "The rest of you, lend me your strength."
+ },
+ {
+  "id": "EP1.BIN@90",
+  "en": " shall be put to sleep,"
+ },
+ {
+  "id": "EP1.BIN@6C",
+  "en": "and inside the tower of Eisen near the village",
+  "note": "'the tower of Eisen' as in OPN."
+ },
+ {
+  "id": "EP1.BIN@60",
+  "en": "he shall be sealed."
+ },
+ {
+  "id": "EP1.BIN@5C",
+  "en": "Ah!",
+  "note": "Lone ！ (startled reaction, then a pause) rendered 'Ah!'."
+ },
+ {
+  "id": "EP1.BIN@38",
+  "en": "I hear a baby crying inside the coffin!"
+ },
+ {
+  "id": "EP1.BIN@2C",
+  "en": "Impossible!"
+ },
+ {
+  "id": "EP1.BIN@4",
+  "en": "But Lady Rowena is dead..."
+ }
+]

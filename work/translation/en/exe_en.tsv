@@ -1,0 +1,142 @@
+1F98	Type
+1F90	VIT
+1F88	Str
+1F80	Crit
+1FAC	Combat
+1FA4	Labor
+1FA0	 
+0	0
+3	1
+9	3
+C	4
+18	8
+20	normal
+38	none
+134	STAGE
+140	VAMPIRE
+150	ND setup
+160	critical limit
+21C	Duran
+228	Christopher
+5F0	Waiting...
+5FC	Not enough Blood Flow to drink!
+644	Summon/Command
+650	You can't summon!
+664	Message
+66C	No direct servants to command.
+688	Can't summon any more!
+6A0	No direct servants.
+844	Transform
+84C	No transform power left!
+864	Repairing coffin...
+878	Waiting
+880	Dawn breaks
+88C	Night falls
+898	Mortally wounded!
+8CC	PAUSE
+8D8	Quit Game
+8E4	Are you sure?
+8FC	GAME OVER
+910	Transform power is gone!
+A50	Before tally
+AA0	After tally
+C0C	The professor destroyed your coffin!
+C28	Direct
+C30	 was purified!
+C40	Subord.
+C48	: message failed!
+C60	 started fighting!
+C70	: message delivered!
+C88	 
+C8C	 is now a subordinate.
+C9C	 is mortally wounded!
+CB0	 is cornered.
+CC0	 defeated!
+CCC	 was defeated!
+D9C	Van Helsing
+DA8	Morris
+DB0	Harker
+DBC	Holmwood
+DCC	Seward
+DF0	M
+DF4	F
+DF8	Direct
+E00	Subord
+E08	Dhampir
+E14	Nosferatu
+E24	 yrs
+EF4	Vampire
+F04	Labor type
+F10	Combat type
+F6C	Talk to whom?
+F80	Drink from whom?
+1398	Villager 2
+13A0	Villager 1
+13A8	Soldier
+13B0	Rowena
+13BC	Ragash
+13C8	Rusalie
+13D4	Sistina
+13E4	Orgo
+13EC	???
+1ECC	Not all allotted yet.
+700C4	Nobody here...
+700D8	Nobody here...
+700EC	Work
+700F0	Home
+700F4	@
+700F8	Fast forward
+70104	Garlic had been set!
+70120	An altar had been set!
+70138	Holly has been set!
+70150	C
+70154	Can't summon or command!
+7016C	You can't transform!
+70180	Cannot message!
+70194	Sleeping...
+701A4	No transform power left!
+701BC	You can't command!
+7093C	Pasture
+70944	Churchyard
+70950	Forest
+70954	Fields
+70958	Monument
+70964	Harbor St.
+7096C	Harbor Park
+70974	South Houses
+70980	S. Coast Rd.
+7098C	Church
+70994	Market St.
+709A0	Town Hall
+709A8	Riesel St.
+709B8	Town Hall St.
+709C4	Alster Park
+709D4	W. Alster St.
+709E8	S. Alster St.
+709FC	E. Alster St.
+70A10	N. Alster St.
+70A24	Calstatt Road
+70A38	Navy Grounds
+70A44	Warehouses
+70A4C	Factory Grounds
+70A58	Riesel Park
+70A68	South Houses
+70A74	E. Hall Houses
+70A84	Zille Farm
+70A94	Undertaker
+70A9C	Cemetery
+70AA4	Alster Houses
+70AB8	Forest
+70ABC	Uptown
+70AC8	School
+70AD0	Piccadilly
+70AE0	The Strand
+70AF0	The City
+70AFC	Westminster
+70B14	South Bank
+70B28	Southwark
+70B38	The Thames
+71198	Medoekia
+711CC	Medoekia
+71F6C	Tower of Eisen
+7D916	-

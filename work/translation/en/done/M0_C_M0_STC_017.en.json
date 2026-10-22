@@ -1,0 +1,331 @@
+[
+ {
+  "id": "M0#1360",
+  "en": "Look, your name's in the ledger already."
+ },
+ {
+  "id": "M0#1361",
+  "en": "I have no need to stay the night."
+ },
+ {
+  "id": "M0#1362",
+  "en": "What the hell? All you ever do is come in and gawk,"
+ },
+ {
+  "id": "M0#1363",
+  "en": "and you've got no call to talk to me like that."
+ },
+ {
+  "id": "M0#1364",
+  "en": "The highway is dangerous, with bandits around."
+ },
+ {
+  "id": "M0#1365",
+  "en": "At night you'd best stay at an inn, it's risky."
+ },
+ {
+  "id": "M0#1366",
+  "en": "There's no other village around here,"
+ },
+ {
+  "id": "M0#1367",
+  "en": "so any traveler who comes by stays the night."
+ },
+ {
+  "id": "M0#1368",
+  "en": "And yet lately the customers have dried up completely."
+ },
+ {
+  "id": "M0#1369",
+  "en": "Maybe something happened..."
+ },
+ {
+  "id": "M0#1370",
+  "en": "With no customers, my prized cooking skills"
+ },
+ {
+  "id": "M0#1371",
+  "en": "go to waste."
+ },
+ {
+  "id": "M0#1372",
+  "en": "I turn cheap ingredients into pricey dishes."
+ },
+ {
+  "id": "M0#1373",
+  "en": "Say, why don't you try my cooking?"
+ },
+ {
+  "id": "M0#1374",
+  "en": "If it's when I'm not running the inn,"
+ },
+ {
+  "id": "M0#1375",
+  "en": "I'll serve it to you cheap."
+ },
+ {
+  "id": "M0#1376",
+  "en": "Hardly any customers come,"
+ },
+ {
+  "id": "M0#1377",
+  "en": "and there's no other place to stay around here."
+ },
+ {
+  "id": "M0#1378",
+  "en": "On top of that, they get a top-notch meal,"
+ },
+ {
+  "id": "M0#1379",
+  "en": "so if I charge a bit extra for the room,"
+ },
+ {
+  "id": "M0#1380",
+  "en": "that's only natural, isn't it?"
+ },
+ {
+  "id": "M0#1381",
+  "en": "Greedy one, your cunning is",
+  "note": "Cut at the matching point with #1382"
+ },
+ {
+  "id": "M0#1382",
+  "en": "well suited to the role of a servant, don't you think?"
+ },
+ {
+  "id": "M0#1383",
+  "en": "Little by little, my thirst is being quenched..."
+ },
+ {
+  "id": "M0#1384",
+  "en": "The countless desires that swirl through the human world"
+ },
+ {
+  "id": "M0#1385",
+  "en": "moisten my throat..."
+ },
+ {
+  "id": "M0#1386",
+  "en": "No,"
+ },
+ {
+  "id": "M0#1387",
+  "en": "I'm staying at a villa to the east."
+ },
+ {
+  "id": "M0#1388",
+  "en": "I've no use for folks who don't stay."
+ },
+ {
+  "id": "M0#1389",
+  "en": "Yes, I'd love some."
+ },
+ {
+  "id": "M0#1390",
+  "en": "I've never even tried a stew."
+ },
+ {
+  "id": "M0#1391",
+  "en": "No kidding..."
+ },
+ {
+  "id": "M0#1392",
+  "en": "I've no use for folks who aren't staying."
+ },
+ {
+  "id": "M0#1393",
+  "en": "You want to stay here, do you?"
+ },
+ {
+  "id": "M0#1394",
+  "en": "Look, your name's in the ledger already."
+ },
+ {
+  "id": "M0#1395",
+  "en": "You can't just say that..."
+ },
+ {
+  "id": "M0#1396",
+  "en": "Oh, the spelling is wrong."
+ },
+ {
+  "id": "M0#1397",
+  "en": "That isn't me, I'm afraid."
+ },
+ {
+  "id": "M0#1398",
+  "en": "Pah, what's this? A gawker, and"
+ },
+ {
+  "id": "M0#1399",
+  "en": "acting all high and mighty..."
+ },
+ {
+  "id": "M0#1400",
+  "en": "There isn't another village around here,",
+  "note": "Msg 62855 variant of #1366"
+ },
+ {
+  "id": "M0#1401",
+  "en": "I wonder if something happened...",
+  "note": "Msg 62855 variant of #1369"
+ },
+ {
+  "id": "M0#1402",
+  "en": "Please let me be of use to you."
+ },
+ {
+  "id": "M0#1403",
+  "en": "Cows... Cows sure are nice..."
+ },
+ {
+  "id": "M0#1404",
+  "en": "Good morning..."
+ },
+ {
+  "id": "M0#1405",
+  "en": "I'm just heading to the cowshed."
+ },
+ {
+  "id": "M0#1406",
+  "en": "I'm off to work now."
+ },
+ {
+  "id": "M0#1407",
+  "en": "Hey, good morning, ",
+  "note": "Followed by name + #143 '.'"
+ },
+ {
+  "id": "M0#1408",
+  "en": "Good afternoon..."
+ },
+ {
+  "id": "M0#1409",
+  "en": "Good day..."
+ },
+ {
+  "id": "M0#1410",
+  "en": "I'm just heading home now."
+ },
+ {
+  "id": "M0#1411",
+  "en": "This is my place. I'm Ios."
+ },
+ {
+  "id": "M0#1412",
+  "en": "I live here with my wife, Wendy."
+ },
+ {
+  "id": "M0#1413",
+  "en": "Oh, did you want something?"
+ },
+ {
+  "id": "M0#1414",
+  "en": "What is it?",
+  "note": "Shared by Ios, Southwark, Miltia"
+ },
+ {
+  "id": "M0#1415",
+  "en": "Let me relax at home, will you?"
+ },
+ {
+  "id": "M0#1416",
+  "en": "Well? Do you have some kind of grudge against me?"
+ },
+ {
+  "id": "M0#1417",
+  "en": "Ah, welcome."
+ },
+ {
+  "id": "M0#1418",
+  "en": "Feel free to stay as long as you like."
+ },
+ {
+  "id": "M0#1419",
+  "en": "I'm taking it easy myself."
+ },
+ {
+  "id": "M0#1420",
+  "en": "Make yourself at home."
+ },
+ {
+  "id": "M0#1421",
+  "en": "I don't mind, and Wendy isn't much of"
+ },
+ {
+  "id": "M0#1422",
+  "en": "a woman for standing on ceremony."
+ },
+ {
+  "id": "M0#1423",
+  "en": "Because she's like that,"
+ },
+ {
+  "id": "M0#1424",
+  "en": "we manage to get along as a married couple."
+ },
+ {
+  "id": "M0#1425",
+  "en": "I'm Ios, I take care of the cows here."
+ },
+ {
+  "id": "M0#1426",
+  "en": "Ah, the outsider everyone talks about,"
+ },
+ {
+  "id": "M0#1427",
+  "en": "that would be you, then."
+ },
+ {
+  "id": "M0#1428",
+  "en": "Hm, I hadn't heard I was called that,"
+ },
+ {
+  "id": "M0#1429",
+  "en": "but I suppose it is true."
+ },
+ {
+  "id": "M0#1430",
+  "en": "But I don't mind things like that."
+ },
+ {
+  "id": "M0#1431",
+  "en": "That doesn't mean we'll be friends right away,"
+ },
+ {
+  "id": "M0#1432",
+  "en": "that's not how it works, mind you."
+ },
+ {
+  "id": "M0#1433",
+  "en": "I'm Ios, I look after the cows here, you know."
+ },
+ {
+  "id": "M0#1434",
+  "en": "Do you like cows?"
+ },
+ {
+  "id": "M0#1435",
+  "en": "<I like them>",
+  "note": "Answer choice (no used_in); corner brackets rendered as <>"
+ },
+ {
+  "id": "M0#1436",
+  "en": "<I don't like them>",
+  "note": "Answer choice; corner brackets rendered as <>"
+ },
+ {
+  "id": "M0#1437",
+  "en": "I see. I'm not especially fond of them myself.",
+  "note": "No used_in; read as Ios's reply to <I like them>"
+ },
+ {
+  "id": "M0#1438",
+  "en": "Well, I'm not especially fond of them either.",
+  "note": "Read as Ios's reply to <I don't like them> (msg 66520 has no speaker tag)"
+ },
+ {
+  "id": "M0#1439",
+  "en": "Cows give milk, and you can eat the meat,"
+ }
+]

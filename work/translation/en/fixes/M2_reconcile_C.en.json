@@ -1,0 +1,41 @@
+[
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#9857",
+  "en": "or so I'd think, anyway.",
+  "why": "msg 378508 (only use): continues #9805 \"...I'll never want for drink,\" on the next line, so lowercase (as #9806 in the twin msg 377837). Reports 122/123"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#9841",
+  "en": "and poor use different doors and rooms.",
+  "why": "msg 378137 (only use): after #9764 \"...but rich\" it read \"rich / or poor, you use a different door and room\" (wrong meaning). Same JP as #9765, same English. Reports 122/123"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#9680",
+  "en": "I'm very interested in folklore too."
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#10474",
+  "en": "Speaking of beauty, Lady Rose of the"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#8348",
+  "en": "Perhaps I should find a pastime, too."
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#8878",
+  "en": "I'm so",
+  "why": "msg 344741 (only use): \"I'm so... tired...\" restores the subject (pro-drop rule; report 093 request)"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#8798",
+  "en": "You love Big Ben too.",
+  "why": "msgs 341115/341817: \"So you like Big Ben too. / Isn't that so?\" was a double tag (report 109). Shared #8044 stays"
+ }
+]

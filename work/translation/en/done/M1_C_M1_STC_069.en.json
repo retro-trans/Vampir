@@ -1,0 +1,352 @@
+[
+ {
+  "id": "M1#5520",
+  "en": "I'm sorry.",
+  "note": "shared (Romy, Marlene, Lily); variants add the joining space where it follows another fragment on the same line, and a trailing space before #6264 in 247186",
+  "variants": [
+   {
+    "msg": 234322,
+    "en": " I'm sorry."
+   },
+   {
+    "msg": 246546,
+    "en": " I'm sorry."
+   },
+   {
+    "msg": 247186,
+    "en": "I'm sorry. "
+   }
+  ]
+ },
+ {
+  "id": "M1#5521",
+  "en": "Would you mind choosing a different flower?"
+ },
+ {
+  "id": "M1#5522",
+  "en": "I don't mind, but..."
+ },
+ {
+  "id": "M1#5523",
+  "en": "How odd. It wasn't spoiled or anything."
+ },
+ {
+  "id": "M1#5524",
+  "en": "Please, take this one instead."
+ },
+ {
+  "id": "M1#5525",
+  "en": "Do come again."
+ },
+ {
+  "id": "M1#5526",
+  "en": "Please come again, if you like."
+ },
+ {
+  "id": "M1#5527",
+  "en": "Thank you for the other day."
+ },
+ {
+  "id": "M1#5528",
+  "en": "The gerberas are really lovely today."
+ },
+ {
+  "id": "M1#5529",
+  "en": "Then I think I'll take those."
+ },
+ {
+  "id": "M1#5530",
+  "en": "A flower as radiant as you are."
+ },
+ {
+  "id": "M1#5531",
+  "en": "Oh, how sweet of you, ",
+  "note": "+ NAME + #25 '.'"
+ },
+ {
+  "id": "M1#5532",
+  "en": "Do you run this shop all by yourself, Romy?"
+ },
+ {
+  "id": "M1#5533",
+  "en": "Mother loved flowers. Father was a botanist."
+ },
+ {
+  "id": "M1#5534",
+  "en": "I see. But you're a strong person."
+ },
+ {
+  "id": "M1#5535",
+  "en": "You can still smile so brightly like that."
+ },
+ {
+  "id": "M1#5536",
+  "en": "I cried a great deal when I lost my parents."
+ },
+ {
+  "id": "M1#5537",
+  "en": "But I can't go on crying forever,"
+ },
+ {
+  "id": "M1#5538",
+  "en": "can I?",
+  "note": "tail of #5537 (JP split mid-word)"
+ },
+ {
+  "id": "M1#5539",
+  "en": "Please, give me your orders",
+  "note": "thrall line; followed by six #180 dots"
+ },
+ {
+  "id": "M1#5540",
+  "en": "What is it? The shop isn't open yet."
+ },
+ {
+  "id": "M1#5541",
+  "en": "I'm taking a rest right now, so"
+ },
+ {
+  "id": "M1#5542",
+  "en": "keep it down, would you."
+ },
+ {
+  "id": "M1#5543",
+  "en": "You're a stubborn one. Come back when the shop's open."
+ },
+ {
+  "id": "M1#5544",
+  "en": "What is it? The shop isn't open right now, so"
+ },
+ {
+  "id": "M1#5545",
+  "en": "don't you go barging in here."
+ },
+ {
+  "id": "M1#5546",
+  "en": "You're a stubborn one too, aren't you?"
+ },
+ {
+  "id": "M1#5547",
+  "en": "Well, well."
+ },
+ {
+  "id": "M1#5548",
+  "en": "What brings you here when the shop isn't even open?"
+ },
+ {
+  "id": "M1#5549",
+  "en": "There's nothing for you here, you know."
+ },
+ {
+  "id": "M1#5550",
+  "en": "Welcome. This is the general store."
+ },
+ {
+  "id": "M1#5551",
+  "en": "We've got all sorts of handy things."
+ },
+ {
+  "id": "M1#5552",
+  "en": "Anything you're after?"
+ },
+ {
+  "id": "M1#5553",
+  "en": "Let's see",
+  "note": "+ #2 '...' + #5554"
+ },
+ {
+  "id": "M1#5554",
+  "en": " how about a handkerchief?",
+  "note": "always follows 'Let's see' + '...'"
+ },
+ {
+  "id": "M1#5555",
+  "en": "Ah, I'm afraid I'm all out of those."
+ },
+ {
+  "id": "M1#5556",
+  "en": "I do have soap, though."
+ },
+ {
+  "id": "M1#5557",
+  "en": "Why, you don't need a towel for your hands."
+ },
+ {
+  "id": "M1#5558",
+  "en": "If they're washed clean, there's no problem at all.",
+  "note": "#5557/#5558 rebuilt as two sentences (JP splits one sentence across the line)"
+ },
+ {
+  "id": "M1#5559",
+  "en": "We've got all sorts of handy things, so"
+ },
+ {
+  "id": "M1#5560",
+  "en": "take your time and have a good look."
+ },
+ {
+  "id": "M1#5561",
+  "en": "Is there anything you're after?"
+ },
+ {
+  "id": "M1#5562",
+  "en": "Oh, back again, are you?"
+ },
+ {
+  "id": "M1#5563",
+  "en": "Welcome. Oh, it's you."
+ },
+ {
+  "id": "M1#5564",
+  "en": "There's something I want to ask you."
+ },
+ {
+  "id": "M1#5565",
+  "en": "Ever been in those shops on Market Street?"
+ },
+ {
+  "id": "M1#5566",
+  "en": "<I've been there>",
+  "note": "menu choice, not in any used_in"
+ },
+ {
+  "id": "M1#5567",
+  "en": "<I've never been>",
+  "note": "menu choice, not in any used_in"
+ },
+ {
+  "id": "M1#5568",
+  "en": "What?"
+ },
+ {
+  "id": "M1#5569",
+  "en": "You mean you've been there too?"
+ },
+ {
+  "id": "M1#5570",
+  "en": "Of course you haven't.",
+  "note": "not in any used_in; presumably Anna's reply to <I've never been>, before #5571"
+ },
+ {
+  "id": "M1#5571",
+  "en": "Naturally, decent folk wouldn't know"
+ },
+ {
+  "id": "M1#5572",
+  "en": "a barbaric place like that."
+ },
+ {
+  "id": "M1#5573",
+  "en": "Those market folk, see, don't have the money"
+ },
+ {
+  "id": "M1#5574",
+  "en": "or a license to open a shop, so they just",
+  "note": "also follows #5625 (slice 070), which must read like #5573"
+ },
+ {
+  "id": "M1#5575",
+  "en": "sell their goods on the street as they please."
+ },
+ {
+  "id": "M1#5576",
+  "en": "Honestly, they get in the way of my business,"
+ },
+ {
+  "id": "M1#5577",
+  "en": "and it's a real nuisance",
+  "note": "+ #2 '...' + #25 '.'"
+ },
+ {
+  "id": "M1#5578",
+  "en": "Lately, this shop's sales haven't been"
+ },
+ {
+  "id": "M1#5579",
+  "en": "so good, you know."
+ },
+ {
+  "id": "M1#5580",
+  "en": "And I'm sure it's all because of those"
+ },
+ {
+  "id": "M1#5581",
+  "en": "market people",
+  "note": "+ #2 '...' + #25 '.'"
+ },
+ {
+  "id": "M1#5582",
+  "en": "Ooh, they make my blood boil."
+ },
+ {
+  "id": "M1#5583",
+  "en": "Don't you go shopping"
+ },
+ {
+  "id": "M1#5584",
+  "en": "at that market of theirs."
+ },
+ {
+  "id": "M1#5585",
+  "en": "They're a bunch of swindlers."
+ },
+ {
+  "id": "M1#5586",
+  "en": "What a noisy old hag."
+ },
+ {
+  "id": "M1#5587",
+  "en": "Where a customer shops is his own business."
+ },
+ {
+  "id": "M1#5588",
+  "en": "Wh-",
+  "note": "stammer; the scene continues in msg 222287 with #5589"
+ },
+ {
+  "id": "M1#5589",
+  "en": "Why, how rude",
+  "note": "+ #414 '!'"
+ },
+ {
+  "id": "M1#5590",
+  "en": "I'm only 38, I'll have you know."
+ },
+ {
+  "id": "M1#5591",
+  "en": "Welcome. Oh, it's only you."
+ },
+ {
+  "id": "M1#5592",
+  "en": "Back again,"
+ },
+ {
+  "id": "M1#5593",
+  "en": "to make more nasty remarks?"
+ },
+ {
+  "id": "M1#5594",
+  "en": "Is that any way"
+ },
+ {
+  "id": "M1#5595",
+  "en": "to talk to a customer?"
+ },
+ {
+  "id": "M1#5596",
+  "en": "Hmph. Let me tell you, I can't stand"
+ },
+ {
+  "id": "M1#5597",
+  "en": "sucking up to people."
+ },
+ {
+  "id": "M1#5598",
+  "en": "Good grief. With a temper like that, you're"
+ },
+ {
+  "id": "M1#5599",
+  "en": "hardly cut out for serving customers.",
+  "note": "#5600 (slice 070) follows on its own line as a full sentence"
+ }
+]

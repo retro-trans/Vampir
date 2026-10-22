@@ -1,0 +1,358 @@
+[
+ {
+  "id": "M2#640",
+  "en": "A vampire hunter?"
+ },
+ {
+  "id": "M2#641",
+  "en": "No, that's not it.",
+  "note": "Player's thought after Stanley says he senses 'something more than human' (msg 18155). Follows three pause dots: '...No, that's not it.'"
+ },
+ {
+  "id": "M2#642",
+  "en": "Either way,"
+ },
+ {
+  "id": "M2#643",
+  "en": "I can't let him find out what I really am",
+  "note": "#152 '...' follows on the same line."
+ },
+ {
+  "id": "M2#644",
+  "en": "As if you lived in the world of night..."
+ },
+ {
+  "id": "M2#645",
+  "en": "Hahaha, forgive me. My bad habit again."
+ },
+ {
+  "id": "M2#646",
+  "en": "Ah, so you've come."
+ },
+ {
+  "id": "M2#647",
+  "en": "I was just hoping to have a word with you."
+ },
+ {
+  "id": "M2#648",
+  "en": "You've been on my mind, you see."
+ },
+ {
+  "id": "M2#649",
+  "en": "I am Stanley."
+ },
+ {
+  "id": "M2#650",
+  "en": "I am the curator of this museum."
+ },
+ {
+  "id": "M2#651",
+  "en": "Do you remember me?"
+ },
+ {
+  "id": "M2#652",
+  "en": "My work itself is rather staid, but personally,",
+  "note": "Same as #574 (slice 007); #575 'I love folklore, legends and the mysterious.' follows on the next line."
+ },
+ {
+  "id": "M2#653",
+  "en": "Welcome! How good of you to come."
+ },
+ {
+  "id": "M2#654",
+  "en": "But what a mysterious person you are."
+ },
+ {
+  "id": "M2#655",
+  "en": "You have such a mystical air about you."
+ },
+ {
+  "id": "M2#656",
+  "en": "<What are you reading?>",
+  "note": "Answer choice (no used_in); leads to msg 18569 (#588 'So glad you asked')."
+ },
+ {
+  "id": "M2#657",
+  "en": "<I have no interest in reading>",
+  "note": "Answer choice (no used_in); leads to msg 18600 (#594)."
+ },
+ {
+  "id": "M2#658",
+  "en": "Oh, do you have the wrong house?"
+ },
+ {
+  "id": "M2#659",
+  "en": "I'm truly glad that you've come again."
+ },
+ {
+  "id": "M2#660",
+  "en": "It's a joy to count you as a friend."
+ },
+ {
+  "id": "M2#661",
+  "en": "!"
+ },
+ {
+  "id": "M2#662",
+  "en": "What do you want me to do..."
+ },
+ {
+  "id": "M2#663",
+  "en": "I feel kind of tired..."
+ },
+ {
+  "id": "M2#664",
+  "en": "I'm sleepy, and I feel sick."
+ },
+ {
+  "id": "M2#665",
+  "en": "My master...",
+  "note": "Then '{NAME}, my master...' (#0) on the next line; the repeat is in the Japanese."
+ },
+ {
+  "id": "M2#666",
+  "en": "Please, give me your orders..."
+ },
+ {
+  "id": "M2#667",
+  "en": "My hands and legs are all scratched up. How'd that happen?"
+ },
+ {
+  "id": "M2#668",
+  "en": "Good day. Is anyone at home?"
+ },
+ {
+  "id": "M2#669",
+  "en": "Hello...?"
+ },
+ {
+  "id": "M2#670",
+  "en": "Who are you, mister?"
+ },
+ {
+  "id": "M2#671",
+  "en": "Nobody's here now. I'm minding the house."
+ },
+ {
+  "id": "M2#672",
+  "en": "I see. I came to introduce myself, but..."
+ },
+ {
+  "id": "M2#673",
+  "en": "I'm Wayne. I'm 14."
+ },
+ {
+  "id": "M2#674",
+  "en": "Do you live near here? Nice to meet you, mister."
+ },
+ {
+  "id": "M2#675",
+  "en": "Oh, it's you, mister."
+ },
+ {
+  "id": "M2#676",
+  "en": "Are you all alone again?"
+ },
+ {
+  "id": "M2#677",
+  "en": "Yep. I'm minding the house."
+ },
+ {
+  "id": "M2#678",
+  "en": "Papa and Mama still aren't home."
+ },
+ {
+  "id": "M2#679",
+  "en": "You came again, mister?"
+ },
+ {
+  "id": "M2#680",
+  "en": "Aww, I wish I could go out and play too."
+ },
+ {
+  "id": "M2#681",
+  "en": "The empty lot by the factory is really fun."
+ },
+ {
+  "id": "M2#682",
+  "en": "They say odd stuff is buried there sometimes."
+ },
+ {
+  "id": "M2#683",
+  "en": "But I get scolded if I don't mind the house."
+ },
+ {
+  "id": "M2#684",
+  "en": "I wanna go out and play..."
+ },
+ {
+  "id": "M2#685",
+  "en": "Oh! You're back again, mister?"
+ },
+ {
+  "id": "M2#686",
+  "en": "It's like you're coming to see me,"
+ },
+ {
+  "id": "M2#687",
+  "en": "and that kinda makes me happy."
+ },
+ {
+  "id": "M2#688",
+  "en": "What kind of work do you do, mister?"
+ },
+ {
+  "id": "M2#689",
+  "en": "<That's a secret>",
+  "note": "Answer choice (no used_in); leads to msg 21313 (#691)."
+ },
+ {
+  "id": "M2#690",
+  "en": "<I'm looking for someone>",
+  "note": "Answer choice (no used_in); leads to msg 21325 (#693)."
+ },
+ {
+  "id": "M2#691",
+  "en": "Aww, you won't tell me..."
+ },
+ {
+  "id": "M2#692",
+  "en": "Tell me when we're better friends, OK?"
+ },
+ {
+  "id": "M2#693",
+  "en": "Really? Is it someone you like, mister?"
+ },
+ {
+  "id": "M2#694",
+  "en": "I hope you find them. See you!",
+  "note": "'them': the person sought is not identified."
+ },
+ {
+  "id": "M2#695",
+  "en": "Hello, ",
+  "note": "Before the name: 'Hello, {NAME}.' Variants: msg 21341 'Hello, Mister ' (+ name + #696 '.'); Robin 111322/111874 and Maud 267397/268082 have #152 '...' right after, so 'Hello' without comma.",
+  "variants": [
+   {
+    "msg": 21341,
+    "en": "Hello, Mister "
+   },
+   {
+    "msg": 111322,
+    "en": "Hello"
+   },
+   {
+    "msg": 111874,
+    "en": "Hello"
+   },
+   {
+    "msg": 267397,
+    "en": "Hello"
+   },
+   {
+    "msg": 268082,
+    "en": "Hello"
+   }
+  ]
+ },
+ {
+  "id": "M2#696",
+  "en": ".",
+  "note": "'Mister' moved into the #695 variant for msg 21341: 'Hello, Mister {NAME}.'"
+ },
+ {
+  "id": "M2#697",
+  "en": "Is coming here all the time your work too?"
+ },
+ {
+  "id": "M2#698",
+  "en": "Papa and Mama are always working too."
+ },
+ {
+  "id": "M2#699",
+  "en": "Hey, take me outside sometime, mister."
+ },
+ {
+  "id": "M2#700",
+  "en": "I can't even go to school. It's so boring."
+ },
+ {
+  "id": "M2#701",
+  "en": "What can I do for you? I'm the only one home."
+ },
+ {
+  "id": "M2#702",
+  "en": "Papa and Mama are at work. Sorry."
+ },
+ {
+  "id": "M2#703",
+  "en": "I think you should come back later."
+ },
+ {
+  "id": "M2#704",
+  "en": "Hello, mister."
+ },
+ {
+  "id": "M2#705",
+  "en": "Lucky you, free to walk around outside."
+ },
+ {
+  "id": "M2#706",
+  "en": "I'm already sick of minding the house."
+ },
+ {
+  "id": "M2#707",
+  "en": "Huh? You're back again?",
+  "note": "Shared with Daniel 197807/198436 (next line: 'Mister, are you a detective or something?')."
+ },
+ {
+  "id": "M2#708",
+  "en": "Is it something I wouldn't understand even if you told me?"
+ },
+ {
+  "id": "M2#709",
+  "en": "Wow, come in, mister!"
+ },
+ {
+  "id": "M2#710",
+  "en": "Stay and talk with me for once."
+ },
+ {
+  "id": "M2#711",
+  "en": "I won't tell Papa and Mama, I promise."
+ },
+ {
+  "id": "M2#712",
+  "en": "Back again?",
+  "note": "Shared with Daniel 197697/198317 after 'You're quite the oddball, mister.'"
+ },
+ {
+  "id": "M2#713",
+  "en": "I'm glad when you come over, mister."
+ },
+ {
+  "id": "M2#714",
+  "en": "'Cause minding the house alone is boring."
+ },
+ {
+  "id": "M2#715",
+  "en": "Hello. Is anybody home?"
+ },
+ {
+  "id": "M2#716",
+  "en": "Hello...?"
+ },
+ {
+  "id": "M2#717",
+  "en": "Who are you, mister?"
+ },
+ {
+  "id": "M2#718",
+  "en": "I see. I just came by today to say hello."
+ },
+ {
+  "id": "M2#719",
+  "en": ". And you?",
+  "note": "After #633 (slice 007) + name: 'I'm {NAME}. And you?'"
+ }
+]

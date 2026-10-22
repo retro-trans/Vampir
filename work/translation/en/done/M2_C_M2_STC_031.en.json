@@ -1,0 +1,332 @@
+[
+ {
+  "id": "M2#2480",
+  "en": "Hello. Pleased to meet you."
+ },
+ {
+  "id": "M2#2481",
+  "en": "I'm sorry, but I'm not really sure."
+ },
+ {
+  "id": "M2#2482",
+  "en": "You sell hinges and nails, I see."
+ },
+ {
+  "id": "M2#2483",
+  "en": "Figured. This here's a hardware shop."
+ },
+ {
+  "id": "M2#2484",
+  "en": "This shop's no place for a rich boy."
+ },
+ {
+  "id": "M2#2485",
+  "en": "Need repairs? Get your servants to do it."
+ },
+ {
+  "id": "M2#2486",
+  "en": "You're a real oddball, aren't you?"
+ },
+ {
+  "id": "M2#2487",
+  "en": "You like hardware that much?"
+ },
+ {
+  "id": "M2#2488",
+  "en": "What do you need?"
+ },
+ {
+  "id": "M2#2489",
+  "en": "Hello. I've come by again."
+ },
+ {
+  "id": "M2#2490",
+  "en": "You work so hard every day. Good work!"
+ },
+ {
+  "id": "M2#2491",
+  "en": "\"Good work\"?!"
+ },
+ {
+  "id": "M2#2492",
+  "en": "It seems I made him angry."
+ },
+ {
+  "id": "M2#2493",
+  "en": "Humans have to work, so there must be"
+ },
+ {
+  "id": "M2#2494",
+  "en": "many hardships I know nothing about",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#2495",
+  "en": "Sorry about the other day."
+ },
+ {
+  "id": "M2#2496",
+  "en": "I heard you go all over town for your work."
+ },
+ {
+  "id": "M2#2497",
+  "en": "If it's something I know, I'll answer you,"
+ },
+ {
+  "id": "M2#2498",
+  "en": "and if you want hardware, I'll sell it to you."
+ },
+ {
+  "id": "M2#2499",
+  "en": "How've you been?"
+ },
+ {
+  "id": "M2#2500",
+  "en": "I've got no solid-gold fittings, so I doubt"
+ },
+ {
+  "id": "M2#2501",
+  "en": "you'll find anything here to your taste."
+ },
+ {
+  "id": "M2#2502",
+  "en": "Who are you?"
+ },
+ {
+  "id": "M2#2503",
+  "en": "Shop's closed at this hour."
+ },
+ {
+  "id": "M2#2504",
+  "en": "Come back later."
+ },
+ {
+  "id": "M2#2505",
+  "en": "I told you, the shop's closed. ",
+  "note": "Trailing space: msg 83591 runs straight into 83597 (#2506 \"Go away.\")."
+ },
+ {
+  "id": "M2#2506",
+  "en": "Go away."
+ },
+ {
+  "id": "M2#2507",
+  "en": "Come back when I'm in a better mood."
+ },
+ {
+  "id": "M2#2508",
+  "en": "Come again."
+ },
+ {
+  "id": "M2#2509",
+  "en": "Welcome, sir."
+ },
+ {
+  "id": "M2#2510",
+  "en": "Kurt's Tobacco Shop, at your service."
+ },
+ {
+  "id": "M2#2511",
+  "en": "Might you be looking for cigars, sir,"
+ },
+ {
+  "id": "M2#2512",
+  "en": "or perhaps a pipe?"
+ },
+ {
+  "id": "M2#2513",
+  "en": "Well, well. We've been expecting you."
+ },
+ {
+  "id": "M2#2514",
+  "en": "Pipe tobacco might not be bad, either."
+ },
+ {
+  "id": "M2#2515",
+  "en": "Perhaps I'll buy a pipe."
+ },
+ {
+  "id": "M2#2516",
+  "en": "...I see there are a great many kinds"
+ },
+ {
+  "id": "M2#2517",
+  "en": "of pipes."
+ },
+ {
+  "id": "M2#2518",
+  "en": "We keep a wide selection here, so as to"
+ },
+ {
+  "id": "M2#2519",
+  "en": "suit every customer's taste."
+ },
+ {
+  "id": "M2#2520",
+  "en": "And we vouch for the quality of each one."
+ },
+ {
+  "id": "M2#2521",
+  "en": "Very well, I'll take this black pipe."
+ },
+ {
+  "id": "M2#2522",
+  "en": "Thank you very much.",
+  "note": "Shared by 34 messages (shopkeepers and the player); a full sentence on its own line."
+ },
+ {
+  "id": "M2#2523",
+  "en": "That pipe is a Kurt's Tobacco Shop"
+ },
+ {
+  "id": "M2#2524",
+  "en": "original, sir."
+ },
+ {
+  "id": "M2#2525",
+  "en": "Well then, we look forward to your next"
+ },
+ {
+  "id": "M2#2526",
+  "en": "visit."
+ },
+ {
+  "id": "M2#2527",
+  "en": "We look forward to your next visit."
+ },
+ {
+  "id": "M2#2528",
+  "en": "Welcome. So good of you to come."
+ },
+ {
+  "id": "M2#2529",
+  "en": "Sir, was the pipe you bought the other day"
+ },
+ {
+  "id": "M2#2530",
+  "en": "to your liking?"
+ },
+ {
+  "id": "M2#2531",
+  "en": "...Yes. It's not bad."
+ },
+ {
+  "id": "M2#2532",
+  "en": "I've already run out of pipe tobacco."
+ },
+ {
+  "id": "M2#2533",
+  "en": "Then today, allow me to blend tobacco to"
+ },
+ {
+  "id": "M2#2534",
+  "en": "suit your own taste, sir."
+ },
+ {
+  "id": "M2#2535",
+  "en": "Well then, I'll take you up on that."
+ },
+ {
+  "id": "M2#2536",
+  "en": ", sir! Welcome.",
+  "variants": [
+   {
+    "msg": 393845,
+    "en": ", my master! Welcome."
+   }
+  ]
+ },
+ {
+  "id": "M2#2537",
+  "en": "How did you like the tobacco from last time?"
+ },
+ {
+  "id": "M2#2538",
+  "en": "Ah, I was rather pleased with it."
+ },
+ {
+  "id": "M2#2539",
+  "en": "Why, thank you very much, sir."
+ },
+ {
+  "id": "M2#2540",
+  "en": "Your preferences and such are now noted"
+ },
+ {
+  "id": "M2#2541",
+  "en": "in this ledger here, so if you place an order,"
+ },
+ {
+  "id": "M2#2542",
+  "en": "we can have it ready right away."
+ },
+ {
+  "id": "M2#2543",
+  "en": ", sir! Always a pleasure."
+ },
+ {
+  "id": "M2#2544",
+  "en": "Welcome,"
+ },
+ {
+  "id": "M2#2545",
+  "en": ", sir."
+ },
+ {
+  "id": "M2#2546",
+  "en": "Thanks to you, Kurt's Tobacco Shop and its"
+ },
+ {
+  "id": "M2#2547",
+  "en": "original pipes have been a great success."
+ },
+ {
+  "id": "M2#2548",
+  "en": "We're now starting to sell overseas too, so"
+ },
+ {
+  "id": "M2#2549",
+  "en": "please do make use of us."
+ },
+ {
+  "id": "M2#2550",
+  "en": "Ah, forgive me.",
+  "note": "Shared: Kurt, and the player to Ted and to Mary."
+ },
+ {
+  "id": "M2#2551",
+  "en": "You looked to me like someone who'd come"
+ },
+ {
+  "id": "M2#2552",
+  "en": "from abroad, sir."
+ },
+ {
+  "id": "M2#2553",
+  "en": "Yes, if I had a mind to, I could travel all"
+ },
+ {
+  "id": "M2#2554",
+  "en": "over the world, after all."
+ },
+ {
+  "id": "M2#2555",
+  "en": "We also stock cigars and the like, so"
+ },
+ {
+  "id": "M2#2556",
+  "en": "do give them a try."
+ },
+ {
+  "id": "M2#2557",
+  "en": ", sir,"
+ },
+ {
+  "id": "M2#2558",
+  "en": "you are a valued customer, so we'll do"
+ },
+ {
+  "id": "M2#2559",
+  "en": "everything we can to serve you."
+ }
+]

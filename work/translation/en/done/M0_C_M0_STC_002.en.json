@@ -1,0 +1,335 @@
+[
+ {
+  "id": "M0#160",
+  "en": "Anyway, about Veta at the landlord's place.",
+  "note": "Veta = female (glossary); 'she' used. Name sits at line start in #161"
+ },
+ {
+  "id": "M0#161",
+  "en": ", don't you think she's a beauty too?"
+ },
+ {
+  "id": "M0#162",
+  "en": "She's gorgeous, isn't she?"
+ },
+ {
+  "id": "M0#163",
+  "en": "What? You want me to make clogs?"
+ },
+ {
+  "id": "M0#164",
+  "en": "Sorry, but I'm swamped with village orders,",
+  "note": "Shared with msg 9137; worded to follow either #163 or #167"
+ },
+ {
+  "id": "M0#165",
+  "en": "so I can't make any for strangers.",
+  "note": "Shared with msg 9137; 'so' continues #164"
+ },
+ {
+  "id": "M0#166",
+  "en": "Oh, hey, mister. You're the guy from the other day."
+ },
+ {
+  "id": "M0#167",
+  "en": "You want me to make you some clogs?"
+ },
+ {
+  "id": "M0#168",
+  "en": "If you want clogs, bring me the wood."
+ },
+ {
+  "id": "M0#169",
+  "en": "But all the trees here belong to the landlord,"
+ },
+ {
+  "id": "M0#170",
+  "en": "so I can't just help myself."
+ },
+ {
+  "id": "M0#171",
+  "en": "Clogs, you see,"
+ },
+ {
+  "id": "M0#172",
+  "en": "you have to be as handy as I am"
+ },
+ {
+  "id": "M0#173",
+  "en": "to make them well."
+ },
+ {
+  "id": "M0#174",
+  "en": "And mister, you'd better not go"
+ },
+ {
+  "id": "M0#175",
+  "en": "thinking you can make them yourself."
+ },
+ {
+  "id": "M0#176",
+  "en": "Now, clogs"
+ },
+ {
+  "id": "M0#177",
+  "en": "keep your feet dry even around water, you know."
+ },
+ {
+  "id": "M0#178",
+  "en": "Leather shoes are just expensive,"
+ },
+ {
+  "id": "M0#179",
+  "en": "and not right for folks like us."
+ },
+ {
+  "id": "M0#180",
+  "en": "You sure are persistent, mister."
+ },
+ {
+  "id": "M0#181",
+  "en": "Well, since you seem to live around here,",
+  "note": "Subject restored: Himmler is the one who will make the clogs"
+ },
+ {
+  "id": "M0#182",
+  "en": "once I'm done with the pair I'm making now,"
+ },
+ {
+  "id": "M0#183",
+  "en": "I can make a pair for you."
+ },
+ {
+  "id": "M0#184",
+  "en": "Oh, but before that,"
+ },
+ {
+  "id": "M0#185",
+  "en": "tell me your name, mister."
+ },
+ {
+  "id": "M0#186",
+  "en": "I'm Himmler, by the way."
+ },
+ {
+  "id": "M0#187",
+  "en": "Huh, you're not as friendly as I thought."
+ },
+ {
+  "id": "M0#188",
+  "en": "Fine. Come by again sometime."
+ },
+ {
+  "id": "M0#189",
+  "en": "(I never asked for it, yet how merciful of him.)",
+  "note": "[PLAYER] inner thought, sarcastic; 'him' = Himmler (speaker of #181-#183)"
+ },
+ {
+  "id": "M0#190",
+  "en": ", I'll make your clogs right away."
+ },
+ {
+  "id": "M0#191",
+  "en": "Just wait a little longer, okay?"
+ },
+ {
+  "id": "M0#192",
+  "en": "Hey, you, I don't know your face, but",
+  "note": "Shared by msg 9323 and 9688 (pairs with #193 / #233)"
+ },
+ {
+  "id": "M0#193",
+  "en": "you're actually pretty handsome."
+ },
+ {
+  "id": "M0#194",
+  "en": "The guys my age"
+ },
+ {
+  "id": "M0#195",
+  "en": "have mostly run off to the city, so",
+  "note": "Row ends mid-sentence ('so') because #196 starts the next box; pairs with #234 in msg 9688"
+ },
+ {
+  "id": "M0#196",
+  "en": "I figured I'd look after the girls"
+ },
+ {
+  "id": "M0#197",
+  "en": "around here myself, but",
+  "note": "'but' carried here; #198 continues; msg 9418 uses #209 (also ends 'but') before #198"
+ },
+ {
+  "id": "M0#198",
+  "en": "now that someone like you has turned up,"
+ },
+ {
+  "id": "M0#199",
+  "en": "I can't keep them all to myself."
+ },
+ {
+  "id": "M0#200",
+  "en": "Hey, it's you."
+ },
+ {
+  "id": "M0#201",
+  "en": "Hey, ",
+  "note": "Shared with Katusa (#1247 'san, konbanwa') and Miltia (#1885); 'Hey, ' + name works for all, no variant"
+ },
+ {
+  "id": "M0#202",
+  "en": "I'm on my way to the workshop now."
+ },
+ {
+  "id": "M0#203",
+  "en": "Drop by any time."
+ },
+ {
+  "id": "M0#204",
+  "en": "Whoa, you startled me."
+ },
+ {
+  "id": "M0#205",
+  "en": "I'm surprised anyone but me is out this late"
+ },
+ {
+  "id": "M0#206",
+  "en": "Hey, now that I look at you, you're handsome."
+ },
+ {
+  "id": "M0#207",
+  "en": "The guys my age have mostly gone off to"
+ },
+ {
+  "id": "M0#208",
+  "en": "the city, so I figured I'd look after the"
+ },
+ {
+  "id": "M0#209",
+  "en": "girls here myself, but"
+ },
+ {
+  "id": "M0#210",
+  "en": "Wandering around at this hour,"
+ },
+ {
+  "id": "M0#211",
+  "en": "that's probably just you and me."
+ },
+ {
+  "id": "M0#212",
+  "en": "Want to come over to my place?"
+ },
+ {
+  "id": "M0#213",
+  "en": "It's almost Dad's bedtime.",
+  "note": "Dad's bedtime read as a hint to be quiet/short; kept literal"
+ },
+ {
+  "id": "M0#214",
+  "en": "Hey, you're handsome."
+ },
+ {
+  "id": "M0#215",
+  "en": "Here to scout the competition?"
+ },
+ {
+  "id": "M0#216",
+  "en": "Say, the older sister at the blacksmith's,"
+ },
+ {
+  "id": "M0#217",
+  "en": "Johanna. Do you know her?"
+ },
+ {
+  "id": "M0#218",
+  "en": "She's got quite a temper,"
+ },
+ {
+  "id": "M0#219",
+  "en": "so a guy like you would get flattened fast."
+ },
+ {
+  "id": "M0#220",
+  "en": "Trust me, it happens to me all the time."
+ },
+ {
+  "id": "M0#221",
+  "en": "Liza, the woman who lives next to the landlord,"
+ },
+ {
+  "id": "M0#222",
+  "en": "do you know her?"
+ },
+ {
+  "id": "M0#223",
+  "en": "The charm of an older woman, huh? Nice."
+ },
+ {
+  "id": "M0#224",
+  "en": "If only it weren't for that obnoxious little brother of hers."
+ },
+ {
+  "id": "M0#225",
+  "en": "And the younger sister at the blacksmith's,",
+  "note": "'the younger sister at the blacksmith's' (Sati, female, glossary)"
+ },
+ {
+  "id": "M0#226",
+  "en": "Sati's going to be quite a beauty someday,"
+ },
+ {
+  "id": "M0#227",
+  "en": "I think."
+ },
+ {
+  "id": "M0#228",
+  "en": "That's my best inside tip, you know."
+ },
+ {
+  "id": "M0#229",
+  "en": "And Veta at the landlord's house,"
+ },
+ {
+  "id": "M0#230",
+  "en": "I can't write her off, either",
+  "note": "Followed by #66 '...' (row 'M0#66' = '...')"
+ },
+ {
+  "id": "M0#231",
+  "en": "W-What? You think I'm"
+ },
+ {
+  "id": "M0#232",
+  "en": "just a skirt chaser, don't you?"
+ },
+ {
+  "id": "M0#233",
+  "en": "you're handsome."
+ },
+ {
+  "id": "M0#234",
+  "en": "have mostly gone off to the city, so",
+  "note": "Variant of #195 used in msg 9688"
+ },
+ {
+  "id": "M0#235",
+  "en": "So, what do you want?"
+ },
+ {
+  "id": "M0#236",
+  "en": "Ah, I get it. You came to check out your rival."
+ },
+ {
+  "id": "M0#237",
+  "en": "But I'm not telling you my top-secret info."
+ },
+ {
+  "id": "M0#238",
+  "en": "Oh, it's you. Come to inspect my workshop?"
+ },
+ {
+  "id": "M0#239",
+  "en": "Oh boy, you've got me worried."
+ }
+]

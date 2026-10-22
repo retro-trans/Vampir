@@ -1,0 +1,329 @@
+[
+ {
+  "id": "M2#8000",
+  "en": "you come here so faithfully, don't you."
+ },
+ {
+  "id": "M2#8001",
+  "en": "It's because, Stella... I come to see"
+ },
+ {
+  "id": "M2#8002",
+  "en": "that face of yours..."
+ },
+ {
+  "id": "M2#8003",
+  "en": "Oh, ",
+  "note": "Before the name ('Oh, {NAME}!' Stella / 'Oh, {NAME}.' Sarah) and alone before a pause in msg 312255 ('Oh, n-no, you mustn't.')."
+ },
+ {
+  "id": "M2#8004",
+  "en": "n-no, you mustn't.",
+  "note": "Lowercase: follows 'Oh, ' + pause on the same line."
+ },
+ {
+  "id": "M2#8005",
+  "en": "Surely God could never permit"
+ },
+ {
+  "id": "M2#8006",
+  "en": "such a thing..."
+ },
+ {
+  "id": "M2#8007",
+  "en": "Come, let us offer our prayers together."
+ },
+ {
+  "id": "M2#8008",
+  "en": "God will surely be watching"
+ },
+ {
+  "id": "M2#8009",
+  "en": "over you..."
+ },
+ {
+  "id": "M2#8010",
+  "en": "Wh-who's there?"
+ },
+ {
+  "id": "M2#8011",
+  "en": "These are the nuns' quarters."
+ },
+ {
+  "id": "M2#8012",
+  "en": "Outsiders may not come in here."
+ },
+ {
+  "id": "M2#8013",
+  "en": "Pardon me..."
+ },
+ {
+  "id": "M2#8014",
+  "en": "I seem to have lost my way."
+ },
+ {
+  "id": "M2#8015",
+  "en": "If you came to worship, please come in"
+ },
+ {
+  "id": "M2#8016",
+  "en": "through the front entrance."
+ },
+ {
+  "id": "M2#8017",
+  "en": "These are the nuns' quarters."
+ },
+ {
+  "id": "M2#8018",
+  "en": "Men are not permitted to enter."
+ },
+ {
+  "id": "M2#8019",
+  "en": "You mustn't. These are the nuns' quarters."
+ },
+ {
+  "id": "M2#8020",
+  "en": "Those outside the church... men above all,"
+ },
+ {
+  "id": "M2#8021",
+  "en": "are strictly forbidden to enter."
+ },
+ {
+  "id": "M2#8022",
+  "en": "Now, before anyone finds you,"
+ },
+ {
+  "id": "M2#8023",
+  "en": "please hurry back..."
+ },
+ {
+  "id": "M2#8024",
+  "en": "I'm happy to see you, but"
+ },
+ {
+  "id": "M2#8025",
+  "en": "these are the nuns' quarters..."
+ },
+ {
+  "id": "M2#8026",
+  "en": "We sisters are servants of God."
+ },
+ {
+  "id": "M2#8027",
+  "en": "So this place is closed to men."
+ },
+ {
+  "id": "M2#8028",
+  "en": "You do understand, don't you?"
+ },
+ {
+  "id": "M2#8029",
+  "en": ",",
+  "note": "After the name: '{NAME}, / I'm glad to see you.'"
+ },
+ {
+  "id": "M2#8030",
+  "en": "I'm glad to see you."
+ },
+ {
+  "id": "M2#8031",
+  "en": "But..."
+ },
+ {
+  "id": "M2#8032",
+  "en": "Please, before anyone else finds you,"
+ },
+ {
+  "id": "M2#8033",
+  "en": "hurry home..."
+ },
+ {
+  "id": "M2#8034",
+  "en": "Why here, so late at night...?"
+ },
+ {
+  "id": "M2#8035",
+  "en": "These are the nuns' quarters."
+ },
+ {
+  "id": "M2#8036",
+  "en": "We are servants of God, so"
+ },
+ {
+  "id": "M2#8037",
+  "en": "speaking with a man in a place like this"
+ },
+ {
+  "id": "M2#8038",
+  "en": "is not permitted."
+ },
+ {
+  "id": "M2#8039",
+  "en": "Now, please go home..."
+ },
+ {
+  "id": "M2#8040",
+  "en": "Why?"
+ },
+ {
+  "id": "M2#8041",
+  "en": "Stella, it was to see you that I"
+ },
+ {
+  "id": "M2#8042",
+  "en": "came here..."
+ },
+ {
+  "id": "M2#8043",
+  "en": "And you wanted to see me, too."
+ },
+ {
+  "id": "M2#8044",
+  "en": "Isn't that so?",
+  "note": "Also Clotilde msg 341115/341817 after #8798 ('You like Big Ben too...')."
+ },
+ {
+  "id": "M2#8045",
+  "en": "Th-that's not..."
+ },
+ {
+  "id": "M2#8046",
+  "en": "Tonight, more than anything, I wanted to"
+ },
+ {
+  "id": "M2#8047",
+  "en": "see you..."
+ },
+ {
+  "id": "M2#8048",
+  "en": "N-no...",
+  "note": "Msg 312607 follows 312589, which ends 'Oh, ' + pause; capitalized on the assumption that 312607 starts a new box."
+ },
+ {
+  "id": "M2#8049",
+  "en": "You mustn't...",
+  "note": "No used_in; msg.py shows it after #8048 + pause in msg 312607."
+ },
+ {
+  "id": "M2#8050",
+  "en": "Ahh... G-God"
+ },
+ {
+  "id": "M2#8051",
+  "en": "F-forgive... me..."
+ },
+ {
+  "id": "M2#8052",
+  "en": "You too are just one more foolish human."
+ },
+ {
+  "id": "M2#8053",
+  "en": "From today, you will serve not God, but"
+ },
+ {
+  "id": "M2#8054",
+  "en": "me..."
+ },
+ {
+  "id": "M2#8055",
+  "en": "Oh my. You were looking for the chapel"
+ },
+ {
+  "id": "M2#8056",
+  "en": "and lost your way, I see."
+ },
+ {
+  "id": "M2#8057",
+  "en": "Not this way. Please come in through"
+ },
+ {
+  "id": "M2#8058",
+  "en": "the front entrance."
+ },
+ {
+  "id": "M2#8059",
+  "en": "This area is off-limits to the public."
+ },
+ {
+  "id": "M2#8060",
+  "en": "Now, please go back..."
+ },
+ {
+  "id": "M2#8061",
+  "en": "I'm happy to see you, but..."
+ },
+ {
+  "id": "M2#8062",
+  "en": "You mustn't come in here.",
+  "note": "Starts a sentence: also used alone after '{NAME}...' (msg 313364)."
+ },
+ {
+  "id": "M2#8063",
+  "en": "Today's service is already over..."
+ },
+ {
+  "id": "M2#8064",
+  "en": "Let us meet again tomorrow."
+ },
+ {
+  "id": "M2#8065",
+  "en": "Oh my, you look so pale..."
+ },
+ {
+  "id": "M2#8066",
+  "en": "Please don't trouble yourself..."
+ },
+ {
+  "id": "M2#8067",
+  "en": "Please, don't worry about me."
+ },
+ {
+  "id": "M2#8068",
+  "en": "The word of God... is it. Even so,"
+ },
+ {
+  "id": "M2#8069",
+  "en": "a room hung with crosses"
+ },
+ {
+  "id": "M2#8070",
+  "en": "is hardly a comfortable place..."
+ },
+ {
+  "id": "M2#8071",
+  "en": "God... a being entirely different"
+ },
+ {
+  "id": "M2#8072",
+  "en": "from me..."
+ },
+ {
+  "id": "M2#8073",
+  "en": "So many people come here to"
+ },
+ {
+  "id": "M2#8074",
+  "en": "offer their prayers..."
+ },
+ {
+  "id": "M2#8075",
+  "en": "All of them seeking salvation."
+ },
+ {
+  "id": "M2#8076",
+  "en": "Yes, I'm interested in many things."
+ },
+ {
+  "id": "M2#8077",
+  "en": "Knowing God well"
+ },
+ {
+  "id": "M2#8078",
+  "en": "is a fine thing."
+ },
+ {
+  "id": "M2#8079",
+  "en": "I got a little lost."
+ }
+]

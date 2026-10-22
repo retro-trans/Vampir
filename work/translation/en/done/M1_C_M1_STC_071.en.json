@@ -1,0 +1,344 @@
+[
+ {
+  "id": "M1#5680",
+  "en": "Today's special is slow-stewed pork knuckle,"
+ },
+ {
+  "id": "M1#5681",
+  "en": "the \"Eisbein\"."
+ },
+ {
+  "id": "M1#5682",
+  "en": "Oh, and I'll bring you a beer with it."
+ },
+ {
+  "id": "M1#5683",
+  "en": "Please come again.",
+  "variants": [
+   {
+    "msg": 226457,
+    "en": "please come again."
+   }
+  ],
+  "note": "226457 follows '{NAME},' (#223) so lower case there"
+ },
+ {
+  "id": "M1#5684",
+  "en": ", welcome!",
+  "note": "shared Alisa/Christine: '{NAME}, welcome!'"
+ },
+ {
+  "id": "M1#5685",
+  "en": "I've been waiting for you."
+ },
+ {
+  "id": "M1#5686",
+  "en": "We have some rare venison today."
+ },
+ {
+  "id": "M1#5687",
+  "en": "I'll bring it right out."
+ },
+ {
+  "id": "M1#5688",
+  "en": "Could I have something to drink, too..."
+ },
+ {
+  "id": "M1#5689",
+  "en": "I'll bring you Neu's specially made wine."
+ },
+ {
+  "id": "M1#5690",
+  "en": "It's on the house, since you always come by."
+ },
+ {
+  "id": "M1#5691",
+  "en": "Sorry to keep you waiting. Enjoy your meal.",
+  "note": "no used_in"
+ },
+ {
+  "id": "M1#5692",
+  "en": ", I'll always",
+  "note": "'{NAME}, I'll always / have something especially delicious / ready for you.'"
+ },
+ {
+  "id": "M1#5693",
+  "en": "have something especially delicious"
+ },
+ {
+  "id": "M1#5694",
+  "en": "ready for you.",
+  "note": "shared with 227475: #5773 should be ', I'll always' and #5774 'have something delicious'"
+ },
+ {
+  "id": "M1#5695",
+  "en": "Yes? Who might you be?"
+ },
+ {
+  "id": "M1#5696",
+  "en": "<I just moved in nearby>",
+  "note": "menu choice, not in any used_in"
+ },
+ {
+  "id": "M1#5697",
+  "en": "<Your fence is broken>",
+  "note": "menu choice, not in any used_in"
+ },
+ {
+  "id": "M1#5698",
+  "en": "Oh, how courteous of you. Thank you."
+ },
+ {
+  "id": "M1#5699",
+  "en": "I'm Alisa."
+ },
+ {
+  "id": "M1#5700",
+  "en": "I work as a waitress at the restaurant",
+  "note": "word order: 'waitress' moved up from #5701"
+ },
+ {
+  "id": "M1#5701",
+  "en": "\"Neu\" on North Alster Street."
+ },
+ {
+  "id": "M1#5702",
+  "en": "And you?"
+ },
+ {
+  "id": "M1#5703",
+  "en": "... is my name."
+ },
+ {
+  "id": "M1#5704",
+  "en": "Well, if you'll excuse me,"
+ },
+ {
+  "id": "M1#5705",
+  "en": "until we meet again."
+ },
+ {
+  "id": "M1#5706",
+  "en": "Oh, let's see, it's..."
+ },
+ {
+  "id": "M1#5707",
+  "en": "Come by \"Neu\" if you like."
+ },
+ {
+  "id": "M1#5708",
+  "en": "Hello. How did you like your meal"
+ },
+ {
+  "id": "M1#5709",
+  "en": "at \"Neu\" the other day?"
+ },
+ {
+  "id": "M1#5710",
+  "en": "<It was delicious>",
+  "note": "menu choice, not in any used_in"
+ },
+ {
+  "id": "M1#5711",
+  "en": "<It was awful>",
+  "note": "menu choice, not in any used_in"
+ },
+ {
+  "id": "M1#5712",
+  "en": "I'm so glad."
+ },
+ {
+  "id": "M1#5713",
+  "en": ", come again soon!"
+ },
+ {
+  "id": "M1#5714",
+  "en": "Oh, I see. I'm sorry."
+ },
+ {
+  "id": "M1#5715",
+  "en": "Next time I'll be sure to serve you"
+ },
+ {
+  "id": "M1#5716",
+  "en": "something delicious."
+ },
+ {
+  "id": "M1#5717",
+  "en": "I want to serve delicious food"
+ },
+ {
+  "id": "M1#5718",
+  "en": "and make our customers happy."
+ },
+ {
+  "id": "M1#5719",
+  "en": "I'll look forward to a fine meal there."
+ },
+ {
+  "id": "M1#5720",
+  "en": "Oh, how wonderful."
+ },
+ {
+  "id": "M1#5721",
+  "en": "Make yourself at home."
+ },
+ {
+  "id": "M1#5722",
+  "en": "You came back to see me!"
+ },
+ {
+  "id": "M1#5723",
+  "en": "I'm so happy."
+ },
+ {
+  "id": "M1#5724",
+  "en": "She's sound asleep..."
+ },
+ {
+  "id": "M1#5725",
+  "en": "This beautiful face will turn hideous."
+ },
+ {
+  "id": "M1#5726",
+  "en": "Ha ha ha, I can hardly wait."
+ },
+ {
+  "id": "M1#5727",
+  "en": "Um..."
+ },
+ {
+  "id": "M1#5728",
+  "en": "What is it?",
+  "note": "shared with Hans (230252)"
+ },
+ {
+  "id": "M1#5729",
+  "en": "I'm sorry for stopping you."
+ },
+ {
+  "id": "M1#5730",
+  "en": "You're so lovely that I couldn't help"
+ },
+ {
+  "id": "M1#5731",
+  "en": "calling out to you."
+ },
+ {
+  "id": "M1#5732",
+  "en": "Oh my..."
+ },
+ {
+  "id": "M1#5733",
+  "en": "But you're quite charming yourself."
+ },
+ {
+  "id": "M1#5734",
+  "en": "I'm Alisa. And you?"
+ },
+ {
+  "id": "M1#5735",
+  "en": "I work at a place called \"Neu\""
+ },
+ {
+  "id": "M1#5736",
+  "en": "on North Alster Street."
+ },
+ {
+  "id": "M1#5737",
+  "en": "Come by if you like."
+ },
+ {
+  "id": "M1#5738",
+  "en": "I'll come for certain, just to see you."
+ },
+ {
+  "id": "M1#5739",
+  "en": "\"Neu\" opens soon."
+ },
+ {
+  "id": "M1#5740",
+  "en": "seeing you first thing in the morning",
+  "note": "follows 'Oh, {NAME},' so lower case"
+ },
+ {
+  "id": "M1#5741",
+  "en": "must be my lucky day."
+ },
+ {
+  "id": "M1#5742",
+  "en": "Oh, what a charming gentleman."
+ },
+ {
+  "id": "M1#5743",
+  "en": ".",
+  "note": "'I'm {NAME}.' after #5095/#75 'I'm '"
+ },
+ {
+  "id": "M1#5744",
+  "en": "I'm Alisa."
+ },
+ {
+  "id": "M1#5745",
+  "en": "I work there as a waitress.",
+  "note": "depends on #5655 (slice 070) naming the restaurant as its own sentence, e.g. 'You know \"Neu\" on North Alster Street?'"
+ },
+ {
+  "id": "M1#5746",
+  "en": "Do come by the restaurant sometime."
+ },
+ {
+  "id": "M1#5747",
+  "en": "Be sure to come to \"Neu\"."
+ },
+ {
+  "id": "M1#5748",
+  "en": "It's a promise."
+ },
+ {
+  "id": "M1#5749",
+  "en": ", if you come to the restaurant,",
+  "note": "'{NAME}, if you come to the restaurant,' after #5660 (slice 070)"
+ },
+ {
+  "id": "M1#5750",
+  "en": "I'll work extra hard."
+ },
+ {
+  "id": "M1#5751",
+  "en": "I was just thinking I wanted to see you."
+ },
+ {
+  "id": "M1#5752",
+  "en": "Hello there. Oh, what a charming gentleman."
+ },
+ {
+  "id": "M1#5753",
+  "en": "That sounds delicious. I think I'll have that."
+ },
+ {
+  "id": "M1#5754",
+  "en": "I'll be sure to come again."
+ },
+ {
+  "id": "M1#5755",
+  "en": "So long, then."
+ },
+ {
+  "id": "M1#5756",
+  "en": "you came! Thank you.",
+  "note": "follows 'Oh, {NAME},' so lower case"
+ },
+ {
+  "id": "M1#5757",
+  "en": "Today's special is breaded veal cutlet,"
+ },
+ {
+  "id": "M1#5758",
+  "en": "the \"Schnitzel\"."
+ },
+ {
+  "id": "M1#5759",
+  "en": "Please enjoy it while it's hot."
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "id": "M0#400",
+  "en": "In winter we take these sheep with us,"
+ },
+ {
+  "id": "M0#401",
+  "en": "and roam about in search of grass.",
+  "note": "shared by #400 and #427 uses; 'and' continues either"
+ },
+ {
+  "id": "M0#402",
+  "en": "It's true the cold is harsh, but"
+ },
+ {
+  "id": "M0#403",
+  "en": "we can't let the sheep go hungry.",
+  "note": "cut with #402"
+ },
+ {
+  "id": "M0#404",
+  "en": "In spring, when we return from roaming,"
+ },
+ {
+  "id": "M0#405",
+  "en": "we get very fine wool."
+ },
+ {
+  "id": "M0#406",
+  "en": "Cloth woven from this wool, once dyed,"
+ },
+ {
+  "id": "M0#407",
+  "en": "is a specialty of our village."
+ },
+ {
+  "id": "M0#408",
+  "en": "Not just wool; sheep's milk is a valuable asset, too."
+ },
+ {
+  "id": "M0#409",
+  "en": "Cheese from sheep's milk is the very best!"
+ },
+ {
+  "id": "M0#410",
+  "en": "By the way,"
+ },
+ {
+  "id": "M0#411",
+  "en": "I forgot to ask your name."
+ },
+ {
+  "id": "M0#412",
+  "en": "If you wouldn't mind?"
+ },
+ {
+  "id": "M0#413",
+  "en": "I see, ",
+  "note": "'I see, ' + name + '.' (#143)"
+ },
+ {
+  "id": "M0#414",
+  "en": "Isn't it strange..."
+ },
+ {
+  "id": "M0#415",
+  "en": "Until now I didn't even know your name,"
+ },
+ {
+  "id": "M0#416",
+  "en": "yet we'd grown close. And just by learning it,"
+ },
+ {
+  "id": "M0#417",
+  "en": "I feel we've become even closer."
+ },
+ {
+  "id": "M0#418",
+  "en": "Have you seen Roland anywhere?"
+ },
+ {
+  "id": "M0#419",
+  "en": "A sheepdog, I mean.",
+  "note": "Roland (dog) gender unknown: no pronoun used"
+ },
+ {
+  "id": "M0#420",
+  "en": "Odd. You'd usually find Roland around here.",
+  "note": "Roland (sheepdog) named again instead of 'he/she'; gender unknown"
+ },
+ {
+  "id": "M0#421",
+  "en": "Yes, we move the sheep elsewhere in winter,"
+ },
+ {
+  "id": "M0#422",
+  "en": "and we travel along with them."
+ },
+ {
+  "id": "M0#423",
+  "en": "He's been a real handful lately, I'm afraid.",
+  "note": "'he' = Erwin (son, male) per #387"
+ },
+ {
+  "id": "M0#424",
+  "en": "Do forgive me if he gets up to any mischief."
+ },
+ {
+  "id": "M0#425",
+  "en": "I wonder if he dislikes the shepherd's life...",
+  "note": "after #389 'Erwin,' (other slice) -> 'Erwin... / I wonder if he dislikes...'; Erwin is male"
+ },
+ {
+  "id": "M0#426",
+  "en": "Would you like to try our family's stew?"
+ },
+ {
+  "id": "M0#427",
+  "en": "In winter we take these sheep with us"
+ },
+ {
+  "id": "M0#428",
+  "en": "The cold is harsh, to be sure, but"
+ },
+ {
+  "id": "M0#429",
+  "en": "we can't let the sheep"
+ },
+ {
+  "id": "M0#430",
+  "en": "go hungry, you know."
+ },
+ {
+  "id": "M0#431",
+  "en": "I'm ",
+  "note": "'I'm ' + name + '.' (#13/#432); fine for Halk/Ranke/Silas"
+ },
+ {
+  "id": "M0#432",
+  "en": ".",
+  "note": "'.'; shared uses all name + '.'"
+ },
+ {
+  "id": "M0#433",
+  "en": "Maybe the sight of you made the dog run off.",
+  "note": "dog's gender unknown: 'the dog', no pronoun; subject restored (Japanese drops it)"
+ },
+ {
+  "id": "M0#434",
+  "en": "Silas,",
+  "note": "player addresses Silas; honorific dropped"
+ },
+ {
+  "id": "M0#435",
+  "en": "you look like you could bring together",
+  "note": "object 'my precious Nosferatu' in #436; 'my' inferred"
+ },
+ {
+  "id": "M0#436",
+  "en": "my precious Nosferatu...",
+  "note": "'my' inferred (glossary: Nosferatu are Christopher's servants)"
+ },
+ {
+  "id": "M0#437",
+  "en": ".",
+  "note": "single middle dot -> one period; all uses are trailing silence marks"
+ },
+ {
+  "id": "M0#438",
+  "en": ", my master,",
+  "note": "follows name: ', my master,' (as #0/#135). Orgo (msg 151615) continues with #2745 on a new row; keep that row's start lowercase/neutral"
+ },
+ {
+  "id": "M0#439",
+  "en": "please give me your orders."
+ },
+ {
+  "id": "M0#440",
+  "en": "Oh my, I do not believe we have met before."
+ },
+ {
+  "id": "M0#441",
+  "en": "I am just on my way to my workshop."
+ },
+ {
+  "id": "M0#442",
+  "en": "Good day, sir."
+ },
+ {
+  "id": "M0#443",
+  "en": "Good day to you.",
+  "note": "works as greeting for Aldous/Otti/Miltia"
+ },
+ {
+  "id": "M0#444",
+  "en": "I am just on my way home now."
+ },
+ {
+  "id": "M0#445",
+  "en": "I am just on my way home."
+ },
+ {
+  "id": "M0#446",
+  "en": "Well then, good day to you."
+ },
+ {
+  "id": "M0#447",
+  "en": "I am Aldous, master of this house."
+ },
+ {
+  "id": "M0#448",
+  "en": "Is something the matter?"
+ },
+ {
+  "id": "M0#449",
+  "en": "This is the house of Aldous."
+ },
+ {
+  "id": "M0#450",
+  "en": "I work as a wheelwright,"
+ },
+ {
+  "id": "M0#451",
+  "en": "and my name is Aldous."
+ },
+ {
+  "id": "M0#452",
+  "en": "I live here with my wife, Celia."
+ },
+ {
+  "id": "M0#453",
+  "en": "Good day. I am Aldous."
+ },
+ {
+  "id": "M0#454",
+  "en": "Ah, ",
+  "note": "'Ah, ' + name; works for Aldous, Azusha, Luisa"
+ },
+ {
+  "id": "M0#455",
+  "en": "Welcome.",
+  "note": "works for Aldous, Vent and Luisa"
+ },
+ {
+  "id": "M0#456",
+  "en": "Please, feel free to stay and relax"
+ },
+ {
+  "id": "M0#457",
+  "en": "for as long as you like."
+ },
+ {
+  "id": "M0#458",
+  "en": "Would you care for some tea?"
+ },
+ {
+  "id": "M0#459",
+  "en": "I am Aldous, the wheelwright."
+ },
+ {
+  "id": "M0#460",
+  "en": "A wheelwright?"
+ },
+ {
+  "id": "M0#461",
+  "en": "Yes. That is to say, I make carriage wheels",
+  "note": "verb moved to #462/#466: 'I make carriage wheels' + 'and the like'"
+ },
+ {
+  "id": "M0#462",
+  "en": "and the like."
+ },
+ {
+  "id": "M0#463",
+  "en": "I see."
+ },
+ {
+  "id": "M0#464",
+  "en": "Hello there, sir."
+ },
+ {
+  "id": "M0#465",
+  "en": "I work as a wheelwright here."
+ },
+ {
+  "id": "M0#466",
+  "en": "and the like, as it were.",
+  "note": "formal 'de gozaimasu' register -> 'as it were'"
+ },
+ {
+  "id": "M0#467",
+  "en": "Pardon me, I must attend to my work."
+ },
+ {
+  "id": "M0#468",
+  "en": "By the way, I have not yet"
+ },
+ {
+  "id": "M0#469",
+  "en": "heard your name."
+ },
+ {
+  "id": "M0#470",
+  "en": "If you would be so kind, please tell me."
+ },
+ {
+  "id": "M0#471",
+  "en": " is my name.",
+  "note": "name opens the row, so 'is my name' follows it"
+ },
+ {
+  "id": "M0#472",
+  "en": "I see. ",
+  "variants": [
+   {
+    "msg": 116300,
+    "en": "I see."
+   }
+  ],
+  "note": "trailing space needed before the name (Aldous/Otti); Emmy variant drops it"
+ },
+ {
+  "id": "M0#473",
+  "en": ", is it?",
+  "note": "formal 'desu na' -> ', is it?'"
+ },
+ {
+  "id": "M0#474",
+  "en": "A fine name."
+ },
+ {
+  "id": "M0#475",
+  "en": "That, too..."
+ },
+ {
+  "id": "M0#476",
+  "en": "Pardon?"
+ },
+ {
+  "id": "M0#477",
+  "en": "I mean, that habit of complimenting people,"
+ },
+ {
+  "id": "M0#478",
+  "en": "is that part of how you speak, too?"
+ },
+ {
+  "id": "M0#479",
+  "en": "...So it would seem.",
+  "note": "continues into #480 (next slice)"
+ }
+]

@@ -1,0 +1,332 @@
+[
+ {
+  "id": "M0#2240",
+  "en": "I'd rather you came to the lake than here."
+ },
+ {
+  "id": "M0#2241",
+  "en": "If you brought me even one little souvenir,"
+ },
+ {
+  "id": "M0#2242",
+  "en": "my attitude would be different, you know."
+ },
+ {
+  "id": "M0#2243",
+  "en": "Just kidding."
+ },
+ {
+  "id": "M0#2244",
+  "en": "Did you come to see me?"
+ },
+ {
+  "id": "M0#2245",
+  "en": "Just kidding. Is there something you need?"
+ },
+ {
+  "id": "M0#2246",
+  "en": "I was just about to make candles..."
+ },
+ {
+  "id": "M0#2247",
+  "en": "Oh, might you actually help me?"
+ },
+ {
+  "id": "M0#2248",
+  "en": "Oh, never mind. I wouldn't have minded..."
+ },
+ {
+  "id": "M0#2249",
+  "en": "Well then, hold this for a moment."
+ },
+ {
+  "id": "M0#2250",
+  "en": "If you really have business with me,"
+ },
+ {
+  "id": "M0#2251",
+  "en": "you're welcome anytime."
+ },
+ {
+  "id": "M0#2252",
+  "en": "What are you doing here?"
+ },
+ {
+  "id": "M0#2253",
+  "en": "I'm cutting reeds."
+ },
+ {
+  "id": "M0#2254",
+  "en": "I cut the reeds around here,"
+ },
+ {
+  "id": "M0#2255",
+  "en": "and use them for things like thatching roofs."
+ },
+ {
+  "id": "M0#2256",
+  "en": "Oh, you're still here."
+ },
+ {
+  "id": "M0#2257",
+  "en": "Have you got nothing to do?"
+ },
+ {
+  "id": "M0#2258",
+  "en": "Do you have some business around here?"
+ },
+ {
+  "id": "M0#2259",
+  "en": "It's such a remote spot, after all,"
+ },
+ {
+  "id": "M0#2260",
+  "en": "there's usually nobody else around."
+ },
+ {
+  "id": "M0#2261",
+  "en": ",",
+  "note": "',' after the name, honorific dropped (#143 = '.'); next row continues the sentence in lower case"
+ },
+ {
+  "id": "M0#2262",
+  "en": "are you actually doing your work?"
+ },
+ {
+  "id": "M0#2263",
+  "en": "You're always out here."
+ },
+ {
+  "id": "M0#2264",
+  "en": "Oh, or are you maybe coming to see me?"
+ },
+ {
+  "id": "M0#2265",
+  "en": "Of course not, right?"
+ },
+ {
+  "id": "M0#2266",
+  "en": "I also make candles out of these reeds."
+ },
+ {
+  "id": "M0#2267",
+  "en": "That's important work at home, too."
+ },
+ {
+  "id": "M0#2268",
+  "en": "Oh, I know, ",
+  "note": "'Oh, I know, ' + name + ',' (#2269 / #2308); both 107728 and 108446 read as 'Oh, I know, NAME, ...'"
+ },
+ {
+  "id": "M0#2269",
+  "en": ","
+ },
+ {
+  "id": "M0#2270",
+  "en": "why don't you make some with me too?"
+ },
+ {
+  "id": "M0#2271",
+  "en": "Come to my house if you feel like it."
+ },
+ {
+  "id": "M0#2272",
+  "en": "Carrying the cut reeds is hard work, too."
+ },
+ {
+  "id": "M0#2273",
+  "en": "I'm such a delicate girl. Oh dear,"
+ },
+ {
+  "id": "M0#2274",
+  "en": "I wish some nice gentleman would help me."
+ },
+ {
+  "id": "M0#2275",
+  "en": "...Oh well, it's my job, after all."
+ },
+ {
+  "id": "M0#2276",
+  "en": "Johanna, is it?"
+ },
+ {
+  "id": "M0#2277",
+  "en": "In a case like this, telling me your name too is"
+ },
+ {
+  "id": "M0#2278",
+  "en": "just good manners, you know."
+ },
+ {
+  "id": "M0#2279",
+  "en": "Ah, sorry. I'm ",
+  "note": "'Ah, sorry. I'm ' + name + '.' (#13 = '.')"
+ },
+ {
+  "id": "M0#2280",
+  "en": "O-oh, ",
+  "note": "Flustered repeat of the name: 'O-oh, ' + name + '.' (#13 = '.')"
+ },
+ {
+  "id": "M0#2281",
+  "en": "Nice to meet you."
+ },
+ {
+  "id": "M0#2282",
+  "en": "I'm just on my way to the lake to cut grass."
+ },
+ {
+  "id": "M0#2283",
+  "en": "Good morning,",
+  "note": "Name goes on the next line; shared with Emmy (msgs 115404, 115947)"
+ },
+ {
+  "id": "M0#2284",
+  "en": "But as for anything nicer than getting to see you,"
+ },
+ {
+  "id": "M0#2285",
+  "en": "I wonder if there is any."
+ },
+ {
+  "id": "M0#2286",
+  "en": "Sure enough, we met. Somehow, today,",
+  "note": "Joins 'Good evening, NAME.' with #2230 (I had a feeling I'd see you)"
+ },
+ {
+  "id": "M0#2287",
+  "en": "wouldn't do you any harm, you know,",
+  "note": "Needs #2234 (slice 027) to end in a quote, e.g. Saying \"Pleased to meet you,\"; then NAME + '.'"
+ },
+ {
+  "id": "M0#2288",
+  "en": "Ah... nice to meet you."
+ },
+ {
+  "id": "M0#2289",
+  "en": "Very good."
+ },
+ {
+  "id": "M0#2290",
+  "en": "Do you need something from me?"
+ },
+ {
+  "id": "M0#2291",
+  "en": "If you need me for something, rather than here,"
+ },
+ {
+  "id": "M0#2292",
+  "en": "I'd be happier if you came to the lake."
+ },
+ {
+  "id": "M0#2293",
+  "en": "you came to see me, didn't you.",
+  "note": "After NAME + ',' (#21); 'you came to see me, didn't you.'"
+ },
+ {
+  "id": "M0#2294",
+  "en": "Just kidding. What do you want?"
+ },
+ {
+  "id": "M0#2295",
+  "en": "I was just about to make candles, you see..."
+ },
+ {
+  "id": "M0#2296",
+  "en": "That's enough, thank you. Bye now."
+ },
+ {
+  "id": "M0#2297",
+  "en": "What are you doing here?"
+ },
+ {
+  "id": "M0#2298",
+  "en": "Oh, you're still here. Nothing to do?"
+ },
+ {
+  "id": "M0#2299",
+  "en": "there's usually nobody around.",
+  "note": "Variant of #2260 without 'else'"
+ },
+ {
+  "id": "M0#2300",
+  "en": "Oh, honestly, how silly of me."
+ },
+ {
+  "id": "M0#2301",
+  "en": "Do you mind that I come to see you?"
+ },
+ {
+  "id": "M0#2302",
+  "en": "Huh? Wh-what? That's not what I meant!"
+ },
+ {
+  "id": "M0#2303",
+  "en": "I'm happy when you come to see me,"
+ },
+ {
+  "id": "M0#2304",
+  "en": "I mean, I look forward to it, or something."
+ },
+ {
+  "id": "M0#2305",
+  "en": "Um, well,"
+ },
+ {
+  "id": "M0#2306",
+  "en": "that's not what I mean..."
+ },
+ {
+  "id": "M0#2307",
+  "en": "I'm sorry, I got all flustered."
+ },
+ {
+  "id": "M0#2308",
+  "en": ","
+ },
+ {
+  "id": "M0#2309",
+  "en": "let's make some together sometime."
+ },
+ {
+  "id": "M0#2310",
+  "en": "Hey, wait, don't run away,",
+  "note": "Followed by NAME + '!' (#277)"
+ },
+ {
+  "id": "M0#2311",
+  "en": "Johanna, I never get bored with you."
+ },
+ {
+  "id": "M0#2312",
+  "en": "So be with me at night, too."
+ },
+ {
+  "id": "M0#2313",
+  "en": "I'm sorry."
+ },
+ {
+  "id": "M0#2314",
+  "en": "It's only for a little while."
+ },
+ {
+  "id": "M0#2315",
+  "en": "I want to be with you always, but..."
+ },
+ {
+  "id": "M0#2316",
+  "en": "I belong to you."
+ },
+ {
+  "id": "M0#2317",
+  "en": "Somehow, I feel as if I'm no longer my own..."
+ },
+ {
+  "id": "M0#2318",
+  "en": "Good day. Daedalus"
+ },
+ {
+  "id": "M0#2319",
+  "en": "is laid up with an illness right now."
+ }
+]

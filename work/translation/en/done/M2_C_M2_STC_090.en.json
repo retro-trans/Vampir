@@ -1,0 +1,327 @@
+[
+ {
+  "id": "M2#7200",
+  "en": "It makes the work so rewarding."
+ },
+ {
+  "id": "M2#7201",
+  "en": "Please feel free to look around."
+ },
+ {
+  "id": "M2#7202",
+  "en": "Hello. I shall have a look, then."
+ },
+ {
+  "id": "M2#7203",
+  "en": "Oh, this cup is quite lovely."
+ },
+ {
+  "id": "M2#7204",
+  "en": "Ah, sir, that's our most popular piece."
+ },
+ {
+  "id": "M2#7205",
+  "en": "It was made at the design workshop."
+ },
+ {
+  "id": "M2#7206",
+  "en": "Would you like one? Or perhaps a pair?"
+ },
+ {
+  "id": "M2#7207",
+  "en": "Hmm, alas, I am a bachelor. ",
+  "note": "Trailing space: in msg 283637 #7208 follows on the same line; in 283716 a line break follows."
+ },
+ {
+  "id": "M2#7208",
+  "en": "I shall take just one."
+ },
+ {
+  "id": "M2#7209",
+  "en": "Thank you for your purchase."
+ },
+ {
+  "id": "M2#7210",
+  "en": "Please visit us any time."
+ },
+ {
+  "id": "M2#7211",
+  "en": "I'm Patty, the owner."
+ },
+ {
+  "id": "M2#7212",
+  "en": "The pleasure is mine. Thanks for the fine cup."
+ },
+ {
+  "id": "M2#7213",
+  "en": "...Oh?"
+ },
+ {
+  "id": "M2#7214",
+  "en": "... right?",
+  "note": "After the name: '{NAME}... right?'"
+ },
+ {
+  "id": "M2#7215",
+  "en": "I've come to your shop, as promised..."
+ },
+ {
+  "id": "M2#7216",
+  "en": "Hmm, quite a lovely piece."
+ },
+ {
+  "id": "M2#7217",
+  "en": "Yes! That's our most popular piece."
+ },
+ {
+  "id": "M2#7218",
+  "en": "Oh, hello! Welcome."
+ },
+ {
+  "id": "M2#7219",
+  "en": "No. I merely dropped in."
+ },
+ {
+  "id": "M2#7220",
+  "en": "Am I in the way?"
+ },
+ {
+  "id": "M2#7221",
+  "en": "In the way? Not at all."
+ },
+ {
+  "id": "M2#7222",
+  "en": "You're a valued customer."
+ },
+ {
+  "id": "M2#7223",
+  "en": "Browsers are welcome too. Come any time!"
+ },
+ {
+  "id": "M2#7224",
+  "en": "Not much on the shelves today, is there?"
+ },
+ {
+  "id": "M2#7225",
+  "en": "The cups have been selling like hotcakes."
+ },
+ {
+  "id": "M2#7226",
+  "en": "Even ordinary households now enjoy tea"
+ },
+ {
+  "id": "M2#7227",
+  "en": "after meals or at lunchtime, you see."
+ },
+ {
+  "id": "M2#7228",
+  "en": "It's rather heartening, isn't it?"
+ },
+ {
+  "id": "M2#7229",
+  "en": "Are you fond of tea, perhaps?"
+ },
+ {
+  "id": "M2#7230",
+  "en": "You really do come by often."
+ },
+ {
+  "id": "M2#7231",
+  "en": "Do drop in whenever you like."
+ },
+ {
+  "id": "M2#7232",
+  "en": "Please come again."
+ },
+ {
+  "id": "M2#7233",
+  "en": "I feel this work really suits me."
+ },
+ {
+  "id": "M2#7234",
+  "en": "Thinking about what wares will please my",
+  "note": "#7234/#7235 always adjacent (one message): words redistributed across the two lines."
+ },
+ {
+  "id": "M2#7235",
+  "en": "customers is such fun."
+ },
+ {
+  "id": "M2#7236",
+  "en": "Coming! Who is it?"
+ },
+ {
+  "id": "M2#7237",
+  "en": "Huh? You're not from the workshop... are you?"
+ },
+ {
+  "id": "M2#7238",
+  "en": "I found this lying at your door."
+ },
+ {
+  "id": "M2#7239",
+  "en": "Would these be your papers?"
+ },
+ {
+  "id": "M2#7240",
+  "en": "Oh! Yes, they are. Goodness, my invoices!"
+ },
+ {
+  "id": "M2#7241",
+  "en": "Did they blow out the window...?"
+ },
+ {
+  "id": "M2#7242",
+  "en": "I'm so sorry. Thank you very much."
+ },
+ {
+  "id": "M2#7243",
+  "en": "Oh! Did I drop something else?"
+ },
+ {
+  "id": "M2#7244",
+  "en": "Oh, it's you."
+ },
+ {
+  "id": "M2#7245",
+  "en": "Hello, how are you?"
+ },
+ {
+  "id": "M2#7246",
+  "en": "I'm always causing you trouble."
+ },
+ {
+  "id": "M2#7247",
+  "en": "I'm so scatterbrained, I'm always dropping"
+ },
+ {
+  "id": "M2#7248",
+  "en": "or losing things."
+ },
+ {
+  "id": "M2#7249",
+  "en": "You've even come to my home?"
+ },
+ {
+  "id": "M2#7250",
+  "en": "Since you're here, how about some tea?"
+ },
+ {
+  "id": "M2#7251",
+  "en": "I don't just sell cups, you know."
+ },
+ {
+  "id": "M2#7252",
+  "en": "I know a lot about tea, too."
+ },
+ {
+  "id": "M2#7253",
+  "en": "I can help you pick out items, too."
+ },
+ {
+  "id": "M2#7254",
+  "en": "Come by any time."
+ },
+ {
+  "id": "M2#7255",
+  "en": "Tea and whatnot... how carefree humans are."
+ },
+ {
+  "id": "M2#7256",
+  "en": "You must be idle. I'll give you work."
+ },
+ {
+  "id": "M2#7257",
+  "en": "Toil for my sake, as best you can."
+ },
+ {
+  "id": "M2#7258",
+  "en": "Are you all right? That's quite a load."
+ },
+ {
+  "id": "M2#7259",
+  "en": "Oh, is it pottery or something?"
+ },
+ {
+  "id": "M2#7260",
+  "en": "I'll be sure to call on you later."
+ },
+ {
+  "id": "M2#7261",
+  "en": "Please take care on your way home."
+ },
+ {
+  "id": "M2#7262",
+  "en": "This cup is quite lovely."
+ },
+ {
+  "id": "M2#7263",
+  "en": "Sadly, I'm still single."
+ },
+ {
+  "id": "M2#7264",
+  "en": "No sweetheart, either. Just one, please."
+ },
+ {
+  "id": "M2#7265",
+  "en": "The pleasure is mine.",
+  "note": "Also used by Henrietta msg 333199 after 'I'm {NAME}.'"
+ },
+ {
+  "id": "M2#7266",
+  "en": "Hello. So you remember me."
+ },
+ {
+  "id": "M2#7267",
+  "en": "I've come to your shop, as promised."
+ },
+ {
+  "id": "M2#7268",
+  "en": "The pleasure is mine. Thanks for the lovely cup."
+ },
+ {
+  "id": "M2#7269",
+  "en": "No, I just came to have a look."
+ },
+ {
+  "id": "M2#7270",
+  "en": "I'm not in the way, am I?"
+ },
+ {
+  "id": "M2#7271",
+  "en": "Are these your papers?"
+ },
+ {
+  "id": "M2#7272",
+  "en": "All that I am,",
+  "note": "After #0 ', my master...' (Vivian enthralled)."
+ },
+ {
+  "id": "M2#7273",
+  "en": "I give to you..."
+ },
+ {
+  "id": "M2#7274",
+  "en": "Are you the new carpenter...?"
+ },
+ {
+  "id": "M2#7275",
+  "en": "No, apparently not. Indeed,"
+ },
+ {
+  "id": "M2#7276",
+  "en": "one can tell from your attire..."
+ },
+ {
+  "id": "M2#7277",
+  "en": "Have you some business with me?"
+ },
+ {
+  "id": "M2#7278",
+  "en": "Ordinarily, I never receive anyone"
+ },
+ {
+  "id": "M2#7279",
+  "en": "without an appointment, you know."
+ }
+]

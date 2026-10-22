@@ -1,0 +1,337 @@
+[
+ {
+  "id": "M1#5280",
+  "en": "Do you mean me?"
+ },
+ {
+  "id": "M1#5281",
+  "en": "No, um,"
+ },
+ {
+  "id": "M1#5282",
+  "en": "It's Stuart, then."
+ },
+ {
+  "id": "M1#5283",
+  "en": "He was planning to marry you."
+ },
+ {
+  "id": "M1#5284",
+  "en": "Marry me",
+  "note": "followed by #180 '...': 'Marry me...'"
+ },
+ {
+  "id": "M1#5285",
+  "en": "The young master... really?"
+ },
+ {
+  "id": "M1#5286",
+  "en": "I'm truly grateful to the master and mistress."
+ },
+ {
+  "id": "M1#5287",
+  "en": "That's exactly why I want to do whatever"
+ },
+ {
+  "id": "M1#5288",
+  "en": "I can for them, but..."
+ },
+ {
+  "id": "M1#5289",
+  "en": "No matter what the mistress says to me,"
+ },
+ {
+  "id": "M1#5290",
+  "en": "I deserve it",
+  "note": "followed by #180: 'I deserve it...' (= what the mistress says to her)"
+ },
+ {
+  "id": "M1#5291",
+  "en": "My father was a businessman.",
+  "note": "rows 5291-5299 have no used_in in the slice but are part of msg 210491 (check.py shows them)"
+ },
+ {
+  "id": "M1#5292",
+  "en": "All was well while business was good, but"
+ },
+ {
+  "id": "M1#5293",
+  "en": "when his company went bankrupt..."
+ },
+ {
+  "id": "M1#5294",
+  "en": "everything changed."
+ },
+ {
+  "id": "M1#5295",
+  "en": "My father chose death for our whole family."
+ },
+ {
+  "id": "M1#5296",
+  "en": "But I was the only one who survived."
+ },
+ {
+  "id": "M1#5297",
+  "en": "And the one who kindly took me in"
+ },
+ {
+  "id": "M1#5298",
+  "en": "was Lord Stanberg, a distant relative."
+ },
+ {
+  "id": "M1#5299",
+  "en": "But"
+ },
+ {
+  "id": "M1#5300",
+  "en": "The mistress used to be a little kinder."
+ },
+ {
+  "id": "M1#5301",
+  "en": "But it's true, I..."
+ },
+ {
+  "id": "M1#5302",
+  "en": "I can't cook or clean at all."
+ },
+ {
+  "id": "M1#5303",
+  "en": "So I can't blame her."
+ },
+ {
+  "id": "M1#5304",
+  "en": "I have to try harder."
+ },
+ {
+  "id": "M1#5305",
+  "en": "Why are you crying?"
+ },
+ {
+  "id": "M1#5306",
+  "en": "The mistress told me,"
+ },
+ {
+  "id": "M1#5307",
+  "en": "\"You're no good at cooking or cleaning,"
+ },
+ {
+  "id": "M1#5308",
+  "en": "so practice!\" And then"
+ },
+ {
+  "id": "M1#5309",
+  "en": "she took the food I'd just cooked and threw"
+ },
+ {
+  "id": "M1#5310",
+  "en": "it on the floor, one dish after another!"
+ },
+ {
+  "id": "M1#5311",
+  "en": "No matter what, that's just too cruel!"
+ },
+ {
+  "id": "M1#5312",
+  "en": "I'll get so good at making beds"
+ },
+ {
+  "id": "M1#5313",
+  "en": "that even the mistress will be amazed!"
+ },
+ {
+  "id": "M1#5314",
+  "en": "Ouch!"
+ },
+ {
+  "id": "M1#5315",
+  "en": "Hm? What's wrong?"
+ },
+ {
+  "id": "M1#5316",
+  "en": "I'm all right."
+ },
+ {
+  "id": "M1#5317",
+  "en": "I just scraped myself a little."
+ },
+ {
+  "id": "M1#5318",
+  "en": "I've been doing this job a long time now, but"
+ },
+ {
+  "id": "M1#5319",
+  "en": "I'm still as clumsy as ever",
+  "note": "msg 210702 ends here; next msg 210737 opens with #180 '...' then #5320"
+ },
+ {
+  "id": "M1#5320",
+  "en": "I can't even make a bed properly."
+ },
+ {
+  "id": "M1#5321",
+  "en": "Just the other day, the mistress scolded me..."
+ },
+ {
+  "id": "M1#5322",
+  "en": "Oh, I'm sorry."
+ },
+ {
+  "id": "M1#5323",
+  "en": "Telling you about all this"
+ },
+ {
+  "id": "M1#5324",
+  "en": "won't do any good, will it?"
+ },
+ {
+  "id": "M1#5325",
+  "en": "Is something the matter?"
+ },
+ {
+  "id": "M1#5326",
+  "en": "Did you forget something?"
+ },
+ {
+  "id": "M1#5327",
+  "en": "I'm the maid of this house,",
+  "note": "expects #5234 (slice 065) = 'Luisa.' (apposition)"
+ },
+ {
+  "id": "M1#5328",
+  "en": "Is your business with the master?"
+ },
+ {
+  "id": "M1#5329",
+  "en": "Or is it with Master Stuart?"
+ },
+ {
+  "id": "M1#5330",
+  "en": "No, my business here is already done."
+ },
+ {
+  "id": "M1#5331",
+  "en": "Oh, I see. Forgive me."
+ },
+ {
+  "id": "M1#5332",
+  "en": "Think nothing of it."
+ },
+ {
+  "id": "M1#5333",
+  "en": "No, I'll come by later."
+ },
+ {
+  "id": "M1#5334",
+  "en": "No, I'll come by tomorrow."
+ },
+ {
+  "id": "M1#5335",
+  "en": "Yes, please."
+ },
+ {
+  "id": "M1#5336",
+  "en": "Oh, that's right."
+ },
+ {
+  "id": "M1#5337",
+  "en": "So, about the message..."
+ },
+ {
+  "id": "M1#5338",
+  "en": "Sorry. I'll come back another time."
+ },
+ {
+  "id": "M1#5339",
+  "en": "How's work going?"
+ },
+ {
+  "id": "M1#5340",
+  "en": "Do you really mean that?"
+ },
+ {
+  "id": "M1#5341",
+  "en": "Young master..."
+ },
+ {
+  "id": "M1#5342",
+  "en": "Stuart..."
+ },
+ {
+  "id": "M1#5343",
+  "en": "Oh, you mean me?",
+  "note": "gentle twin of #5280; player teasingly takes Luisa's 'I love you' as meant for him"
+ },
+ {
+  "id": "M1#5344",
+  "en": "It's Stuart, isn't it?"
+ },
+ {
+  "id": "M1#5345",
+  "en": "He was thinking of marrying you, you know."
+ },
+ {
+  "id": "M1#5346",
+  "en": "Why are you crying?"
+ },
+ {
+  "id": "M1#5347",
+  "en": "Sorry, I've already finished my business."
+ },
+ {
+  "id": "M1#5348",
+  "en": "No, I'm the one who should apologize."
+ },
+ {
+  "id": "M1#5349",
+  "en": "Who's there at this hour?"
+ },
+ {
+  "id": "M1#5350",
+  "en": "Is that you, Stuart?"
+ },
+ {
+  "id": "M1#5351",
+  "en": "Won't I do?",
+  "note": "reply to #5349/#5350 (Luisa hoped it was Stuart)"
+ },
+ {
+  "id": "M1#5352",
+  "en": "Has the wedding date been set?"
+ },
+ {
+  "id": "M1#5353",
+  "en": "Yes. They say it'll be the next holiday."
+ },
+ {
+  "id": "M1#5354",
+  "en": "will you be coming?",
+  "note": "after {PLAYER_NAME} + #3619 ',' and a line break"
+ },
+ {
+  "id": "M1#5355",
+  "en": "Well, I don't think I'll be able to make it."
+ },
+ {
+  "id": "M1#5356",
+  "en": "What a shame.",
+  "note": "variant for Christine msg 239177, where it follows #1921+#2+#25 on the same line",
+  "variants": [
+   {
+    "msg": 239177,
+    "en": " What a shame."
+   }
+  ]
+ },
+ {
+  "id": "M1#5357",
+  "en": "Instead, I've got a wedding present"
+ },
+ {
+  "id": "M1#5358",
+  "en": "for you. Will you accept it?"
+ },
+ {
+  "id": "M1#5359",
+  "en": "Oh, thank you."
+ }
+]

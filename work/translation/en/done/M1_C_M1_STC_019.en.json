@@ -1,0 +1,338 @@
+[
+ {
+  "id": "M1#1520",
+  "en": "Hey, ",
+  "note": "msg 59031: 'Hey, NAME,' (#1488 = ',') then box break"
+ },
+ {
+  "id": "M1#1521",
+  "en": "About that warehouse of hidden gems I told you about,",
+  "note": "mirrors #1452 (slice 018)"
+ },
+ {
+  "id": "M1#1522",
+  "en": "did you go and see it?"
+ },
+ {
+  "id": "M1#1523",
+  "en": "You got to see some rare stuff, didn't you?",
+  "note": "no used_in; kept as the question before #1524"
+ },
+ {
+  "id": "M1#1524",
+  "en": "I'd recommend going to see it at least once."
+ },
+ {
+  "id": "M1#1525",
+  "en": " has really become",
+  "note": "matches #1460 ' has really become' (slice 018) before #1461 'one of my regulars, huh?'"
+ },
+ {
+  "id": "M1#1526",
+  "en": "It's been ages since anyone visited my home."
+ },
+ {
+  "id": "M1#1527",
+  "en": "The shop gets customers every day, though."
+ },
+ {
+  "id": "M1#1528",
+  "en": "Please do. It's my own place.",
+  "note": "follows #1466 'If you'd like, stop by Cafe Jahn.' (slice 018)"
+ },
+ {
+  "id": "M1#1529",
+  "en": "A cafe... coffee, is it?"
+ },
+ {
+  "id": "M1#1530",
+  "en": "I'll be waiting, so be sure to come."
+ },
+ {
+  "id": "M1#1531",
+  "en": "I'd love to see you.",
+  "note": "follows #1470 'Next time, at Cafe Jahn,' (slice 018)"
+ },
+ {
+  "id": "M1#1532",
+  "en": "What's wrong, "
+ },
+ {
+  "id": "M1#1533",
+  "en": "Do you need advice about something?"
+ },
+ {
+  "id": "M1#1534",
+  "en": "! What a surprise.",
+  "note": "Name comes first in the message, so the 'it's you!' surprise follows it"
+ },
+ {
+  "id": "M1#1535",
+  "en": "Coming all this way just to visit me"
+ },
+ {
+  "id": "M1#1536",
+  "en": "makes me happy."
+ },
+ {
+  "id": "M1#1537",
+  "en": "I'd be even happier if you came to the shop, though."
+ },
+ {
+  "id": "M1#1538",
+  "en": "Well, you've come all this way."
+ },
+ {
+  "id": "M1#1539",
+  "en": "Come on in and have some coffee."
+ },
+ {
+  "id": "M1#1540",
+  "en": "It's on me, of course."
+ },
+ {
+  "id": "M1#1541",
+  "en": "You thought I hadn't noticed,"
+ },
+ {
+  "id": "M1#1542",
+  "en": "did you?"
+ },
+ {
+  "id": "M1#1543",
+  "en": "By day you come to my shop so often,"
+ },
+ {
+  "id": "M1#1544",
+  "en": "and at night you kiss my neck..."
+ },
+ {
+  "id": "M1#1545",
+  "en": "No, I never meant to deceive you, Mr. Jahn...",
+  "note": "[PLAYER] to Jahn; Mr. kept (polite young vampire)"
+ },
+ {
+  "id": "M1#1546",
+  "en": "You don't have to hide it anymore."
+ },
+ {
+  "id": "M1#1547",
+  "en": "I felt it too, from the moment I first saw you."
+ },
+ {
+  "id": "M1#1548",
+  "en": "Something just clicked."
+ },
+ {
+  "id": "M1#1549",
+  "en": "I've decided to accept your love."
+ },
+ {
+  "id": "M1#1550",
+  "en": "There's no need to hold back anymore."
+ },
+ {
+  "id": "M1#1551",
+  "en": "(What do I do...)"
+ },
+ {
+  "id": "M1#1552",
+  "en": "I see, you'd rather I made the first move."
+ },
+ {
+  "id": "M1#1553",
+  "en": "Waaah!"
+ },
+ {
+  "id": "M1#1554",
+  "en": "I'm sleepy.",
+  "note": "preceded by three #180 fragments (see report)"
+ },
+ {
+  "id": "M1#1555",
+  "en": "I'm Klaus."
+ },
+ {
+  "id": "M1#1556",
+  "en": "I work at the Coast Guard."
+ },
+ {
+  "id": "M1#1557",
+  "en": "It really is a lovely morning."
+ },
+ {
+  "id": "M1#1558",
+  "en": "Another lovely morning, isn't it?"
+ },
+ {
+  "id": "M1#1559",
+  "en": "How are you doing?"
+ },
+ {
+  "id": "M1#1560",
+  "en": "Oh, we haven't met before, have we?"
+ },
+ {
+  "id": "M1#1561",
+  "en": "We run into each other so often,"
+ },
+ {
+  "id": "M1#1562",
+  "en": "do we live near each other?"
+ },
+ {
+  "id": "M1#1563",
+  "en": "A fine evening, isn't it?"
+ },
+ {
+  "id": "M1#1564",
+  "en": "Another day has passed without incident."
+ },
+ {
+  "id": "M1#1565",
+  "en": "This is the Coast Guard."
+ },
+ {
+  "id": "M1#1566",
+  "en": "Has something happened?"
+ },
+ {
+  "id": "M1#1567",
+  "en": "No, of course not."
+ },
+ {
+  "id": "M1#1568",
+  "en": "After all, Calstatt is a peaceful town."
+ },
+ {
+  "id": "M1#1569",
+  "en": "Oh, hello there."
+ },
+ {
+  "id": "M1#1570",
+  "en": "This is the Coast Guard, where I work."
+ },
+ {
+  "id": "M1#1571",
+  "en": "You mustn't. When nothing has happened,"
+ },
+ {
+  "id": "M1#1572",
+  "en": "you shouldn't keep coming here."
+ },
+ {
+  "id": "M1#1573",
+  "en": "Calstatt is a peaceful town, you see."
+ },
+ {
+  "id": "M1#1574",
+  "en": "The sea is calm and the town is quiet today."
+ },
+ {
+  "id": "M1#1575",
+  "en": "Calm, uneventful days just keep"
+ },
+ {
+  "id": "M1#1576",
+  "en": "going by, don't they?"
+ },
+ {
+  "id": "M1#1577",
+  "en": "(Enjoy these peaceful days"
+ },
+ {
+  "id": "M1#1578",
+  "en": "while you still can.)"
+ },
+ {
+  "id": "M1#1579",
+  "en": "Is something on my face?",
+  "note": "preceded by three #180 fragments (see report)"
+ },
+ {
+  "id": "M1#1580",
+  "en": "No, it's nothing."
+ },
+ {
+  "id": "M1#1581",
+  "en": "Every day is so uneventful, it gets boring."
+ },
+ {
+  "id": "M1#1582",
+  "en": "You think it's an easy job, don't you?"
+ },
+ {
+  "id": "M1#1583",
+  "en": "<I don't think so>",
+  "note": "choice, angle brackets"
+ },
+ {
+  "id": "M1#1584",
+  "en": "<It must be boring>",
+  "note": "choice, angle brackets"
+ },
+ {
+  "id": "M1#1585",
+  "en": "Captain Stelan says Calstatt ",
+  "note": "rows 1585+1586 print on one line; trailing space carries the join; speaker probably [PLAYER] (see report)"
+ },
+ {
+  "id": "M1#1586",
+  "en": "is a town that grew very suddenly."
+ },
+ {
+  "id": "M1#1587",
+  "en": "Even just watching for smuggling and illegal immigration ",
+  "note": "rows 1587+1588/#1631 print on one line; trailing space carries the join"
+ },
+ {
+  "id": "M1#1588",
+  "en": "can't be an easy job."
+ },
+ {
+  "id": "M1#1589",
+  "en": "With a town growing this fast,",
+  "note": "[PLAYER]; #1632 (slice 020) must continue 'With a town growing this fast,'"
+ },
+ {
+  "id": "M1#1590",
+  "en": "I'd expect smuggling and illegal immigration to be common."
+ },
+ {
+  "id": "M1#1591",
+  "en": "Even if you talk about such scary things,"
+ },
+ {
+  "id": "M1#1592",
+  "en": "Calstatt's peace isn't going to change."
+ },
+ {
+  "id": "M1#1593",
+  "en": "Ah, it really is peaceful.",
+  "note": "speaker uncertain (untagged line before [Klaus]); kept subject-free"
+ },
+ {
+  "id": "M1#1594",
+  "en": "On a day like this, I'd like to hurry home"
+ },
+ {
+  "id": "M1#1595",
+  "en": "and sit down to the dinner my wife made."
+ },
+ {
+  "id": "M1#1596",
+  "en": "My wife's cooking is second to none."
+ },
+ {
+  "id": "M1#1597",
+  "en": "I hear all sorts of rumors lately."
+ },
+ {
+  "id": "M1#1598",
+  "en": "Suspicious people at the harbor, or at night"
+ },
+ {
+  "id": "M1#1599",
+  "en": "brawls breaking out..."
+ }
+]

@@ -1,0 +1,351 @@
+[
+ {
+  "id": "M2#2000",
+  "en": "A real chance to show off my skills!"
+ },
+ {
+  "id": "M2#2001",
+  "en": "I'll fix your watch too, you know."
+ },
+ {
+  "id": "M2#2002",
+  "en": "Come see me again,"
+ },
+ {
+  "id": "M2#2003",
+  "en": "even at my house, if you like."
+ },
+ {
+  "id": "M2#2004",
+  "en": "Craftsman"
+ },
+ {
+  "id": "M2#2005",
+  "en": "I shall acknowledge your skill."
+ },
+ {
+  "id": "M2#2006",
+  "en": "Now, come to me."
+ },
+ {
+  "id": "M2#2007",
+  "en": "Mmph!"
+ },
+ {
+  "id": "M2#2008",
+  "en": "what's...",
+  "note": "msg 66905: '#1334 Wh-' <p> #2008 <p> #2009 <p> dots. Gives 'Wh- what's... happening...' (auto_space adds the spaces). Dean is being bitten."
+ },
+ {
+  "id": "M2#2009",
+  "en": "happening"
+ },
+ {
+  "id": "M2#2010",
+  "en": "Become my servant,",
+  "note": "Shared with Madeline msg 398661: #10408 must start lowercase with 'and' ('and live a while longer')."
+ },
+ {
+  "id": "M2#2011",
+  "en": "and put those skills to full use"
+ },
+ {
+  "id": "M2#2012",
+  "en": "Huh, a new face. From out of town?"
+ },
+ {
+  "id": "M2#2013",
+  "en": "Something like that."
+ },
+ {
+  "id": "M2#2014",
+  "en": "I'm Dean, a clockmaker."
+ },
+ {
+  "id": "M2#2015",
+  "en": "Clock repairs? Done in a flash."
+ },
+ {
+  "id": "M2#2016",
+  "en": "Pardon? ...Oh, so it has."
+ },
+ {
+  "id": "M2#2017",
+  "en": "Thank you for telling me."
+ },
+ {
+  "id": "M2#2018",
+  "en": "But how ever did you notice?"
+ },
+ {
+  "id": "M2#2019",
+  "en": "I see, of course you would."
+ },
+ {
+  "id": "M2#2020",
+  "en": "Pleased to meet you, Dean."
+ },
+ {
+  "id": "M2#2021",
+  "en": "Yes, I'll do that. Thank you. Good night."
+ },
+ {
+  "id": "M2#2022",
+  "en": "<Yes, well enough>",
+  "note": "Answer choice (no used_in); gentle parallel of #1941. Leads to #2024."
+ },
+ {
+  "id": "M2#2023",
+  "en": "<Not very well, I'm afraid>",
+  "note": "Answer choice (no used_in); gentle parallel of #1942. Leads to msg 67216 (#1946/#2025/#2026)."
+ },
+ {
+  "id": "M2#2024",
+  "en": "What, just 'well enough'?"
+ },
+ {
+  "id": "M2#2025",
+  "en": "You always look a bit pale, you know."
+ },
+ {
+  "id": "M2#2026",
+  "en": "Health is a treasure. You'd better look after it."
+ },
+ {
+  "id": "M2#2027",
+  "en": "Hello. Is this a clock shop?"
+ },
+ {
+  "id": "M2#2028",
+  "en": "Since you're here, bring me some work."
+ },
+ {
+  "id": "M2#2029",
+  "en": "Then you're always welcome."
+ },
+ {
+  "id": "M2#2030",
+  "en": "You quite like seeing the factory, huh?"
+ },
+ {
+  "id": "M2#2031",
+  "en": "Well, I'm not that busy myself. Sure."
+ },
+ {
+  "id": "M2#2032",
+  "en": "Few young folks take up this kind of work."
+ },
+ {
+  "id": "M2#2033",
+  "en": "Me, I'm content with it. I love this work."
+ },
+ {
+  "id": "M2#2034",
+  "en": "So every day is fun and rewarding."
+ },
+ {
+  "id": "M2#2035",
+  "en": "I don't mind any job, however small,"
+ },
+ {
+  "id": "M2#2036",
+  "en": "but a job where I can really go all out is",
+  "note": "#2037 is on its own line after a line break, so the predicate 'the best.' goes there."
+ },
+ {
+  "id": "M2#2037",
+  "en": "the best."
+ },
+ {
+  "id": "M2#2038",
+  "en": "I'll fix your watch too, you know."
+ },
+ {
+  "id": "M2#2039",
+  "en": "Come again. My house is fine too."
+ },
+ {
+  "id": "M2#2040",
+  "en": "Lately, I feel I am losing the line between"
+ },
+ {
+  "id": "M2#2041",
+  "en": "the conscious and the unconscious"
+ },
+ {
+  "id": "M2#2042",
+  "en": "I am Claude.",
+  "note": "After '#513 Good morning. ' (variant at 70266) or '#426 Hello.' (no space): variants with a leading space for 70358/71309/71401.",
+  "variants": [
+   {
+    "msg": 70358,
+    "en": " I am Claude."
+   },
+   {
+    "msg": 71309,
+    "en": " I am Claude."
+   },
+   {
+    "msg": 71401,
+    "en": " I am Claude."
+   }
+  ]
+ },
+ {
+  "id": "M2#2043",
+  "en": "Forgive me, but my head is full of my paper."
+ },
+ {
+  "id": "M2#2044",
+  "en": "Let us leave greetings for another time."
+ },
+ {
+  "id": "M2#2045",
+  "en": "Ah, it's you."
+ },
+ {
+  "id": "M2#2046",
+  "en": "Forgive me."
+ },
+ {
+  "id": "M2#2047",
+  "en": "Good morning, ",
+  "note": "Before the name. Variant without the trailing space for Rhoda msg 361697, where a line break follows.",
+  "variants": [
+   {
+    "msg": 361697,
+    "en": "Good morning,"
+   }
+  ]
+ },
+ {
+  "id": "M2#2048",
+  "en": "I'm on my way to Trafalgar Square"
+ },
+ {
+  "id": "M2#2049",
+  "en": "to rest my mind a little."
+ },
+ {
+  "id": "M2#2050",
+  "en": "If my theories interest you that much,"
+ },
+ {
+  "id": "M2#2051",
+  "en": "come to Vienna."
+ },
+ {
+  "id": "M2#2052",
+  "en": ", it's you.",
+  "note": "Same as #101: '{NAME}, it's you.' The next row starts a sentence."
+ },
+ {
+  "id": "M2#2053",
+  "en": "I must return to my hotel and keep at my"
+ },
+ {
+  "id": "M2#2054",
+  "en": "paper, so I'll take my leave."
+ },
+ {
+  "id": "M2#2055",
+  "en": "Sorry, I'm busy working on my paper."
+ },
+ {
+  "id": "M2#2056",
+  "en": "I'd ask you to save greetings for later."
+ },
+ {
+  "id": "M2#2057",
+  "en": "A paper?"
+ },
+ {
+  "id": "M2#2058",
+  "en": "Yes. I am Claude, a neurologist."
+ },
+ {
+  "id": "M2#2059",
+  "en": "Forgive me, but a proper introduction"
+ },
+ {
+  "id": "M2#2060",
+  "en": "will have to wait for another time."
+ },
+ {
+  "id": "M2#2061",
+  "en": "Forgive me, but I can't break off now."
+ },
+ {
+  "id": "M2#2062",
+  "en": "Another time, please."
+ },
+ {
+  "id": "M2#2063",
+  "en": "You are quite keen."
+ },
+ {
+  "id": "M2#2064",
+  "en": "My theories will surely come out as a book,"
+ },
+ {
+  "id": "M2#2065",
+  "en": "so you can read them there."
+ },
+ {
+  "id": "M2#2066",
+  "en": "Your keenness is commendable, but"
+ },
+ {
+  "id": "M2#2067",
+  "en": "I leave London once the conference ends."
+ },
+ {
+  "id": "M2#2068",
+  "en": "If you are interested in neurology,"
+ },
+ {
+  "id": "M2#2069",
+  "en": "come to Vienna sometime."
+ },
+ {
+  "id": "M2#2070",
+  "en": "I have my practice there."
+ },
+ {
+  "id": "M2#2071",
+  "en": "If you have the chance, stop by Vienna."
+ },
+ {
+  "id": "M2#2072",
+  "en": "We can do a \"training analysis\" there."
+ },
+ {
+  "id": "M2#2073",
+  "en": "Analyzing ourselves before we take on real"
+ },
+ {
+  "id": "M2#2074",
+  "en": "patients, to learn the skills a clinic needs:"
+ },
+ {
+  "id": "M2#2075",
+  "en": "that is what a \"training analysis\" is."
+ },
+ {
+  "id": "M2#2076",
+  "en": "Sorry, \"training analysis\" is impossible here."
+ },
+ {
+  "id": "M2#2077",
+  "en": "It takes a year at the very least."
+ },
+ {
+  "id": "M2#2078",
+  "en": "If I stayed in London that long, I could not ",
+  "note": "#2078 + #2079 are joined with no line break; the trailing space separates them."
+ },
+ {
+  "id": "M2#2079",
+  "en": "treat my patients in Vienna."
+ }
+]

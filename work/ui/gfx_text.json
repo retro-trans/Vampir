@@ -1,0 +1,193 @@
+[
+ {
+  "file": "DC/DOP.DAT",
+  "off": "0x40",
+  "kind": "strip",
+  "text": "Like wings soaring through the void,",
+  "jp_index": 0
+ },
+ {
+  "file": "DC/DOP.DAT",
+  "off": "0x1200",
+  "kind": "strip",
+  "text": "the past flies away again, beyond memory...",
+  "jp_index": 1
+ },
+ {
+  "file": "DC/DOP.DAT",
+  "off": "0x23c0",
+  "kind": "strip",
+  "text": "No one can make time stand still.",
+  "jp_index": 2
+ },
+ {
+  "file": "DC/DOP.DAT",
+  "off": "0x3580",
+  "kind": "strip",
+  "text": "It passes on without mercy,",
+  "jp_index": 3
+ },
+ {
+  "file": "DC/DOP.DAT",
+  "off": "0x4740",
+  "kind": "strip",
+  "text": "and a Vampir can only wander through eternity.",
+  "jp_index": 4
+ },
+ {
+  "file": "DC/DOP.DAT",
+  "off": "0x5900",
+  "kind": "strip",
+  "text": "Thousands of days, tens of thousands of nights...",
+  "jp_index": 5
+ },
+ {
+  "file": "DC/DOP.DAT",
+  "off": "0x6ac0",
+  "kind": "strip",
+  "text": "In the pitch-black dark, a voice calls: \"Awaken.\"",
+  "jp_index": 6
+ },
+ {
+  "file": "DC/DOP.DAT",
+  "off": "0x7c80",
+  "kind": "strip",
+  "text": "My name is...",
+  "jp_index": 7
+ },
+ {
+  "file": "DC/DD3.DAT",
+  "off": "0x28",
+  "kind": "strip",
+  "text": "In sorrow, the rose withers."
+ },
+ {
+  "file": "DC/DD3.DAT",
+  "off": "0x11e8",
+  "kind": "strip",
+  "text": "Seeking the end of time, I wander."
+ },
+ {
+  "file": "DC/DD3.DAT",
+  "off": "0x23a8",
+  "kind": "strip",
+  "text": "Unbearable loneliness, emptiness..."
+ },
+ {
+  "file": "DC/DD3.DAT",
+  "off": "0x3568",
+  "kind": "strip",
+  "text": "Search the whole world, my love is gone."
+ },
+ {
+  "file": "DC/DD3.DAT",
+  "off": "0x4728",
+  "kind": "strip",
+  "text": "Search the whole world, no feeling surpasses this love."
+ },
+ {
+  "file": "DC/DED.DAT",
+  "off": "0x28",
+  "kind": "strip",
+  "text": "In sorrow, the rose withers."
+ },
+ {
+  "file": "DC/DED.DAT",
+  "off": "0x11e8",
+  "kind": "strip",
+  "text": "Seeking the end of time, I wander."
+ },
+ {
+  "file": "DC/DED.DAT",
+  "off": "0x23a8",
+  "kind": "strip",
+  "text": "Unbearable loneliness, emptiness..."
+ },
+ {
+  "file": "DC/DED.DAT",
+  "off": "0x3568",
+  "kind": "strip",
+  "text": "Search the whole world, my love is gone."
+ },
+ {
+  "file": "DC/DED.DAT",
+  "off": "0x4728",
+  "kind": "strip",
+  "text": "Search the whole world, no feeling surpasses this love."
+ },
+ {
+  "file": "DC/LDN.DAT",
+  "off": "0x25c5c",
+  "kind": "strip",
+  "text": "In sorrow, the rose withers."
+ },
+ {
+  "file": "DC/LDN.DAT",
+  "off": "0x26e1c",
+  "kind": "strip",
+  "text": "Seeking the end of time, I wander."
+ },
+ {
+  "file": "DC/LDN.DAT",
+  "off": "0x27fdc",
+  "kind": "strip",
+  "text": "Unbearable loneliness, emptiness..."
+ },
+ {
+  "file": "DC/LDN.DAT",
+  "off": "0x2919c",
+  "kind": "strip",
+  "text": "Search the whole world, my love is gone."
+ },
+ {
+  "file": "DC/OPN.DAT",
+  "off": "0x41438",
+  "kind": "logo",
+  "text": "Vampir",
+  "size": 74,
+  "dy": -4
+ },
+ {
+  "file": "DC/OPN.DAT",
+  "off": "0x46ad8",
+  "kind": "subtitle",
+  "text": "Legend of the Vampire",
+  "box": [
+   40,
+   74,
+   168,
+   22
+  ],
+  "size": 15
+ },
+ {
+  "file": "DC/ST.DAT",
+  "off": "0x20",
+  "kind": "lines",
+  "size": 11,
+  "jp": "staff roles",
+  "lines": [
+   "Producer",
+   "Director",
+   "Assistant Director",
+   "Main Programmer",
+   "Main Graphics Designer",
+   "Main Sound Designer",
+   "Staff",
+   "Scenario",
+   "PocketStation Planner",
+   "PocketStation Engineer",
+   "Programmers",
+   "Graphics Designers",
+   "Movie",
+   "Assistant Producer",
+   "Production",
+   "Advertising",
+   "Publicity",
+   "Test Play Coordination",
+   "Assistant Staff",
+   null
+  ],
+  "text": "(roles)"
+ }
+]

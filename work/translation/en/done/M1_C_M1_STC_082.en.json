@@ -1,0 +1,328 @@
+[
+ {
+  "id": "M1#6560",
+  "en": "Do you always stay overnight at the school, Miss Emma?",
+  "note": "Christopher addresses the teacher Emma (she introduced herself by name earlier, msg 263255) as 'Miss Emma'."
+ },
+ {
+  "id": "M1#6561",
+  "en": "Yes. I'm on night duty for a while"
+ },
+ {
+  "id": "M1#6562",
+  "en": "There's something I'd like you to teach me"
+ },
+ {
+  "id": "M1#6563",
+  "en": "Is now a good time?"
+ },
+ {
+  "id": "M1#6564",
+  "en": "It's the taste of your blood, Miss Emma",
+  "note": "Night scene: answers his earlier 'something I'd like you to teach me' (#6562)."
+ },
+ {
+  "id": "M1#6565",
+  "en": "By night, I am yours to command"
+ },
+ {
+  "id": "M1#6566",
+  "en": "Ah. Every single day is so dull"
+ },
+ {
+  "id": "M1#6567",
+  "en": "I wish something interesting would happen."
+ },
+ {
+  "id": "M1#6568",
+  "en": "How do you do, madame."
+ },
+ {
+  "id": "M1#6569",
+  "en": "."
+ },
+ {
+  "id": "M1#6570",
+  "en": "Oh my, what a charming gentleman."
+ },
+ {
+  "id": "M1#6571",
+  "en": "Have you come on my husband's business today?"
+ },
+ {
+  "id": "M1#6572",
+  "en": "No, madame. I came only to look upon your face."
+ },
+ {
+  "id": "M1#6573",
+  "en": "Oh my, what a flatterer you are."
+ },
+ {
+  "id": "M1#6574",
+  "en": "My, you are an amusing man."
+ },
+ {
+  "id": "M1#6575",
+  "en": "Thank you for listening to me."
+ },
+ {
+  "id": "M1#6576",
+  "en": "I feel a little better now."
+ },
+ {
+  "id": "M1#6577",
+  "en": "Ah, every single day is so dull."
+ },
+ {
+  "id": "M1#6578",
+  "en": "Say, ",
+  "note": "'Say, ' + name + #223 ','"
+ },
+ {
+  "id": "M1#6579",
+  "en": "will you hear what I have to say?"
+ },
+ {
+  "id": "M1#6580",
+  "en": "My husband's too busy with work to pay me"
+ },
+ {
+  "id": "M1#6581",
+  "en": "any mind. The servants do everything for"
+ },
+ {
+  "id": "M1#6582",
+  "en": "him, so I have nothing at all to do."
+ },
+ {
+  "id": "M1#6583",
+  "en": "Poetry recitals, embroidery, piano... I'm"
+ },
+ {
+  "id": "M1#6584",
+  "en": "fed up with them. They don't interest me."
+ },
+ {
+  "id": "M1#6585",
+  "en": "I can't bear to stay home all day."
+ },
+ {
+  "id": "M1#6586",
+  "en": "My husband says to stay home quietly, but"
+ },
+ {
+  "id": "M1#6587",
+  "en": "I've had enough."
+ },
+ {
+  "id": "M1#6588",
+  "en": "Even this town has shops and theaters."
+ },
+ {
+  "id": "M1#6589",
+  "en": "Going out is the only way to pass the time."
+ },
+ {
+  "id": "M1#6590",
+  "en": "I meant to go out, but my husband caught"
+ },
+ {
+  "id": "M1#6591",
+  "en": "me. \"I'll buy you whatever you want, but in"
+ },
+ {
+  "id": "M1#6592",
+  "en": "return you mustn't leave the house,\" he said."
+ },
+ {
+  "id": "M1#6593",
+  "en": "It's like a prison."
+ },
+ {
+  "id": "M1#6594",
+  "en": "Women who are free to go out as they like...",
+  "note": "Japanese order kept (free women / I envy them) so each row stays aligned."
+ },
+ {
+  "id": "M1#6595",
+  "en": "Oh, how I envy them."
+ },
+ {
+  "id": "M1#6596",
+  "en": "Oh, I wish I could go out freely too."
+ },
+ {
+  "id": "M1#6597",
+  "en": "However rich I may be, when I'm this bored,"
+ },
+ {
+  "id": "M1#6598",
+  "en": "I just can't stand it"
+ },
+ {
+  "id": "M1#6599",
+  "en": "Who is it?"
+ },
+ {
+  "id": "M1#6600",
+  "en": "Oh, it's you"
+ },
+ {
+  "id": "M1#6601",
+  "en": "I knew you would come."
+ },
+ {
+  "id": "M1#6602",
+  "en": "Ever since the first time you came here,"
+ },
+ {
+  "id": "M1#6603",
+  "en": "I had a feeling that a day like this would"
+ },
+ {
+  "id": "M1#6604",
+  "en": "come someday."
+ },
+ {
+  "id": "M1#6605",
+  "en": "I thought so as well."
+ },
+ {
+  "id": "M1#6606",
+  "en": "That this day would surely come"
+ },
+ {
+  "id": "M1#6607",
+  "en": "Flattering as ever."
+ },
+ {
+  "id": "M1#6608",
+  "en": "But I'm glad."
+ },
+ {
+  "id": "M1#6609",
+  "en": "Now, come in."
+ },
+ {
+  "id": "M1#6610",
+  "en": "Ahh.",
+  "note": "Moan while being bitten (night scene)."
+ },
+ {
+  "id": "M1#6611",
+  "en": "You're so good at this."
+ },
+ {
+  "id": "M1#6612",
+  "en": "ah",
+  "note": "No used_in in the slice, but msg 267289 ends #64 + pause + #6612 + three #180 dots: with #64 variant 'Ah, ' it prints 'Ah, ah...'. Needs that #64 variant (see report)."
+ },
+ {
+  "id": "M1#6613",
+  "en": "To you, who were sick of your dull days,"
+ },
+ {
+  "id": "M1#6614",
+  "en": "I have granted the freedom to go out."
+ },
+ {
+  "id": "M1#6615",
+  "en": "Rejoice, then."
+ },
+ {
+  "id": "M1#6616",
+  "en": "By night, you shall go out as you please"
+ },
+ {
+  "id": "M1#6617",
+  "en": "and run amok"
+ },
+ {
+  "id": "M1#6618",
+  "en": "Ah. Every single day is so dull..."
+ },
+ {
+  "id": "M1#6619",
+  "en": "You there, don't you have anything amusing?"
+ },
+ {
+  "id": "M1#6620",
+  "en": "If you'd like, I'll gladly keep you company."
+ },
+ {
+  "id": "M1#6621",
+  "en": "Oh, how lovely. To think that such a young,"
+ },
+ {
+  "id": "M1#6622",
+  "en": "charming man would come to see me."
+ },
+ {
+  "id": "M1#6623",
+  "en": "I'll be waiting. Do come again."
+ },
+ {
+  "id": "M1#6624",
+  "en": "Do come and visit me again."
+ },
+ {
+  "id": "M1#6625",
+  "en": "My husband's too busy with work to bother"
+ },
+ {
+  "id": "M1#6626",
+  "en": "with me, and the servants see to my every"
+ },
+ {
+  "id": "M1#6627",
+  "en": "need, so I have nothing at all to do."
+ },
+ {
+  "id": "M1#6628",
+  "en": "I refuse to stay at home all day."
+ },
+ {
+  "id": "M1#6629",
+  "en": "I've had quite enough of that."
+ },
+ {
+  "id": "M1#6630",
+  "en": "There are shops and theaters even in this town."
+ },
+ {
+  "id": "M1#6631",
+  "en": "They should help pass the time, surely"
+ },
+ {
+  "id": "M1#6632",
+  "en": "I tried to go out, and my husband caught me."
+ },
+ {
+  "id": "M1#6633",
+  "en": "\"I'll buy you whatever you want, but in"
+ },
+ {
+  "id": "M1#6634",
+  "en": "return you mustn't leave the house,\" he says."
+ },
+ {
+  "id": "M1#6635",
+  "en": "Just give me yer orders, whatever they be."
+ },
+ {
+  "id": "M1#6636",
+  "en": "Eh, that you, old man? Just got back, have ye?"
+ },
+ {
+  "id": "M1#6637",
+  "en": "I'll have you know"
+ },
+ {
+  "id": "M1#6638",
+  "en": "Eh?"
+ },
+ {
+  "id": "M1#6639",
+  "en": "Sorry, my ears ain't what they used to be."
+ }
+]

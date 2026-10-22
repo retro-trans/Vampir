@@ -1,0 +1,332 @@
+[
+ {
+  "id": "M2#5520",
+  "en": "Oh, it's you. Carefree as ever, I see."
+ },
+ {
+  "id": "M2#5521",
+  "en": "Or should I say idle?"
+ },
+ {
+  "id": "M2#5522",
+  "en": "I'd almost like you to do my job for me."
+ },
+ {
+  "id": "M2#5523",
+  "en": "I have to see to everything, even funding,"
+ },
+ {
+  "id": "M2#5524",
+  "en": "so it's truly back-breaking."
+ },
+ {
+  "id": "M2#5525",
+  "en": "Ah, it's you. Keeping well?"
+ },
+ {
+  "id": "M2#5526",
+  "en": "I'm keeping well myself."
+ },
+ {
+  "id": "M2#5527",
+  "en": "I've heard a little rumour that you come"
+ },
+ {
+  "id": "M2#5528",
+  "en": "from a certain noble family abroad..."
+ },
+ {
+  "id": "M2#5529",
+  "en": "How about dinner together sometime?"
+ },
+ {
+  "id": "M2#5530",
+  "en": "I'd like to hear about your lineage."
+ },
+ {
+  "id": "M2#5531",
+  "en": "(Vulgar human... How galling...)"
+ },
+ {
+  "id": "M2#5532",
+  "en": "Hm? Who are you?"
+ },
+ {
+  "id": "M2#5533",
+  "en": "State your business."
+ },
+ {
+  "id": "M2#5534",
+  "en": "You would be Councillor Norman, I take it."
+ },
+ {
+  "id": "M2#5535",
+  "en": "Indeed, I am Norman."
+ },
+ {
+  "id": "M2#5536",
+  "en": "Well, I am supposed to hear out"
+ },
+ {
+  "id": "M2#5537",
+  "en": "the public, after all. What is it?"
+ },
+ {
+  "id": "M2#5538",
+  "en": "I came to see what sort of place this is."
+ },
+ {
+  "id": "M2#5539",
+  "en": "Just sightseeing?! Unbelievable."
+ },
+ {
+  "id": "M2#5540",
+  "en": "I wasted my time coming out in person."
+ },
+ {
+  "id": "M2#5541",
+  "en": "Do you remember that we have met before?"
+ },
+ {
+  "id": "M2#5542",
+  "en": "Hmph. I have more acquaintances than"
+ },
+ {
+  "id": "M2#5543",
+  "en": "I can count. I can't be expected to"
+ },
+ {
+  "id": "M2#5544",
+  "en": "remember every person I meet in passing."
+ },
+ {
+  "id": "M2#5545",
+  "en": "the public, after all.",
+  "note": "Shares #5536 'Well, I am supposed to hear out'. Variant with trailing space for msg 227023, where #5605 follows on the same line.",
+  "variants": [
+   {
+    "msg": 227023,
+    "en": "the public, after all. "
+   }
+  ]
+ },
+ {
+  "id": "M2#5546",
+  "en": "If you have something to say, say it."
+ },
+ {
+  "id": "M2#5547",
+  "en": "You again?"
+ },
+ {
+  "id": "M2#5548",
+  "en": "I don't give guided tours, you know."
+ },
+ {
+  "id": "M2#5549",
+  "en": "I hear you've been visiting all sorts of"
+ },
+ {
+  "id": "M2#5550",
+  "en": "other places as well."
+ },
+ {
+  "id": "M2#5551",
+  "en": "I have a great deal of free time."
+ },
+ {
+  "id": "M2#5552",
+  "en": "So you wander aimlessly all over town,"
+ },
+ {
+  "id": "M2#5553",
+  "en": "is that it? London is filling up with odd"
+ },
+ {
+  "id": "M2#5554",
+  "en": "people. Hmph."
+ },
+ {
+  "id": "M2#5555",
+  "en": "Don't you ever tire of it? Here again?"
+ },
+ {
+  "id": "M2#5556",
+  "en": "Well, you hardly look like a spy or any"
+ },
+ {
+  "id": "M2#5557",
+  "en": "such thing. You're far too careless."
+ },
+ {
+  "id": "M2#5558",
+  "en": "Only, I'll ask you not to get in my way."
+ },
+ {
+  "id": "M2#5559",
+  "en": "Could it be that you..."
+ },
+ {
+  "id": "M2#5560",
+  "en": "...go about ducking under every roof"
+ },
+ {
+  "id": "M2#5561",
+  "en": "you pass because it's cold outside?"
+ },
+ {
+  "id": "M2#5562",
+  "en": "...Or not."
+ },
+ {
+  "id": "M2#5563",
+  "en": "What an odd thing for me to think."
+ },
+ {
+  "id": "M2#5564",
+  "en": "And I wasted time thinking it."
+ },
+ {
+  "id": "M2#5565",
+  "en": "I hear you come from a noble family."
+ },
+ {
+  "id": "M2#5566",
+  "en": "I'd love to know which house, and what kind."
+ },
+ {
+  "id": "M2#5567",
+  "en": "We must have a proper talk sometime."
+ },
+ {
+  "id": "M2#5568",
+  "en": "Hm? And who might you be?"
+ },
+ {
+  "id": "M2#5569",
+  "en": "Even at home, I make it a rule not to see"
+ },
+ {
+  "id": "M2#5570",
+  "en": "anyone without an appointment. Please go."
+ },
+ {
+  "id": "M2#5571",
+  "en": "If you want to talk, see me at my office."
+ },
+ {
+  "id": "M2#5572",
+  "en": "You really do love snooping into other"
+ },
+ {
+  "id": "M2#5573",
+  "en": "people's affairs... Is that your job?"
+ },
+ {
+  "id": "M2#5574",
+  "en": "Enough of this, or I'll call the police."
+ },
+ {
+  "id": "M2#5575",
+  "en": "Stay away from my house."
+ },
+ {
+  "id": "M2#5576",
+  "en": "I'm actually getting used to seeing you."
+ },
+ {
+  "id": "M2#5577",
+  "en": "If that's your strategy, it's a fine one."
+ },
+ {
+  "id": "M2#5578",
+  "en": "Oh, very well."
+ },
+ {
+  "id": "M2#5579",
+  "en": "Getting to know someone like you"
+ },
+ {
+  "id": "M2#5580",
+  "en": "may teach me something, too."
+ },
+ {
+  "id": "M2#5581",
+  "en": "Very well, I'll allow your visits."
+ },
+ {
+  "id": "M2#5582",
+  "en": "But London's important figures also"
+ },
+ {
+  "id": "M2#5583",
+  "en": "often show their faces at this house."
+ },
+ {
+  "id": "M2#5584",
+  "en": "Do consider what that means."
+ },
+ {
+  "id": "M2#5585",
+  "en": "Greedy human, no better than a ghoul..."
+ },
+ {
+  "id": "M2#5586",
+  "en": "From now on, I'll work you to the bone",
+  "note": "No speaker tag; the player after enslaving Norman."
+ },
+ {
+  "id": "M2#5587",
+  "en": "as my servant."
+ },
+ {
+  "id": "M2#5588",
+  "en": "No, nothing in particular."
+ },
+ {
+  "id": "M2#5589",
+  "en": "I only wanted to say hello."
+ },
+ {
+  "id": "M2#5590",
+  "en": "(What an unpleasant man...)"
+ },
+ {
+  "id": "M2#5591",
+  "en": "What is it? I'm in a hurry."
+ },
+ {
+  "id": "M2#5592",
+  "en": "That's right, we've never met."
+ },
+ {
+  "id": "M2#5593",
+  "en": "I make a point of greeting everyone I meet."
+ },
+ {
+  "id": "M2#5594",
+  "en": "Yes, thank you."
+ },
+ {
+  "id": "M2#5595",
+  "en": "Yes, I'd like that. Sometime, then..."
+ },
+ {
+  "id": "M2#5596",
+  "en": "(...What's come over him?)",
+  "note": "Referent inferred: Christopher wonders at Norman's sudden friendliness."
+ },
+ {
+  "id": "M2#5597",
+  "en": "You're Councillor Norman, aren't you?"
+ },
+ {
+  "id": "M2#5598",
+  "en": "I'm ",
+  "note": "Before the name; next row gives the full stop (#452/#863/#5477/#9695)."
+ },
+ {
+  "id": "M2#5599",
+  "en": "No, not really..."
+ }
+]

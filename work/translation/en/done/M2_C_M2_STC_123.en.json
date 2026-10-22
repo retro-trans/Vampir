@@ -1,0 +1,333 @@
+[
+ {
+  "id": "M2#9840",
+  "en": "usually go to the saloon next door...",
+  "note": "Needs #9839 (slice 122) with a plural subject or a modal, e.g. 'Gents dressed as fine as you'."
+ },
+ {
+  "id": "M2#9841",
+  "en": "or poor, you use a different door and room.",
+  "note": "Needs #9764 (slice 122) to end on 'if you're rich' (e.g. 'It's all one building, but if you're rich')."
+ },
+ {
+  "id": "M2#9842",
+  "en": "Oh, you've come again."
+ },
+ {
+  "id": "M2#9843",
+  "en": "But you're different."
+ },
+ {
+  "id": "M2#9844",
+  "en": "I suppose it's how you were raised."
+ },
+ {
+  "id": "M2#9845",
+  "en": "By 'extra income', you mean pickpocketing?"
+ },
+ {
+  "id": "M2#9846",
+  "en": "Nellie, someone like you doing that sort of"
+ },
+ {
+  "id": "M2#9847",
+  "en": "thing? It isn't right."
+ },
+ {
+  "id": "M2#9848",
+  "en": "Thank you, my fine young man."
+ },
+ {
+  "id": "M2#9849",
+  "en": "But you see, I've got debts."
+ },
+ {
+  "id": "M2#9850",
+  "en": "Unless I do this, I can't save up"
+ },
+ {
+  "id": "M2#9851",
+  "en": "a single penny."
+ },
+ {
+  "id": "M2#9852",
+  "en": "What will you do once you quit?"
+ },
+ {
+  "id": "M2#9853",
+  "en": "You're the same, aren't you?"
+ },
+ {
+  "id": "M2#9854",
+  "en": "If it's the rent, please wait a little longer",
+  "note": "Followed by three paused dots, then #9855/#9856 on the same line."
+ },
+ {
+  "id": "M2#9855",
+  "en": "Huh?",
+  "note": "After a pause: the space before it is added automatically (auto_space)."
+ },
+ {
+  "id": "M2#9856",
+  "en": "You're not the landlady?"
+ },
+ {
+  "id": "M2#9857",
+  "en": "Or so I'd think, anyway.",
+  "note": "Needs #9805 (slice 122) to be a full sentence ending in '.'."
+ },
+ {
+  "id": "M2#9858",
+  "en": "I have a special bottle I've been saving."
+ },
+ {
+  "id": "M2#9859",
+  "en": "I'd love to share it with you..."
+ },
+ {
+  "id": "M2#9860",
+  "en": "Come by for a drink again, won't you?"
+ },
+ {
+  "id": "M2#9861",
+  "en": "Give me your orders",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#9862",
+  "en": "Oh, hello. Is there something you need?"
+ },
+ {
+  "id": "M2#9863",
+  "en": "Pardon me, madam."
+ },
+ {
+  "id": "M2#9864",
+  "en": "I've a mind to have some shoes made."
+ },
+ {
+  "id": "M2#9865",
+  "en": "Oh, in that case, please do come round to"
+ },
+ {
+  "id": "M2#9866",
+  "en": "the shop."
+ },
+ {
+  "id": "M2#9867",
+  "en": "My husband Mark will take your order."
+ },
+ {
+  "id": "M2#9868",
+  "en": "I'm Sarah."
+ },
+ {
+  "id": "M2#9869",
+  "en": "We hope to see you often from now on."
+ },
+ {
+  "id": "M2#9870",
+  "en": "If you'd like shoes made,"
+ },
+ {
+  "id": "M2#9871",
+  "en": "please come round to the shop."
+ },
+ {
+  "id": "M2#9872",
+  "en": "Is there something else you need?"
+ },
+ {
+  "id": "M2#9873",
+  "en": "If it's about shoes, please talk to my husband."
+ },
+ {
+  "id": "M2#9874",
+  "en": "If Mark happens to be dozing,",
+  "note": "Shared with msg 382139 (+ #9920 'feel free to shake him awake' style)."
+ },
+ {
+  "id": "M2#9875",
+  "en": "please do wake him up."
+ },
+ {
+  "id": "M2#9876",
+  "en": "That man is forever nodding off."
+ },
+ {
+  "id": "M2#9877",
+  "en": "Oh, welcome, "
+ },
+ {
+  "id": "M2#9878",
+  "en": "I'm so glad you came."
+ },
+ {
+  "id": "M2#9879",
+  "en": "Please come by anytime."
+ },
+ {
+  "id": "M2#9880",
+  "en": "Welcome. Are you in need of shoes?"
+ },
+ {
+  "id": "M2#9881",
+  "en": "Indeed."
+ },
+ {
+  "id": "M2#9882",
+  "en": "I'm thinking of having you make"
+ },
+ {
+  "id": "M2#9883",
+  "en": "me a pair."
+ },
+ {
+  "id": "M2#9884",
+  "en": "Oh, are you?"
+ },
+ {
+  "id": "M2#9885",
+  "en": "Please give my husband Mark the details,"
+ },
+ {
+  "id": "M2#9886",
+  "en": "won't you? I can never remember them."
+ },
+ {
+  "id": "M2#9887",
+  "en": "But may I at least ask"
+ },
+ {
+  "id": "M2#9888",
+  "en": "your name?"
+ },
+ {
+  "id": "M2#9889",
+  "en": "I'm Sarah."
+ },
+ {
+  "id": "M2#9890",
+  "en": "I do hope you'll give us your custom."
+ },
+ {
+  "id": "M2#9891",
+  "en": "So you did come by."
+ },
+ {
+  "id": "M2#9892",
+  "en": "Please give your order to my husband Mark."
+ },
+ {
+  "id": "M2#9893",
+  "en": "Embarrassing as it is, remembering things ",
+  "note": "Same line as #9894 (no line break between them)."
+ },
+ {
+  "id": "M2#9894",
+  "en": "isn't really my strong point."
+ },
+ {
+  "id": "M2#9895",
+  "en": "Please tell Mark what you'd like."
+ },
+ {
+  "id": "M2#9896",
+  "en": "Oh, welcome,",
+  "note": "Name follows on the next line."
+ },
+ {
+  "id": "M2#9897",
+  "en": "Will you be having more shoes made?"
+ },
+ {
+  "id": "M2#9898",
+  "en": "How about some fashionable shoes?"
+ },
+ {
+  "id": "M2#9899",
+  "en": "We'll make even the latest styles"
+ },
+ {
+  "id": "M2#9900",
+  "en": "to fit you perfectly.",
+  "note": "Shared with msg 382392: #9949 (slice 124) must lead into it, e.g. 'You can count on us to make your shoes'."
+ },
+ {
+  "id": "M2#9901",
+  "en": "Oh, I know,"
+ },
+ {
+  "id": "M2#9902",
+  "en": "why don't we have a meal together sometime?"
+ },
+ {
+  "id": "M2#9903",
+  "en": "I'm sure you and I could have a lovely chat."
+ },
+ {
+  "id": "M2#9904",
+  "en": "My husband has a favorite saying:",
+  "note": "Shared with msg 382440: #9954 (slice 124) should start the quoted saying."
+ },
+ {
+  "id": "M2#9905",
+  "en": "'Shoes are one's best partner in walking.'"
+ },
+ {
+  "id": "M2#9906",
+  "en": "That's how it goes."
+ },
+ {
+  "id": "M2#9907",
+  "en": "Our job is to find that best partner"
+ },
+ {
+  "id": "M2#9908",
+  "en": "for you."
+ },
+ {
+  "id": "M2#9909",
+  "en": "What can Sarah here do for you?"
+ },
+ {
+  "id": "M2#9910",
+  "en": "Pleased to meet you, Sarah."
+ },
+ {
+  "id": "M2#9911",
+  "en": "I was taking a walk, and thought I'd do"
+ },
+ {
+  "id": "M2#9912",
+  "en": "a bit of exploring."
+ },
+ {
+  "id": "M2#9913",
+  "en": "My, exploring in a big city like this?"
+ },
+ {
+  "id": "M2#9914",
+  "en": "How amusing you are."
+ },
+ {
+  "id": "M2#9915",
+  "en": "My husband and I run a shoe shop"
+ },
+ {
+  "id": "M2#9916",
+  "en": "together."
+ },
+ {
+  "id": "M2#9917",
+  "en": "If you need any shoes,"
+ },
+ {
+  "id": "M2#9918",
+  "en": "please do come by the shop."
+ },
+ {
+  "id": "M2#9919",
+  "en": "Is there something you need?"
+ }
+]

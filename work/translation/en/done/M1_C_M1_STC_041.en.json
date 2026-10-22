@@ -1,0 +1,327 @@
+[
+ {
+  "id": "M1#3280",
+  "en": "What the hell are you doing?!"
+ },
+ {
+  "id": "M1#3281",
+  "en": "By morning, you won't remember any of this..."
+ },
+ {
+  "id": "M1#3282",
+  "en": "Forgive me."
+ },
+ {
+  "id": "M1#3283",
+  "en": "Rosso.",
+  "note": "PLAYER addressing Rosso after a pause: 'Forgive me. <p> Rosso.'"
+ },
+ {
+  "id": "M1#3284",
+  "en": "If that is your wish,"
+ },
+ {
+  "id": "M1#3285",
+  "en": "I will spare no effort to help you..."
+ },
+ {
+  "id": "M1#3286",
+  "en": "I hear the citizens riot in the streets at night."
+ },
+ {
+  "id": "M1#3287",
+  "en": "As mayor, I must do something about this."
+ },
+ {
+  "id": "M1#3288",
+  "en": "If that is your wish,"
+ },
+ {
+  "id": "M1#3289",
+  "en": "I will use my authority however you see fit."
+ },
+ {
+  "id": "M1#3290",
+  "en": "I hear the citizens are rioting at night."
+ },
+ {
+  "id": "M1#3291",
+  "en": "Truth be told, as night draws near, I too"
+ },
+ {
+  "id": "M1#3292",
+  "en": "feel a strange ache stirring in my body."
+ },
+ {
+  "id": "M1#3293",
+  "en": "I am Kröger, the mayor.",
+  "note": "also msg 132547 before 'I'm relaxing at home right now, so'"
+ },
+ {
+  "id": "M1#3294",
+  "en": "Sorry, but I'm in a hurry, so I'll be going."
+ },
+ {
+  "id": "M1#3295",
+  "en": "Once again I have a mountain of work"
+ },
+ {
+  "id": "M1#3296",
+  "en": "to get through today, you see."
+ },
+ {
+  "id": "M1#3297",
+  "en": "If you have any important business,"
+ },
+ {
+  "id": "M1#3298",
+  "en": "come see me at City Hall in person."
+ },
+ {
+  "id": "M1#3299",
+  "en": "You don't know where City Hall is?"
+ },
+ {
+  "id": "M1#3300",
+  "en": "<Tell me>"
+ },
+ {
+  "id": "M1#3301",
+  "en": "<No, thanks>"
+ },
+ {
+  "id": "M1#3302",
+  "en": "Yes. Would you tell me the way?"
+ },
+ {
+  "id": "M1#3303",
+  "en": "From the central square of Calstatt,"
+ },
+ {
+  "id": "M1#3304",
+  "en": "go south and you'll find it."
+ },
+ {
+  "id": "M1#3305",
+  "en": "The road runs straight, so you can't miss it."
+ },
+ {
+  "id": "M1#3306",
+  "en": "No, that's all right. Thank you."
+ },
+ {
+  "id": "M1#3307",
+  "en": "Please take good care of my son."
+ },
+ {
+  "id": "M1#3308",
+  "en": "I beg you, make my son himself again..."
+ },
+ {
+  "id": "M1#3309",
+  "en": "I am Kröger, the mayor."
+ },
+ {
+  "id": "M1#3310",
+  "en": "Sorry, but I'm tired today."
+ },
+ {
+  "id": "M1#3311",
+  "en": "If you have business with me, come straight"
+ },
+ {
+  "id": "M1#3312",
+  "en": "to City Hall tomorrow..."
+ },
+ {
+  "id": "M1#3313",
+  "en": "Sorry, but I'm tired today, so"
+ },
+ {
+  "id": "M1#3314",
+  "en": "if you'll excuse me..."
+ },
+ {
+  "id": "M1#3315",
+  "en": "Please, make my son himself again..."
+ },
+ {
+  "id": "M1#3316",
+  "en": "I'm afraid my son won't listen to anyone"
+ },
+ {
+  "id": "M1#3317",
+  "en": "but you..."
+ },
+ {
+  "id": "M1#3318",
+  "en": "I value direct contact"
+ },
+ {
+  "id": "M1#3319",
+  "en": "with the citizens."
+ },
+ {
+  "id": "M1#3320",
+  "en": "So whenever I have the time, I make a point"
+ },
+ {
+  "id": "M1#3321",
+  "en": "of meeting citizens who come to see me."
+ },
+ {
+  "id": "M1#3322",
+  "en": "Now then, without further ado,"
+ },
+ {
+  "id": "M1#3323",
+  "en": "what is your business with me?"
+ },
+ {
+  "id": "M1#3324",
+  "en": "<I'd like you to find me a job>"
+ },
+ {
+  "id": "M1#3325",
+  "en": "<Tell me about yourself>"
+ },
+ {
+  "id": "M1#3326",
+  "en": "Hmm. Lately the unemployment rate"
+ },
+ {
+  "id": "M1#3327",
+  "en": "in this town does seem to be rising."
+ },
+ {
+  "id": "M1#3328",
+  "en": "From the look of you, you seem intelligent,"
+ },
+ {
+  "id": "M1#3329",
+  "en": "and your manners are elegant."
+ },
+ {
+  "id": "M1#3330",
+  "en": "I have an only son, and I'd like you"
+ },
+ {
+  "id": "M1#3331",
+  "en": "to be his private tutor."
+ },
+ {
+  "id": "M1#3332",
+  "en": "Please call at my house at once."
+ },
+ {
+  "id": "M1#3333",
+  "en": "You're an odd one",
+  "note": "Kröger's reaction to <Tell me about yourself>; no period: followed by #2 '...' <p> #1818 'Well, all right.'"
+ },
+ {
+  "id": "M1#3334",
+  "en": "I've been mayor for three years now",
+  "note": "followed by #2 '...'"
+ },
+ {
+  "id": "M1#3335",
+  "en": "The city runs smoothly, but I have a problem."
+ },
+ {
+  "id": "M1#3336",
+  "en": "It's embarrassing to admit, but..."
+ },
+ {
+  "id": "M1#3337",
+  "en": "My son Ludwig has gone bad."
+ },
+ {
+  "id": "M1#3338",
+  "en": "I'm so busy with work that I can't spend"
+ },
+ {
+  "id": "M1#3339",
+  "en": "time with him. Perhaps that's the cause..."
+ },
+ {
+  "id": "M1#3340",
+  "en": "So tell me, would you tutor my son?"
+ },
+ {
+  "id": "M1#3341",
+  "en": "You seem intelligent, with elegant manners."
+ },
+ {
+  "id": "M1#3342",
+  "en": "If you're willing, please call at my house."
+ },
+ {
+  "id": "M1#3343",
+  "en": "Oh, it's you",
+  "note": "followed by #2 '...' + #25 '.' (four dots) -- see report"
+ },
+ {
+  "id": "M1#3344",
+  "en": "I'm surprised you actually"
+ },
+ {
+  "id": "M1#3345",
+  "en": "came to see me."
+ },
+ {
+  "id": "M1#3346",
+  "en": "I have an only son,"
+ },
+ {
+  "id": "M1#3347",
+  "en": "and I'd like to have you be his private"
+ },
+ {
+  "id": "M1#3348",
+  "en": "tutor. Please call at my house at once."
+ },
+ {
+  "id": "M1#3349",
+  "en": "You're an odd one..."
+ },
+ {
+  "id": "M1#3350",
+  "en": "It's been three years since I became mayor."
+ },
+ {
+  "id": "M1#3351",
+  "en": "The city runs well, but there's one problem."
+ },
+ {
+  "id": "M1#3352",
+  "en": "I'm so busy with work that I can't spend time"
+ },
+ {
+  "id": "M1#3353",
+  "en": "with him. Perhaps that's the cause..."
+ },
+ {
+  "id": "M1#3354",
+  "en": "Would you care to try tutoring my son?"
+ },
+ {
+  "id": "M1#3355",
+  "en": "You seem intelligent, with elegant manners."
+ },
+ {
+  "id": "M1#3356",
+  "en": "Please do look after my son."
+ },
+ {
+  "id": "M1#3357",
+  "en": "Please do look after my son."
+ },
+ {
+  "id": "M1#3358",
+  "en": "Lately, my son Ludwig's behavior has"
+ },
+ {
+  "id": "M1#3359",
+  "en": "changed."
+ }
+]

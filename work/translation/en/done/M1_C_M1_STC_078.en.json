@@ -1,0 +1,346 @@
+[
+ {
+  "id": "M1#6240",
+  "en": "offers of marriage.",
+  "note": "#6239 (slice 077) must end like 'Lately, the people around me keep bringing me'"
+ },
+ {
+  "id": "M1#6241",
+  "en": "But I have a sweetheart named Joseph,"
+ },
+ {
+  "id": "M1#6242",
+  "en": "so I have no wish to marry anyone else."
+ },
+ {
+  "id": "M1#6243",
+  "en": "Oh, I wonder why Joseph won't come back"
+ },
+ {
+  "id": "M1#6244",
+  "en": "to me",
+  "note": "followed by #2 '...'"
+ },
+ {
+  "id": "M1#6245",
+  "en": "I'm going to wait for Joseph in the park,"
+ },
+ {
+  "id": "M1#6246",
+  "en": "however long it takes",
+  "note": "followed by #2 '...'"
+ },
+ {
+  "id": "M1#6247",
+  "en": "Do you think that's strange?"
+ },
+ {
+  "id": "M1#6248",
+  "en": "But it's the only thing I can do!"
+ },
+ {
+  "id": "M1#6249",
+  "en": "What brings you here at this hour?"
+ },
+ {
+  "id": "M1#6250",
+  "en": "There's one thing I wanted to ask you."
+ },
+ {
+  "id": "M1#6251",
+  "en": "Will you go on waiting for your sweetheart"
+ },
+ {
+  "id": "M1#6252",
+  "en": "like this, for all the years to come?"
+ },
+ {
+  "id": "M1#6253",
+  "en": "Yes, I intend to."
+ },
+ {
+  "id": "M1#6254",
+  "en": "Does the waiting not pain you?"
+ },
+ {
+  "id": "M1#6255",
+  "en": "It does pain me.",
+  "note": "after #2 '...'"
+ },
+ {
+  "id": "M1#6256",
+  "en": "But it can't be helped. It's the only thing"
+ },
+ {
+  "id": "M1#6257",
+  "en": "I can do."
+ },
+ {
+  "id": "M1#6258",
+  "en": "I see. Then by night, I shall free you",
+  "note": "no used_in; read as PLAYER's reply after msg 247092 (ends '[PLAYER]'), continued by #6259"
+ },
+ {
+  "id": "M1#6259",
+  "en": "from that pain."
+ },
+ {
+  "id": "M1#6260",
+  "en": "Free me, you say...?",
+  "note": "Lily"
+ },
+ {
+  "id": "M1#6261",
+  "en": "No! What are you doing?!",
+  "note": "Lily"
+ },
+ {
+  "id": "M1#6262",
+  "en": "Now you are a Dhampir who feels no pain."
+ },
+ {
+  "id": "M1#6263",
+  "en": "Is that not something to be glad of?"
+ },
+ {
+  "id": "M1#6264",
+  "en": "I'm in a hurry right now.",
+  "note": "after #5520 variant 'I'm sorry. '"
+ },
+ {
+  "id": "M1#6265",
+  "en": "I have to get to Alster Park",
+  "note": "followed by #2 '...'"
+ },
+ {
+  "id": "M1#6266",
+  "en": "I'm meeting someone there."
+ },
+ {
+  "id": "M1#6267",
+  "en": "I have an errand to run, so if you'll excuse me",
+  "note": "followed by #2 '...'"
+ },
+ {
+  "id": "M1#6268",
+  "en": "Hello, Lily."
+ },
+ {
+  "id": "M1#6269",
+  "en": "I really must be getting home now",
+  "note": "followed by #2 '...' + #25 '.' (four dots unless #25 gets an empty variant for msg 247359)"
+ },
+ {
+  "id": "M1#6270",
+  "en": "I run into you so often, don't I?"
+ },
+ {
+  "id": "M1#6271",
+  "en": "So why can I never meet him, I wonder?"
+ },
+ {
+  "id": "M1#6272",
+  "en": "you see...",
+  "note": "continues #6214 (slice 077), which must end with a comma or no punctuation"
+ },
+ {
+  "id": "M1#6273",
+  "en": "The one I'm waiting for, my beloved Joseph,"
+ },
+ {
+  "id": "M1#6274",
+  "en": "is a soldier."
+ },
+ {
+  "id": "M1#6275",
+  "en": "He went to war, saying he'd be back in a year."
+ },
+ {
+  "id": "M1#6276",
+  "en": "But that day came, and still he hasn't come",
+  "note": "followed by #2 '...'"
+ },
+ {
+  "id": "M1#6277",
+  "en": "This may sound cruel, but he might"
+ },
+ {
+  "id": "M1#6278",
+  "en": "have forgotten about you"
+ },
+ {
+  "id": "M1#6279",
+  "en": "by now."
+ },
+ {
+  "id": "M1#6280",
+  "en": "No. That simply isn't true!"
+ },
+ {
+  "id": "M1#6281",
+  "en": "I believe in Joseph."
+ },
+ {
+  "id": "M1#6282",
+  "en": "Even if he's late, I know he'll come back"
+ },
+ {
+  "id": "M1#6283",
+  "en": "to me."
+ },
+ {
+  "id": "M1#6284",
+  "en": "By night, I shall be your servant",
+  "note": "after #2#2 '......'"
+ },
+ {
+  "id": "M1#6285",
+  "en": "and work for you",
+  "note": "followed by #2 '...' + #25 '.'"
+ },
+ {
+  "id": "M1#6286",
+  "en": "Hello. Oh, you're a new face."
+ },
+ {
+  "id": "M1#6287",
+  "en": "I know! You want work on the farm, right?"
+ },
+ {
+  "id": "M1#6288",
+  "en": "It's harvest time, so we're very short-handed."
+ },
+ {
+  "id": "M1#6289",
+  "en": "Every day keeps me busy, too. It's hard work!"
+ },
+ {
+  "id": "M1#6290",
+  "en": "And the children are still little."
+ },
+ {
+  "id": "M1#6291",
+  "en": "Winter's nearly here, so I must prepare for it."
+ },
+ {
+  "id": "M1#6292",
+  "en": "I've got to make jam while I can, and"
+ },
+ {
+  "id": "M1#6293",
+  "en": "put away nuts for later",
+  "note": "followed by #2 '...' + #25 '.'"
+ },
+ {
+  "id": "M1#6294",
+  "en": "Oh, I know you can buy just about anything",
+  "note": "sentence cut across #6294-#6296 at matching points"
+ },
+ {
+  "id": "M1#6295",
+  "en": "in the shops these days. But on a farm like"
+ },
+ {
+  "id": "M1#6296",
+  "en": "ours, our motto is: make everything yourself!"
+ },
+ {
+  "id": "M1#6297",
+  "en": "We've had a bumper wheat crop this year!"
+ },
+ {
+  "id": "M1#6298",
+  "en": "Our wheat, you know, goes to the bakery"
+ },
+ {
+  "id": "M1#6299",
+  "en": "every year",
+  "note": "followed by #2 '...' + #25 '.'"
+ },
+ {
+  "id": "M1#6300",
+  "en": "Cleaning, washing, cooking",
+  "note": "followed by #2 '...' + #25 '.'"
+ },
+ {
+  "id": "M1#6301",
+  "en": "This time of year, lots of folks work the farm."
+ },
+ {
+  "id": "M1#6302",
+  "en": "I have to look after them as well."
+ },
+ {
+  "id": "M1#6303",
+  "en": "I'm everyone's mother, you might say."
+ },
+ {
+  "id": "M1#6304",
+  "en": "If you're free, would you mind helping me"
+ },
+ {
+  "id": "M1#6305",
+  "en": "with my work, too?"
+ },
+ {
+  "id": "M1#6306",
+  "en": "What, you're busy?"
+ },
+ {
+  "id": "M1#6307",
+  "en": "Hee hee. I'm only joking."
+ },
+ {
+  "id": "M1#6308",
+  "en": "Hello. Oh, aren't you a young one."
+ },
+ {
+  "id": "M1#6309",
+  "en": "What, you're busy too?"
+ },
+ {
+  "id": "M1#6310",
+  "en": "Y-you!"
+ },
+ {
+  "id": "M1#6311",
+  "en": "How did you get in here",
+  "note": "followed by #2 '...' + #461 '?'"
+ },
+ {
+  "id": "M1#6312",
+  "en": "I'm sorry I frightened you."
+ },
+ {
+  "id": "M1#6313",
+  "en": "I didn't really mean to come inside."
+ },
+ {
+  "id": "M1#6314",
+  "en": "My mother died right after I was born",
+  "note": "followed by #2 '...' + #25 '.'"
+ },
+ {
+  "id": "M1#6315",
+  "en": "so I've always longed so very much"
+ },
+ {
+  "id": "M1#6316",
+  "en": "for a family",
+  "note": "followed by #2 '...' + #25 '.'"
+ },
+ {
+  "id": "M1#6317",
+  "en": " I see. You poor thing.",
+  "note": "leading space: follows #5663 variant 'Oh' + #2 '...'"
+ },
+ {
+  "id": "M1#6318",
+  "en": "It's all right. I'm everyone's mother, after all."
+ },
+ {
+  "id": "M1#6319",
+  "en": "Think of me as your mother,",
+  "note": "continues in #6320 (slice 079), e.g. 'and lean on me all you like.'"
+ }
+]

@@ -1,0 +1,201 @@
+[
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#682",
+  "en": "and so he learned how arrogant he'd been.",
+  "why": "fit: msg 30333 box 4 was 2+1 lines plus the trailing blank line; now one line"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#1538",
+  "en": "There's a drink I crave more than liquor.",
+  "why": "fit: msg 70692 box 1 wrapped to 2 lines; keeps the 'something to drink' that #1539 'As for that,' refers to"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#1853",
+  "en": "Won't you stay for my homemade sweets?",
+  "why": "fit: msg 87461 was 4 lines (this row wrapped)"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#1860",
+  "en": "It's been known to be healthy for ages.",
+  "why": "fit: msg 87587 was 4 lines (this row wrapped); wording avoids repeating 'long' after #1859"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#1876",
+  "en": "I hope lovely scents surround you again.",
+  "why": "fit: msg 87709 box 2 was 4 lines"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2587",
+  "en": "the Critical Vitality you shared is stolen."
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2602",
+  "en": "Ideally, you'll learn to judge well and give",
+  "why": "fit: msg 131343 box 4 wrapped to 2 lines"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2606",
+  "en": "They gather rumors from residents by day,",
+  "why": "fit: msg 135221 box 2 wrapped to 2 lines"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2638",
+  "en": "With luck, you can steer the hunters to the",
+  "why": "fit: msg 139317 box 4 wrapped to 2 lines; 'enemy's' moved to #2639"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2639",
+  "en": "enemy's stronghold.",
+  "why": "fit: takes 'enemy's' from #2638"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2636",
+  "en": "Spread false rumors among the residents"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2637",
+  "en": "and the hunters.",
+  "why": "see #2636"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#205",
+  "en": "I thought I was the only one out this late,",
+  "why": "join: msg 9418 read 'I'm surprised anyone but me is out this late / but you're here too.'; now matches #145 so shared #146 works"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#662",
+  "en": "You'll see just how skilled a blacksmith",
+  "why": "join: msg 30101 read '...a blacksmith I am, / I am, I reckon.'; shared #627 supplies 'I am, I reckon.'"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#660",
+  "en": "I've taken a liking to you, you know.",
+  "why": "consistency: same Japanese as #618 (msg 29517); slice 007 asked msg 30026 to echo it"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#1866",
+  "en": "the landlord's illness, but sadly, good herbs",
+  "why": "join: msg 87642 read 'I'm also seeking herbs for / but sadly...' (the illness was missing); now continues #1835 like its twin #1836"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#1865",
+  "en": "there are all sorts of ways to use them.",
+  "why": "join: follows #1833 'Beyond just making tea,' in msg 87608 (was capitalised)"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#1516",
+  "en": "I'm Southwark. I run things here.",
+  "why": "join: followed by 'What is it?' (#1414) / 'What can I do for you?' (#1543) on the next line in msgs 70530/70954; ended in a comma"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#769",
+  "en": "This is the landlord's hunting ground.",
+  "why": "join: msgs 33960/34287 read '...hunting ground, / Anyone who isn't from this village,'; shared #733 starts a sentence in msg 33735, so this row now ends one"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#562",
+  "en": "Now I have come to be loved by everyone,",
+  "why": "punctuation: msg 25276 lacked the comma before '/ but even so' (cf. #583)"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#109",
+  "en": " is still",
+  "why": "review (followups #108-112): msg 5317 now 'Because {NAME} is still / {NAME}, after all.' (you are still yourself to me)"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#261",
+  "en": "Come over here, I've got some good liquor.",
+  "why": "punctuation: next line #262 starts a new sentence 'It's my dad's, though.'"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#1009",
+  "en": "I live with my brother.",
+  "why": "punctuation: next line #1010 starts a new sentence 'How about...'"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2110",
+  "en": "Well, don't you look glum.",
+  "why": "punctuation: next line #2111 'Pull yourself together.' is a new sentence"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2123",
+  "en": "Hm? Well, don't you look glum.",
+  "why": "punctuation: next line #2111 'Pull yourself together.' is a new sentence"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2112",
+  "en": "Come to think of it, I haven't seen you before.",
+  "why": "punctuation: next line #2113 'What's your name?' (8 Wendy msgs)"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2116",
+  "en": "I'm Wendy the washerwoman.",
+  "why": "punctuation: next line #2117 'If you've got any washing, tell me.'"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2119",
+  "en": "You look as glum as ever.",
+  "why": "punctuation: next line #2120 'Are you all right?' (4 Wendy msgs)"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2128",
+  "en": "Oh, it's you. Still as listless as ever.",
+  "why": "punctuation: next line starts 'Can't you...' (#2129/#2179)"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2131",
+  "en": "Don't make such strange excuses.",
+  "why": "punctuation: next line #2132 'Eat a proper meal...' is a new sentence"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2407",
+  "en": "Cleaning up afterwards is such hard work.",
+  "why": "punctuation: next line #2408 'There is quite a lot of it, after all.'"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2541",
+  "en": "Vitality and Blood Flow recover by morning,"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2704",
+  "en": "· \"Stats\" such as Blood Flow and Vitality"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2563",
+  "en": "You can send direct Nosferatu a message,"
+ }
+]

@@ -1,0 +1,1516 @@
+[
+ {
+  "id": "MCX.BIN@84",
+  "off": 132,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148368472
+   ]
+  ],
+  "idx": 0,
+  "en": "Empty",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@70",
+  "off": 112,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148368476
+   ]
+  ],
+  "idx": 1,
+  "en": "Other game data",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@60",
+  "off": 96,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148368480
+   ]
+  ],
+  "idx": 2,
+  "en": "Christopher",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@54",
+  "off": 84,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148368484
+   ]
+  ],
+  "idx": 3,
+  "en": "Duran",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@48",
+  "off": 72,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148368488
+   ]
+  ],
+  "idx": 4,
+  "en": "Stage ",
+  "note": "Trailing space: in the JP the stage digit (@44/@40/@3C) is printed right after it.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@44",
+  "off": 68,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148368492
+   ],
+   [
+    "ptr",
+    2148368536
+   ]
+  ],
+  "idx": 5,
+  "en": "1",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@40",
+  "off": 64,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148368496
+   ],
+   [
+    "ptr",
+    2148368540
+   ]
+  ],
+  "idx": 6,
+  "en": "2",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@3C",
+  "off": 60,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148368500
+   ],
+   [
+    "ptr",
+    2148368544
+   ]
+  ],
+  "idx": 7,
+  "en": "3",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@38",
+  "off": 56,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148368504
+   ]
+  ],
+  "idx": 8,
+  "en": "Day",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@34",
+  "off": 52,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148368508
+   ]
+  ],
+  "idx": 9,
+  "en": "Morn",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@30",
+  "off": 48,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148368512
+   ]
+  ],
+  "idx": 10,
+  "en": "Eve",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@24",
+  "off": 36,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148368516
+   ]
+  ],
+  "idx": 11,
+  "en": "Start",
+  "note": "Save title shows STAGE n + this when the stage has just begun.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@1C",
+  "off": 28,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148368520
+   ]
+  ],
+  "idx": 12,
+  "en": "End",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@8",
+  "off": 8,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148368524
+   ]
+  ],
+  "idx": 13,
+  "en": "No data",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@4",
+  "off": 4,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148368528
+   ]
+  ],
+  "idx": 14,
+  "en": ":",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@DC",
+  "off": 220,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148368532
+   ]
+  ],
+  "idx": 15,
+  "en": "0",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@D8",
+  "off": 216,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148368548
+   ]
+  ],
+  "idx": 19,
+  "en": "4",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@D4",
+  "off": 212,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148368552
+   ]
+  ],
+  "idx": 20,
+  "en": "5",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@D0",
+  "off": 208,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148368556
+   ]
+  ],
+  "idx": 21,
+  "en": "6",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@CC",
+  "off": 204,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148368560
+   ]
+  ],
+  "idx": 22,
+  "en": "7",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@C8",
+  "off": 200,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148368564
+   ]
+  ],
+  "idx": 23,
+  "en": "8",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@C4",
+  "off": 196,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148368568
+   ]
+  ],
+  "idx": 24,
+  "en": "9",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@BC",
+  "off": 188,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148368572
+   ]
+  ],
+  "idx": 25,
+  "en": "10",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@B4",
+  "off": 180,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148368576
+   ]
+  ],
+  "idx": 26,
+  "en": "11",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@AC",
+  "off": 172,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148368580
+   ]
+  ],
+  "idx": 27,
+  "en": "12",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@A4",
+  "off": 164,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148368584
+   ]
+  ],
+  "idx": 28,
+  "en": "13",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@9C",
+  "off": 156,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148368588
+   ]
+  ],
+  "idx": 29,
+  "en": "14",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@94",
+  "off": 148,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148368592
+   ]
+  ],
+  "idx": 30,
+  "en": "15",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@8C",
+  "off": 140,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148368596
+   ]
+  ],
+  "idx": 31,
+  "en": "16",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@140",
+  "off": 320,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148368600
+   ]
+  ],
+  "idx": 32,
+  "en": "Memory Card Slot 1",
+  "note": "18 chars but 104 px, narrower than the JP label (132 px).",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@128",
+  "off": 296,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148368604
+   ]
+  ],
+  "idx": 33,
+  "en": "Memory Card Slot 2",
+  "note": "18 chars but 104 px.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@120",
+  "off": 288,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148368608
+   ],
+   [
+    "code",
+    2148341504
+   ]
+  ],
+  "idx": 34,
+  "en": "Load",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@118",
+  "off": 280,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148368612
+   ],
+   [
+    "code",
+    2148341572
+   ]
+  ],
+  "idx": 35,
+  "en": "Save",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@100",
+  "off": 256,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148368616
+   ]
+  ],
+  "idx": 36,
+  "en": "\"Together with Rose\"",
+  "note": "PocketStation minigame title (glossary). 20 chars, 110 px.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@F8",
+  "off": 248,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148368620
+   ]
+  ],
+  "idx": 37,
+  "en": "Yes",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@F0",
+  "off": 240,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148368624
+   ]
+  ],
+  "idx": 38,
+  "en": "No",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@E0",
+  "off": 224,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148368628
+   ]
+  ],
+  "idx": 39,
+  "en": "Format",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@884",
+  "off": 2180,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148368632
+   ],
+   [
+    "ptr",
+    2148368792
+   ]
+  ],
+  "idx": 40,
+  "en": "Is it OK to overwrite the data above?",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@858",
+  "off": 2136,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148368636
+   ]
+  ],
+  "idx": 41,
+  "en": "Please select a Memory Card slot.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@824",
+  "off": 2084,
+  "size": 50,
+  "slot": 51,
+  "refs": [
+   [
+    "ptr",
+    2148368640
+   ]
+  ],
+  "idx": 42,
+  "en": "Please select the Vampir data to load.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@800",
+  "off": 2048,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148368644
+   ]
+  ],
+  "idx": 43,
+  "en": "Please select where to save.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@158",
+  "off": 344,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148368912
+   ]
+  ],
+  "en": "Are you sure you want to stop saving?",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@180",
+  "off": 384,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148368904
+   ]
+  ],
+  "en": "saved. Is it OK to overwrite it?",
+  "note": "Line 2 of msg table idx 67-68 (@1A8 then @180).",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@1A8",
+  "off": 424,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148368900
+   ]
+  ],
+  "en": "\"Together with Rose\" has already been",
+  "note": "Line 1; continues in @180.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@1D4",
+  "off": 468,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148368896
+   ]
+  ],
+  "en": "Is that OK?",
+  "note": "Line 2 after @1E8.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@1E8",
+  "off": 488,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148368892
+   ]
+  ],
+  "en": "\"Together with Rose\" will now be saved.",
+  "note": "Line 1; @1D4 follows.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@210",
+  "off": 528,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148368880
+   ]
+  ],
+  "en": "from this menu.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@254",
+  "off": 596,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148368868
+   ]
+  ],
+  "en": "it can't be played without a PocketStation.",
+  "note": "Line 4 of the PocketStation notice (@2E8, @2B8, @284, @254).",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@284",
+  "off": 644,
+  "size": 48,
+  "slot": 51,
+  "refs": [
+   [
+    "ptr",
+    2148368864
+   ]
+  ],
+  "en": "It can be saved to a Memory Card too, but",
+  "note": "Line 3.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@2B8",
+  "off": 696,
+  "size": 46,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148368860
+   ]
+  ],
+  "en": "for the PocketStation. It needs 15 blocks.",
+  "note": "Line 2; the JP cut mid-word, English cut at a phrase boundary.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@2E8",
+  "off": 744,
+  "size": 46,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148368856
+   ]
+  ],
+  "en": "Here you can save a game made especially",
+  "note": "Line 1.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@318",
+  "off": 792,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148368852
+   ]
+  ],
+  "en": " more free block(s).",
+  "note": "Assumed layout by analogy with @378/@35C (code confirmed there): @32C + block count digit + @318 on one line. No code reference to this pair (idx 54-55) was found.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@32C",
+  "off": 812,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148368848
+   ]
+  ],
+  "en": "A new save needs ",
+  "note": "Trailing space before the inserted block count.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@348",
+  "off": 840,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148368844
+   ]
+  ],
+  "en": "the data cannot be saved.",
+  "note": "Line 3 of: @3B0/@388 / @378+N+@35C / @348.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@35C",
+  "off": 860,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148368840
+   ]
+  ],
+  "en": " more free block(s), so",
+  "note": "Code: line = @378 + digit (block count) + @35C; leading space needed after the number.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@378",
+  "off": 888,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148368836
+   ]
+  ],
+  "en": "You need ",
+  "note": "Trailing space before the inserted number.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@388",
+  "off": 904,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148368832
+   ]
+  ],
+  "en": "Saving requires 15 blocks.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@3B0",
+  "off": 944,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148368828
+   ]
+  ],
+  "en": "Saving requires 2 blocks.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@3D4",
+  "off": 980,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148368824
+   ]
+  ],
+  "en": "Formatting...",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@3EC",
+  "off": 1004,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148368820
+   ]
+  ],
+  "en": "The game will continue.",
+  "note": "Closers @400/@3EC follow openers @438/@418 (pairing not traced); each opener reads with each closer.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@400",
+  "off": 1024,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148368816
+   ]
+  ],
+  "en": "The game will now resume.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@418",
+  "off": 1048,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148368812
+   ]
+  ],
+  "en": "The Memory Card was removed.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@438",
+  "off": 1080,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148368808
+   ]
+  ],
+  "en": "An error occurred.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@450",
+  "off": 1104,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148368800
+   ]
+  ],
+  "en": "formatted. Is it OK to format it?",
+  "note": "Line 2 after @480.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@480",
+  "off": 1152,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148368796
+   ]
+  ],
+  "en": "The selected Memory Card is not",
+  "note": "Line 1.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@4B0",
+  "off": 1200,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148368788
+   ]
+  ],
+  "en": "Save the data. Is that OK?",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@4D8",
+  "off": 1240,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148368784
+   ]
+  ],
+  "en": "Load the data. Is that OK?",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@500",
+  "off": 1280,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148368780
+   ]
+  ],
+  "en": "Memory Card.",
+  "note": "Line 3 of @53C/@510/@500.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@510",
+  "off": 1296,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148368776
+   ]
+  ],
+  "en": "press RESET, or insert or remove the",
+  "note": "Line 2.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@53C",
+  "off": 1340,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148368772
+   ]
+  ],
+  "en": "While checking, do not turn the power OFF,",
+  "note": "Line 1.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@568",
+  "off": 1384,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148368768
+   ]
+  ],
+  "en": "formatting will not complete correctly.",
+  "note": "Line 3 of @5B8/@58C/@568.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@58C",
+  "off": 1420,
+  "size": 42,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148368764
+   ]
+  ],
+  "en": "OFF, press RESET or remove the Memory Card,",
+  "note": "Line 2.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@5B8",
+  "off": 1464,
+  "size": 42,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148368760
+   ]
+  ],
+  "en": "If, while formatting, you turn the power",
+  "note": "Line 1.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@5E4",
+  "off": 1508,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148368756
+   ]
+  ],
+  "en": "your data may be corrupted.",
+  "note": "Line 3 of save warning @608/@654/@5E4.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@608",
+  "off": 1544,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148368748
+   ]
+  ],
+  "en": "If, while saving, you turn the power OFF,",
+  "note": "Line 1 of save warning.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@634",
+  "off": 1588,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148368744
+   ]
+  ],
+  "en": "loading will not complete correctly.",
+  "note": "Line 3 of load warning @680/@654/@634.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@654",
+  "off": 1620,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148368740
+   ],
+   [
+    "ptr",
+    2148368752
+   ]
+  ],
+  "en": "press RESET or remove the Memory Card,",
+  "note": "Shared line 2 of the load warning (idx 27) and the save warning (idx 30); reads with both.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@680",
+  "off": 1664,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148368736
+   ]
+  ],
+  "en": "If, while loading, you turn the power OFF,",
+  "note": "Line 1 of load warning.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@6AC",
+  "off": 1708,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148368724
+   ],
+   [
+    "ptr",
+    2148368728
+   ]
+  ],
+  "en": "Save completed successfully.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@6CC",
+  "off": 1740,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148368720
+   ]
+  ],
+  "en": "Load completed successfully.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@6EC",
+  "off": 1772,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148368692
+   ],
+   [
+    "ptr",
+    2148368704
+   ]
+  ],
+  "en": "Formatting failed.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@70C",
+  "off": 1804,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148368688
+   ],
+   [
+    "ptr",
+    2148368700
+   ]
+  ],
+  "en": "Saving failed.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@724",
+  "off": 1828,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148368684
+   ],
+   [
+    "ptr",
+    2148368696
+   ]
+  ],
+  "en": "Loading failed.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@73C",
+  "off": 1852,
+  "size": 42,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148368676
+   ]
+  ],
+  "en": "This Vampir save data is corrupted.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@768",
+  "off": 1896,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148368668
+   ],
+   [
+    "ptr",
+    2148368908
+   ]
+  ],
+  "en": "Checking the Memory Card...",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@790",
+  "off": 1936,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148368664
+   ]
+  ],
+  "en": "Saving...",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@7A0",
+  "off": 1952,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148368660
+   ]
+  ],
+  "en": "Loading...",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@7B0",
+  "off": 1968,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148368656
+   ]
+  ],
+  "en": "No Vampir save data found.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@7D4",
+  "off": 2004,
+  "size": 36,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148368652
+   ]
+  ],
+  "en": "No Memory Card inserted",
+  "note": "Source has no final period; kept without.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@9B4",
+  "off": 2484,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2148331216
+   ]
+  ],
+  "en": "Vampir",
+  "note": "Memory-card header title, piece 1 of 'Vampir(N) <name> STAGE1 Day 12'. Header title must stay double-byte Shift-JIS (see report).",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@9C4",
+  "off": 2500,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "code",
+    2148331260
+   ]
+  ],
+  "en": "(",
+  "note": "Header title: before slot digit.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@9C8",
+  "off": 2504,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2148331316
+   ]
+  ],
+  "en": " ",
+  "note": "Header title: the trailing space is field separator #1 and must be emitted as U+3000 (0x8140).",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@9D0",
+  "off": 2512,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2148331428
+   ]
+  ],
+  "en": " STAGE",
+  "note": "Header title: leading space = separator #2 (0x8140). No space before the stage digit: an extra 0x8140 would break the game's title parser.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@9E0",
+  "off": 2528,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2148331516
+   ]
+  ],
+  "en": "STAGE",
+  "note": "In-game save list stage field; stage digit follows directly.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@9EC",
+  "off": 2540,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "code",
+    2148331692
+   ]
+  ],
+  "en": " ",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@9F0",
+  "off": 2544,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2148332304
+   ]
+  ],
+  "en": " ",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@A08",
+  "off": 2568,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2148337852
+   ]
+  ],
+  "en": ":",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@A10",
+  "off": 2576,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "code",
+    2148341640
+   ]
+  ],
+  "en": "PocketStation",
+  "note": "Official Sony product name.",
+  "done": true
+ },
+ {
+  "id": "MCX.BIN@228",
+  "off": 552,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148368876
+   ]
+  ],
+  "en": "You cannot save your main game",
+  "done": true
+ }
+]

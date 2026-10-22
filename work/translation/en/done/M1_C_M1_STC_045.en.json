@@ -1,0 +1,336 @@
+[
+ {
+  "id": "M1#3600",
+  "en": "Thank you for your kindness."
+ },
+ {
+  "id": "M1#3601",
+  "en": "Good evening, "
+ },
+ {
+  "id": "M1#3602",
+  "en": "we had no event bookings again today."
+ },
+ {
+  "id": "M1#3603",
+  "en": "The Public Hall?"
+ },
+ {
+  "id": "M1#3604",
+  "en": "Yes. I work in the office at the Public Hall.",
+  "note": "same wording as M1#3581 (slice 044)"
+ },
+ {
+  "id": "M1#3605",
+  "en": "My name is Josef."
+ },
+ {
+  "id": "M1#3606",
+  "en": "Of course, let me tell you.",
+  "note": "answers choice <That's right> (player does not know the way)"
+ },
+ {
+  "id": "M1#3607",
+  "en": "In the southeast of Calstatt"
+ },
+ {
+  "id": "M1#3608",
+  "en": "there's a church and a monument,"
+ },
+ {
+  "id": "M1#3609",
+  "en": "and the Public Hall is across from them."
+ },
+ {
+  "id": "M1#3610",
+  "en": "There's a flower shop right next door,"
+ },
+ {
+  "id": "M1#3611",
+  "en": "so you can use that as a landmark."
+ },
+ {
+  "id": "M1#3612",
+  "en": "I see, so you already knew the way."
+ },
+ {
+  "id": "M1#3613",
+  "en": "Visitors to the Public Hall have dwindled,"
+ },
+ {
+  "id": "M1#3614",
+  "en": "but as long as there are people like you"
+ },
+ {
+  "id": "M1#3615",
+  "en": "who drop by, I want to keep doing this job."
+ },
+ {
+  "id": "M1#3616",
+  "en": "I hope the Public Hall will once again be"
+ },
+ {
+  "id": "M1#3617",
+  "en": "a place where everyone can relax."
+ },
+ {
+  "id": "M1#3618",
+  "en": "Could it be, "
+ },
+ {
+  "id": "M1#3619",
+  "en": ",",
+  "note": "shared vocative comma: '{NAME}, do you...' (Helene, Luisa, Christine); Josef 'Could it be, {NAME},' / 'I knew it. {NAME},'"
+ },
+ {
+  "id": "M1#3620",
+  "en": "it's not the Public Hall but me that",
+  "note": "shared by msgs 140344 and 140400"
+ },
+ {
+  "id": "M1#3621",
+  "en": "you're curious about?"
+ },
+ {
+  "id": "M1#3622",
+  "en": "I'd rather hope that isn't so."
+ },
+ {
+  "id": "M1#3623",
+  "en": "I'd like it to soon become a place that"
+ },
+ {
+  "id": "M1#3624",
+  "en": "everyone can enjoy."
+ },
+ {
+  "id": "M1#3625",
+  "en": "I knew it. "
+ },
+ {
+  "id": "M1#3626",
+  "en": "you're curious about."
+ },
+ {
+  "id": "M1#3627",
+  "en": "And I was hoping it wasn't so..."
+ },
+ {
+  "id": "M1#3628",
+  "en": "Oh! A visitor?",
+  "note": "follows #180 '...'"
+ },
+ {
+  "id": "M1#3629",
+  "en": "Ah, excuse me.",
+  "note": "shared with Dietrich (gravedigger) after 'My condolences...'"
+ },
+ {
+  "id": "M1#3630",
+  "en": "At present, this Public Hall is"
+ },
+ {
+  "id": "M1#3631",
+  "en": "not holding any events."
+ },
+ {
+  "id": "M1#3632",
+  "en": "Nor are any planned"
+ },
+ {
+  "id": "M1#3633",
+  "en": "for the time being."
+ },
+ {
+  "id": "M1#3634",
+  "en": "Then why do you work here?",
+  "note": "player, stern register (omae/da)"
+ },
+ {
+  "id": "M1#3635",
+  "en": "Even with no events, a building"
+ },
+ {
+  "id": "M1#3636",
+  "en": "still needs people to look after it."
+ },
+ {
+  "id": "M1#3637",
+  "en": "Someone who wants to hold an event"
+ },
+ {
+  "id": "M1#3638",
+  "en": "could come by at any time, after all."
+ },
+ {
+  "id": "M1#3639",
+  "en": "And cleaning is important work too."
+ },
+ {
+  "id": "M1#3640",
+  "en": "You're the one I met earlier..."
+ },
+ {
+  "id": "M1#3641",
+  "en": "My apologies."
+ },
+ {
+  "id": "M1#3642",
+  "en": "Then why are you working here?",
+  "note": "player, stern register; same question as #3634"
+ },
+ {
+  "id": "M1#3643",
+  "en": "If you should ever wish to make use of"
+ },
+ {
+  "id": "M1#3644",
+  "en": "our Public Hall, please do let us know."
+ },
+ {
+  "id": "M1#3645",
+  "en": "We can rent it out to you any time."
+ },
+ {
+  "id": "M1#3646",
+  "en": "What brings you here today?"
+ },
+ {
+  "id": "M1#3647",
+  "en": "Why is no one using this Public Hall?",
+  "note": "player, stern register"
+ },
+ {
+  "id": "M1#3648",
+  "en": "Have you ever been to the theater"
+ },
+ {
+  "id": "M1#3649",
+  "en": "on City Hall Street?"
+ },
+ {
+  "id": "M1#3650",
+  "en": "<Yes, I have>",
+  "note": "choice"
+ },
+ {
+  "id": "M1#3651",
+  "en": "<No, I've never been>",
+  "note": "choice"
+ },
+ {
+  "id": "M1#3652",
+  "en": "Yes, I've been there."
+ },
+ {
+  "id": "M1#3653",
+  "en": "Then that makes this easy."
+ },
+ {
+  "id": "M1#3654",
+  "en": "No, I've never been."
+ },
+ {
+  "id": "M1#3655",
+  "en": "I see...",
+  "note": "also player to Stelan (msg 148869)"
+ },
+ {
+  "id": "M1#3656",
+  "en": "Then, as you'd see if you went just once,"
+ },
+ {
+  "id": "M1#3657",
+  "en": "that theater, with all the latest equipment,"
+ },
+ {
+  "id": "M1#3658",
+  "en": "is a truly excellent venue."
+ },
+ {
+  "id": "M1#3659",
+  "en": "This hall is bigger, but compared to this"
+ },
+ {
+  "id": "M1#3660",
+  "en": "run-down building, a lovely theater is"
+ },
+ {
+  "id": "M1#3661",
+  "en": "naturally where people want to hold events."
+ },
+ {
+  "id": "M1#3662",
+  "en": "So, what \"question\" is it today?",
+  "note": "quotes kept: Josef is needling the player, who keeps asking questions (msg 141794 player: 'sharp tongue')"
+ },
+ {
+  "id": "M1#3663",
+  "en": "Since you've gone to the trouble of coming,"
+ },
+ {
+  "id": "M1#3664",
+  "en": "do hear a bit of the Public Hall's history."
+ },
+ {
+  "id": "M1#3665",
+  "en": "This area, with the church and cemetery"
+ },
+ {
+  "id": "M1#3666",
+  "en": "opposite, was once the grounds of a great"
+ },
+ {
+  "id": "M1#3667",
+  "en": "church built in the 14th century."
+ },
+ {
+  "id": "M1#3668",
+  "en": "What was built on that old site"
+ },
+ {
+  "id": "M1#3669",
+  "en": "is this Public Hall."
+ },
+ {
+  "id": "M1#3670",
+  "en": "All sorts of operas have been staged here."
+ },
+ {
+  "id": "M1#3671",
+  "en": "But these days, a well-equipped theater"
+ },
+ {
+  "id": "M1#3672",
+  "en": "is what draws the crowds."
+ },
+ {
+  "id": "M1#3673",
+  "en": "The Public Hall keeps losing popularity."
+ },
+ {
+  "id": "M1#3674",
+  "en": "It's a real shame."
+ },
+ {
+  "id": "M1#3675",
+  "en": "I see. So that's how it was.",
+  "note": "player, stern register"
+ },
+ {
+  "id": "M1#3676",
+  "en": "There's more to the story..."
+ },
+ {
+  "id": "M1#3677",
+  "en": "No, that's quite enough."
+ },
+ {
+  "id": "M1#3678",
+  "en": "So you did want to hear the rest after all."
+ },
+ {
+  "id": "M1#3679",
+  "en": "Lately there's a thing called moving pictures,"
+ }
+]

@@ -1,0 +1,345 @@
+[
+ {
+  "id": "M0#880",
+  "en": "Oh, I don't mean as a wife, mind you.",
+  "note": "'yome-san toshite' = as a wife/bride; Jus's joke that he is not inviting the player as a bride (he and Vent are unmarried, see #894)"
+ },
+ {
+  "id": "M0#881",
+  "en": "I'm saying come over and visit, no need to hold back."
+ },
+ {
+  "id": "M0#882",
+  "en": "Oh yeah, how about some furniture for your house?"
+ },
+ {
+  "id": "M0#883",
+  "en": "I'll make gatepost stakes too, if needed."
+ },
+ {
+  "id": "M0#884",
+  "en": "A skilled man can be put to use as a servant.",
+  "note": "speaker is the stern player voice; 'a skilled man' = Jus (referent inferred from message under Jus)"
+ },
+ {
+  "id": "M0#885",
+  "en": "He will surely become a fine strength to me.",
+  "note": "'He' = the skilled man / Jus; literal 'my good strength'"
+ },
+ {
+  "id": "M0#886",
+  "en": "Mwahahaha...",
+  "note": "also used in msg 99338 (Celia, after 'holding preserved food'); works for both"
+ },
+ {
+  "id": "M0#887",
+  "en": "If you like, why don't we have dinner together?"
+ },
+ {
+  "id": "M0#888",
+  "en": "You came at just the right time."
+ },
+ {
+  "id": "M0#889",
+  "en": "I was just about to eat."
+ },
+ {
+  "id": "M0#890",
+  "en": "Eat with me."
+ },
+ {
+  "id": "M0#891",
+  "en": "Hey, what's your name?",
+  "note": "followed by player 'My name is ' (#128) + name"
+ },
+ {
+  "id": "M0#892",
+  "en": "I am interested, but as for the work..."
+ },
+ {
+  "id": "M0#893",
+  "en": "I'd welcome that, though.",
+  "note": "continues #869 'If you'd help me out,' (slice 010)"
+ },
+ {
+  "id": "M0#894",
+  "en": "Neither Vent nor I have taken a wife yet,"
+ },
+ {
+  "id": "M0#895",
+  "en": "so we live together."
+ },
+ {
+  "id": "M0#896",
+  "en": ", my master. Whatever you say,",
+  "note": "name is inserted before the row; ', my master' from a thrall, matches #0"
+ },
+ {
+  "id": "M0#897",
+  "en": "I'll do anything..."
+ },
+ {
+  "id": "M0#898",
+  "en": "Give me your orders...",
+  "note": "after #0 ', my master...'"
+ },
+ {
+  "id": "M0#899",
+  "en": "Hm... haven't we met somewhere before?"
+ },
+ {
+  "id": "M0#900",
+  "en": "No. I have never met you."
+ },
+ {
+  "id": "M0#901",
+  "en": "I see. Guess not."
+ },
+ {
+  "id": "M0#902",
+  "en": "We have, right? Yeah, we must have...",
+  "note": "follows #899 'haven't we met somewhere before?' in msg 41660"
+ },
+ {
+  "id": "M0#903",
+  "en": "I'm just heading into the forest."
+ },
+ {
+  "id": "M0#904",
+  "en": "I'm heading into the forest. Want to come along?"
+ },
+ {
+  "id": "M0#905",
+  "en": "Hey there.",
+  "note": "'konchiwa' greeting; 'Hey there.' used in daytime/evening/home contexts alike"
+ },
+ {
+  "id": "M0#906",
+  "en": "Oh, I see..."
+ },
+ {
+  "id": "M0#907",
+  "en": "Is that so?"
+ },
+ {
+  "id": "M0#908",
+  "en": "Night's coming earlier these days."
+ },
+ {
+  "id": "M0#909",
+  "en": "If I don't hurry home, night will catch me."
+ },
+ {
+  "id": "M0#910",
+  "en": "I'm heading home now. Want to come along?"
+ },
+ {
+  "id": "M0#911",
+  "en": "Hm... who are you again?"
+ },
+ {
+  "id": "M0#912",
+  "en": "The real question is who you are.",
+  "note": "player after '{NAME}.' (#8); stern 'you are the one who should say who you are'"
+ },
+ {
+  "id": "M0#913",
+  "en": "I'm Vent..."
+ },
+ {
+  "id": "M0#914",
+  "en": "Hm... you walk into someone else's house,",
+  "note": "Vent answering the player who asked who he is: the player entered the brothers' house"
+ },
+ {
+  "id": "M0#915",
+  "en": "and then ask who I am? What's that about?"
+ },
+ {
+  "id": "M0#916",
+  "en": "You let someone into your house, then ask who they are? That makes no sense.",
+  "note": "player to Vent: Vent let him in himself, so asking 'who are you' is absurd; 'they' kept neutral"
+ },
+ {
+  "id": "M0#917",
+  "en": "Uh... hmm..."
+ },
+ {
+  "id": "M0#918",
+  "en": "I thought you were a guest of my brother's."
+ },
+ {
+  "id": "M0#919",
+  "en": "Then it's no wonder I don't know you.",
+  "note": "inferred: player is Jus's guest, so he has never met Jus's brother Vent; 'I don't know you'"
+ },
+ {
+  "id": "M0#920",
+  "en": "That was a pointless exchange. I'll come again.",
+  "note": "no used_in message found; player's remark on leaving, rendered literally"
+ },
+ {
+  "id": "M0#921",
+  "en": "Ah... you..."
+ },
+ {
+  "id": "M0#922",
+  "en": "(To deal with humans,",
+  "note": "player's inner thought, continues in #923"
+ },
+ {
+  "id": "M0#923",
+  "en": "I must learn to maneuver a little more skillfully.)"
+ },
+ {
+  "id": "M0#924",
+  "en": "You..."
+ },
+ {
+  "id": "M0#925",
+  "en": "Ugh, come on. Why are you here again?"
+ },
+ {
+  "id": "M0#926",
+  "en": "Oh, it's you.",
+  "note": "works with #927 and #931 (msg 41926, 41956)"
+ },
+ {
+  "id": "M0#927",
+  "en": "It's just my brother and me living here."
+ },
+ {
+  "id": "M0#928",
+  "en": "Yeah, I chop the trees down,"
+ },
+ {
+  "id": "M0#929",
+  "en": "and my brother makes all kinds of things."
+ },
+ {
+  "id": "M0#930",
+  "en": "That's how our work goes."
+ },
+ {
+  "id": "M0#931",
+  "en": "As for what gets done with the trees I cut,"
+ },
+ {
+  "id": "M0#932",
+  "en": "ask my brother."
+ },
+ {
+  "id": "M0#933",
+  "en": "Well, he's not the only one who uses them.",
+  "note": "'he' = my brother; 'them' = the trees/wood from #931"
+ },
+ {
+  "id": "M0#934",
+  "en": "I can haul in loads of wood, after all."
+ },
+ {
+  "id": "M0#935",
+  "en": "Welcome. There's nothing much here,",
+  "note": "'Not that there's anything in this house' folded into 'nothing much here'; #936 starts with 'but'"
+ },
+ {
+  "id": "M0#936",
+  "en": "but if you want to investigate anything,",
+  "note": "starts with 'but' to continue #935 (msg 41986)"
+ },
+ {
+  "id": "M0#937",
+  "en": "go right ahead.",
+  "note": "'investigate' = the game's investigate command"
+ },
+ {
+  "id": "M0#938",
+  "en": "Want to check out my strength?"
+ },
+ {
+  "id": "M0#939",
+  "en": "I'm proud of my strength. It's really something."
+ },
+ {
+  "id": "M0#940",
+  "en": "Come to the forest and I'll show you some amazing skills."
+ },
+ {
+  "id": "M0#941",
+  "en": "Hey, it's dangerous to be around here."
+ },
+ {
+  "id": "M0#942",
+  "en": "I'm a woodcutter, so I'm cutting trees."
+ },
+ {
+  "id": "M0#943",
+  "en": "Did you have business in the forest?"
+ },
+ {
+  "id": "M0#944",
+  "en": "But it's dangerous to be around here."
+ },
+ {
+  "id": "M0#945",
+  "en": "Still here, huh?"
+ },
+ {
+  "id": "M0#946",
+  "en": "Hurry up and get out of here."
+ },
+ {
+  "id": "M0#947",
+  "en": "Do you have business in the forest?"
+ },
+ {
+  "id": "M0#948",
+  "en": "Or do you have business with me?"
+ },
+ {
+  "id": "M0#949",
+  "en": "I keep hearing all sorts of rumors about you lately."
+ },
+ {
+  "id": "M0#950",
+  "en": "What are you really up to?"
+ },
+ {
+  "id": "M0#951",
+  "en": "Just a little investigation.",
+  "note": "player: 'a little investigation'"
+ },
+ {
+  "id": "M0#952",
+  "en": "Studying something complicated, are you?"
+ },
+ {
+  "id": "M0#953",
+  "en": "Are you some kind of scholar?"
+ },
+ {
+  "id": "M0#954",
+  "en": "Come to think of it, you do look like one."
+ },
+ {
+  "id": "M0#955",
+  "en": "What good is investigating a woodcutter?",
+  "note": "literal 'investigate'; continues in #956 'There are all sorts of uses.'"
+ },
+ {
+  "id": "M0#956",
+  "en": "There are all sorts of uses."
+ },
+ {
+  "id": "M0#957",
+  "en": "Besides, you look strong."
+ },
+ {
+  "id": "M0#958",
+  "en": "Heh, nobody beats me in a contest of strength."
+ },
+ {
+  "id": "M0#959",
+  "en": "I'm the best around here."
+ }
+]

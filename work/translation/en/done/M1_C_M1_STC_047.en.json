@@ -1,0 +1,329 @@
+[
+ {
+  "id": "M1#3760",
+  "en": "my wife's griping, I'd rather be working."
+ },
+ {
+  "id": "M1#3761",
+  "en": "Wouldn't you agree?"
+ },
+ {
+  "id": "M1#3762",
+  "en": "Well, now, I suppose I'll look over some papers."
+ },
+ {
+  "id": "M1#3763",
+  "en": "I'll have some tea brought right away."
+ },
+ {
+  "id": "M1#3764",
+  "en": "Do take a look at our rare imported plates"
+ },
+ {
+  "id": "M1#3765",
+  "en": "while you're at it."
+ },
+ {
+  "id": "M1#3766",
+  "en": "And how did you find the tea?"
+ },
+ {
+  "id": "M1#3767",
+  "en": "I am Wesseli, a trader."
+ },
+ {
+  "id": "M1#3768",
+  "en": "I own several fleets and trade with lands all"
+ },
+ {
+  "id": "M1#3769",
+  "en": "over the world."
+ },
+ {
+  "id": "M1#3770",
+  "en": "So, my guest, what brings you here today?"
+ },
+ {
+  "id": "M1#3771",
+  "en": "<I'm interested in imported goods>",
+  "note": "menu choice"
+ },
+ {
+  "id": "M1#3772",
+  "en": "<I'm interested in you>",
+  "note": "menu choice"
+ },
+ {
+  "id": "M1#3773",
+  "en": "I see. Then I take you for quite"
+ },
+ {
+  "id": "M1#3774",
+  "en": "the collector yourself."
+ },
+ {
+  "id": "M1#3775",
+  "en": "Please, feel free to browse the trading house."
+ },
+ {
+  "id": "M1#3776",
+  "en": "If you have the time,"
+ },
+ {
+  "id": "M1#3777",
+  "en": "I'll have some tea prepared."
+ },
+ {
+  "id": "M1#3778",
+  "en": "Take your time looking around."
+ },
+ {
+  "id": "M1#3779",
+  "en": "Interested in me"
+ },
+ {
+  "id": "M1#3780",
+  "en": "Well, I suppose here in Calstatt I am"
+ },
+ {
+  "id": "M1#3781",
+  "en": "something of a celebrity, mind you."
+ },
+ {
+  "id": "M1#3782",
+  "en": "And you, at a glance, appear to be a person"
+ },
+ {
+  "id": "M1#3783",
+  "en": "of high standing",
+  "note": "followed by 3x M1#180 + M1#25; prints '....' until M1#25 gets a '' variant for msg 144416"
+ },
+ {
+  "id": "M1#3784",
+  "en": "Why don't we take this chance to become"
+ },
+ {
+  "id": "M1#3785",
+  "en": "better acquainted?"
+ },
+ {
+  "id": "M1#3786",
+  "en": "did you find anything to your liking?"
+ },
+ {
+  "id": "M1#3787",
+  "en": "I've been a trader for many years now, but"
+ },
+ {
+  "id": "M1#3788",
+  "en": "long ago I went to sea myself and traveled"
+ },
+ {
+  "id": "M1#3789",
+  "en": "all over the world."
+ },
+ {
+  "id": "M1#3790",
+  "en": "Many a time a storm nearly sank my ship,"
+ },
+ {
+  "id": "M1#3791",
+  "en": "and once I made a miraculous recovery from"
+ },
+ {
+  "id": "M1#3792",
+  "en": "a mysterious illness that nearly killed me."
+ },
+ {
+  "id": "M1#3793",
+  "en": "I just couldn't give up adventure",
+  "note": "followed by 3x M1#180 + M1#25 ('....') in msgs 144490/145243"
+ },
+ {
+  "id": "M1#3794",
+  "en": "Treasures from all over the world, hard-won,",
+  "note": "subject phrase; also followed by M1#3873 (slice 048) 'are what you see on display here.' in msg 145243"
+ },
+ {
+  "id": "M1#3795",
+  "en": "are what you see on display here, you know."
+ },
+ {
+  "id": "M1#3796",
+  "en": "You've been coming here quite often, but"
+ },
+ {
+  "id": "M1#3797",
+  "en": "have you found anything to your liking?"
+ },
+ {
+  "id": "M1#3798",
+  "en": "Every piece here is something beautiful or"
+ },
+ {
+  "id": "M1#3799",
+  "en": "something rare, wouldn't you say?"
+ },
+ {
+  "id": "M1#3800",
+  "en": "I do love beautiful things, after all."
+ },
+ {
+  "id": "M1#3801",
+  "en": "I want beautiful things by my side always."
+ },
+ {
+  "id": "M1#3802",
+  "en": "The same goes for people. If they must be"
+ },
+ {
+  "id": "M1#3803",
+  "en": "near me anyway, better they be beautiful",
+  "note": "followed by 3x M1#180 + M1#25 ('....') in msg 144583"
+ },
+ {
+  "id": "M1#3804",
+  "en": "Being that sort of man, I'm actually on my"
+ },
+ {
+  "id": "M1#3805",
+  "en": "fourth wife already."
+ },
+ {
+  "id": "M1#3806",
+  "en": "Objects are simply beautiful, simply there."
+ },
+ {
+  "id": "M1#3807",
+  "en": "That alone is enough to fill my heart."
+ },
+ {
+  "id": "M1#3808",
+  "en": "Don't you think that's quite enough?"
+ },
+ {
+  "id": "M1#3809",
+  "en": "But people are not like that."
+ },
+ {
+  "id": "M1#3810",
+  "en": "Always wanting this and that,"
+ },
+ {
+  "id": "M1#3811",
+  "en": "they pester me with their demands."
+ },
+ {
+  "id": "M1#3812",
+  "en": "If only they'd just keep quiet"
+ },
+ {
+  "id": "M1#3813",
+  "en": "and sit there, that's all I ask."
+ },
+ {
+  "id": "M1#3814",
+  "en": "Oh, forgive me."
+ },
+ {
+  "id": "M1#3815",
+  "en": "My wife and I had a little spat this morning."
+ },
+ {
+  "id": "M1#3816",
+  "en": "She's a selfish woman, and it's a real trial."
+ },
+ {
+  "id": "M1#3817",
+  "en": "Well? Did you find anything you liked?"
+ },
+ {
+  "id": "M1#3818",
+  "en": "Ah, as it happens I have money on me. I'll pay"
+ },
+ {
+  "id": "M1#3819",
+  "en": "in advance and come for the item another day."
+ },
+ {
+  "id": "M1#3820",
+  "en": "S-such a large sum"
+ },
+ {
+  "id": "M1#3821",
+  "en": "Which piece has caught your eye, may I ask?"
+ },
+ {
+  "id": "M1#3822",
+  "en": "I won't take it with me now. Until next time,"
+ },
+ {
+  "id": "M1#3823",
+  "en": "I'll have you hold on to the money."
+ },
+ {
+  "id": "M1#3824",
+  "en": "Very well."
+ },
+ {
+  "id": "M1#3825",
+  "en": "My, my."
+ },
+ {
+  "id": "M1#3826",
+  "en": "My last voyage was to India."
+ },
+ {
+  "id": "M1#3827",
+  "en": "There I got my hands on rare spices and"
+ },
+ {
+  "id": "M1#3828",
+  "en": "fabrics. I also brought back some rare"
+ },
+ {
+  "id": "M1#3829",
+  "en": "plants."
+ },
+ {
+  "id": "M1#3830",
+  "en": "I brought back a tree called the Indian bodhi."
+ },
+ {
+  "id": "M1#3831",
+  "en": "Sadly, that tree"
+ },
+ {
+  "id": "M1#3832",
+  "en": "withered and died, I'm afraid."
+ },
+ {
+  "id": "M1#3833",
+  "en": "Heh heh heh. In exchange for my payment,"
+ },
+ {
+  "id": "M1#3834",
+  "en": "I've come to collect the goods."
+ },
+ {
+  "id": "M1#3835",
+  "en": "Who's calling in the dead of night? Why, it's"
+ },
+ {
+  "id": "M1#3836",
+  "en": "Unless you come over to the trading house,"
+ },
+ {
+  "id": "M1#3837",
+  "en": "I'm afraid I can't hand over your purchase."
+ },
+ {
+  "id": "M1#3838",
+  "en": "No, right here will do.",
+  "note": "no used_in; player at night (stern register), meaning 'here' = Wesseli himself"
+ },
+ {
+  "id": "M1#3839",
+  "en": "Aaaagh!"
+ }
+]

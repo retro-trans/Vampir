@@ -1,0 +1,361 @@
+[
+ {
+  "id": "M1#1280",
+  "en": "A devil, is it? I doubt there's much difference."
+ },
+ {
+  "id": "M1#1281",
+  "en": "I am a vampire.",
+  "note": "no verb/period in the source (cut off by the bite, #1282); period added"
+ },
+ {
+  "id": "M1#1282",
+  "en": "Aaaargh!",
+  "note": "Karl's scream"
+ },
+ {
+  "id": "M1#1283",
+  "en": "From today on, you will be my puppet."
+ },
+ {
+  "id": "M1#1284",
+  "en": ".",
+  "note": "closes NAME in 6 Karl msgs; msg 50952 needs a space after M1#21 (see report)"
+ },
+ {
+  "id": "M1#1285",
+  "en": "years. My name is Karl.",
+  "note": "needs M1#1227 to end '...for about 20' (see report)"
+ },
+ {
+  "id": "M1#1286",
+  "en": "Put simply, some rogues plunder cargo..."
+ },
+ {
+  "id": "M1#1287",
+  "en": ". Welcome.",
+  "note": "msg 51344 only; #232 variant 'Hello, ' gives 'Hello, NAME. Welcome.'"
+ },
+ {
+  "id": "M1#1288",
+  "en": "I heard it straight from a man named Brome"
+ },
+ {
+  "id": "M1#1289",
+  "en": "at the inn. It didn't seem like he was"
+ },
+ {
+  "id": "M1#1290",
+  "en": "lying, I assure you."
+ },
+ {
+  "id": "M1#1291",
+  "en": "Ah, ",
+  "note": "msg 51437 only: 'Ah, ' + NAME + '.' (Karl sighs, then scolds)"
+ },
+ {
+  "id": "M1#1292",
+  "en": "(I sense far too many people nearby",
+  "note": "'...' is #2, ')' is #1263"
+ },
+ {
+  "id": "M1#1293",
+  "en": "If you had a reason, I meant to hear it",
+  "note": "3-row box: dots / this row / #1294+dots, so one line only"
+ },
+ {
+  "id": "M1#1294",
+  "en": "but",
+  "note": "followed by 3 x #180 '...' in msg 51560 (see report on dots)"
+ },
+ {
+  "id": "M1#1295",
+  "en": "It seems you're nothing but a black-hearted man."
+ },
+ {
+  "id": "M1#1296",
+  "en": "In that case, I won't go easy on you."
+ },
+ {
+  "id": "M1#1297",
+  "en": "Now, Karl,"
+ },
+ {
+  "id": "M1#1298",
+  "en": "it's your turn."
+ },
+ {
+  "id": "M1#1299",
+  "en": "A devil? That's rather hurtful."
+ },
+ {
+  "id": "M1#1300",
+  "en": "I'm a vampire.",
+  "note": "no verb in the source (cut by the bite); period added"
+ },
+ {
+  "id": "M1#1301",
+  "en": "At night, you'll be working under",
+  "note": "continues in #1302"
+ },
+ {
+  "id": "M1#1302",
+  "en": "my orders",
+  "note": "followed by #2 '...' + #25: needs #25 variant '' for msg 51752"
+ },
+ {
+  "id": "M1#1303",
+  "en": "I don't overlook wrongdoing, you know."
+ },
+ {
+  "id": "M1#1304",
+  "en": ", my master,",
+  "note": "servant addressing PLAYER; Marlene (shop clerk, customer) gets ','",
+  "variants": [
+   {
+    "msg": 234565,
+    "en": ","
+   },
+   {
+    "msg": 235188,
+    "en": ","
+   }
+  ]
+ },
+ {
+  "id": "M1#1305",
+  "en": "I'll do anything you say."
+ },
+ {
+  "id": "M1#1306",
+  "en": "Just spare my life, please..."
+ },
+ {
+  "id": "M1#1307",
+  "en": "Morning. I'm Friedrich."
+ },
+ {
+  "id": "M1#1308",
+  "en": "I'm a soldier whose name is famous in the Navy.",
+  "note": "shared by 5 msgs after 'I'm Friedrich.'; 2 box lines"
+ },
+ {
+  "id": "M1#1309",
+  "en": "I'm Friedrich."
+ },
+ {
+  "id": "M1#1310",
+  "en": "My name is famous in the Navy...",
+  "note": "trails off, then #1311"
+ },
+ {
+  "id": "M1#1311",
+  "en": "Oh, you're the one from before..."
+ },
+ {
+  "id": "M1#1312",
+  "en": "Well, if you ever run into trouble,"
+ },
+ {
+  "id": "M1#1313",
+  "en": "come and talk to me any time."
+ },
+ {
+  "id": "M1#1314",
+  "en": "I'm on my way to the Navy command post."
+ },
+ {
+  "id": "M1#1315",
+  "en": "For the prosperity and peace of this country,"
+ },
+ {
+  "id": "M1#1316",
+  "en": "I fight."
+ },
+ {
+  "id": "M1#1317",
+  "en": "Good morning, ",
+  "note": "Kroeger msg 131887: 'Good morning, ' / NAME '.'; Marie variants avoid 'Name,Good morning'",
+  "variants": [
+   {
+    "msg": 193255,
+    "en": " good morning"
+   },
+   {
+    "msg": 193972,
+    "en": " good morning"
+   }
+  ]
+ },
+ {
+  "id": "M1#1318",
+  "en": "Why don't you join the Navy too?"
+ },
+ {
+  "id": "M1#1319",
+  "en": "Good evening. I'm Friedrich."
+ },
+ {
+  "id": "M1#1320",
+  "en": "Hey."
+ },
+ {
+  "id": "M1#1321",
+  "en": "Another peaceful day, was it?"
+ },
+ {
+  "id": "M1#1322",
+  "en": "Hey, I'm Friedrich."
+ },
+ {
+  "id": "M1#1323",
+  "en": "I'm always at the Navy command post."
+ },
+ {
+  "id": "M1#1324",
+  "en": "The Navy command post?"
+ },
+ {
+  "id": "M1#1325",
+  "en": "Don't you know where the command post is?"
+ },
+ {
+  "id": "M1#1326",
+  "en": "It's the second building to the west of here."
+ },
+ {
+  "id": "M1#1327",
+  "en": "Thank you.",
+  "note": "PLAYER; also Klaus 62707/63385, Zille 71762, Thomas 92105"
+ },
+ {
+  "id": "M1#1328",
+  "en": "See you at the command post, then."
+ },
+ {
+  "id": "M1#1329",
+  "en": "If you're ever in trouble,"
+ },
+ {
+  "id": "M1#1330",
+  "en": "stop by the command post."
+ },
+ {
+  "id": "M1#1331",
+  "en": "Peace sure is boring."
+ },
+ {
+  "id": "M1#1332",
+  "en": "I want some kind of change, you know?"
+ },
+ {
+  "id": "M1#1333",
+  "en": "I want to experience combat soon!"
+ },
+ {
+  "id": "M1#1334",
+  "en": "I want my turn to shine."
+ },
+ {
+  "id": "M1#1335",
+  "en": "What exploits made you famous?"
+ },
+ {
+  "id": "M1#1336",
+  "en": "It's not for my exploits, but for",
+  "note": "no message found; reads with #1337-#1339 as a list, then '...' (#180) and #1340"
+ },
+ {
+  "id": "M1#1337",
+  "en": "my marksmanship,"
+ },
+ {
+  "id": "M1#1338",
+  "en": "my steering skill,"
+ },
+ {
+  "id": "M1#1339",
+  "en": "my grades at the officers' academy,"
+ },
+ {
+  "id": "M1#1340",
+  "en": "Well, I got famous through what everyone says about me.",
+  "note": "msg 54301 begins with '...' (#180)"
+ },
+ {
+  "id": "M1#1341",
+  "en": "I'm Friedrich, a Navy soldier."
+ },
+ {
+  "id": "M1#1342",
+  "en": "Well now, did you come to see me?"
+ },
+ {
+  "id": "M1#1343",
+  "en": "Yes. What exploits made you famous?"
+ },
+ {
+  "id": "M1#1344",
+  "en": "I wanted to hear about it."
+ },
+ {
+  "id": "M1#1345",
+  "en": "You mean my exploits...?"
+ },
+ {
+  "id": "M1#1346",
+  "en": "A soldier's got to be brave, right?"
+ },
+ {
+  "id": "M1#1347",
+  "en": "It's peaceful these days. There's no war or"
+ },
+ {
+  "id": "M1#1348",
+  "en": "anything going on. I'm bored out of my mind."
+ },
+ {
+  "id": "M1#1349",
+  "en": "Do you want a war that much?"
+ },
+ {
+  "id": "M1#1350",
+  "en": "Who do you think you're asking?"
+ },
+ {
+  "id": "M1#1351",
+  "en": "I'm the man famous in the Navy,"
+ },
+ {
+  "id": "M1#1352",
+  "en": "Friedrich."
+ },
+ {
+  "id": "M1#1353",
+  "en": "I'm the man best suited to the battlefield."
+ },
+ {
+  "id": "M1#1354",
+  "en": "Lately, I hear brawls have been breaking out"
+ },
+ {
+  "id": "M1#1355",
+  "en": "in the middle of the night."
+ },
+ {
+  "id": "M1#1356",
+  "en": "If I could find out where it's happening,"
+ },
+ {
+  "id": "M1#1357",
+  "en": "I'd settle it right away."
+ },
+ {
+  "id": "M1#1358",
+  "en": "What, do you want to become a Dhampir?"
+ },
+ {
+  "id": "M1#1359",
+  "en": "What?"
+ }
+]

@@ -1,0 +1,324 @@
+[
+ {
+  "id": "M2#4400",
+  "en": "And they have strange wounds on their necks."
+ },
+ {
+  "id": "M2#4401",
+  "en": "Have you had any odd symptoms?"
+ },
+ {
+  "id": "M2#4402",
+  "en": "With dreadful crimes and a strange illness,"
+ },
+ {
+  "id": "M2#4403",
+  "en": "London's gone odd, hasn't it?"
+ },
+ {
+  "id": "M2#4404",
+  "en": "What on earth could be the cause?"
+ },
+ {
+  "id": "M2#4405",
+  "en": "Do come again any time."
+ },
+ {
+  "id": "M2#4406",
+  "en": "I only came by to pay my respects."
+ },
+ {
+  "id": "M2#4407",
+  "en": "I may not look it, but I'm very robust."
+ },
+ {
+  "id": "M2#4408",
+  "en": "Thank you. I'll be going, then."
+ },
+ {
+  "id": "M2#4409",
+  "en": "(Oh dear. If he examined me, he'd find out"
+ },
+ {
+  "id": "M2#4410",
+  "en": "that I'm not human.)"
+ },
+ {
+  "id": "M2#4411",
+  "en": "I just came to pay my respects."
+ },
+ {
+  "id": "M2#4412",
+  "en": "I may not look it, but I'm the hardy sort."
+ },
+ {
+  "id": "M2#4413",
+  "en": "N-no, that's quite all right."
+ },
+ {
+  "id": "M2#4414",
+  "en": "I don't mind just talking with you, but"
+ },
+ {
+  "id": "M2#4415",
+  "en": "the truth is, I'm not good with doctors."
+ },
+ {
+  "id": "M2#4416",
+  "en": "What a surprising weakness. That won't do."
+ },
+ {
+  "id": "M2#4417",
+  "en": "You'll ruin your health that way."
+ },
+ {
+  "id": "M2#4418",
+  "en": "No, I've come to the wrong place. Sorry."
+ },
+ {
+  "id": "M2#4419",
+  "en": "(A doctor's house. That was a mistake.)"
+ },
+ {
+  "id": "M2#4420",
+  "en": "Come in. You're most welcome."
+ },
+ {
+  "id": "M2#4421",
+  "en": "He alone has noticed the change in everyone."
+ },
+ {
+  "id": "M2#4422",
+  "en": "No one but him would ever notice."
+ },
+ {
+  "id": "M2#4423",
+  "en": "Yes, if only he weren't here..."
+ },
+ {
+  "id": "M2#4424",
+  "en": "I can't let him find out."
+ },
+ {
+  "id": "M2#4425",
+  "en": "There's no other way."
+ },
+ {
+  "id": "M2#4426",
+  "en": "You'll have to become"
+ },
+ {
+  "id": "M2#4427",
+  "en": "my servant.",
+  "note": "Also listed alone in msg 173576 (probably a decoder branch artefact, as in the slice 000 report); check in game."
+ },
+ {
+  "id": "M2#4428",
+  "en": "They say God judges the sins of men..."
+ },
+ {
+  "id": "M2#4429",
+  "en": "But then who will judge ours..."
+ },
+ {
+  "id": "M2#4430",
+  "en": "I beg you, let your Wilfred serve you.",
+  "note": "Ends as a full sentence because the next row #4358 (slice 054) also stands alone after '{NAME}, my master.' in msg 172684."
+ },
+ {
+  "id": "M2#4431",
+  "en": "What's this wound?"
+ },
+ {
+  "id": "M2#4432",
+  "en": "I know, it's the work of someone with a grudge against me."
+ },
+ {
+  "id": "M2#4433",
+  "en": ", my master. What is your wish?"
+ },
+ {
+  "id": "M2#4434",
+  "en": "I will do anything..."
+ },
+ {
+  "id": "M2#4435",
+  "en": "I've been feeling tired lately, somehow..."
+ },
+ {
+  "id": "M2#4436",
+  "en": "Maybe I'll just have a drink and go to bed."
+ },
+ {
+  "id": "M2#4437",
+  "en": "Well, well, welcome, welcome!"
+ },
+ {
+  "id": "M2#4438",
+  "en": "What can I do for you, sir?"
+ },
+ {
+  "id": "M2#4439",
+  "en": "Judging by your fine attire..."
+ },
+ {
+  "id": "M2#4440",
+  "en": "you're not here to pawn anything."
+ },
+ {
+  "id": "M2#4441",
+  "en": "Ah, I know. You're interested in antiques?"
+ },
+ {
+  "id": "M2#4442",
+  "en": "No, I've only come to look today."
+ },
+ {
+  "id": "M2#4443",
+  "en": "I see, I see."
+ },
+ {
+  "id": "M2#4444",
+  "en": "Please, take your time and look around."
+ },
+ {
+  "id": "M2#4445",
+  "en": "Drop by often, and you might just"
+ },
+ {
+  "id": "M2#4446",
+  "en": "find a real treasure."
+ },
+ {
+  "id": "M2#4447",
+  "en": "Thank you for visiting our shop, sir."
+ },
+ {
+  "id": "M2#4448",
+  "en": "Always so distinguished. I'm most impressed."
+ },
+ {
+  "id": "M2#4449",
+  "en": "Do antiques interest you, sir?"
+ },
+ {
+  "id": "M2#4450",
+  "en": "We have a fine stock of rare pieces."
+ },
+ {
+  "id": "M2#4451",
+  "en": "When something rare comes in, I'll let you know."
+ },
+ {
+  "id": "M2#4452",
+  "en": "Welcome, sir."
+ },
+ {
+  "id": "M2#4453",
+  "en": "Well now, what are you looking for today?"
+ },
+ {
+  "id": "M2#4454",
+  "en": "Times are hard, so some folk are selling off"
+ },
+ {
+  "id": "M2#4455",
+  "en": "antiques so precious you'd hardly believe it."
+ },
+ {
+  "id": "M2#4456",
+  "en": "Now's your chance."
+ },
+ {
+  "id": "M2#4457",
+  "en": "We're really a pawnshop, you know,"
+ },
+ {
+  "id": "M2#4458",
+  "en": "but we've long doubled as an antique shop."
+ },
+ {
+  "id": "M2#4459",
+  "en": "It started as my old man's hobby,"
+ },
+ {
+  "id": "M2#4460",
+  "en": "but I built it up into a real business."
+ },
+ {
+  "id": "M2#4461",
+  "en": "What do you think?"
+ },
+ {
+  "id": "M2#4462",
+  "en": "You'd be surprised what wonderful pieces"
+ },
+ {
+  "id": "M2#4463",
+  "en": "hide among common folk's pawned goods."
+ },
+ {
+  "id": "M2#4464",
+  "en": "I get them for a song, and then..."
+ },
+ {
+  "id": "M2#4465",
+  "en": "Oops, I shouldn't have said that."
+ },
+ {
+  "id": "M2#4466",
+  "en": "Isn't it time? Won't you choose a piece"
+ },
+ {
+  "id": "M2#4467",
+  "en": "to add to your collection?"
+ },
+ {
+  "id": "M2#4468",
+  "en": "I'm always glad to help."
+ },
+ {
+  "id": "M2#4469",
+  "en": "Who is it?"
+ },
+ {
+  "id": "M2#4470",
+  "en": "Here to pawn? We're closed at this hour."
+ },
+ {
+  "id": "M2#4471",
+  "en": "The antique shop's only open by day, too."
+ },
+ {
+  "id": "M2#4472",
+  "en": "Please come during business hours."
+ },
+ {
+  "id": "M2#4473",
+  "en": "Many thanks for your patronage, as ever."
+ },
+ {
+  "id": "M2#4474",
+  "en": "What brings you here at this hour..."
+ },
+ {
+  "id": "M2#4475",
+  "en": "Something to discuss in private?"
+ },
+ {
+  "id": "M2#4476",
+  "en": "For you, sir, I could let my best pieces"
+ },
+ {
+  "id": "M2#4477",
+  "en": "go a little cheaper."
+ },
+ {
+  "id": "M2#4478",
+  "en": "But that's our secret."
+ },
+ {
+  "id": "M2#4479",
+  "en": "Welcome, sir, so good of you to come."
+ }
+]

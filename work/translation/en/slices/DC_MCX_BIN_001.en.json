@@ -1,0 +1,93 @@
+{
+ "slice": "DC_MCX_BIN_001",
+ "file": "DC_MCX.BIN",
+ "rows": [
+  {
+   "id": "MCX.BIN@6EC"
+  },
+  {
+   "id": "MCX.BIN@70C"
+  },
+  {
+   "id": "MCX.BIN@724"
+  },
+  {
+   "id": "MCX.BIN@73C"
+  },
+  {
+   "id": "MCX.BIN@768"
+  },
+  {
+   "id": "MCX.BIN@790"
+  },
+  {
+   "id": "MCX.BIN@7A0"
+  },
+  {
+   "id": "MCX.BIN@7B0"
+  },
+  {
+   "id": "MCX.BIN@7D4"
+  },
+  {
+   "id": "MCX.BIN@9B4"
+  },
+  {
+   "id": "MCX.BIN@9C4"
+  },
+  {
+   "id": "MCX.BIN@9C8"
+  },
+  {
+   "id": "MCX.BIN@9D0"
+  },
+  {
+   "id": "MCX.BIN@9E0"
+  },
+  {
+   "id": "MCX.BIN@9EC"
+  },
+  {
+   "id": "MCX.BIN@9F0"
+  },
+  {
+   "id": "MCX.BIN@A08"
+  },
+  {
+   "id": "MCX.BIN@A10"
+  }
+ ],
+ "before": [
+  {
+   "id": "MCX.BIN@568"
+  },
+  {
+   "id": "MCX.BIN@58C"
+  },
+  {
+   "id": "MCX.BIN@5B8"
+  },
+  {
+   "id": "MCX.BIN@5E4"
+  },
+  {
+   "id": "MCX.BIN@608"
+  },
+  {
+   "id": "MCX.BIN@634"
+  },
+  {
+   "id": "MCX.BIN@654"
+  },
+  {
+   "id": "MCX.BIN@680"
+  },
+  {
+   "id": "MCX.BIN@6AC"
+  },
+  {
+   "id": "MCX.BIN@6CC"
+  }
+ ],
+ "after": []
+}

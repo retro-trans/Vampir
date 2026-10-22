@@ -1,0 +1,2411 @@
+[
+ {
+  "id": "SLPS_019.32@1F98",
+  "off": 8088,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148032540
+   ]
+  ],
+  "idx": 0,
+  "en": "Type",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@1F90",
+  "off": 8080,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148032544
+   ]
+  ],
+  "idx": 1,
+  "en": "VIT",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@1F88",
+  "off": 8072,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148032548
+   ]
+  ],
+  "idx": 2,
+  "en": "Str",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@1F80",
+  "off": 8064,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148032552
+   ]
+  ],
+  "idx": 3,
+  "en": "Crit",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@1FAC",
+  "off": 8108,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148032556
+   ]
+  ],
+  "idx": 4,
+  "en": "Combat",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@1FA4",
+  "off": 8100,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148032560
+   ]
+  ],
+  "idx": 5,
+  "en": "Labor",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@1FA0",
+  "off": 8096,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148032564
+   ]
+  ],
+  "idx": 6,
+  "en": " ",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@0",
+  "off": 0,
+  "size": 2,
+  "slot": 2,
+  "refs": [
+   [
+    "code",
+    2147561704
+   ],
+   [
+    "code",
+    2147596932
+   ],
+   [
+    "code",
+    2147597504
+   ],
+   [
+    "code",
+    2147597528
+   ],
+   [
+    "code",
+    2147677024
+   ],
+   [
+    "code",
+    2147811524
+   ],
+   [
+    "code",
+    2147857624
+   ],
+   [
+    "code",
+    2147875880
+   ],
+   [
+    "code",
+    2147875884
+   ],
+   [
+    "code",
+    2147875928
+   ],
+   [
+    "code",
+    2147876020
+   ],
+   [
+    "code",
+    2147877168
+   ],
+   [
+    "code",
+    2147877184
+   ],
+   [
+    "code",
+    2147877444
+   ],
+   [
+    "code",
+    2147892396
+   ],
+   [
+    "code",
+    2147893036
+   ],
+   [
+    "code",
+    2147894152
+   ],
+   [
+    "code",
+    2147895896
+   ],
+   [
+    "code",
+    2147896772
+   ],
+   [
+    "code",
+    2147898856
+   ]
+  ],
+  "en": "0",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@3",
+  "off": 3,
+  "size": 2,
+  "slot": 2,
+  "refs": [
+   [
+    "code",
+    2147877192
+   ]
+  ],
+  "en": "1",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@9",
+  "off": 9,
+  "size": 2,
+  "slot": 2,
+  "refs": [
+   [
+    "code",
+    2147677052
+   ]
+  ],
+  "en": "3",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@C",
+  "off": 12,
+  "size": 2,
+  "slot": 2,
+  "refs": [
+   [
+    "code",
+    2147875472
+   ]
+  ],
+  "en": "4",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@18",
+  "off": 24,
+  "size": 2,
+  "slot": 2,
+  "refs": [
+   [
+    "code",
+    2147932644
+   ]
+  ],
+  "en": "8",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@20",
+  "off": 32,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147561840
+   ]
+  ],
+  "en": "normal",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@38",
+  "off": 56,
+  "size": 4,
+  "slot": 35,
+  "refs": [
+   [
+    "code",
+    2147561660
+   ]
+  ],
+  "en": "none",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@134",
+  "off": 308,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147562604
+   ]
+  ],
+  "en": "STAGE",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@140",
+  "off": 320,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147562768
+   ]
+  ],
+  "en": "VAMPIRE",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@150",
+  "off": 336,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147562928
+   ]
+  ],
+  "en": "ND setup",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@160",
+  "off": 352,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "code",
+    2147563088
+   ]
+  ],
+  "en": "critical limit",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@21C",
+  "off": 540,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147568572
+   ]
+  ],
+  "en": "Duran",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@228",
+  "off": 552,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147568616
+   ]
+  ],
+  "en": "Christopher",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@5F0",
+  "off": 1520,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147618668
+   ]
+  ],
+  "en": "Waiting...",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@5FC",
+  "off": 1532,
+  "size": 24,
+  "slot": 31,
+  "refs": [
+   [
+    "code",
+    2147631288
+   ]
+  ],
+  "en": "Not enough Blood Flow to drink!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@644",
+  "off": 1604,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147633148
+   ]
+  ],
+  "en": "Summon/Command",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@650",
+  "off": 1616,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "code",
+    2147633652
+   ]
+  ],
+  "en": "You can't summon!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@664",
+  "off": 1636,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2147633712
+   ],
+   [
+    "code",
+    2147633924
+   ]
+  ],
+  "en": "Message",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@66C",
+  "off": 1644,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "code",
+    2147635100
+   ]
+  ],
+  "en": "No direct servants to command.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@688",
+  "off": 1672,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "code",
+    2147635152
+   ]
+  ],
+  "en": "Can't summon any more!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@6A0",
+  "off": 1696,
+  "size": 14,
+  "slot": 19,
+  "refs": [
+   [
+    "code",
+    2147635200
+   ]
+  ],
+  "en": "No direct servants.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@844",
+  "off": 2116,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2147647328
+   ]
+  ],
+  "en": "Transform",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@84C",
+  "off": 2124,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "code",
+    2147636280
+   ]
+  ],
+  "en": "No transform power left!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@864",
+  "off": 2148,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "code",
+    2147636564
+   ]
+  ],
+  "en": "Repairing coffin...",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@878",
+  "off": 2168,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2147636580
+   ]
+  ],
+  "en": "Waiting",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@880",
+  "off": 2176,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147637768
+   ]
+  ],
+  "en": "Dawn breaks",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@88C",
+  "off": 2188,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147638680
+   ]
+  ],
+  "en": "Night falls",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@898",
+  "off": 2200,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "code",
+    2147641624
+   ]
+  ],
+  "en": "Mortally wounded!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@8CC",
+  "off": 2252,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147647968
+   ]
+  ],
+  "en": "PAUSE",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@8D8",
+  "off": 2264,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147645864
+   ]
+  ],
+  "en": "Quit Game",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@8E4",
+  "off": 2276,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "code",
+    2147645912
+   ]
+  ],
+  "en": "Are you sure?",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@8FC",
+  "off": 2300,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "code",
+    2147646340
+   ]
+  ],
+  "en": "GAME OVER",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@910",
+  "off": 2320,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "code",
+    2147648304
+   ]
+  ],
+  "en": "Transform power is gone!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@A50",
+  "off": 2640,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147659148
+   ]
+  ],
+  "en": "Before tally",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@AA0",
+  "off": 2720,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147659456
+   ]
+  ],
+  "en": "After tally",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@C0C",
+  "off": 3084,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "code",
+    2147668576
+   ]
+  ],
+  "en": "The professor destroyed your coffin!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@C28",
+  "off": 3112,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2147668588
+   ],
+   [
+    "code",
+    2147669116
+   ]
+  ],
+  "en": "Direct",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@C30",
+  "off": 3120,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147668652
+   ],
+   [
+    "code",
+    2147668728
+   ]
+  ],
+  "en": " was purified!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@C40",
+  "off": 3136,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2147668664
+   ],
+   [
+    "code",
+    2147669164
+   ]
+  ],
+  "en": "Subord.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@C48",
+  "off": 3144,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "code",
+    2147668768
+   ]
+  ],
+  "en": ": message failed!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@C60",
+  "off": 3168,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147668808
+   ]
+  ],
+  "en": " started fighting!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@C70",
+  "off": 3184,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "code",
+    2147668848
+   ]
+  ],
+  "en": ": message delivered!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@C88",
+  "off": 3208,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "code",
+    2147668892
+   ],
+   [
+    "code",
+    2147669004
+   ],
+   [
+    "code",
+    2147669076
+   ]
+  ],
+  "en": " ",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@C8C",
+  "off": 3212,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147668920
+   ]
+  ],
+  "en": " is now a subordinate.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@C9C",
+  "off": 3228,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "code",
+    2147668960
+   ]
+  ],
+  "en": " is mortally wounded!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@CB0",
+  "off": 3248,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147669032
+   ]
+  ],
+  "en": " is cornered.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@CC0",
+  "off": 3264,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147669104
+   ]
+  ],
+  "en": " defeated!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@CCC",
+  "off": 3276,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147669224
+   ]
+  ],
+  "en": " was defeated!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@D9C",
+  "off": 3484,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147694724
+   ]
+  ],
+  "en": "Van Helsing",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@DA8",
+  "off": 3496,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2147694816
+   ]
+  ],
+  "en": "Morris",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@DB0",
+  "off": 3504,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147694836
+   ]
+  ],
+  "en": "Harker",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@DBC",
+  "off": 3516,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147694856
+   ]
+  ],
+  "en": "Holmwood",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@DCC",
+  "off": 3532,
+  "size": 8,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147694876
+   ]
+  ],
+  "en": "Seward",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@DF0",
+  "off": 3568,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "code",
+    2147705200
+   ]
+  ],
+  "en": "M",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@DF4",
+  "off": 3572,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "code",
+    2147705204
+   ]
+  ],
+  "en": "F",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@DF8",
+  "off": 3576,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2147707980
+   ]
+  ],
+  "en": "Direct",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@E00",
+  "off": 3584,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2147707984
+   ]
+  ],
+  "en": "Subord",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@E08",
+  "off": 3592,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147708068
+   ]
+  ],
+  "en": "Dhampir",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@E14",
+  "off": 3604,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147708072
+   ]
+  ],
+  "en": "Nosferatu",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@E24",
+  "off": 3620,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "code",
+    2147708280
+   ]
+  ],
+  "en": " yrs",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@EF4",
+  "off": 3828,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147725944
+   ]
+  ],
+  "en": "Vampire",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@F04",
+  "off": 3844,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147728924
+   ]
+  ],
+  "en": "Labor type",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@F10",
+  "off": 3856,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147728932
+   ]
+  ],
+  "en": "Combat type",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@F6C",
+  "off": 3948,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "code",
+    2147792524
+   ]
+  ],
+  "en": "Talk to whom?",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@F80",
+  "off": 3968,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "code",
+    2147792532
+   ]
+  ],
+  "en": "Drink from whom?",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@1398",
+  "off": 5016,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2147807420
+   ]
+  ],
+  "en": "Villager 2",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@13A0",
+  "off": 5024,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2147807444
+   ]
+  ],
+  "en": "Villager 1",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@13A8",
+  "off": 5032,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2147807468
+   ]
+  ],
+  "en": "Soldier",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@13B0",
+  "off": 5040,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147807492
+   ]
+  ],
+  "en": "Rowena",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@13BC",
+  "off": 5052,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147807516
+   ]
+  ],
+  "en": "Ragash",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@13C8",
+  "off": 5064,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2147807540
+   ]
+  ],
+  "en": "Rusalie",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@13D4",
+  "off": 5076,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2147807564
+   ]
+  ],
+  "en": "Sistina",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@13E4",
+  "off": 5092,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2147807588
+   ]
+  ],
+  "en": "Orgo",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@13EC",
+  "off": 5100,
+  "size": 6,
+  "slot": 9,
+  "refs": [
+   [
+    "code",
+    2147807792
+   ],
+   [
+    "code",
+    2147820052
+   ]
+  ],
+  "en": "???",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@1ECC",
+  "off": 7884,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "code",
+    2147863052
+   ]
+  ],
+  "en": "Not all allotted yet.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@700C4",
+  "off": 458948,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148008408
+   ]
+  ],
+  "en": "Nobody here...",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@700D8",
+  "off": 458968,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148008420
+   ]
+  ],
+  "en": "Nobody here...",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@700EC",
+  "off": 458988,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148008432
+   ]
+  ],
+  "en": "Work",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@700F0",
+  "off": 458992,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148008444
+   ]
+  ],
+  "en": "Home",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@700F4",
+  "off": 458996,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148008456
+   ]
+  ],
+  "en": "@",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@700F8",
+  "off": 459000,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148008468
+   ]
+  ],
+  "en": "Fast forward",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70104",
+  "off": 459012,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148008480
+   ]
+  ],
+  "en": "Garlic had been set!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70120",
+  "off": 459040,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148008492
+   ]
+  ],
+  "en": "An altar had been set!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70138",
+  "off": 459064,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148008504
+   ]
+  ],
+  "en": "Holly has been set!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70150",
+  "off": 459088,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148008516
+   ]
+  ],
+  "en": "C",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70154",
+  "off": 459092,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148008528
+   ]
+  ],
+  "en": "Can't summon or command!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7016C",
+  "off": 459116,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148008540
+   ]
+  ],
+  "en": "You can't transform!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70180",
+  "off": 459136,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148008552
+   ],
+   [
+    "code",
+    2147894900
+   ]
+  ],
+  "en": "Cannot message!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70194",
+  "off": 459156,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148008564
+   ]
+  ],
+  "en": "Sleeping...",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@701A4",
+  "off": 459172,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148008576
+   ]
+  ],
+  "en": "No transform power left!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@701BC",
+  "off": 459196,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148008588
+   ]
+  ],
+  "en": "You can't command!",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7093C",
+  "off": 461116,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148010828
+   ],
+   [
+    "ptr",
+    2148010848
+   ],
+   [
+    "ptr",
+    2148010868
+   ]
+  ],
+  "en": "Pasture",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70944",
+  "off": 461124,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148010888
+   ],
+   [
+    "ptr",
+    2148010908
+   ]
+  ],
+  "en": "Churchyard",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70950",
+  "off": 461136,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148010928
+   ]
+  ],
+  "en": "Forest",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70954",
+  "off": 461140,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148010948
+   ]
+  ],
+  "en": "Fields",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70958",
+  "off": 461144,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148010968
+   ]
+  ],
+  "en": "Monument",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70964",
+  "off": 461156,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148010988
+   ],
+   [
+    "ptr",
+    2148011008
+   ],
+   [
+    "ptr",
+    2148011028
+   ],
+   [
+    "ptr",
+    2148011048
+   ]
+  ],
+  "en": "Harbor St.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7096C",
+  "off": 461164,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148011068
+   ]
+  ],
+  "en": "Harbor Park",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70974",
+  "off": 461172,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148011088
+   ],
+   [
+    "ptr",
+    2148011108
+   ],
+   [
+    "ptr",
+    2148011128
+   ]
+  ],
+  "en": "South Houses",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70980",
+  "off": 461184,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148011148
+   ],
+   [
+    "ptr",
+    2148011168
+   ],
+   [
+    "ptr",
+    2148011188
+   ],
+   [
+    "ptr",
+    2148011208
+   ]
+  ],
+  "en": "S. Coast Rd.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7098C",
+  "off": 461196,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148011228
+   ]
+  ],
+  "en": "Church",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70994",
+  "off": 461204,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148011248
+   ]
+  ],
+  "en": "Market St.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@709A0",
+  "off": 461216,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148011268
+   ]
+  ],
+  "en": "Town Hall",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@709A8",
+  "off": 461224,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148011288
+   ]
+  ],
+  "en": "Riesel St.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@709B8",
+  "off": 461240,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148011308
+   ],
+   [
+    "ptr",
+    2148011328
+   ],
+   [
+    "ptr",
+    2148011348
+   ]
+  ],
+  "en": "Town Hall St.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@709C4",
+  "off": 461252,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148011368
+   ]
+  ],
+  "en": "Alster Park",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@709D4",
+  "off": 461268,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148011388
+   ]
+  ],
+  "en": "W. Alster St.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@709E8",
+  "off": 461288,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148011408
+   ]
+  ],
+  "en": "S. Alster St.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@709FC",
+  "off": 461308,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148011428
+   ]
+  ],
+  "en": "E. Alster St.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70A10",
+  "off": 461328,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148011448
+   ],
+   [
+    "ptr",
+    2148011468
+   ],
+   [
+    "ptr",
+    2148011488
+   ]
+  ],
+  "en": "N. Alster St.",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70A24",
+  "off": 461348,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148011508
+   ],
+   [
+    "ptr",
+    2148011528
+   ],
+   [
+    "ptr",
+    2148011548
+   ]
+  ],
+  "en": "Calstatt Road",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70A38",
+  "off": 461368,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148011568
+   ]
+  ],
+  "en": "Navy Grounds",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70A44",
+  "off": 461380,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148011588
+   ]
+  ],
+  "en": "Warehouses",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70A4C",
+  "off": 461388,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148011608
+   ]
+  ],
+  "en": "Factory Grounds",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70A58",
+  "off": 461400,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148011628
+   ]
+  ],
+  "en": "Riesel Park",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70A68",
+  "off": 461416,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148011648
+   ],
+   [
+    "ptr",
+    2148011668
+   ]
+  ],
+  "en": "South Houses",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70A74",
+  "off": 461428,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148011688
+   ]
+  ],
+  "en": "E. Hall Houses",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70A84",
+  "off": 461444,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148011708
+   ]
+  ],
+  "en": "Zille Farm",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70A94",
+  "off": 461460,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148011728
+   ]
+  ],
+  "en": "Undertaker",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70A9C",
+  "off": 461468,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148011748
+   ]
+  ],
+  "en": "Cemetery",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70AA4",
+  "off": 461476,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148011768
+   ],
+   [
+    "ptr",
+    2148011788
+   ],
+   [
+    "ptr",
+    2148011808
+   ],
+   [
+    "ptr",
+    2148011828
+   ],
+   [
+    "ptr",
+    2148011848
+   ],
+   [
+    "ptr",
+    2148011868
+   ],
+   [
+    "ptr",
+    2148011888
+   ],
+   [
+    "ptr",
+    2148011908
+   ],
+   [
+    "ptr",
+    2148011928
+   ]
+  ],
+  "en": "Alster Houses",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70AB8",
+  "off": 461496,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148011948
+   ],
+   [
+    "ptr",
+    2148011968
+   ],
+   [
+    "ptr",
+    2148011988
+   ]
+  ],
+  "en": "Forest",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70ABC",
+  "off": 461500,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148012008
+   ],
+   [
+    "ptr",
+    2148012028
+   ]
+  ],
+  "en": "Uptown",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70AC8",
+  "off": 461512,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148012048
+   ]
+  ],
+  "en": "School",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70AD0",
+  "off": 461520,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148012068
+   ]
+  ],
+  "en": "Piccadilly",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70AE0",
+  "off": 461536,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148012088
+   ],
+   [
+    "ptr",
+    2148012108
+   ],
+   [
+    "ptr",
+    2148012128
+   ],
+   [
+    "ptr",
+    2148012148
+   ]
+  ],
+  "en": "The Strand",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70AF0",
+  "off": 461552,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148012168
+   ],
+   [
+    "ptr",
+    2148012188
+   ]
+  ],
+  "en": "The City",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70AFC",
+  "off": 461564,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148012208
+   ],
+   [
+    "ptr",
+    2148012228
+   ]
+  ],
+  "en": "Westminster",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70B14",
+  "off": 461588,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148012248
+   ],
+   [
+    "ptr",
+    2148012268
+   ],
+   [
+    "ptr",
+    2148012288
+   ]
+  ],
+  "en": "South Bank",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70B28",
+  "off": 461608,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148012308
+   ],
+   [
+    "ptr",
+    2148012328
+   ]
+  ],
+  "en": "Southwark",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@70B38",
+  "off": 461624,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148012348
+   ],
+   [
+    "ptr",
+    2148012368
+   ],
+   [
+    "ptr",
+    2148012388
+   ],
+   [
+    "ptr",
+    2148012408
+   ]
+  ],
+  "en": "The Thames",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@71198",
+  "off": 463256,
+  "size": 12,
+  "slot": 51,
+  "refs": [
+   [
+    "code",
+    2147617392
+   ],
+   [
+    "code",
+    2147617928
+   ]
+  ],
+  "en": "Medoekia",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@711CC",
+  "off": 463308,
+  "size": 12,
+  "slot": 16,
+  "refs": [
+   [
+    "code",
+    2147617424
+   ]
+  ],
+  "en": "Medoekia",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@71F6C",
+  "off": 466796,
+  "size": 12,
+  "slot": 27,
+  "refs": [
+   [
+    "code",
+    2147686864
+   ]
+  ],
+  "en": "Tower of Eisen",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7D916",
+  "off": 514326,
+  "size": 2,
+  "slot": 9,
+  "refs": [
+   [
+    "code",
+    2147992124
+   ]
+  ],
+  "en": "-",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ }
+]

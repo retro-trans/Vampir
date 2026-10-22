@@ -1,0 +1,331 @@
+[
+ {
+  "id": "M2#9920",
+  "en": "feel free to shake him awake.",
+  "note": "Continues #9874 ('If Mark is dozing,'), so lowercase."
+ },
+ {
+  "id": "M2#9921",
+  "en": "That man is always dozing off."
+ },
+ {
+  "id": "M2#9922",
+  "en": "Please do come by anytime."
+ },
+ {
+  "id": "M2#9923",
+  "en": "Well, yes, that might be nice."
+ },
+ {
+  "id": "M2#9924",
+  "en": "But not just yet."
+ },
+ {
+  "id": "M2#9925",
+  "en": "Sorry, I was only strolling around and"
+ },
+ {
+  "id": "M2#9926",
+  "en": "thought I'd drop in for a moment."
+ },
+ {
+  "id": "M2#9927",
+  "en": "Oh, that's quite all right."
+ },
+ {
+  "id": "M2#9928",
+  "en": "After all, nobody has shoes made"
+ },
+ {
+  "id": "M2#9929",
+  "en": "all that often."
+ },
+ {
+  "id": "M2#9930",
+  "en": "Are you new to the area?"
+ },
+ {
+  "id": "M2#9931",
+  "en": "I see."
+ },
+ {
+  "id": "M2#9932",
+  "en": "I'm Sarah.",
+  "note": "Follows #9931 'I see.' after a pause on the same line."
+ },
+ {
+  "id": "M2#9933",
+  "en": "My husband Mark and I run this shoe"
+ },
+ {
+  "id": "M2#9934",
+  "en": "shop, as you can see."
+ },
+ {
+  "id": "M2#9935",
+  "en": "When you want shoes made,"
+ },
+ {
+  "id": "M2#9936",
+  "en": "please do think of us."
+ },
+ {
+  "id": "M2#9937",
+  "en": ", wasn't it?",
+  "note": "After #6416 'Oh, ' + name: 'Oh, {NAME}, wasn't it?'"
+ },
+ {
+  "id": "M2#9938",
+  "en": "How nice of you to come."
+ },
+ {
+  "id": "M2#9939",
+  "en": "What kind of shoes would you like?"
+ },
+ {
+  "id": "M2#9940",
+  "en": "I'm sorry, not yet, not today",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#9941",
+  "en": "Oh my, of course."
+ },
+ {
+  "id": "M2#9942",
+  "en": "My husband Mark makes some very fine"
+ },
+ {
+  "id": "M2#9943",
+  "en": "shoes now and then, you know."
+ },
+ {
+  "id": "M2#9944",
+  "en": "Do give them a try sometime."
+ },
+ {
+  "id": "M2#9945",
+  "en": "If you ever need shoes,"
+ },
+ {
+  "id": "M2#9946",
+  "en": "just let me know anytime."
+ },
+ {
+  "id": "M2#9947",
+  "en": "Will you be having shoes made?"
+ },
+ {
+  "id": "M2#9948",
+  "en": "Have you decided to have shoes made?"
+ },
+ {
+  "id": "M2#9949",
+  "en": "You can count on us to make your shoes"
+ },
+ {
+  "id": "M2#9950",
+  "en": "Oh, I know! Why don't we talk away from the shop?"
+ },
+ {
+  "id": "M2#9951",
+  "en": "I'm sure we'd have a fun chat,"
+ },
+ {
+  "id": "M2#9952",
+  "en": "and you might even make up your mind"
+ },
+ {
+  "id": "M2#9953",
+  "en": "to order shoes from us, too."
+ },
+ {
+  "id": "M2#9954",
+  "en": "'Shoes are a walker's best partner.'"
+ },
+ {
+  "id": "M2#9955",
+  "en": "That's how it goes.",
+  "note": "After #9904 (slice 123, husband's favourite saying) + #9954."
+ },
+ {
+  "id": "M2#9956",
+  "en": "We shoemakers make it our job to find"
+ },
+ {
+  "id": "M2#9957",
+  "en": "that best partner for people."
+ },
+ {
+  "id": "M2#9958",
+  "en": "You who stand at my side"
+ },
+ {
+  "id": "M2#9959",
+  "en": "From now on, please",
+  "note": "No used_in; assumed to continue into #9960."
+ },
+ {
+  "id": "M2#9960",
+  "en": "work for me."
+ },
+ {
+  "id": "M2#9961",
+  "en": "Humans",
+  "note": "Msg 382495: 'Humans' + '...' + ' are fragile' + '...'."
+ },
+ {
+  "id": "M2#9962",
+  "en": " are fragile"
+ },
+ {
+  "id": "M2#9963",
+  "en": ", my master... Please, give me your orders...",
+  "note": "Name + ', my master...' as in M2#0 / M2#994."
+ },
+ {
+  "id": "M2#9964",
+  "en": "I haven't felt sleepy since I came to London."
+ },
+ {
+  "id": "M2#9965",
+  "en": "Even when I sleep, I seem to do nothing but dream."
+ },
+ {
+  "id": "M2#9966",
+  "en": "I've fallen out of bed, woken up on the"
+ },
+ {
+  "id": "M2#9967",
+  "en": "sofa... It's been one odd thing after another."
+ },
+ {
+  "id": "M2#9968",
+  "en": "Excuse me, do you have a moment?"
+ },
+ {
+  "id": "M2#9969",
+  "en": "Is this the right way to the museum?"
+ },
+ {
+  "id": "M2#9970",
+  "en": "Yes, keep going this way and you'll get there."
+ },
+ {
+  "id": "M2#9971",
+  "en": "Oh, good. Thank you so much."
+ },
+ {
+  "id": "M2#9972",
+  "en": "It's not that I don't know where it is,"
+ },
+ {
+  "id": "M2#9973",
+  "en": "I'm just taking a different road today."
+ },
+ {
+  "id": "M2#9974",
+  "en": "Thanks for telling me, you've been a help."
+ },
+ {
+  "id": "M2#9975",
+  "en": "I'm Anna. I'm studying art."
+ },
+ {
+  "id": "M2#9976",
+  "en": "I came to London to see the sights."
+ },
+ {
+  "id": "M2#9977",
+  "en": "I see. I hope you enjoy your trip."
+ },
+ {
+  "id": "M2#9978",
+  "en": "Well then, I'll be on my way."
+ },
+ {
+  "id": "M2#9979",
+  "en": "London has so much to see. It's such fun."
+ },
+ {
+  "id": "M2#9980",
+  "en": "? Is that you?",
+  "note": "After the name: '{NAME}? Is that you?'"
+ },
+ {
+  "id": "M2#9981",
+  "en": "Yes, it is! I'm so glad I ran into you."
+ },
+ {
+  "id": "M2#9982",
+  "en": "Thank you for the other day."
+ },
+ {
+  "id": "M2#9983",
+  "en": "I know London's streets much better now."
+ },
+ {
+  "id": "M2#9984",
+  "en": "I've walked all over the place."
+ },
+ {
+  "id": "M2#9985",
+  "en": "Though I got lost plenty of times."
+ },
+ {
+  "id": "M2#9986",
+  "en": "We meet again. How have you been?"
+ },
+ {
+  "id": "M2#9987",
+  "en": "I've fallen in love with the museum."
+ },
+ {
+  "id": "M2#9988",
+  "en": "I'm there all day long."
+ },
+ {
+  "id": "M2#9989",
+  "en": "Oh, good evening. Excuse me a moment."
+ },
+ {
+  "id": "M2#9990",
+  "en": "Is there a museum near here?"
+ },
+ {
+  "id": "M2#9991",
+  "en": "Or is that biggest one the only one?"
+ },
+ {
+  "id": "M2#9992",
+  "en": "Hmm, I believe that may be the only one."
+ },
+ {
+  "id": "M2#9993",
+  "en": "To be honest, I'm no expert myself."
+ },
+ {
+  "id": "M2#9994",
+  "en": "Oh, I thought so. What a shame."
+ },
+ {
+  "id": "M2#9995",
+  "en": "Then maybe next week I'll tour the galleries."
+ },
+ {
+  "id": "M2#9996",
+  "en": "There are lots of painters sketching in town."
+ },
+ {
+  "id": "M2#9997",
+  "en": "You're fond of the museum, then?"
+ },
+ {
+  "id": "M2#9998",
+  "en": "Yes, I am. I go almost every day."
+ },
+ {
+  "id": "M2#9999",
+  "en": "I never get tired of looking."
+ }
+]

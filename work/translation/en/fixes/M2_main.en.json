@@ -1,0 +1,37 @@
+[
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#4630",
+  "en": "It's a match factory. We handle phosphorus,",
+  "why": "fit: opening box of the match-factory messages (189359 etc.) was 4 lines (report 058)"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#5466",
+  "en": "Forgive me, but do you have work?",
+  "why": "fit msg 222823 (report 067)"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7244",
+  "variants": [
+   {
+    "msg": 296151,
+    "en": "Oh, it's you,"
+   }
+  ],
+  "why": "variant for msg 296151 (slice 094 request)"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#9205",
+  "en": "Last time I had to wear a bucket on my head!",
+  "why": "fit msg 353972 (report 116)"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#998",
+  "en": "Oi, you there! Yeah, Mr. Sharp Dresser!",
+  "why": "fit: 28-cell line limit"
+ }
+]

@@ -1,0 +1,343 @@
+[
+ {
+  "id": "M2#2320",
+  "en": "Honestly, getting mistaken for Jack"
+ },
+ {
+  "id": "M2#2321",
+  "en": "is a real pain in the neck for me."
+ },
+ {
+  "id": "M2#2322",
+  "en": "The police and all still suspect me."
+ },
+ {
+  "id": "M2#2323",
+  "en": "But I ain't killed nobody."
+ },
+ {
+  "id": "M2#2324",
+  "en": "A crust of bread's worth a whole lot"
+ },
+ {
+  "id": "M2#2325",
+  "en": "more than that, I tell ya."
+ },
+ {
+  "id": "M2#2326",
+  "en": "Forget murder, give me a crust of bread."
+ },
+ {
+  "id": "M2#2327",
+  "en": "Honestly, with this crazy suspicion on me,"
+ },
+ {
+  "id": "M2#2328",
+  "en": "my work ain't going right either."
+ },
+ {
+  "id": "M2#2329",
+  "en": "Whatever do you mean?"
+ },
+ {
+  "id": "M2#2330",
+  "en": "Who's there",
+  "note": "followed by '...?' (#265 x3, #537): 'Who's there...?'"
+ },
+ {
+  "id": "M2#2331",
+  "en": "...D-don't tell me..."
+ },
+ {
+  "id": "M2#2332",
+  "en": "You're the murderer?"
+ },
+ {
+  "id": "M2#2333",
+  "en": "...No, I'm not..."
+ },
+ {
+  "id": "M2#2334",
+  "en": "But perhaps I'm not so different."
+ },
+ {
+  "id": "M2#2335",
+  "en": "What! What do you mean...?"
+ },
+ {
+  "id": "M2#2336",
+  "en": "Just what are you...?"
+ },
+ {
+  "id": "M2#2337",
+  "en": "A vampire..."
+ },
+ {
+  "id": "M2#2338",
+  "en": "Not so different from a murderer, is it?"
+ },
+ {
+  "id": "M2#2339",
+  "en": "Wh-",
+  "variants": [
+   {
+    "msg": 75013,
+    "en": "Wh"
+   }
+  ]
+ },
+ {
+  "id": "M2#2340",
+  "en": "Waaaaaaaaah...",
+  "note": "Scream shared by Lenny, Gerald, Robert, Epstein, Finn, Gregory."
+ },
+ {
+  "id": "M2#2341",
+  "en": "Don't worry."
+ },
+ {
+  "id": "M2#2342",
+  "en": "I won't kill you."
+ },
+ {
+  "id": "M2#2343",
+  "en": "I am your servant...",
+  "note": "After '{NAME}, my master...' (#0): starts a new sentence."
+ },
+ {
+  "id": "M2#2344",
+  "en": "Hi there, welcome."
+ },
+ {
+  "id": "M2#2345",
+  "en": "I'm Gerald."
+ },
+ {
+  "id": "M2#2346",
+  "en": "I make porcelain in this workshop."
+ },
+ {
+  "id": "M2#2347",
+  "en": "I make porcelain."
+ },
+ {
+  "id": "M2#2348",
+  "en": "Right now I'm making a teacup."
+ },
+ {
+  "id": "M2#2349",
+  "en": "If you're drinking tea, wouldn't you like"
+ },
+ {
+  "id": "M2#2350",
+  "en": "to drink it from a lovely cup?"
+ },
+ {
+  "id": "M2#2351",
+  "en": "Now, what sort of design should I go for..."
+ },
+ {
+  "id": "M2#2352",
+  "en": "Actually, there's a teacup design"
+ },
+ {
+  "id": "M2#2353",
+  "en": "contest coming up soon. I'm thinking of"
+ },
+ {
+  "id": "M2#2354",
+  "en": "sending in an entry.",
+  "note": "Shared by msgs 78545 (after #2353) and 78806 (after #2377)."
+ },
+ {
+  "id": "M2#2355",
+  "en": "I've settled on the teacup design."
+ },
+ {
+  "id": "M2#2356",
+  "en": "All that's left is to fire it in the kiln."
+ },
+ {
+  "id": "M2#2357",
+  "en": "Now, for the finishing touches."
+ },
+ {
+  "id": "M2#2358",
+  "en": "Here goes!"
+ },
+ {
+  "id": "M2#2359",
+  "en": "Just a few days till the porcelain contest..."
+ },
+ {
+  "id": "M2#2360",
+  "en": "I'm going to make something good."
+ },
+ {
+  "id": "M2#2361",
+  "en": "It's finished, my new teacup."
+ },
+ {
+  "id": "M2#2362",
+  "en": "A-and guess what!!"
+ },
+ {
+  "id": "M2#2363",
+  "en": "I won the grand prize at the contest!"
+ },
+ {
+  "id": "M2#2364",
+  "en": "I did iiiiit!!"
+ },
+ {
+  "id": "M2#2365",
+  "en": "I quit my company job for porcelain alone."
+ },
+ {
+  "id": "M2#2366",
+  "en": "And now all that work has paid off."
+ },
+ {
+  "id": "M2#2367",
+  "en": "The teacup I made"
+ },
+ {
+  "id": "M2#2368",
+  "en": "is going to be mass-produced in a factory."
+ },
+ {
+  "id": "M2#2369",
+  "en": "Wow, I'm so happy."
+ },
+ {
+  "id": "M2#2370",
+  "en": "I know! Next I'll design"
+ },
+ {
+  "id": "M2#2371",
+  "en": "a teapot."
+ },
+ {
+  "id": "M2#2372",
+  "en": "What I'm making right now is a teacup,"
+ },
+ {
+  "id": "M2#2373",
+  "en": "you see."
+ },
+ {
+  "id": "M2#2374",
+  "en": "If you're drinking tea anyway, wouldn't you"
+ },
+ {
+  "id": "M2#2375",
+  "en": "like to drink it from a lovely cup?"
+ },
+ {
+  "id": "M2#2376",
+  "en": "Actually, there's a teacup design contest"
+ },
+ {
+  "id": "M2#2377",
+  "en": "coming up. I'm thinking of"
+ },
+ {
+  "id": "M2#2378",
+  "en": "I've decided on the teacup design."
+ },
+ {
+  "id": "M2#2379",
+  "en": "Now I just have to fire it in the kiln."
+ },
+ {
+  "id": "M2#2380",
+  "en": "Now all that work has finally paid off."
+ },
+ {
+  "id": "M2#2381",
+  "en": "Gerald..."
+ },
+ {
+  "id": "M2#2382",
+  "en": "Who is it? At this hour",
+  "note": "followed by '...' (3x #265) then a line break and 'Oh, {NAME}!'."
+ },
+ {
+  "id": "M2#2383",
+  "en": "Actually, I have a favor to ask..."
+ },
+ {
+  "id": "M2#2384",
+  "en": "Well... there's something I'd like to drink"
+ },
+ {
+  "id": "M2#2385",
+  "en": "from your cup."
+ },
+ {
+  "id": "M2#2386",
+  "en": "Ah, tea, of course!"
+ },
+ {
+  "id": "M2#2387",
+  "en": "After all, all London is mad about tea"
+ },
+ {
+  "id": "M2#2388",
+  "en": "these days.",
+  "note": "Gerald: 'all of London is mad about tea / these days.' Bridget 292372 variant: 'abroad.' (needs #7470 'And like me, you seem to have been born').",
+  "variants": [
+   {
+    "msg": 292372,
+    "en": "abroad."
+   }
+  ]
+ },
+ {
+  "id": "M2#2389",
+  "en": "Just you wait, I'll make you a piping hot,"
+ },
+ {
+  "id": "M2#2390",
+  "en": "strong, delicious cup."
+ },
+ {
+  "id": "M2#2391",
+  "en": "Hot and strong... hm."
+ },
+ {
+  "id": "M2#2392",
+  "en": "I think I'll drink it straight from the source."
+ },
+ {
+  "id": "M2#2393",
+  "en": "Huh? Did you say something",
+  "note": "followed by '...?' then the scream."
+ },
+ {
+  "id": "M2#2394",
+  "en": "Blood really is best straight from the source..."
+ },
+ {
+  "id": "M2#2395",
+  "en": "Pouring it into a cup? I could never do"
+ },
+ {
+  "id": "M2#2396",
+  "en": "anything so crude..."
+ },
+ {
+  "id": "M2#2397",
+  "en": "Oh, I did it again!"
+ },
+ {
+  "id": "M2#2398",
+  "en": ", my master, what do you require",
+  "note": "After {PLAYER_NAME} (servant mode, as #0); followed by #152 '...'."
+ },
+ {
+  "id": "M2#2399",
+  "en": "Command me as you will",
+  "note": "followed by #152 '...'."
+ }
+]

@@ -1,0 +1,247 @@
+[
+ {
+  "id": "M2A.BIN@F68",
+  "en": "<Answer>",
+  "note": "Same as M1A.BIN@BB8 / M0A.BIN@D60"
+ },
+ {
+  "id": "M2A.BIN@F58",
+  "en": "<Don't answer>",
+  "note": "Same as M1A.BIN@BA8 / M0A.BIN@D50"
+ },
+ {
+  "id": "M2A.BIN@F3C",
+  "en": "Yes. I've heard about it.",
+  "note": "Same as M1A.BIN@B8C / M0A.BIN@D34"
+ },
+ {
+  "id": "M2A.BIN@F24",
+  "en": "Yeah. I've heard.",
+  "note": "Same as M1A.BIN@B74 / M0A.BIN@D1C"
+ },
+ {
+  "id": "M2A.BIN@F00",
+  "en": "Then show me where on this map.",
+  "note": "Same as M1A.BIN@B50 / M0A.BIN@CF8"
+ },
+ {
+  "id": "M2A.BIN@EE8",
+  "en": "They're said to appear around here.",
+  "note": "Same as M1A.BIN@B38 / M0A.BIN@CE0"
+ },
+ {
+  "id": "M2A.BIN@ED0",
+  "en": "I see. Thank you.",
+  "note": "Same as M1A.BIN@B20 / M0A.BIN@CC8"
+ },
+ {
+  "id": "M2A.BIN@EC4",
+  "en": "I'm sorry. ",
+  "note": "Same as M1A.BIN@B14 / M0A.BIN@CBC"
+ },
+ {
+  "id": "M2A.BIN@EB8",
+  "en": "Sorry. ",
+  "note": "Same as M1A.BIN@B08 / M0A.BIN@CB0"
+ },
+ {
+  "id": "M2A.BIN@EA4",
+  "en": "I've forgotten.",
+  "note": "Same as M1A.BIN@AF4 / M0A.BIN@C9C"
+ },
+ {
+  "id": "M2A.BIN@E80",
+  "en": "Then don't get my hopes up like that.",
+  "note": "Same as M1A.BIN@AD0 / M0A.BIN@C78"
+ },
+ {
+  "id": "M2A.BIN@E6C",
+  "en": "No, I haven't heard ",
+  "note": "Same as M1A.BIN@ABC / M0A.BIN@C64"
+ },
+ {
+  "id": "M2A.BIN@E5C",
+  "en": "of any such thing.",
+  "note": "Same as M1A.BIN@AAC / M0A.BIN@C54"
+ },
+ {
+  "id": "M2A.BIN@E50",
+  "en": "of it.",
+  "note": "Same as M1A.BIN@AA0 / M0A.BIN@C48"
+ },
+ {
+  "id": "M2A.BIN@E3C",
+  "en": "I see. Sorry to have bothered you.",
+  "note": "Same as M1A.BIN@A8C / M0A.BIN@C34"
+ },
+ {
+  "id": "M2A.BIN@E18",
+  "en": "Lately, at night, Nosferatu and",
+  "note": "Same as M1A.BIN@A68 / M0A.BIN@C10"
+ },
+ {
+  "id": "M2A.BIN@E04",
+  "en": "Dhampir have been showing up, ",
+  "note": "Same as M1A.BIN@A54 / M0A.BIN@BFC"
+ },
+ {
+  "id": "M2A.BIN@DF8",
+  "en": "or so I hear.",
+  "note": "Same as M1A.BIN@A48 / M0A.BIN@BF0"
+ },
+ {
+  "id": "M2A.BIN@DEC",
+  "en": "they say.",
+  "note": "Same as M1A.BIN@A3C / M0A.BIN@BE4"
+ },
+ {
+  "id": "M2A.BIN@DCC",
+  "en": "And they're often seen in this area...",
+  "note": "Same as M1A.BIN@A1C / M0A.BIN@BC4"
+ },
+ {
+  "id": "M2A.BIN@DC0",
+  "en": "No, uh, ",
+  "note": "Same as M1A.BIN@A10 / M0A.BIN@BB8"
+ },
+ {
+  "id": "M2A.BIN@DA0",
+  "en": "I'm sorry. It's nothing.",
+  "note": "Same as M1A.BIN@9F0 / M0A.BIN@B98"
+ },
+ {
+  "id": "M2A.BIN@D84",
+  "en": "It's nothing. Forget it.",
+  "note": "Same as M1A.BIN@9D4 / M0A.BIN@B7C"
+ },
+ {
+  "id": "M2A.BIN@D60",
+  "en": "Please don't bother me for no reason!",
+  "note": "Same as M1A.BIN@9B0 / M0A.BIN@B58"
+ },
+ {
+  "id": "M2A.BIN@D4C",
+  "en": "Really... ",
+  "note": "Same as M1A.BIN@99C / M0A.BIN@B44"
+ },
+ {
+  "id": "M2A.BIN@D38",
+  "en": "I can't believe that.",
+  "note": "Same as M1A.BIN@988 / M0A.BIN@B30"
+ },
+ {
+  "id": "M2A.BIN@D08",
+  "en": "I see. Then I'd better not go out at night.",
+  "note": "Same as M1A.BIN@958 / M0A.BIN@B00"
+ },
+ {
+  "id": "M2A.BIN@CE4",
+  "en": "Why do you keep telling me the same thing?",
+  "note": "Same as M1A.BIN@934 / M0A.BIN@ADC"
+ },
+ {
+  "id": "M2A.BIN@CC4",
+  "en": "Are you really that worried about me?",
+  "note": "Same as M1A.BIN@914 / M0A.BIN@ABC"
+ },
+ {
+  "id": "M2A.BIN@CA0",
+  "en": "That's not what you told me before.",
+  "note": "Same as M1A.BIN@8F0 / M0A.BIN@A98"
+ },
+ {
+  "id": "M2A.BIN@C78",
+  "en": "Now I can't believe either of your stories.",
+  "note": "Same as M1A.BIN@8C8 / M0A.BIN@A70"
+ },
+ {
+  "id": "M2A.BIN@C54",
+  "en": "Don't talk to me if you've got no business!",
+  "note": "Same as M1A.BIN@8A4 / M0A.BIN@A4C"
+ },
+ {
+  "id": "M2A.BIN@C40",
+  "en": "Is that true...? ",
+  "note": "Same as M1A.BIN@890 / M0A.BIN@A38"
+ },
+ {
+  "id": "M2A.BIN@C2C",
+  "en": "I can't believe it.",
+  "note": "Same as M1A.BIN@87C / M0A.BIN@A24"
+ },
+ {
+  "id": "M2A.BIN@C04",
+  "en": "I see. Then I guess I'll stay in at night.",
+  "note": "Same as M1A.BIN@854 / M0A.BIN@9FC"
+ },
+ {
+  "id": "M2A.BIN@BE8",
+  "en": "I heard that one already.",
+  "note": "Same as M1A.BIN@838 / M0A.BIN@9E0"
+ },
+ {
+  "id": "M2A.BIN@BC0",
+  "en": "Why do you keep saying the same thing?",
+  "note": "Same as M1A.BIN@810 / M0A.BIN@9B8"
+ },
+ {
+  "id": "M2A.BIN@B9C",
+  "en": "That's not what you said before.",
+  "note": "Same as M1A.BIN@7EC / M0A.BIN@994"
+ },
+ {
+  "id": "M2A.BIN@B78",
+  "en": "Which one am I supposed to believe...?",
+  "note": "Same as M1A.BIN@7C8 / M0A.BIN@970"
+ },
+ {
+  "id": "M2A.BIN@B50",
+  "en": "You can't seriously expect me to believe that.",
+  "note": "Same as M1A.BIN@798 / M0A.BIN@940"
+ },
+ {
+  "id": "M2A.BIN@B38",
+  "en": "I'll take that into account.",
+  "note": "Same as M1A.BIN@780 / M0A.BIN@928"
+ },
+ {
+  "id": "M2A.BIN@B28",
+  "en": "You don't give up, do you?",
+  "note": "Same as M1A.BIN@770 / M0A.BIN@918"
+ },
+ {
+  "id": "M2A.BIN@B08",
+  "en": "I understood you the first time.",
+  "note": "Same as M1A.BIN@750 / M0A.BIN@8F8"
+ },
+ {
+  "id": "M2A.BIN@AFC",
+  "en": "Enough. You're relentless.",
+  "note": "Same as M1A.BIN@744 / M0A.BIN@8EC"
+ },
+ {
+  "id": "M2A.BIN@AE0",
+  "en": "You've gone too far in mocking me.",
+  "note": "Same as M1A.BIN@728 / M0A.BIN@8D0"
+ },
+ {
+  "id": "M2A.BIN@AC0",
+  "en": "Bringing a rumor like that to me...",
+  "note": "Same as M1A.BIN@708 / M0A.BIN@8B0"
+ },
+ {
+  "id": "M2A.BIN@AA0",
+  "en": "what on earth is the point of it!",
+  "note": "Same as M1A.BIN@6E8 / M0A.BIN@890"
+ },
+ {
+  "id": "M2A.BIN@A80",
+  "en": "Thank you. I'll keep it in mind.",
+  "note": "Same as M1A.BIN@6C8 / M0A.BIN@870"
+ },
+ {
+  "id": "M2A.BIN@4",
+  "en": "Select a location",
+  "note": "Same as M1A.BIN@4 / M0A.BIN@4"
+ }
+]

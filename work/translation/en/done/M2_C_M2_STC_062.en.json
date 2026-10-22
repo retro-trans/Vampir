@@ -1,0 +1,335 @@
+[
+ {
+  "id": "M2#4960",
+  "en": "Sure thing, good to meet ya!"
+ },
+ {
+  "id": "M2#4961",
+  "en": "Right, time to put in another hard day's work."
+ },
+ {
+  "id": "M2#4962",
+  "en": "You work hard at your job too, eh?"
+ },
+ {
+  "id": "M2#4963",
+  "en": ", it's you. Morning!",
+  "note": "After the name: '{NAME}, it's you. Morning!' (as #101/#1784)."
+ },
+ {
+  "id": "M2#4964",
+  "en": "You're a steady one, always up early."
+ },
+ {
+  "id": "M2#4965",
+  "en": "I'm off to buy in meat myself. See ya."
+ },
+ {
+  "id": "M2#4966",
+  "en": "Morning! Lovely morning, eh?"
+ },
+ {
+  "id": "M2#4967",
+  "en": "Fine weather puts me in a good mood all day."
+ },
+ {
+  "id": "M2#4968",
+  "en": "You're never too lively in the mornings, eh?"
+ },
+ {
+  "id": "M2#4969",
+  "en": "You're up early, but I reckon you're"
+ },
+ {
+  "id": "M2#4970",
+  "en": "really not a morning person. Well, chin up."
+ },
+ {
+  "id": "M2#4971",
+  "en": "Oh, evening."
+ },
+ {
+  "id": "M2#4972",
+  "en": "What's up, mate? Lost your way?"
+ },
+ {
+  "id": "M2#4973",
+  "en": "You don't look like you're from around here."
+ },
+ {
+  "id": "M2#4974",
+  "en": "Yes. I have only just come to London."
+ },
+ {
+  "id": "M2#4975",
+  "en": "But I am not lost."
+ },
+ {
+  "id": "M2#4976",
+  "en": "Oh, I see, I see. Sorry, I jumped the gun.",
+  "note": "Msg 202257 joins #4977 on the same line: variant with a trailing space.",
+  "variants": [
+   {
+    "msg": 202257,
+    "en": "Oh, I see, I see. Sorry, I jumped the gun. "
+   }
+  ]
+ },
+ {
+  "id": "M2#4977",
+  "en": "It's dark around here, so watch yourself."
+ },
+ {
+  "id": "M2#4978",
+  "en": "Hey, hold on, at least tell me your name."
+ },
+ {
+  "id": "M2#4979",
+  "en": "We're in the same city. We'll meet again."
+ },
+ {
+  "id": "M2#4980",
+  "en": "I'm Malcolm, the butcher."
+ },
+ {
+  "id": "M2#4981",
+  "en": "Well then..."
+ },
+ {
+  "id": "M2#4982",
+  "en": "Right, get home safe."
+ },
+ {
+  "id": "M2#4983",
+  "en": ", it's you. Hey!",
+  "note": "After the name: '{NAME}, it's you. Hey!' (as #1784)."
+ },
+ {
+  "id": "M2#4984",
+  "en": "Out here in those fancy clothes again?",
+  "note": "Shared with msg 202350."
+ },
+ {
+  "id": "M2#4985",
+  "en": "You must be real carefree or real gutsy."
+ },
+ {
+  "id": "M2#4986",
+  "en": "Lots of workers round here. Some of 'em",
+  "note": "Sentence runs over #4987/#4988 (shared with msg 202350, where #5059 replaces this row)."
+ },
+ {
+  "id": "M2#4987",
+  "en": "can't stand even seeing a man of good family"
+ },
+ {
+  "id": "M2#4988",
+  "en": "walk by. Don't come here much at night."
+ },
+ {
+  "id": "M2#4989",
+  "en": "Hey, it's you. We meet again."
+ },
+ {
+  "id": "M2#4990",
+  "en": "There's been some nasty business, so go easy"
+ },
+ {
+  "id": "M2#4991",
+  "en": "on the night walks."
+ },
+ {
+  "id": "M2#4992",
+  "en": "Mind you, Jack the Ripper's"
+ },
+ {
+  "id": "M2#4993",
+  "en": "victims are all women, from what I hear."
+ },
+ {
+  "id": "M2#4994",
+  "en": "If you get in trouble, shout for help."
+ },
+ {
+  "id": "M2#4995",
+  "en": "Welcome, come on in!"
+ },
+ {
+  "id": "M2#4996",
+  "en": "What'll you have? Plenty of fresh meat here."
+ },
+ {
+  "id": "M2#4997",
+  "en": "This is... a butcher's?"
+ },
+ {
+  "id": "M2#4998",
+  "en": "Well, well, what's this fella on about?"
+ },
+ {
+  "id": "M2#4999",
+  "en": "A tailor's with slabs of meat hanging up?"
+ },
+ {
+  "id": "M2#5000",
+  "en": "There's no such thing in this world!"
+ },
+ {
+  "id": "M2#5001",
+  "en": "I'm Malcolm, the owner. Order what you like."
+ },
+ {
+  "id": "M2#5002",
+  "en": "I'll cut it to whatever size you want."
+ },
+ {
+  "id": "M2#5003",
+  "en": "I see..."
+ },
+ {
+  "id": "M2#5004",
+  "en": "I smelled blood and couldn't help coming in."
+ },
+ {
+  "id": "M2#5005",
+  "en": "(Oops, I let that slip.)"
+ },
+ {
+  "id": "M2#5006",
+  "en": "Ha ha, you've got quite a nose on you."
+ },
+ {
+  "id": "M2#5007",
+  "en": "Well, no meat's cut without bleeding."
+ },
+ {
+  "id": "M2#5008",
+  "en": "You'll have to put up with the smell."
+ },
+ {
+  "id": "M2#5009",
+  "en": "Look, I went and cut my own hand just now."
+ },
+ {
+  "id": "M2#5010",
+  "en": "Didn't get any on the goods, so don't worry."
+ },
+ {
+  "id": "M2#5011",
+  "en": "Is that so..."
+ },
+ {
+  "id": "M2#5012",
+  "en": "Well, you should be careful."
+ },
+ {
+  "id": "M2#5013",
+  "en": "Oh, it's you! I've been waiting for ya."
+ },
+ {
+  "id": "M2#5014",
+  "en": "What'll it be? Got plenty of fresh meat."
+ },
+ {
+  "id": "M2#5015",
+  "en": "I can't help noticing the smell of blood."
+ },
+ {
+  "id": "M2#5016",
+  "en": "What, don't you want any meat?"
+ },
+ {
+  "id": "M2#5017",
+  "en": "Welcome!",
+  "note": "Shared with Anita (msgs 406187/406449)."
+ },
+ {
+  "id": "M2#5018",
+  "en": "How about some meat for supper?"
+ },
+ {
+  "id": "M2#5019",
+  "en": "You've got a missus at least, right?"
+ },
+ {
+  "id": "M2#5020",
+  "en": "No, I'm afraid I live alone."
+ },
+ {
+  "id": "M2#5021",
+  "en": "What? That's pitiful."
+ },
+ {
+  "id": "M2#5022",
+  "en": "A ladies' man like you, still single?"
+ },
+ {
+  "id": "M2#5023",
+  "en": "You never buy meat, yet you come by a lot."
+ },
+ {
+  "id": "M2#5024",
+  "en": "Got nobody who'll cook for you?"
+ },
+ {
+  "id": "M2#5025",
+  "en": "Poor fella. Why not come round my place?"
+ },
+ {
+  "id": "M2#5026",
+  "en": "My wife's a great cook."
+ },
+ {
+  "id": "M2#5027",
+  "en": "Drop by sometime if you feel like it."
+ },
+ {
+  "id": "M2#5028",
+  "en": "Oh, come on in."
+ },
+ {
+  "id": "M2#5029",
+  "en": "I bet you're not buying anything, but fine."
+ },
+ {
+  "id": "M2#5030",
+  "en": "Have a browse all the same."
+ },
+ {
+  "id": "M2#5031",
+  "en": "Drop by my house too, I don't mind."
+ },
+ {
+  "id": "M2#5032",
+  "en": "It's just round the corner from the shop."
+ },
+ {
+  "id": "M2#5033",
+  "en": "Hey, what's up, mate?"
+ },
+ {
+  "id": "M2#5034",
+  "en": "Yeah, good to meet ya!"
+ },
+ {
+  "id": "M2#5035",
+  "en": "Oh, it's you."
+ },
+ {
+  "id": "M2#5036",
+  "en": "Come by the shop and I'll give you a deal!"
+ },
+ {
+  "id": "M2#5037",
+  "en": ", it's you. What's up?",
+  "note": "After the name (as #1843)."
+ },
+ {
+  "id": "M2#5038",
+  "en": "The butcher's isn't open right now."
+ },
+ {
+  "id": "M2#5039",
+  "en": "As you can probably see."
+ }
+]

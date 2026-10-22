@@ -1,0 +1,343 @@
+[
+ {
+  "id": "M2#8880",
+  "en": "Good mooorning!"
+ },
+ {
+  "id": "M2#8881",
+  "en": ""
+ },
+ {
+  "id": "M2#8882",
+  "en": "Ahaha, "
+ },
+ {
+  "id": "M2#8883",
+  "en": "Let's make today another good day!"
+ },
+ {
+  "id": "M2#8884",
+  "en": "Good evening!"
+ },
+ {
+  "id": "M2#8885",
+  "en": "Did you have a good day today?"
+ },
+ {
+  "id": "M2#8886",
+  "en": "Me, I messed up again today."
+ },
+ {
+  "id": "M2#8887",
+  "en": "But I'm fine."
+ },
+ {
+  "id": "M2#8888",
+  "en": "Big Ben always cheers me on."
+ },
+ {
+  "id": "M2#8889",
+  "en": "Hello, I'm Nicole."
+ },
+ {
+  "id": "M2#8890",
+  "en": "And who might you be?"
+ },
+ {
+  "id": "M2#8891",
+  "en": "Pardon me, miss."
+ },
+ {
+  "id": "M2#8892",
+  "en": "My name is "
+ },
+ {
+  "id": "M2#8893",
+  "en": "I've only recently arrived here,"
+ },
+ {
+  "id": "M2#8894",
+  "en": "so I thought I would pay my respects."
+ },
+ {
+  "id": "M2#8895",
+  "en": "Oh, how very kind of you. Thank you."
+ },
+ {
+  "id": "M2#8896",
+  "en": "Um, ",
+  "note": "No ▼ after it; msg 344964 (#8897) probably follows"
+ },
+ {
+  "id": "M2#8897",
+  "en": "I work as a waitress at the café",
+  "note": "In msg 345904 #8995 (slice 112) follows: it must start 'next door, ...'"
+ },
+ {
+  "id": "M2#8898",
+  "en": "next door."
+ },
+ {
+  "id": "M2#8899",
+  "en": "Please do come by!"
+ },
+ {
+  "id": "M2#8900",
+  "en": "Ah. I'll be sure to."
+ },
+ {
+  "id": "M2#8901",
+  "en": "Oh, what am I saying",
+  "note": "Followed by shared #152 '...'"
+ },
+ {
+  "id": "M2#8902",
+  "en": "Um, can I help you with something?"
+ },
+ {
+  "id": "M2#8903",
+  "en": "Oh, hello, "
+ },
+ {
+  "id": "M2#8904",
+  "en": "you seem very busy with your work.",
+  "note": "lowercase after '{NAME},' (#6239)"
+ },
+ {
+  "id": "M2#8905",
+  "en": "I'd love to have a nice long talk someday."
+ },
+ {
+  "id": "M2#8906",
+  "en": "You look wonderful again today."
+ },
+ {
+  "id": "M2#8907",
+  "en": "do you like the sound of Big Ben?",
+  "note": "lowercase after '{NAME},' (#6239)"
+ },
+ {
+  "id": "M2#8908",
+  "en": "Me, I love it."
+ },
+ {
+  "id": "M2#8909",
+  "en": "When I hear it, 'Keep going, keep going,'",
+  "note": "Shared with msg 346027, where #9001 (slice 112) must continue in lowercase like #8910"
+ },
+ {
+  "id": "M2#8910",
+  "en": "that's what it seems to be saying."
+ },
+ {
+  "id": "M2#8911",
+  "en": "Hee hee, just my fancy, maybe."
+ },
+ {
+  "id": "M2#8912",
+  "en": "Oh, Big Ben's chimes",
+  "note": "Followed by shared #152 '...'"
+ },
+ {
+  "id": "M2#8913",
+  "en": "Yes, I can keep going today, too."
+ },
+ {
+  "id": "M2#8914",
+  "en": "What would you like?"
+ },
+ {
+  "id": "M2#8915",
+  "en": "And what do you have?"
+ },
+ {
+  "id": "M2#8916",
+  "en": "Well, this is a café",
+  "note": "Followed by #152 '...' and a line break"
+ },
+ {
+  "id": "M2#8917",
+  "en": "so we just have the usual café things."
+ },
+ {
+  "id": "M2#8918",
+  "en": "Heh, how very honest."
+ },
+ {
+  "id": "M2#8919",
+  "en": "I see. Then I shall have tea."
+ },
+ {
+  "id": "M2#8920",
+  "en": "Ah, a moment, you there."
+ },
+ {
+  "id": "M2#8921",
+  "en": "Yes?"
+ },
+ {
+  "id": "M2#8922",
+  "en": "Um, it's Nicole",
+  "note": "Followed by #152 '...'"
+ },
+ {
+  "id": "M2#8923",
+  "en": "I see. I am "
+ },
+ {
+  "id": "M2#8924",
+  "en": "Nicole. A fine name. I shall remember it."
+ },
+ {
+  "id": "M2#8925",
+  "en": "Oh, y-yes."
+ },
+ {
+  "id": "M2#8926",
+  "en": "You really came!"
+ },
+ {
+  "id": "M2#8927",
+  "en": "I keep my promises."
+ },
+ {
+  "id": "M2#8928",
+  "en": "A promise, you say",
+  "note": "Followed by #152 '...'"
+ },
+ {
+  "id": "M2#8929",
+  "en": "Um, would tea be all right?"
+ },
+ {
+  "id": "M2#8930",
+  "en": "It's the only decent thing we serve."
+ },
+ {
+  "id": "M2#8931",
+  "en": "Um... did I get your bill wrong?"
+ },
+ {
+  "id": "M2#8932",
+  "en": "Tea again today? I'll bring it right away."
+ },
+ {
+  "id": "M2#8933",
+  "en": "CRASH!"
+ },
+ {
+  "id": "M2#8934",
+  "en": "Eeek! I'm so sorry!"
+ },
+ {
+  "id": "M2#8935",
+  "en": "Um... I'm terribly sorry."
+ },
+ {
+  "id": "M2#8936",
+  "en": "I dropped a cup and broke it."
+ },
+ {
+  "id": "M2#8937",
+  "en": "I'll make you a new one right away."
+ },
+ {
+  "id": "M2#8938",
+  "en": "I have all the time in the world."
+ },
+ {
+  "id": "M2#8939",
+  "en": "Oh... ",
+  "note": "Before the name in msg 345526 ('Oh... {NAME}...'); before a pause + line break in msg 345340",
+  "variants": [
+   {
+    "msg": 345340,
+    "en": "Oh..."
+   }
+  ]
+ },
+ {
+  "id": "M2#8940",
+  "en": "I'm so very sorry!"
+ },
+ {
+  "id": "M2#8941",
+  "en": "May I talk with you a little?"
+ },
+ {
+  "id": "M2#8942",
+  "en": "About what?"
+ },
+ {
+  "id": "M2#8943",
+  "en": "It's about my hometown.",
+  "note": "、 ending made a full stop: a pause and line break follow, then #8944 starts a sentence"
+ },
+ {
+  "id": "M2#8944",
+  "en": "In spring, it just reeks of lambs!",
+  "note": "Starts a sentence: #9016 (slice 112) before it in msg 346300 must end a sentence"
+ },
+ {
+  "id": "M2#8945",
+  "en": "But, you know, sometimes I'll suddenly"
+ },
+ {
+  "id": "M2#8946",
+  "en": "find myself missing that smell."
+ },
+ {
+  "id": "M2#8947",
+  "en": "Like when I'm feeling a little down."
+ },
+ {
+  "id": "M2#8948",
+  "en": "But because I have that to miss,"
+ },
+ {
+  "id": "M2#8949",
+  "en": "I can keep sending money home.",
+  "note": "Shared with msg 346300 after #9017 (slice 112), which must end like #8948"
+ },
+ {
+  "id": "M2#8950",
+  "en": "I can get by, even living like this."
+ },
+ {
+  "id": "M2#8951",
+  "en": "People often ask me where I get"
+ },
+ {
+  "id": "M2#8952",
+  "en": "all that energy from."
+ },
+ {
+  "id": "M2#8953",
+  "en": "But energy isn't something you get"
+ },
+ {
+  "id": "M2#8954",
+  "en": "from someone else, is it?"
+ },
+ {
+  "id": "M2#8955",
+  "en": "It's something you have inside you."
+ },
+ {
+  "id": "M2#8956",
+  "en": "You can only draw it out yourself."
+ },
+ {
+  "id": "M2#8957",
+  "en": "So since only you can use it,"
+ },
+ {
+  "id": "M2#8958",
+  "en": "there's no point in holding it back!"
+ },
+ {
+  "id": "M2#8959",
+  "en": "For you, I'd even brew",
+  "note": "#8960 (slice 112) must continue: 'a really good cup of coffee.'"
+ }
+]

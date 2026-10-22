@@ -1,0 +1,332 @@
+[
+ {
+  "id": "M2#8240",
+  "en": "We only just got married, you know.",
+  "note": "Samantha (nurse) is newly married to Darrell; 'we' = she and her husband."
+ },
+ {
+  "id": "M2#8241",
+  "en": "So we don't get many visitors."
+ },
+ {
+  "id": "M2#8242",
+  "en": "Are you that curious about newlyweds?"
+ },
+ {
+  "id": "M2#8243",
+  "en": "No, it's not that."
+ },
+ {
+  "id": "M2#8244",
+  "en": "But I never know when I'll need your care,"
+ },
+ {
+  "id": "M2#8245",
+  "en": "so I thought I'd come and say hello."
+ },
+ {
+  "id": "M2#8246",
+  "en": "I'm sorry if I've disturbed you."
+ },
+ {
+  "id": "M2#8247",
+  "en": "Well, when there are no patients,"
+ },
+ {
+  "id": "M2#8248",
+  "en": "we can keep you company, but..."
+ },
+ {
+  "id": "M2#8249",
+  "en": "For us, rather than healthy people, you see,",
+  "note": "'us' = the clinic staff (cf. #8213 the doctor)."
+ },
+ {
+  "id": "M2#8250",
+  "en": "it's the patients we have to attend to."
+ },
+ {
+  "id": "M2#8251",
+  "en": "Of course. I'm sorry for bothering you, then."
+ },
+ {
+  "id": "M2#8252",
+  "en": "No, it's just... um, I wanted to see the place."
+ },
+ {
+  "id": "M2#8253",
+  "en": "Just having a look around?"
+ },
+ {
+  "id": "M2#8254",
+  "en": "This isn't really a place healthy people"
+ },
+ {
+  "id": "M2#8255",
+  "en": "come to, so please don't stay too long."
+ },
+ {
+  "id": "M2#8256",
+  "en": "Samantha..."
+ },
+ {
+  "id": "M2#8257",
+  "en": "Taking you away from your husband",
+  "note": "Player, about to take Samantha as a servant; #8258 + #152 '...' follow."
+ },
+ {
+  "id": "M2#8258",
+  "en": "pains me, but"
+ },
+ {
+  "id": "M2#8259",
+  "en": "I have to put an end to all this,"
+ },
+ {
+  "id": "M2#8260",
+  "en": "as soon as I possibly can"
+ },
+ {
+  "id": "M2#8261",
+  "en": "Please, give me any order you wish",
+  "note": "Servant mode, after '{NAME}, my master.' and before #152 '...'."
+ },
+ {
+  "id": "M2#8262",
+  "en": "Wha-, what on earth is this?"
+ },
+ {
+  "id": "M2#8263",
+  "en": "How unsightly, scratches everywhere. Horrid!"
+ },
+ {
+  "id": "M2#8264",
+  "en": "I've been waiting for you. Your orders",
+  "note": "After '{NAME}, my master...'; #152 '...' follows. 'Master' not repeated."
+ },
+ {
+  "id": "M2#8265",
+  "en": "I don't feel at all well, somehow"
+ },
+ {
+  "id": "M2#8266",
+  "en": " Oh, I'm so listless, so tired.",
+  "note": "Same line after #8265 + #152 '...', so leading space."
+ },
+ {
+  "id": "M2#8267",
+  "en": "Good day, madam."
+ },
+ {
+  "id": "M2#8268",
+  "en": "Oh, and who might you be?"
+ },
+ {
+  "id": "M2#8269",
+  "en": "Forgive me, I can't seem to recall."
+ },
+ {
+  "id": "M2#8270",
+  "en": "Pardon me. We have not met before, madam."
+ },
+ {
+  "id": "M2#8271",
+  "en": "You seemed to glow in the soft sunlight,"
+ },
+ {
+  "id": "M2#8272",
+  "en": "so I could not help speaking to you."
+ },
+ {
+  "id": "M2#8273",
+  "en": " I hope I gave no offense?",
+  "note": "Same line after 'My name is {NAME}.' (#862/#473), so leading space."
+ },
+ {
+  "id": "M2#8274",
+  "en": "My, you do have a way with words."
+ },
+ {
+  "id": "M2#8275",
+  "en": "But then, people do often compliment me."
+ },
+ {
+  "id": "M2#8276",
+  "en": "I'm Virginia. Pleased to meet you."
+ },
+ {
+  "id": "M2#8277",
+  "en": "The pleasure is mine, madam."
+ },
+ {
+  "id": "M2#8278",
+  "en": "Until we meet again, then."
+ },
+ {
+  "id": "M2#8279",
+  "en": "Good day, my charming gentleman."
+ },
+ {
+  "id": "M2#8280",
+  "en": "My, how fortunate. We meet again."
+ },
+ {
+  "id": "M2#8281",
+  "en": ", isn't it?",
+  "note": "After the name: '{NAME}, isn't it?' (msgs 324379/325252)."
+ },
+ {
+  "id": "M2#8282",
+  "en": "Are you keeping well?"
+ },
+ {
+  "id": "M2#8283",
+  "en": "On business? I'm on my way to the beauty"
+ },
+ {
+  "id": "M2#8284",
+  "en": "salon now. How exciting, hee hee."
+ },
+ {
+  "id": "M2#8285",
+  "en": "What lovely clothes you have on again today."
+ },
+ {
+  "id": "M2#8286",
+  "en": "I've had a new dress made myself, you know."
+ },
+ {
+  "id": "M2#8287",
+  "en": "It's the only pleasure I have."
+ },
+ {
+  "id": "M2#8288",
+  "en": "A woman's life is so dull. Well, goodbye."
+ },
+ {
+  "id": "M2#8289",
+  "en": "Good day, Arthur."
+ },
+ {
+  "id": "M2#8290",
+  "en": "Oh, oh my, I'm sorry. Wrong person."
+ },
+ {
+  "id": "M2#8291",
+  "en": "You're built just like someone I know."
+ },
+ {
+  "id": "M2#8292",
+  "en": "Think nothing of it, madam."
+ },
+ {
+  "id": "M2#8293",
+  "en": "To be greeted by so lovely a lady"
+ },
+ {
+  "id": "M2#8294",
+  "en": "is an honor, I assure you."
+ },
+ {
+  "id": "M2#8295",
+  "en": "My, what a flatterer. But thank you."
+ },
+ {
+  "id": "M2#8296",
+  "en": "My name is Virginia."
+ },
+ {
+  "id": "M2#8297",
+  "en": "May I ask your name, if you don't mind?"
+ },
+ {
+  "id": "M2#8298",
+  "en": "Not at all."
+ },
+ {
+  "id": "M2#8299",
+  "en": "My name is "
+ },
+ {
+  "id": "M2#8300",
+  "en": ", is it? Pleased to meet you.",
+  "note": "After the name: '{NAME}, is it? Pleased to meet you.'"
+ },
+ {
+  "id": "M2#8301",
+  "en": "I'm sorry about earlier."
+ },
+ {
+  "id": "M2#8302",
+  "en": "But I'm glad to have met such a lovely man."
+ },
+ {
+  "id": "M2#8303",
+  "en": ", how are you keeping?",
+  "note": "After the name."
+ },
+ {
+  "id": "M2#8304",
+  "en": "An evening stroll? Or is it a date?"
+ },
+ {
+  "id": "M2#8305",
+  "en": "How I envy you."
+ },
+ {
+  "id": "M2#8306",
+  "en": "Once you get to be my age,"
+ },
+ {
+  "id": "M2#8307",
+  "en": "the joys of love are a distant memory."
+ },
+ {
+  "id": "M2#8308",
+  "en": "There's no need to belittle yourself so."
+ },
+ {
+  "id": "M2#8309",
+  "en": "Madam, you are still young."
+ },
+ {
+  "id": "M2#8310",
+  "en": "Oh my, whatever shall I do?"
+ },
+ {
+  "id": "M2#8311",
+  "en": "You truly are a flatterer."
+ },
+ {
+  "id": "M2#8312",
+  "en": "Oh, it's you. Good day."
+ },
+ {
+  "id": "M2#8313",
+  "en": "We often meet at night, too, don't we?"
+ },
+ {
+  "id": "M2#8314",
+  "en": "Would you join me for some wine sometime?"
+ },
+ {
+  "id": "M2#8315",
+  "en": "Will you call on me when you're in the mood?"
+ },
+ {
+  "id": "M2#8316",
+  "en": "Oh my, how rare, a man in a beauty salon."
+ },
+ {
+  "id": "M2#8317",
+  "en": "You must be quite the stylish gentleman."
+ },
+ {
+  "id": "M2#8318",
+  "en": "Hello, madam."
+ },
+ {
+  "id": "M2#8319",
+  "en": "It seems I have come to the wrong house."
+ }
+]

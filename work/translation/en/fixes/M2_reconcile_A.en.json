@@ -1,0 +1,93 @@
+[
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#751",
+  "variants": [
+   {
+    "msg": 135789,
+    "en": "your orders"
+   },
+   {
+    "msg": 135839,
+    "en": "your orders"
+   }
+  ],
+  "why": "Scott's servant line: \"Your order... I mean, / your orders......\" continues the sentence after Part B's #3528 \"I mean,\" (it had a capital letter after the comma)"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#19",
+  "variants": [
+   {
+    "msg": 99064,
+    "en": "Hey there!"
+   }
+  ]
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3372",
+  "variants": [
+   {
+    "msg": 247519,
+    "en": "."
+   }
+  ],
+  "why": "Maurice: \"{N}, / Today I was to tell you...\" had a comma before a new sentence on the next line"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#2339",
+  "variants": [
+   {
+    "msg": 293069,
+    "en": "W-"
+   }
+  ]
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#1759",
+  "en": "Mighty classy for a neighbor of mine."
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#1915",
+  "en": "I'm Dean, a clockmaker."
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#1447",
+  "en": "Might I ask you to answer a survey?"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3100",
+  "en": "some weird rumor, are you?"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3117",
+  "en": "Lately, you hear lots of, scary rumors, right?"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3122",
+  "en": "You ever heard the rumor about my shop?"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3139",
+  "en": "That rumor was true"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3159",
+  "en": "You heard weird rumors too, and you're"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3166",
+  "en": "Lately, you hear lots of scary rumors."
+ }
+]

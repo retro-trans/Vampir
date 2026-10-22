@@ -1,0 +1,335 @@
+[
+ {
+  "id": "M1#2160",
+  "en": "Yeah, I've got a sweet little boy",
+  "note": "Completes with #2161; continues 'Family... family, huh.' (#2159). Son = Richard (12)."
+ },
+ {
+  "id": "M1#2161",
+  "en": "at home",
+  "note": "Finishes #2160's sentence; followed by '...'(#2) + #25 + ' Hic.'(#2098). Needs #25 variant '' and #2098 variant ' Hic.' for msgs 83200 and 84001."
+ },
+ {
+  "id": "M1#2162",
+  "en": "Drinking yourself silly in broad daylight...",
+  "note": "Shared by stern (83263) and gentle (84064) player lines"
+ },
+ {
+  "id": "M1#2163",
+  "en": "You really are a hopeless old drunk."
+ },
+ {
+  "id": "M1#2164",
+  "en": "Yeah, you got that right. Hic."
+ },
+ {
+  "id": "M1#2165",
+  "en": "Name's ",
+  "note": "'Name's ' + NAME + ', was it?'"
+ },
+ {
+  "id": "M1#2166",
+  "en": ", was it?",
+  "note": "After NAME; in 84064 NAME starts the line after 'Young master,'"
+ },
+ {
+  "id": "M1#2167",
+  "en": "If you've got a family, take good care of 'em."
+ },
+ {
+  "id": "M1#2168",
+  "en": "Always making your boy miserable, like I do,"
+ },
+ {
+  "id": "M1#2169",
+  "en": "that's no good. I know it, I do."
+ },
+ {
+  "id": "M1#2170",
+  "en": "But man... I just can't give up the booze",
+  "note": "followed by '...' (#2)"
+ },
+ {
+  "id": "M1#2171",
+  "en": "I'm good and plastered."
+ },
+ {
+  "id": "M1#2172",
+  "en": "Drink the blood of a drunkard like this..."
+ },
+ {
+  "id": "M1#2173",
+  "en": "Well, it can't be helped."
+ },
+ {
+  "id": "M1#2174",
+  "en": "(Ugh, this old guy reeks of booze!)"
+ },
+ {
+  "id": "M1#2175",
+  "en": "Even his blood has alcohol in it..."
+ },
+ {
+  "id": "M1#2176",
+  "en": "Not that this little could ever get me drunk."
+ },
+ {
+  "id": "M1#2177",
+  "en": "No more drinking for you for a while!"
+ },
+ {
+  "id": "M1#2178",
+  "en": "B-but..."
+ },
+ {
+  "id": "M1#2179",
+  "en": "Master, please, anything but that..."
+ },
+ {
+  "id": "M1#2180",
+  "en": "Mr. Ski, right?"
+ },
+ {
+  "id": "M1#2181",
+  "en": "Mr. Noff, right?"
+ },
+ {
+  "id": "M1#2182",
+  "en": "Mr. Suke, right?"
+ },
+ {
+  "id": "M1#2183",
+  "en": "I'm sorry. I came to the wrong house."
+ },
+ {
+  "id": "M1#2184",
+  "en": "I'm still not used to this town."
+ },
+ {
+  "id": "M1#2185",
+  "en": "Please don't mind me."
+ },
+ {
+  "id": "M1#2186",
+  "en": "Sorry to bother you again."
+ },
+ {
+  "id": "M1#2187",
+  "en": "Please excuse me.",
+  "note": "Shared with Mrs. Stanberg msg 280329 after #6838"
+ },
+ {
+  "id": "M1#2188",
+  "en": "You're some rich young master, aren't you?"
+ },
+ {
+  "id": "M1#2189",
+  "en": "Heh, I can tell from your clothes and face."
+ },
+ {
+  "id": "M1#2190",
+  "en": "So why are you drinking in a place like this?"
+ },
+ {
+  "id": "M1#2191",
+  "en": "What about you? Drinking like this every day,"
+ },
+ {
+  "id": "M1#2192",
+  "en": "won't your family worry?"
+ },
+ {
+  "id": "M1#2193",
+  "en": "Don't you feel sorry for your child?"
+ },
+ {
+  "id": "M1#2194",
+  "en": "Sure I do. Hic."
+ },
+ {
+  "id": "M1#2195",
+  "en": "Young master,",
+  "note": "line break follows, then NAME + ', was it?'"
+ },
+ {
+  "id": "M1#2196",
+  "en": "If you ever have kids, take good care of 'em."
+ },
+ {
+  "id": "M1#2197",
+  "en": "He's sound asleep. Must be the daytime drink."
+ },
+ {
+  "id": "M1#2198",
+  "en": "But will the blood of a drunk like him"
+ },
+ {
+  "id": "M1#2199",
+  "en": "do me any good?"
+ },
+ {
+  "id": "M1#2200",
+  "en": "Well, no harm in trying. Let's do it."
+ },
+ {
+  "id": "M1#2201",
+  "en": "(Ugh, he smells like booze.)",
+  "note": "No speaker tag; the gentle player's inner thought"
+ },
+ {
+  "id": "M1#2202",
+  "en": "Uuugh... drinking his blood got me"
+ },
+ {
+  "id": "M1#2203",
+  "en": "drunk too..."
+ },
+ {
+  "id": "M1#2204",
+  "en": "Your orders...",
+  "note": "Maitz: after 'NAME, my master...' on its own line; Stelan/Helmut alone"
+ },
+ {
+  "id": "M1#2205",
+  "en": "Command me as you will."
+ },
+ {
+  "id": "M1#2206",
+  "en": "I'd love to say welcome, but"
+ },
+ {
+  "id": "M1#2207",
+  "en": "sorry. We're closed right now."
+ },
+ {
+  "id": "M1#2208",
+  "en": "Come back again in a while.",
+  "note": "Also after #2243 'Oops. We're closed right now.' (msg 87115)"
+ },
+ {
+  "id": "M1#2209",
+  "en": "This is the Sans Souci tavern. Remember us.",
+  "note": "Venue name spelled 'Sans Souci' as in slice 001 dialogue (labels slice uses 'Sanssouci')"
+ },
+ {
+  "id": "M1#2210",
+  "en": "Sorry, come back later."
+ },
+ {
+  "id": "M1#2211",
+  "en": "Don't forget the Sans Souci tavern."
+ },
+ {
+  "id": "M1#2212",
+  "en": "We're closed right now."
+ },
+ {
+  "id": "M1#2213",
+  "en": "Sorry 'bout that."
+ },
+ {
+  "id": "M1#2214",
+  "en": "Ah, ",
+  "note": "Maitz: 'Ah, ' + NAME + '.'; Henri msg 115808: 'Ah, ' + #2947 (#2947 should start lowercase, e.g. 'that's right, that's right.')"
+ },
+ {
+  "id": "M1#2215",
+  "en": "If I recall, you don't have a tab running."
+ },
+ {
+  "id": "M1#2216",
+  "en": "Gotta love a customer who pays up."
+ },
+ {
+  "id": "M1#2217",
+  "en": "Sans Souci tavern. Now there's a face"
+ },
+ {
+  "id": "M1#2218",
+  "en": "I haven't seen before."
+ },
+ {
+  "id": "M1#2219",
+  "en": "I'll have a beer."
+ },
+ {
+  "id": "M1#2220",
+  "en": "Our beer's the best. We brew it right"
+ },
+ {
+  "id": "M1#2221",
+  "en": "here, in the back."
+ },
+ {
+  "id": "M1#2222",
+  "en": "Welcome. This is the Sans Souci tavern."
+ },
+ {
+  "id": "M1#2223",
+  "en": "Oh, you made it in opening hours this time."
+ },
+ {
+  "id": "M1#2224",
+  "en": "I'll have a beer, then."
+ },
+ {
+  "id": "M1#2225",
+  "en": "Come again."
+ },
+ {
+  "id": "M1#2226",
+  "en": "I hate handsome men, y'know."
+ },
+ {
+  "id": "M1#2227",
+  "en": "Sorry about that."
+ },
+ {
+  "id": "M1#2228",
+  "en": "Nah, no need to apologize."
+ },
+ {
+  "id": "M1#2229",
+  "en": "Actually, I kinda like you."
+ },
+ {
+  "id": "M1#2230",
+  "en": "(This man must have terrible eyesight.)"
+ },
+ {
+  "id": "M1#2231",
+  "en": "Do you know what the name"
+ },
+ {
+  "id": "M1#2232",
+  "en": "\"Sans Souci\" means?"
+ },
+ {
+  "id": "M1#2233",
+  "en": "Without a care. In other words, easygoing."
+ },
+ {
+  "id": "M1#2234",
+  "en": "Suits me perfectly, don't it?"
+ },
+ {
+  "id": "M1#2235",
+  "en": "Then I'll tell ya."
+ },
+ {
+  "id": "M1#2236",
+  "en": "Been in this business a long time, but"
+ },
+ {
+  "id": "M1#2237",
+  "en": "never had a customer quite like you."
+ },
+ {
+  "id": "M1#2238",
+  "en": "How do I put it..."
+ },
+ {
+  "id": "M1#2239",
+  "en": "Yeah, the eyes. You've got cold eyes."
+ }
+]

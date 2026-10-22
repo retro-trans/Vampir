@@ -1,0 +1,279 @@
+{
+ "slice": "M0_C_M0A_BIN_000",
+ "file": "M0_C_M0A.BIN",
+ "rows": [
+  {
+   "id": "M0A.BIN@85C"
+  },
+  {
+   "id": "M0A.BIN@83C"
+  },
+  {
+   "id": "M0A.BIN@81C"
+  },
+  {
+   "id": "M0A.BIN@7F4"
+  },
+  {
+   "id": "M0A.BIN@7CC"
+  },
+  {
+   "id": "M0A.BIN@7A0"
+  },
+  {
+   "id": "M0A.BIN@780"
+  },
+  {
+   "id": "M0A.BIN@758"
+  },
+  {
+   "id": "M0A.BIN@744"
+  },
+  {
+   "id": "M0A.BIN@72C"
+  },
+  {
+   "id": "M0A.BIN@714"
+  },
+  {
+   "id": "M0A.BIN@6F0"
+  },
+  {
+   "id": "M0A.BIN@6D4"
+  },
+  {
+   "id": "M0A.BIN@6B4"
+  },
+  {
+   "id": "M0A.BIN@698"
+  },
+  {
+   "id": "M0A.BIN@67C"
+  },
+  {
+   "id": "M0A.BIN@658"
+  },
+  {
+   "id": "M0A.BIN@638"
+  },
+  {
+   "id": "M0A.BIN@614"
+  },
+  {
+   "id": "M0A.BIN@5F4"
+  },
+  {
+   "id": "M0A.BIN@5CC"
+  },
+  {
+   "id": "M0A.BIN@5AC"
+  },
+  {
+   "id": "M0A.BIN@580"
+  },
+  {
+   "id": "M0A.BIN@55C"
+  },
+  {
+   "id": "M0A.BIN@540"
+  },
+  {
+   "id": "M0A.BIN@520"
+  },
+  {
+   "id": "M0A.BIN@4F4"
+  },
+  {
+   "id": "M0A.BIN@4E4"
+  },
+  {
+   "id": "M0A.BIN@4C4"
+  },
+  {
+   "id": "M0A.BIN@49C"
+  },
+  {
+   "id": "M0A.BIN@47C"
+  },
+  {
+   "id": "M0A.BIN@460"
+  },
+  {
+   "id": "M0A.BIN@448"
+  },
+  {
+   "id": "M0A.BIN@420"
+  },
+  {
+   "id": "M0A.BIN@3FC"
+  },
+  {
+   "id": "M0A.BIN@3D4"
+  },
+  {
+   "id": "M0A.BIN@3AC"
+  },
+  {
+   "id": "M0A.BIN@38C"
+  },
+  {
+   "id": "M0A.BIN@368"
+  },
+  {
+   "id": "M0A.BIN@350"
+  },
+  {
+   "id": "M0A.BIN@324"
+  },
+  {
+   "id": "M0A.BIN@30C"
+  },
+  {
+   "id": "M0A.BIN@2E8"
+  },
+  {
+   "id": "M0A.BIN@2C0"
+  },
+  {
+   "id": "M0A.BIN@298"
+  },
+  {
+   "id": "M0A.BIN@270"
+  },
+  {
+   "id": "M0A.BIN@24C"
+  },
+  {
+   "id": "M0A.BIN@240"
+  },
+  {
+   "id": "M0A.BIN@218"
+  },
+  {
+   "id": "M0A.BIN@1F4"
+  },
+  {
+   "id": "M0A.BIN@1DC"
+  },
+  {
+   "id": "M0A.BIN@1C0"
+  },
+  {
+   "id": "M0A.BIN@198"
+  },
+  {
+   "id": "M0A.BIN@174"
+  },
+  {
+   "id": "M0A.BIN@154"
+  },
+  {
+   "id": "M0A.BIN@130"
+  },
+  {
+   "id": "M0A.BIN@11C"
+  },
+  {
+   "id": "M0A.BIN@F8"
+  },
+  {
+   "id": "M0A.BIN@DAC"
+  },
+  {
+   "id": "M0A.BIN@D90"
+  },
+  {
+   "id": "M0A.BIN@D70"
+  },
+  {
+   "id": "M0A.BIN@D60"
+  },
+  {
+   "id": "M0A.BIN@D50"
+  },
+  {
+   "id": "M0A.BIN@D34"
+  },
+  {
+   "id": "M0A.BIN@D1C"
+  },
+  {
+   "id": "M0A.BIN@CF8"
+  },
+  {
+   "id": "M0A.BIN@CE0"
+  },
+  {
+   "id": "M0A.BIN@CC8"
+  },
+  {
+   "id": "M0A.BIN@CBC"
+  },
+  {
+   "id": "M0A.BIN@CB0"
+  },
+  {
+   "id": "M0A.BIN@C9C"
+  },
+  {
+   "id": "M0A.BIN@C78"
+  },
+  {
+   "id": "M0A.BIN@C64"
+  },
+  {
+   "id": "M0A.BIN@C54"
+  },
+  {
+   "id": "M0A.BIN@C48"
+  },
+  {
+   "id": "M0A.BIN@C34"
+  },
+  {
+   "id": "M0A.BIN@C10"
+  },
+  {
+   "id": "M0A.BIN@BFC"
+  },
+  {
+   "id": "M0A.BIN@BF0"
+  },
+  {
+   "id": "M0A.BIN@BE4"
+  }
+ ],
+ "before": [],
+ "after": [
+  {
+   "id": "M0A.BIN@BC4"
+  },
+  {
+   "id": "M0A.BIN@BB8"
+  },
+  {
+   "id": "M0A.BIN@B98"
+  },
+  {
+   "id": "M0A.BIN@B7C"
+  },
+  {
+   "id": "M0A.BIN@B58"
+  },
+  {
+   "id": "M0A.BIN@B44"
+  },
+  {
+   "id": "M0A.BIN@B30"
+  },
+  {
+   "id": "M0A.BIN@B00"
+  },
+  {
+   "id": "M0A.BIN@ADC"
+  },
+  {
+   "id": "M0A.BIN@ABC"
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+[
+ {
+  "id": "END.BIN@244",
+  "en": "Rusalie, for you,"
+ },
+ {
+  "id": "END.BIN@224",
+  "en": "this has been an especially painful battle."
+ },
+ {
+  "id": "END.BIN@21C",
+  "en": "After all, Lord "
+ },
+ {
+  "id": "END.BIN@210",
+  "en": " was the one"
+ },
+ {
+  "id": "END.BIN@1F4",
+  "en": "you had loved all this time"
+ },
+ {
+  "id": "END.BIN@1EC",
+  "en": "...",
+  "note": "Used once, after @1F4."
+ },
+ {
+  "id": "END.BIN@1E8",
+  "en": ""
+ },
+ {
+  "id": "END.BIN@1D0",
+  "en": "He was so very pure"
+ },
+ {
+  "id": "END.BIN@1CC",
+  "en": "."
+ },
+ {
+  "id": "END.BIN@1A4",
+  "en": "He was too pure, just like a child.",
+  "note": "Subject and verb restored (Japanese has none)."
+ },
+ {
+  "id": "END.BIN@198",
+  "en": "And that is why"
+ },
+ {
+  "id": "END.BIN@174",
+  "en": "it all came to such a sorrowful end",
+  "note": "Followed by @1CC x4 + @1E8: 'end....'."
+ },
+ {
+  "id": "END.BIN@14C",
+  "en": "I never want to feel like this again."
+ },
+ {
+  "id": "END.BIN@12C",
+  "en": "And yet, will this nightmarish time"
+ },
+ {
+  "id": "END.BIN@108",
+  "en": "come around once more?"
+ },
+ {
+  "id": "END.BIN@E0",
+  "en": "For humans, both love and life have an end.",
+  "note": "Speaker: Ragash again (script 11)."
+ },
+ {
+  "id": "END.BIN@B8",
+  "en": "But we Vampir have no such end."
+ },
+ {
+  "id": "END.BIN@8C",
+  "en": "Bearing the faces of those we loved, we must"
+ },
+ {
+  "id": "END.BIN@74",
+  "en": "wander through time."
+ },
+ {
+  "id": "END.BIN@68",
+  "en": " Forever.",
+  "note": "Printed on the same line as @74 (no newline): leading space."
+ },
+ {
+  "id": "END.BIN@64",
+  "en": "  ",
+  "note": "Full-width space printed twice as the indent of the closing title line."
+ },
+ {
+  "id": "END.BIN@60",
+  "en": "Th",
+  "note": "Closing title, one row per glyph with a 5-frame delay: @60..@28 join to 'The hour of the Vampir never ends', then @1CC x3 = '...'. Assumes the rows print on one line."
+ },
+ {
+  "id": "END.BIN@5C",
+  "en": "e "
+ },
+ {
+  "id": "END.BIN@58",
+  "en": "hou"
+ },
+ {
+  "id": "END.BIN@54",
+  "en": "r o"
+ },
+ {
+  "id": "END.BIN@50",
+  "en": "f t"
+ },
+ {
+  "id": "END.BIN@4C",
+  "en": "he "
+ },
+ {
+  "id": "END.BIN@48",
+  "en": "Va"
+ },
+ {
+  "id": "END.BIN@44",
+  "en": "mp"
+ },
+ {
+  "id": "END.BIN@40",
+  "en": "ir"
+ },
+ {
+  "id": "END.BIN@3C",
+  "en": " ne"
+ },
+ {
+  "id": "END.BIN@38",
+  "en": "ve"
+ },
+ {
+  "id": "END.BIN@34",
+  "en": "r "
+ },
+ {
+  "id": "END.BIN@30",
+  "en": "en"
+ },
+ {
+  "id": "END.BIN@2C",
+  "en": "d"
+ },
+ {
+  "id": "END.BIN@28",
+  "en": "s"
+ }
+]

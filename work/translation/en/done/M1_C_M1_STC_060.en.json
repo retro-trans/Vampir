@@ -1,0 +1,325 @@
+[
+ {
+  "id": "M1#4800",
+  "en": "I see, I see."
+ },
+ {
+  "id": "M1#4801",
+  "en": "I'm Hugo,"
+ },
+ {
+  "id": "M1#4802",
+  "en": "and a stroll like this is my daily routine."
+ },
+ {
+  "id": "M1#4803",
+  "en": "Next time we meet, let's have a nice, easy chat."
+ },
+ {
+  "id": "M1#4804",
+  "en": "Don't be absurd!"
+ },
+ {
+  "id": "M1#4805",
+  "en": "I have no time to waste on strolls!"
+ },
+ {
+  "id": "M1#4806",
+  "en": "You're an odd one too. Busy as you are,"
+ },
+ {
+  "id": "M1#4807",
+  "en": "you stop to talk to an old codger like me."
+ },
+ {
+  "id": "M1#4808",
+  "en": "and I take a stroll like this every day."
+ },
+ {
+  "id": "M1#4809",
+  "en": "Come talk to me again when you're not busy."
+ },
+ {
+  "id": "M1#4810",
+  "en": "Want to keep me company on my stroll, eh?"
+ },
+ {
+  "id": "M1#4811",
+  "en": "I'm out on my stroll again today."
+ },
+ {
+  "id": "M1#4812",
+  "en": "I watch the port from the lighthouse daily."
+ },
+ {
+  "id": "M1#4813",
+  "en": ", it's you. ",
+  "note": "NAME + ', it's you. ' + #4795/#4816 (both start with a capital)"
+ },
+ {
+  "id": "M1#4814",
+  "en": "I'm out strolling again today, same as ever."
+ },
+ {
+  "id": "M1#4815",
+  "en": "I keep watch over the monument every day."
+ },
+ {
+  "id": "M1#4816",
+  "en": "Evening to you."
+ },
+ {
+  "id": "M1#4817",
+  "en": "You want to come over to my place, do you?"
+ },
+ {
+  "id": "M1#4818",
+  "en": "I'm on my way back from my stroll again."
+ },
+ {
+  "id": "M1#4819",
+  "en": "Heading home from my stroll, same as ever."
+ },
+ {
+  "id": "M1#4820",
+  "en": "A visitor for an old codger like me? How rare."
+ },
+ {
+  "id": "M1#4821",
+  "en": "I'm Hugo. I used to keep the lighthouse."
+ },
+ {
+  "id": "M1#4822",
+  "en": "And what's your name?"
+ },
+ {
+  "id": "M1#4823",
+  "en": ".",
+  "note": "Duran's curt reply 'NAME.'; also closes M1#6654 in msg 271258 ('...I am / NAME.')"
+ },
+ {
+  "id": "M1#4824",
+  "en": " That's a tricky name.",
+  "note": "leading space: follows NAME + M1#777 variant ', is it?' (msgs 189363, 190363)"
+ },
+ {
+  "id": "M1#4825",
+  "en": "Well, pleased to meet you."
+ },
+ {
+  "id": "M1#4826",
+  "en": ", it's you. Good of you to come."
+ },
+ {
+  "id": "M1#4827",
+  "en": "Now, stay and have a cup of tea."
+ },
+ {
+  "id": "M1#4828",
+  "en": "Come visit again anytime."
+ },
+ {
+  "id": "M1#4829",
+  "en": "What is it? Did you forget something?"
+ },
+ {
+  "id": "M1#4830",
+  "en": "Or maybe"
+ },
+ {
+  "id": "M1#4831",
+  "en": "there's something on this old geezer's face?"
+ },
+ {
+  "id": "M1#4832",
+  "en": "Now, stay and have some sweets."
+ },
+ {
+  "id": "M1#4833",
+  "en": "Sorry, what we had earlier was the last"
+ },
+ {
+  "id": "M1#4834",
+  "en": "of my tea and sweets."
+ },
+ {
+  "id": "M1#4835",
+  "en": "Come visit again tomorrow or so."
+ },
+ {
+  "id": "M1#4836",
+  "en": "What are you doing here?"
+ },
+ {
+  "id": "M1#4837",
+  "en": "Hm, are you talking to me?"
+ },
+ {
+  "id": "M1#4838",
+  "en": "I'm not doing anything in particular."
+ },
+ {
+  "id": "M1#4839",
+  "en": "I'm just staring into space."
+ },
+ {
+  "id": "M1#4840",
+  "en": "This monument, you see, was a lighthouse"
+ },
+ {
+  "id": "M1#4841",
+  "en": "until just recently. I worked there as its"
+ },
+ {
+  "id": "M1#4842",
+  "en": "keeper..."
+ },
+ {
+  "id": "M1#4843",
+  "en": "I prayed for safe voyages and watched over"
+ },
+ {
+  "id": "M1#4844",
+  "en": "many a ship, but now my life comes down to"
+ },
+ {
+  "id": "M1#4845",
+  "en": "just looking at this monument."
+ },
+ {
+  "id": "M1#4846",
+  "en": "Old soldiers just fade away, as they say."
+ },
+ {
+  "id": "M1#4847",
+  "en": "What are you doing here?"
+ },
+ {
+  "id": "M1#4848",
+  "en": "Hm, you still want to talk with me?"
+ },
+ {
+  "id": "M1#4849",
+  "en": "I've got a few things I want to think over."
+ },
+ {
+  "id": "M1#4850",
+  "en": "I'd be glad if you'd come back tomorrow."
+ },
+ {
+  "id": "M1#4851",
+  "en": "When I'd only just started keeping the light,"
+ },
+ {
+  "id": "M1#4852",
+  "en": "Calstatt was still a small town."
+ },
+ {
+  "id": "M1#4853",
+  "en": "Even so, there was a lot of ship traffic."
+ },
+ {
+  "id": "M1#4854",
+  "en": "Looking back, I suppose that was just when"
+ },
+ {
+  "id": "M1#4855",
+  "en": "the town began to grow."
+ },
+ {
+  "id": "M1#4856",
+  "en": "Most of the ships coming into port carried"
+ },
+ {
+  "id": "M1#4857",
+  "en": "iron, coal and the like. With those, in no"
+ },
+ {
+  "id": "M1#4858",
+  "en": "time at all this town's industry took off."
+ },
+ {
+  "id": "M1#4859",
+  "en": "I'm sure it wasn't just Calstatt, either."
+ },
+ {
+  "id": "M1#4860",
+  "en": "Other towns must have gone the same way."
+ },
+ {
+  "id": "M1#4861",
+  "en": "Have you been to the west side of the port?"
+ },
+ {
+  "id": "M1#4862",
+  "en": "There are navy barracks there."
+ },
+ {
+  "id": "M1#4863",
+  "en": "Those were only built recently."
+ },
+ {
+  "id": "M1#4864",
+  "en": "Ever since that Bismarck fellow resigned,"
+ },
+ {
+  "id": "M1#4865",
+  "en": "the ships coming to port suddenly changed."
+ },
+ {
+  "id": "M1#4866",
+  "en": "Ships carrying iron and coal fell off fast,"
+ },
+ {
+  "id": "M1#4867",
+  "en": "and trade ships and warships grew common."
+ },
+ {
+  "id": "M1#4868",
+  "en": "There's a dock at the far west of the harbor,"
+ },
+ {
+  "id": "M1#4869",
+  "en": "and I hear that next year it'll be reborn"
+ },
+ {
+  "id": "M1#4870",
+  "en": "as a navy dock."
+ },
+ {
+  "id": "M1#4871",
+  "en": "Left behind by the great changes of the age,"
+ },
+ {
+  "id": "M1#4872",
+  "en": "the lighthouse and I now just stand like this"
+ },
+ {
+  "id": "M1#4873",
+  "en": "in a corner of town, and nothing more."
+ },
+ {
+  "id": "M1#4874",
+  "en": "The lighthouse has become a monument."
+ },
+ {
+  "id": "M1#4875",
+  "en": "Why not be reborn yourself, then?"
+ },
+ {
+  "id": "M1#4876",
+  "en": "Could someone like me really be reborn?"
+ },
+ {
+  "id": "M1#4877",
+  "en": "I can't help feeling that for this old codger,"
+ },
+ {
+  "id": "M1#4878",
+  "en": "there's nothing left ahead but death."
+ },
+ {
+  "id": "M1#4879",
+  "en": "No... I can't be reborn after all."
+ }
+]

@@ -1,0 +1,340 @@
+[
+ {
+  "id": "M2#7840",
+  "en": "You must have had a fine education. ",
+  "note": "Trailing space: #7841 follows on the same line."
+ },
+ {
+  "id": "M2#7841",
+  "en": "I want to study more, too..."
+ },
+ {
+  "id": "M2#7842",
+  "en": "Oh, I'm grumbling again... Sorry."
+ },
+ {
+  "id": "M2#7843",
+  "en": "No, I just thought I'd say hello,",
+  "note": "Followed by #7826 'that's all. Sorry to bother you.' or #7898."
+ },
+ {
+  "id": "M2#7844",
+  "en": "Good evening, ",
+  "variants": [
+   {
+    "msg": 320299,
+    "en": "Good evening"
+   }
+  ],
+  "note": "Before the name (Mike). Variant for Samantha msg 320299, where pause dots follow: 'Good evening...'"
+ },
+ {
+  "id": "M2#7845",
+  "en": "My father told me to come home early"
+ },
+ {
+  "id": "M2#7846",
+  "en": "from school today."
+ },
+ {
+  "id": "M2#7847",
+  "en": "He makes me help with his work."
+ },
+ {
+  "id": "M2#7848",
+  "en": "I'd much rather study than labor."
+ },
+ {
+  "id": "M2#7849",
+  "en": "Good evening. Have you been well?"
+ },
+ {
+  "id": "M2#7850",
+  "en": "I'm afraid I haven't."
+ },
+ {
+  "id": "M2#7851",
+  "en": "Father and I keep fighting about my future."
+ },
+ {
+  "id": "M2#7852",
+  "en": "Oh, it weighs on me."
+ },
+ {
+  "id": "M2#7853",
+  "en": "You there, is this the students' entrance?"
+ },
+ {
+  "id": "M2#7854",
+  "en": "Yes. The staff entrance is over there."
+ },
+ {
+  "id": "M2#7855",
+  "en": "Visitors use that one, too."
+ },
+ {
+  "id": "M2#7856",
+  "en": "I see. My thanks."
+ },
+ {
+  "id": "M2#7857",
+  "en": "What is your name?"
+ },
+ {
+  "id": "M2#7858",
+  "en": "I'm Mike, the hardware dealer's son."
+ },
+ {
+  "id": "M2#7859",
+  "en": "Someday I want to do research work."
+ },
+ {
+  "id": "M2#7860",
+  "en": "Well, apply yourself."
+ },
+ {
+  "id": "M2#7861",
+  "en": "Hello. Oh, you're the one from before..."
+ },
+ {
+  "id": "M2#7862",
+  "en": "Is this the students' entrance?"
+ },
+ {
+  "id": "M2#7863",
+  "en": "I'm the hardware dealer's son, but I don't"
+ },
+ {
+  "id": "M2#7864",
+  "en": "want to take over the shop."
+ },
+ {
+  "id": "M2#7865",
+  "en": "Huh? Are you still lost?"
+ },
+ {
+  "id": "M2#7866",
+  "en": "Do you need this entrance today?"
+ },
+ {
+  "id": "M2#7867",
+  "en": "Mike, is it."
+ },
+ {
+  "id": "M2#7868",
+  "en": "Your devotion to study impressed me,"
+ },
+ {
+  "id": "M2#7869",
+  "en": "so I came to see how you were doing."
+ },
+ {
+  "id": "M2#7870",
+  "en": "Is that so? Thank you."
+ },
+ {
+  "id": "M2#7871",
+  "en": "Please don't trouble yourself over me."
+ },
+ {
+  "id": "M2#7872",
+  "en": "...I know,"
+ },
+ {
+  "id": "M2#7873",
+  "en": "you'll say I look down today."
+ },
+ {
+  "id": "M2#7874",
+  "en": "Dad and I keep fighting lately..."
+ },
+ {
+  "id": "M2#7875",
+  "en": "I want to study, but Dad is set on"
+ },
+ {
+  "id": "M2#7876",
+  "en": "making me take over the hardware shop."
+ },
+ {
+  "id": "M2#7877",
+  "en": "Dad and I are still at odds."
+ },
+ {
+  "id": "M2#7878",
+  "en": "I don't want to fight, though. Someday"
+ },
+ {
+  "id": "M2#7879",
+  "en": "I hope to make him understand."
+ },
+ {
+  "id": "M2#7880",
+  "en": "If you know a good school, please tell me."
+ },
+ {
+  "id": "M2#7881",
+  "en": "I'm interested in studying abroad, too."
+ },
+ {
+  "id": "M2#7882",
+  "en": "Who is it?"
+ },
+ {
+  "id": "M2#7883",
+  "en": "If it's my father, he's at the hardware shop."
+ },
+ {
+  "id": "M2#7884",
+  "en": "My father's at the hardware shop, you know."
+ },
+ {
+  "id": "M2#7885",
+  "en": "Today it's been one bad thing after another.",
+  "note": "After '{NAME}! Good day.' (#1343)."
+ },
+ {
+  "id": "M2#7886",
+  "en": "I did badly on a test, and I had a fight"
+ },
+ {
+  "id": "M2#7887",
+  "en": "with my father about my future..."
+ },
+ {
+  "id": "M2#7888",
+  "en": "Sigh... I wonder what will become of me."
+ },
+ {
+  "id": "M2#7889",
+  "en": "You came to see me?",
+  "note": "After '{NAME}!' (#69)."
+ },
+ {
+  "id": "M2#7890",
+  "en": "My family's out, so I can't let you in, though."
+ },
+ {
+  "id": "M2#7891",
+  "en": ", I learn a lot from talking with",
+  "note": "After the name; #7892 on the next line."
+ },
+ {
+  "id": "M2#7892",
+  "en": "clever people like you."
+ },
+ {
+  "id": "M2#7893",
+  "en": "Please come again!"
+ },
+ {
+  "id": "M2#7894",
+  "en": "that's all. Sorry to stop you like that.",
+  "note": "After #7825 'No, I was just impressed you're up so early,'."
+ },
+ {
+  "id": "M2#7895",
+  "en": "You're very polite."
+ },
+ {
+  "id": "M2#7896",
+  "en": ", you're",
+  "note": "After the name, the sentence goes on in the next row (lowercase): Mike #7897, Anna #10008 / #10068 / #10095."
+ },
+ {
+  "id": "M2#7897",
+  "en": "always so admirable."
+ },
+ {
+  "id": "M2#7898",
+  "en": "that's all. Sorry to stop you like that.",
+  "note": "After #7843 'No, I just thought I'd say hello,'."
+ },
+ {
+  "id": "M2#7899",
+  "en": "Hello. Is this the students' entrance?"
+ },
+ {
+  "id": "M2#7900",
+  "en": "You've been a help. Thank you very much."
+ },
+ {
+  "id": "M2#7901",
+  "en": "What's your name?",
+  "note": "Shared with Nicole msgs 345191/346129."
+ },
+ {
+  "id": "M2#7902",
+  "en": "Good luck with your studies."
+ },
+ {
+  "id": "M2#7903",
+  "en": "Hello. Would this be the students' entrance?"
+ },
+ {
+  "id": "M2#7904",
+  "en": "You've really helped. Study hard."
+ },
+ {
+  "id": "M2#7905",
+  "en": "Hi there, Mike."
+ },
+ {
+  "id": "M2#7906",
+  "en": "You study so hard, I was impressed,"
+ },
+ {
+  "id": "M2#7907",
+  "en": "so I just came by to see how you were."
+ },
+ {
+  "id": "M2#7908",
+  "en": "... Good day.",
+  "note": "After the name: '{NAME}... Good day.'"
+ },
+ {
+  "id": "M2#7909",
+  "en": "Dad and I are still at odds."
+ },
+ {
+  "id": "M2#7910",
+  "en": "I don't want to fight, though. Someday,"
+ },
+ {
+  "id": "M2#7911",
+  "en": "What brings you here so late?"
+ },
+ {
+  "id": "M2#7912",
+  "en": "...Forgive me, Mike..."
+ },
+ {
+  "id": "M2#7913",
+  "en": "Please, pardon me!"
+ },
+ {
+  "id": "M2#7914",
+  "en": "Waah!"
+ },
+ {
+  "id": "M2#7915",
+  "en": "What are you doooiiiiing..."
+ },
+ {
+  "id": "M2#7916",
+  "en": "I must end this fight quickly..."
+ },
+ {
+  "id": "M2#7917",
+  "en": "I'm Roberta."
+ },
+ {
+  "id": "M2#7918",
+  "en": "I work as a fabric designer."
+ },
+ {
+  "id": "M2#7919",
+  "en": "Romantic, elegant dresses at lower prices...",
+  "note": "Noun phrase; #7920 (slice 099) follows: 'I'm working hard to find a way to make them.'"
+ }
+]

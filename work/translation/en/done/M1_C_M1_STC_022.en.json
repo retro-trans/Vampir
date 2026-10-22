@@ -1,0 +1,375 @@
+[
+ {
+  "id": "M1#1760",
+  "en": "It's a nice change of pace,"
+ },
+ {
+  "id": "M1#1761",
+  "en": "and it helps me get more done, if anything."
+ },
+ {
+  "id": "M1#1762",
+  "en": "as you can see, it's harvest time on the farm.",
+  "note": "Ends with a period (not a comma) so that shared M1#1731 can start a new sentence: 'We're short-handed, anyway.'"
+ },
+ {
+  "id": "M1#1763",
+  "en": "Honestly, I'm so busy right now,",
+  "note": "Cat idiom turned into 'I'd take help from a cat'; split across #1763/#1764."
+ },
+ {
+  "id": "M1#1764",
+  "en": "I'd take help from a cat."
+ },
+ {
+  "id": "M1#1765",
+  "en": "It was a bumper crop this year. I couldn't be happier."
+ },
+ {
+  "id": "M1#1766",
+  "en": "Farm work is manual labor."
+ },
+ {
+  "id": "M1#1767",
+  "en": "Not to brag, but I've got strength to spare.",
+  "note": "(JP) used in its ordinary sense (not the Vitality stat)."
+ },
+ {
+  "id": "M1#1768",
+  "en": ", now that I look at you, you",
+  "note": "Starts with a comma: in msg 70784 and 71461 it directly follows shared M1#1043 'Hm' (tokens only between), so 'Hm' + ', now that...' reads 'Hm, now that I look at you, you'."
+ },
+ {
+  "id": "M1#1769",
+  "en": "have a fine build",
+  "note": "Positive use (msg 70784): 'you / have a fine build' + #1770 ' yourself!'. The Christopher version (msg 71461) is negative (#1798): variant.",
+  "variants": [
+   {
+    "msg": 71424,
+    "en": "don't have much of a build"
+   }
+  ]
+ },
+ {
+  "id": "M1#1770",
+  "en": " yourself!"
+ },
+ {
+  "id": "M1#1771",
+  "en": "you sure come here often."
+ },
+ {
+  "id": "M1#1772",
+  "en": "Tell you what, if you've got free time,"
+ },
+ {
+  "id": "M1#1773",
+  "en": "how about lending a hand on my farm?"
+ },
+ {
+  "id": "M1#1774",
+  "en": "<I might help you out>",
+  "note": "choice (not in any used_in); (JP) = 'I wouldn't mind helping'"
+ },
+ {
+  "id": "M1#1775",
+  "en": "<Quit fooling around>",
+  "note": "choice; Zille answers 'Just kidding.' (#1066)"
+ },
+ {
+  "id": "M1#1776",
+  "en": "Oh? Really? Well, a man like you"
+ },
+ {
+  "id": "M1#1777",
+  "en": "doing farm work, huh...",
+  "note": "Shared with #1801 (young gentleman): works after both 'a man like you' and 'a young gentleman like you'."
+ },
+ {
+  "id": "M1#1778",
+  "en": "That's a big help! Then let's get right to it."
+ },
+ {
+  "id": "M1#1779",
+  "en": "You can help me with the daytime work."
+ },
+ {
+  "id": "M1#1780",
+  "en": "Well, you worked hard."
+ },
+ {
+  "id": "M1#1781",
+  "en": "Here's your pay for today."
+ },
+ {
+  "id": "M1#1782",
+  "en": "Huh? You don't want it?"
+ },
+ {
+  "id": "M1#1783",
+  "en": "You get stranger and stranger."
+ },
+ {
+  "id": "M1#1784",
+  "en": "Well, sometime soon,"
+ },
+ {
+  "id": "M1#1785",
+  "en": "I'll be taking something in return.",
+  "note": "PLAYER line; (JP) = something in return (payback); sinister overtone kept."
+ },
+ {
+  "id": "M1#1786",
+  "en": "Imagine a man like you doing farm work."
+ },
+ {
+  "id": "M1#1787",
+  "en": "Ha ha ha.",
+  "note": "Maitz msgs 87322/87376/87405 are followed directly (no space token) by #1046 'No, ' / #2259, so those get 'Ha ha ha. ' with a trailing space.",
+  "variants": [
+   {
+    "msg": 87322,
+    "en": "Ha ha ha. "
+   },
+   {
+    "msg": 87376,
+    "en": "Ha ha ha. "
+   },
+   {
+    "msg": 87405,
+    "en": "Ha ha ha. "
+   }
+  ]
+ },
+ {
+  "id": "M1#1788",
+  "en": "You pitched in on the farm the other day,"
+ },
+ {
+  "id": "M1#1789",
+  "en": "and I'm much obliged."
+ },
+ {
+  "id": "M1#1790",
+  "en": "you're always more than welcome."
+ },
+ {
+  "id": "M1#1791",
+  "en": "The golden fields stretching out before you",
+  "note": "Needs M1#1728 = 'are my farm.' (slice 021)."
+ },
+ {
+  "id": "M1#1792",
+  "en": "you're hard at work early today."
+ },
+ {
+  "id": "M1#1793",
+  "en": "it's a fine evening."
+ },
+ {
+  "id": "M1#1794",
+  "en": "A farm?",
+  "note": "Matches #517 variant 'Yes.' for msg 71134."
+ },
+ {
+  "id": "M1#1795",
+  "en": "By the way, don't you have a wife?"
+ },
+ {
+  "id": "M1#1796",
+  "en": "No, I'm not married yet",
+  "note": "Followed by #180 '...'. '(JP)' lacks its predicate in the source; 'married' supplied from the question (flagged in report)."
+ },
+ {
+  "id": "M1#1797",
+  "en": "I'm sorry. I shouldn't have talked to you when you're busy."
+ },
+ {
+  "id": "M1#1798",
+  "en": " to speak of, huh.",
+  "note": "Only msg 71461: 'don't have much of a build' + three #180 (pauses) + ' to speak of, huh.' ((JP))."
+ },
+ {
+  "id": "M1#1799",
+  "en": "<I'll help you>",
+  "note": "choice (Christopher version)"
+ },
+ {
+  "id": "M1#1800",
+  "en": "<No, thank you>",
+  "note": "choice; (JP) = politely decline"
+ },
+ {
+  "id": "M1#1801",
+  "en": "Oh? Really? Well, a young gentleman like you",
+  "note": "(JP) = young gentleman (sheltered rich boy)"
+ },
+ {
+  "id": "M1#1802",
+  "en": "I'll be counting on you again!"
+ },
+ {
+  "id": "M1#1803",
+  "en": "Well, of course I'm just kidding."
+ },
+ {
+  "id": "M1#1804",
+  "en": "Imagine a young gentleman doing farm work."
+ },
+ {
+  "id": "M1#1805",
+  "en": "you're always more than welcome."
+ },
+ {
+  "id": "M1#1806",
+  "en": "This time, you're going to work for me..."
+ },
+ {
+  "id": "M1#1807",
+  "en": "Who's there at this hour",
+  "note": "msg 71620: followed by three #180 pauses then NL + name + #1490 ', is that you?' -> 'Who's there at this hour......... / NAME, is that you?'"
+ },
+ {
+  "id": "M1#1808",
+  "en": "Zille,",
+  "note": "not in any used_in; sequence recovered from the SQC script (PLAYER speaks 1808/1809 after Zille's 1807)"
+ },
+ {
+  "id": "M1#1809",
+  "en": "I need your help with my work."
+ },
+ {
+  "id": "M1#1810",
+  "en": "You helped me on the farm, so I do owe you one,",
+  "note": "Zille; not in any used_in (script order 1810, 1811, 1812)"
+ },
+ {
+  "id": "M1#1811",
+  "en": "and I could be of some help, though."
+ },
+ {
+  "id": "M1#1812",
+  "en": "What is it you want me to do?"
+ },
+ {
+  "id": "M1#1813",
+  "en": "<Explain the situation>",
+  "note": "choice, same as M1#171"
+ },
+ {
+  "id": "M1#1814",
+  "en": "<Drink his blood by force>",
+  "note": "choice; (JP)"
+ },
+ {
+  "id": "M1#1815",
+  "en": "So, that's how things are.",
+  "note": "PLAYER"
+ },
+ {
+  "id": "M1#1816",
+  "en": "Is-is that really true?"
+ },
+ {
+  "id": "M1#1817",
+  "en": "Sounds like a joke to me..."
+ },
+ {
+  "id": "M1#1818",
+  "en": "Well, all right.",
+  "note": "Shared with Kroger (msgs 132156, 132294, 133432: 'Well, all right.' then the mayor explains his problem). Works for both."
+ },
+ {
+  "id": "M1#1819",
+  "en": "If I'm going to be bitten anyway,"
+ },
+ {
+  "id": "M1#1820",
+  "en": "I'd rather it be ",
+  "note": "Name follows"
+ },
+ {
+  "id": "M1#1821",
+  "en": " than some devil."
+ },
+ {
+  "id": "M1#1822",
+  "en": "That's the lesser evil.",
+  "note": "(JP) = the lesser evil"
+ },
+ {
+  "id": "M1#1823",
+  "en": "Are you sure I'll go back to normal?"
+ },
+ {
+  "id": "M1#1824",
+  "en": "All right, give it a try."
+ },
+ {
+  "id": "M1#1825",
+  "en": "I'm sorry",
+  "note": "Followed by #414 '!' (SQC: 1825 + 414) PLAYER; not in any used_in"
+ },
+ {
+  "id": "M1#1826",
+  "en": "Whoa,"
+ },
+ {
+  "id": "M1#1827",
+  "en": "what the hell are you doing",
+  "note": "Followed by #414 '!' and then the player name (SQC), not in any used_in"
+ },
+ {
+  "id": "M1#1828",
+  "en": "Once this battle is over,"
+ },
+ {
+  "id": "M1#1829",
+  "en": "you'll go back to normal..."
+ },
+ {
+  "id": "M1#1830",
+  "en": "Your dignified orders, please.",
+  "note": "Servant after conversion; (JP) = 'of high standing/dignified', unclear; shared Stuart / Mrs. Stanberg (both after '..., my master...')."
+ },
+ {
+  "id": "M1#1831",
+  "en": "Thank you for all your help."
+ },
+ {
+  "id": "M1#1832",
+  "en": "As for the wedding, I very much hope"
+ },
+ {
+  "id": "M1#1833",
+  "en": "you will attend as well."
+ },
+ {
+  "id": "M1#1834",
+  "en": "Listen to this",
+  "note": "Followed by #414 '!'"
+ },
+ {
+  "id": "M1#1835",
+  "en": "Father has given his permission",
+  "note": "Followed by #414 '!'"
+ },
+ {
+  "id": "M1#1836",
+  "en": "I see.",
+  "note": "Shared by Stuart (player) and Leopold's restaurant; works in both."
+ },
+ {
+  "id": "M1#1837",
+  "en": "What about your plan to become a writer?"
+ },
+ {
+  "id": "M1#1838",
+  "en": "No, that doesn't matter anymore."
+ },
+ {
+  "id": "M1#1839",
+  "en": "More than a writing career, I wanted",
+  "note": "The 'with Luisa' part is carried into M1#1840 (slice 023), which must read 'a life with Luisa.'"
+ }
+]

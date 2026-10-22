@@ -1,0 +1,344 @@
+[
+ {
+  "id": "M1#960",
+  "en": "I will follow your orders..."
+ },
+ {
+  "id": "M1#961",
+  "en": "I've been terribly tired lately, you know."
+ },
+ {
+  "id": "M1#962",
+  "en": "Give me any order.",
+  "variants": [
+   {
+    "msg": 94857,
+    "en": "any order you wish."
+   }
+  ]
+ },
+ {
+  "id": "M1#963",
+  "en": "Delivering letters is my job..."
+ },
+ {
+  "id": "M1#964",
+  "en": "Oh, so you're a mail carrier."
+ },
+ {
+  "id": "M1#965",
+  "en": "That's right."
+ },
+ {
+  "id": "M1#966",
+  "en": "But I can't take mail from you right now, so"
+ },
+ {
+  "id": "M1#967",
+  "en": "go to the post office or drop it in a postbox."
+ },
+ {
+  "id": "M1#968",
+  "en": "Are you on your way to work too?"
+ },
+ {
+  "id": "M1#969",
+  "en": "Oh, "
+ },
+ {
+  "id": "M1#970",
+  "en": "Would you like to help me with my work now?"
+ },
+ {
+  "id": "M1#971",
+  "en": "Oh, I'm only joking."
+ },
+ {
+  "id": "M1#972",
+  "en": "My job is delivering letters."
+ },
+ {
+  "id": "M1#973",
+  "en": "Actually, I'm not going to work now,"
+ },
+ {
+  "id": "M1#974",
+  "en": "I'm on my way home."
+ },
+ {
+  "id": "M1#975",
+  "en": "Are you, too?"
+ },
+ {
+  "id": "M1#976",
+  "en": "We really do run into each other a lot."
+ },
+ {
+  "id": "M1#977",
+  "en": "Do you live nearby?"
+ },
+ {
+  "id": "M1#978",
+  "en": "I deliver letters for a living."
+ },
+ {
+  "id": "M1#979",
+  "en": "If you have a letter you want delivered,"
+ },
+ {
+  "id": "M1#980",
+  "en": "please come to the post office."
+ },
+ {
+  "id": "M1#981",
+  "en": "It's a bit of a problem if you come to me."
+ },
+ {
+  "id": "M1#982",
+  "en": "please take it to the post office or a postbox."
+ },
+ {
+  "id": "M1#983",
+  "en": ",",
+  "variants": [
+   {
+    "msg": 95120,
+    "en": ""
+   },
+   {
+    "msg": 214539,
+    "en": ""
+   }
+  ]
+ },
+ {
+  "id": "M1#984",
+  "en": "You always dress so flashily."
+ },
+ {
+  "id": "M1#985",
+  "en": "I'd love to try wearing clothes like that."
+ },
+ {
+  "id": "M1#986",
+  "en": "Where do you get your clothes made?"
+ },
+ {
+  "id": "M1#987",
+  "en": "I'd like you to introduce me to that shop."
+ },
+ {
+  "id": "M1#988",
+  "en": "come and visit again."
+ },
+ {
+  "id": "M1#989",
+  "en": "You've come already."
+ },
+ {
+  "id": "M1#990",
+  "en": "You're more impatient than I expected."
+ },
+ {
+  "id": "M1#991",
+  "en": "Hello. This is the post office."
+ },
+ {
+  "id": "M1#992",
+  "en": "Any letter you leave with us,"
+ },
+ {
+  "id": "M1#993",
+  "en": "we deliver from the European countryside",
+  "variants": [
+   {
+    "msg": 42054,
+    "en": "We deliver from the European countryside"
+   }
+  ]
+ },
+ {
+  "id": "M1#994",
+  "en": "to cities all over the world."
+ },
+ {
+  "id": "M1#995",
+  "en": "Cities all over the world...?"
+ },
+ {
+  "id": "M1#996",
+  "en": "Yes. How many days it takes depends on the place,"
+ },
+ {
+  "id": "M1#997",
+  "en": "but we deliver anywhere."
+ },
+ {
+  "id": "M1#998",
+  "en": "Oh, we met the other day..."
+ },
+ {
+  "id": "M1#999",
+  "en": "This is the post office counter."
+ },
+ {
+  "id": "M1#1000",
+  "en": "If you have any mail you'd like delivered,"
+ },
+ {
+  "id": "M1#1001",
+  "en": "please bring it in any time."
+ },
+ {
+  "id": "M1#1002",
+  "en": "Next, please."
+ },
+ {
+  "id": "M1#1003",
+  "en": "I'd like to ask you something,"
+ },
+ {
+  "id": "M1#1004",
+  "en": "how long does it take for mail"
+ },
+ {
+  "id": "M1#1005",
+  "en": "to be delivered?"
+ },
+ {
+  "id": "M1#1006",
+  "en": "Let me see..."
+ },
+ {
+  "id": "M1#1007",
+  "en": "Letters are mostly carried by carriage"
+ },
+ {
+  "id": "M1#1008",
+  "en": "to their destination."
+ },
+ {
+  "id": "M1#1009",
+  "en": "But we have the railway now,"
+ },
+ {
+  "id": "M1#1010",
+  "en": "so letters quickly reach"
+ },
+ {
+  "id": "M1#1011",
+  "en": "any city."
+ },
+ {
+  "id": "M1#1012",
+  "en": "Things have become so convenient, haven't they?"
+ },
+ {
+  "id": "M1#1013",
+  "en": "Ah, but for cities that need a ship,"
+ },
+ {
+  "id": "M1#1014",
+  "en": "it takes a little longer."
+ },
+ {
+  "id": "M1#1015",
+  "en": "(Orgo can fly, so"
+ },
+ {
+  "id": "M1#1016",
+  "en": "it may well be the better one.)"
+ },
+ {
+  "id": "M1#1017",
+  "en": "Did you know?"
+ },
+ {
+  "id": "M1#1018",
+  "en": "England has something called the telegraph,"
+ },
+ {
+  "id": "M1#1019",
+  "en": "and you can get a message across without"
+ },
+ {
+  "id": "M1#1020",
+  "en": "delivering a letter by hand, I hear."
+ },
+ {
+  "id": "M1#1021",
+  "en": "About that mess... I mean, telegraph,"
+ },
+ {
+  "id": "M1#1022",
+  "en": "could you tell me a little more?"
+ },
+ {
+  "id": "M1#1023",
+  "en": "I don't know the details myself, but"
+ },
+ {
+  "id": "M1#1024",
+  "en": "apparently the letter is first turned"
+ },
+ {
+  "id": "M1#1025",
+  "en": "into an electric signal."
+ },
+ {
+  "id": "M1#1026",
+  "en": "Then it's turned back into a letter at the other end."
+ },
+ {
+  "id": "M1#1027",
+  "en": "It really has become a convenient world."
+ },
+ {
+  "id": "M1#1028",
+  "en": "(It may be more useful than Orgo.)"
+ },
+ {
+  "id": "M1#1029",
+  "en": "England has something called the telephone,"
+ },
+ {
+  "id": "M1#1030",
+  "en": "which lets people talk directly, even when"
+ },
+ {
+  "id": "M1#1031",
+  "en": "they're far apart, I hear."
+ },
+ {
+  "id": "M1#1032",
+  "en": "What an amazing world we live in."
+ },
+ {
+  "id": "M1#1033",
+  "en": "(If that can be done, there's no point in sending"
+ },
+ {
+  "id": "M1#1034",
+  "en": "a familiar off just to carry a message.)"
+ },
+ {
+  "id": "M1#1035",
+  "en": "If this telephone thing becomes widespread,"
+ },
+ {
+  "id": "M1#1036",
+  "en": "will I end up out of work?"
+ },
+ {
+  "id": "M1#1037",
+  "en": "Even a convenient world isn't always"
+ },
+ {
+  "id": "M1#1038",
+  "en": "a good thing, is it."
+ },
+ {
+  "id": "M1#1039",
+  "en": "(That's just what Orgo says...)"
+ }
+]

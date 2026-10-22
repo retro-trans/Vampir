@@ -1,0 +1,350 @@
+[
+ {
+  "id": "M1#480",
+  "en": "Put your trust in grown-ups carelessly,"
+ },
+ {
+  "id": "M1#481",
+  "en": "and nothing good ever comes of it!"
+ },
+ {
+  "id": "M1#482",
+  "en": "Damn it, it pisses me off."
+ },
+ {
+  "id": "M1#483",
+  "en": "Every last one of them, for selfish reasons,"
+ },
+ {
+  "id": "M1#484",
+  "en": "keeps yanking me around."
+ },
+ {
+  "id": "M1#485",
+  "en": "They all put on a saintly face,"
+ },
+ {
+  "id": "M1#486",
+  "en": "then betray people right to their faces."
+ },
+ {
+  "id": "M1#487",
+  "en": "My old man, the kids at school, all of them."
+ },
+ {
+  "id": "M1#488",
+  "en": "Why are you so"
+ },
+ {
+  "id": "M1#489",
+  "en": "eager to trust everyone?"
+ },
+ {
+  "id": "M1#490",
+  "en": "\"Eager to trust\"?"
+ },
+ {
+  "id": "M1#491",
+  "en": "Me",
+  "note": "followed by #180 x3 (each '.')"
+ },
+ {
+  "id": "M1#492",
+  "en": "Trusting everyone",
+  "note": "followed by #180 x3 (each '.')"
+ },
+ {
+  "id": "M1#493",
+  "en": "You're kind, Ludwig."
+ },
+ {
+  "id": "M1#494",
+  "en": "I never try to trust anyone to begin with,"
+ },
+ {
+  "id": "M1#495",
+  "en": "so being \"betrayed\" can't even happen to me."
+ },
+ {
+  "id": "M1#496",
+  "en": "(Me, \"eager to trust\"?)",
+  "note": "Ludwig's thought; 'eager to trust' echoes #489/#490"
+ },
+ {
+  "id": "M1#497",
+  "en": "To me, you seem like a pretty kind person."
+ },
+ {
+  "id": "M1#498",
+  "en": "But you \"don't try to trust\" anyone,"
+ },
+ {
+  "id": "M1#499",
+  "en": "you said.",
+  "note": "quote moved to #498; 'you said.' stays in its own row"
+ },
+ {
+  "id": "M1#500",
+  "en": "Doesn't that kind of contradict itself?"
+ },
+ {
+  "id": "M1#501",
+  "en": "Maybe so."
+ },
+ {
+  "id": "M1#502",
+  "en": "In my case"
+ },
+ {
+  "id": "M1#503",
+  "en": "I suppose I \"choose\" who and what to trust."
+ },
+ {
+  "id": "M1#504",
+  "en": "Trusting every adult you mean, Ludwig,",
+  "note": "restructured: 'Trusting ... is something I just can't do' so #505 keeps the verb"
+ },
+ {
+  "id": "M1#505",
+  "en": "is something I just can't do."
+ },
+ {
+  "id": "M1#506",
+  "en": "To \"choose\" who and what to trust"
+ },
+ {
+  "id": "M1#507",
+  "en": "Oh, time's up."
+ },
+ {
+  "id": "M1#508",
+  "en": "You can head home, ",
+  "note": "name inserted after, then #509 '.'"
+ },
+ {
+  "id": "M1#509",
+  "en": ".",
+  "note": "Ludwig mocking 'sa-n' suffix; reduced to the closing '.' after the name"
+ },
+ {
+  "id": "M1#510",
+  "en": "I'm still not going to school."
+ },
+ {
+  "id": "M1#511",
+  "en": "Being around those ugly adults"
+ },
+ {
+  "id": "M1#512",
+  "en": "is still something I hate, it seems.",
+  "note": "completes #511"
+ },
+ {
+  "id": "M1#513",
+  "en": "Maybe watching the people who gather around my old man"
+ },
+ {
+  "id": "M1#514",
+  "en": "made me this way."
+ },
+ {
+  "id": "M1#515",
+  "en": "Would you mind if I read"
+ },
+ {
+  "id": "M1#516",
+  "en": "this book too?"
+ },
+ {
+  "id": "M1#517",
+  "en": "Ah, ",
+  "note": "Shared: Ludwig 'Ah, sure.', Lord Stanberg 'Ah, <name>...' (needs #4690 to continue after the name); Zille answers 'A farm?' so variants give 'Yes.'",
+  "variants": [
+   {
+    "msg": 70483,
+    "en": "Yes."
+   },
+   {
+    "msg": 71134,
+    "en": "Yes."
+   }
+  ]
+ },
+ {
+  "id": "M1#518",
+  "en": "go ahead.",
+  "note": "continues #517 'Ah, ' => 'Ah, go ahead.'"
+ },
+ {
+  "id": "M1#519",
+  "en": "Reading a book slowly in my room like this"
+ },
+ {
+  "id": "M1#520",
+  "en": "calms me down."
+ },
+ {
+  "id": "M1#521",
+  "en": "Even the adults who staged ugly fights before my eyes,"
+ },
+ {
+  "id": "M1#522",
+  "en": "I feel like I could forgive them."
+ },
+ {
+  "id": "M1#523",
+  "en": "I wonder why they were chasing"
+ },
+ {
+  "id": "M1#524",
+  "en": "after such petty things. All of them."
+ },
+ {
+  "id": "M1#525",
+  "en": "Anything you say, I'll"
+ },
+ {
+  "id": "M1#526",
+  "en": "do it",
+  "note": "completes #525 'Anything you say, I'll' + 'do it'; followed by #2 + #25 (msg 21131)"
+ },
+ {
+  "id": "M1#527",
+  "en": "do it...",
+  "note": "completes #525; contains its own ellipsis, followed by #25 (msg 21170)"
+ },
+ {
+  "id": "M1#528",
+  "en": "You're wearing some pretty odd clothes, huh."
+ },
+ {
+  "id": "M1#529",
+  "en": "Whoa, don't follow me."
+ },
+ {
+  "id": "M1#530",
+  "en": "A flashy guy like you with me stands out,",
+  "note": "shared by msgs 21206, 21935, 21247; must be completed by #531 or #534 ('and that's a pain.')"
+ },
+ {
+  "id": "M1#531",
+  "en": "and that's a pain."
+ },
+ {
+  "id": "M1#532",
+  "en": "Please, whatever you do, don't tail me,"
+ },
+ {
+  "id": "M1#533",
+  "en": "okay",
+  "note": "followed by #2 + #25"
+ },
+ {
+  "id": "M1#534",
+  "en": "and that's a pain."
+ },
+ {
+  "id": "M1#535",
+  "en": "And whatever you do, don't follow me, okay?"
+ },
+ {
+  "id": "M1#536",
+  "en": "Man, I just can't make up my mind."
+ },
+ {
+  "id": "M1#537",
+  "en": "I don't want to worry my sister any more."
+ },
+ {
+  "id": "M1#538",
+  "en": "Quitting that cargo-pilfering business for good"
+ },
+ {
+  "id": "M1#539",
+  "en": "was the right call."
+ },
+ {
+  "id": "M1#540",
+  "en": "That sort of work was never really"
+ },
+ {
+  "id": "M1#541",
+  "en": "my kind of thing anyway."
+ },
+ {
+  "id": "M1#542",
+  "en": "I'm on my way home right now."
+ },
+ {
+  "id": "M1#543",
+  "en": "See ya.",
+  "note": "shared with Hermann (msgs 103333, 103873): 'See ya.' works for both"
+ },
+ {
+  "id": "M1#544",
+  "en": "Man, you sure do wear flashy clothes."
+ },
+ {
+  "id": "M1#545",
+  "en": "Who are you, anyway?"
+ },
+ {
+  "id": "M1#546",
+  "en": "Are you, like, super rich or something?"
+ },
+ {
+  "id": "M1#547",
+  "en": "My sister must be worried."
+ },
+ {
+  "id": "M1#548",
+  "en": "The doctor told her to stay in bed, but"
+ },
+ {
+  "id": "M1#549",
+  "en": "she's out looking for me anyway."
+ },
+ {
+  "id": "M1#550",
+  "en": "I quit a shady job like pilfering cargo,"
+ },
+ {
+  "id": "M1#551",
+  "en": "and it feels great."
+ },
+ {
+  "id": "M1#552",
+  "en": "My sister seems relieved too."
+ },
+ {
+  "id": "M1#553",
+  "en": "I'm Anton. It's just me and my sister."
+ },
+ {
+  "id": "M1#554",
+  "en": "I got fired from the factory, so I'm out of"
+ },
+ {
+  "id": "M1#555",
+  "en": "work right now",
+  "note": "completes #554 'I'm out of' + 'work right now'; followed by #2 + #25"
+ },
+ {
+  "id": "M1#556",
+  "en": "Ah. What am I supposed to do?"
+ },
+ {
+  "id": "M1#557",
+  "en": "I know it's shady work, but"
+ },
+ {
+  "id": "M1#558",
+  "en": "I need the money, no matter what",
+  "note": "followed by #2 + #25"
+ },
+ {
+  "id": "M1#559",
+  "en": "I'm agonizing over this",
+  "note": "followed by #2 + #25"
+ }
+]

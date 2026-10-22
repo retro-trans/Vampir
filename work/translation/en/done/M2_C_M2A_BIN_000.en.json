@@ -1,0 +1,334 @@
+[
+ {
+  "id": "M2A.BIN@A64",
+  "en": "Do you truly intend to defeat me?"
+ },
+ {
+  "id": "M2A.BIN@A5C",
+  "en": "Yes."
+ },
+ {
+  "id": "M2A.BIN@A30",
+  "en": "It's true that I've come here to defeat you. ",
+  "note": "Printed on the same line as A0C, hence trailing space."
+ },
+ {
+  "id": "M2A.BIN@A0C",
+  "en": "So that you may rest in eternal sleep."
+ },
+ {
+  "id": "M2A.BIN@A04",
+  "en": "...",
+  "note": "Same line as 9F4: '...Very well.'"
+ },
+ {
+  "id": "M2A.BIN@9F4",
+  "en": "Very well."
+ },
+ {
+  "id": "M2A.BIN@9D4",
+  "en": "Then you shall learn the extent of my power."
+ },
+ {
+  "id": "M2A.BIN@9B0",
+  "en": "Because we failed to finish off the vampire"
+ },
+ {
+  "id": "M2A.BIN@98C",
+  "en": "in Calstatt, its power"
+ },
+ {
+  "id": "M2A.BIN@970",
+  "en": "seems to have grown..."
+ },
+ {
+  "id": "M2A.BIN@948",
+  "en": "We'd better do something about it, and soon."
+ },
+ {
+  "id": "M2A.BIN@920",
+  "en": "Vampires are... pitiful creatures, you know."
+ },
+ {
+  "id": "M2A.BIN@8F4",
+  "en": "You see, in exchange for being spared death,"
+ },
+ {
+  "id": "M2A.BIN@8C8",
+  "en": "they must live on, bearing eternal suffering."
+ },
+ {
+  "id": "M2A.BIN@8A4",
+  "en": "Freeing them from that suffering"
+ },
+ {
+  "id": "M2A.BIN@87C",
+  "en": "is our mission as well..."
+ },
+ {
+  "id": "M2A.BIN@850",
+  "en": "And we must not let humans suffer"
+ },
+ {
+  "id": "M2A.BIN@83C",
+  "en": "any more victims..."
+ },
+ {
+  "id": "M2A.BIN@814",
+  "en": "We cannot allow any more tragedy!"
+ },
+ {
+  "id": "M2A.BIN@7E8",
+  "en": "To bring the vampire down, I have prepared"
+ },
+ {
+  "id": "M2A.BIN@7D0",
+  "en": "several means of doing so..."
+ },
+ {
+  "id": "M2A.BIN@7B8",
+  "en": "Holy water, holy stakes, crosses."
+ },
+ {
+  "id": "M2A.BIN@78C",
+  "en": "On my instructions, each of them has been"
+ },
+ {
+  "id": "M2A.BIN@774",
+  "en": "given to the other hunters to carry..."
+ },
+ {
+  "id": "M2A.BIN@74C",
+  "en": "We made sure the vampire's coffin had been",
+  "note": "Subject 'we' restored (he and Harker, per 6D4)."
+ },
+ {
+  "id": "M2A.BIN@724",
+  "en": "loaded as cargo, you see... and traced where it was headed."
+ },
+ {
+  "id": "M2A.BIN@6FC",
+  "en": "Its destination: London, England..."
+ },
+ {
+  "id": "M2A.BIN@6D4",
+  "en": "Once Harker confirmed it, he and I"
+ },
+ {
+  "id": "M2A.BIN@6AC",
+  "en": "got ahead of it and came on to London first."
+ },
+ {
+  "id": "M2A.BIN@69C",
+  "en": "That's how we come to be here."
+ },
+ {
+  "id": "M2A.BIN@67C",
+  "en": "Crosses have the power to purify",
+  "note": "Speaker not identified (a doctor: Seward or Van Helsing)."
+ },
+ {
+  "id": "M2A.BIN@668",
+  "en": "people who have been turned into vampires.",
+  "note": "Wording follows M0A@5AC."
+ },
+ {
+  "id": "M2A.BIN@640",
+  "en": "Day or night, whatever vampires I find,"
+ },
+ {
+  "id": "M2A.BIN@620",
+  "en": "I make a point of purifying them..."
+ },
+ {
+  "id": "M2A.BIN@604",
+  "en": "In a doctor's terms, this would"
+ },
+ {
+  "id": "M2A.BIN@5EC",
+  "en": "count as treating a patient."
+ },
+ {
+  "id": "M2A.BIN@5E0",
+  "en": "..."
+ },
+ {
+  "id": "M2A.BIN@5C0",
+  "en": "Have we met somewhere before?",
+  "note": "Speaker not identified (a hunter recognising the player; perhaps Harker). Player answers in 584-550."
+ },
+ {
+  "id": "M2A.BIN@5A0",
+  "en": "Could you be...?"
+ },
+ {
+  "id": "M2A.BIN@584",
+  "en": "Aren't you imagining things?"
+ },
+ {
+  "id": "M2A.BIN@560",
+  "en": "I have no recollection"
+ },
+ {
+  "id": "M2A.BIN@550",
+  "en": "of ever meeting you."
+ },
+ {
+  "id": "M2A.BIN@52C",
+  "en": "To think the vampire was after",
+  "note": "Harker (Miss Rose, his would-be fiancée)."
+ },
+ {
+  "id": "M2A.BIN@518",
+  "en": "London all along..."
+ },
+ {
+  "id": "M2A.BIN@4F0",
+  "en": "Miss Rose, who was to be my fiancée..."
+ },
+ {
+  "id": "M2A.BIN@4CC",
+  "en": "May no danger be drawing near her..."
+ },
+ {
+  "id": "M2A.BIN@4B4",
+  "en": "I can't help but pray for that."
+ },
+ {
+  "id": "M2A.BIN@4A0",
+  "en": "Blessed sword, holy water...",
+  "note": "Speaker inferred as Harker (glossary: blessed sword, holy water)."
+ },
+ {
+  "id": "M2A.BIN@478",
+  "en": "These are my weapons for fighting vampires."
+ },
+ {
+  "id": "M2A.BIN@458",
+  "en": "Damn, to think we meekly let the vampire"
+ },
+ {
+  "id": "M2A.BIN@438",
+  "en": "land in the British Empire..."
+ },
+ {
+  "id": "M2A.BIN@41C",
+  "en": "But the real fight starts now!"
+ },
+ {
+  "id": "M2A.BIN@3FC",
+  "en": "We five hunters will do all we can"
+ },
+ {
+  "id": "M2A.BIN@3DC",
+  "en": "to thwart the vampire's schemes!!"
+ },
+ {
+  "id": "M2A.BIN@3BC",
+  "en": "Just wandering around blindly won't let us"
+ },
+ {
+  "id": "M2A.BIN@3A0",
+  "en": "defeat the vampire..."
+ },
+ {
+  "id": "M2A.BIN@388",
+  "en": "We must gather information from residents"
+ },
+ {
+  "id": "M2A.BIN@360",
+  "en": "and look into any suspicious places..."
+ },
+ {
+  "id": "M2A.BIN@340",
+  "en": "Now that the great Morris has arrived,"
+ },
+ {
+  "id": "M2A.BIN@31C",
+  "en": "the vampire won't get its way anymore!"
+ },
+ {
+  "id": "M2A.BIN@2F8",
+  "en": "By day, I go around setting garlic"
+ },
+ {
+  "id": "M2A.BIN@2E4",
+  "en": "in people's homes."
+ },
+ {
+  "id": "M2A.BIN@2C0",
+  "en": "It may just be garlic, but don't you"
+ },
+ {
+  "id": "M2A.BIN@2B0",
+  "en": "go underestimating it!"
+ },
+ {
+  "id": "M2A.BIN@288",
+  "en": "Put this in a house, and the vampire"
+ },
+ {
+  "id": "M2A.BIN@260",
+  "en": "can't drink blood there at night..."
+ },
+ {
+  "id": "M2A.BIN@23C",
+  "en": "It can also sap the power of Nosferatu"
+ },
+ {
+  "id": "M2A.BIN@21C",
+  "en": "and Dhampir, too..."
+ },
+ {
+  "id": "M2A.BIN@200",
+  "en": "Truth is, I'm just repeating what"
+ },
+ {
+  "id": "M2A.BIN@1EC",
+  "en": "Professor Van Helsing told me."
+ },
+ {
+  "id": "M2A.BIN@1C0",
+  "en": "This time... it won't be a seal. You'll be",
+  "note": "Christopher (polite) to Duran: Duran was sealed before."
+ },
+ {
+  "id": "M2A.BIN@19C",
+  "en": "going into eternal sleep."
+ },
+ {
+  "id": "M2A.BIN@178",
+  "en": "Do you honestly think that I would bother"
+ },
+ {
+  "id": "M2A.BIN@158",
+  "en": "taking on the likes of you?"
+ },
+ {
+  "id": "M2A.BIN@134",
+  "en": "Heh... well, do as you please."
+ },
+ {
+  "id": "M2A.BIN@114",
+  "en": "Your persistence in coming this far, at least,"
+ },
+ {
+  "id": "M2A.BIN@104",
+  "en": "deserves my praise."
+ },
+ {
+  "id": "M2A.BIN@FB4",
+  "en": "I hear Nosferatu and Dhampir have often",
+  "note": "Same as M1A.BIN@C04 / M0A.BIN@DAC"
+ },
+ {
+  "id": "M2A.BIN@F98",
+  "en": "been appearing around these parts.",
+  "note": "Same as M1A.BIN@BE8 / M0A.BIN@D90"
+ },
+ {
+  "id": "M2A.BIN@F78",
+  "en": "Have you heard any such rumors?",
+  "note": "Same as M1A.BIN@BC8 / M0A.BIN@D70"
+ }
+]

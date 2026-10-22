@@ -1,0 +1,346 @@
+[
+ {
+  "id": "M2#3120",
+  "en": "It seems you have something in store today?"
+ },
+ {
+  "id": "M2#3121",
+  "en": "Well now, what could it be",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#3122",
+  "en": "You ever heard the rumour about my shop?"
+ },
+ {
+  "id": "M2#3123",
+  "en": "Anyone who sits in that chair",
+  "note": "#152 '...' follows; msg 111613 (#3124) finishes the sentence after the trapdoor."
+ },
+ {
+  "id": "M2#3124",
+  "en": "ends up like this",
+  "note": "Continues #3123 'Anyone who sits in that chair...' from the previous box; #122 '!' follows."
+ },
+ {
+  "id": "M2#3125",
+  "en": "Hyahahahaha",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#3126",
+  "en": "Surprised ya! Surprised ya! Surprised ya!"
+ },
+ {
+  "id": "M2#3127",
+  "en": "The floor opens and you drop to the cellar."
+ },
+ {
+  "id": "M2#3128",
+  "en": "Some contraption, huh? How about that?"
+ },
+ {
+  "id": "M2#3129",
+  "en": "Well, you certainly got me there."
+ },
+ {
+  "id": "M2#3130",
+  "en": "Yep, yep, some contraption. Hee hee."
+ },
+ {
+  "id": "M2#3131",
+  "en": "And now, you and me, we're friends."
+ },
+ {
+  "id": "M2#3132",
+  "en": "We're friends, so don't you spill this secret."
+ },
+ {
+  "id": "M2#3133",
+  "en": "Being just a barber, that's a dull life."
+ },
+ {
+  "id": "M2#3134",
+  "en": "I gotta give my customers some fun."
+ },
+ {
+  "id": "M2#3135",
+  "en": "Hm? Who's there?"
+ },
+ {
+  "id": "M2#3136",
+  "en": "You, ",
+  "note": "Before the name; #152 '...' follows: 'You, {NAME}...'."
+ },
+ {
+  "id": "M2#3137",
+  "en": "So you were awake",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#3138",
+  "en": "You... don't tell me... you..."
+ },
+ {
+  "id": "M2#3139",
+  "en": "That rumour was true",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#3140",
+  "en": "H-"
+ },
+ {
+  "id": "M2#3141",
+  "en": "help me!",
+  "note": "After #3140 'H-' x3."
+ },
+ {
+  "id": "M2#3142",
+  "en": "M-"
+ },
+ {
+  "id": "M2#3143",
+  "en": "me,"
+ },
+ {
+  "id": "M2#3144",
+  "en": " that kind of stuff,"
+ },
+ {
+  "id": "M2#3145",
+  "en": " I can't handle it!"
+ },
+ {
+  "id": "M2#3146",
+  "en": "That I cannot allow."
+ },
+ {
+  "id": "M2#3147",
+  "en": "You've already found out what I am."
+ },
+ {
+  "id": "M2#3148",
+  "en": "Friends,",
+  "note": "Robin's halting plea, pauses between #3148-#3150."
+ },
+ {
+  "id": "M2#3149",
+  "en": " the secret,"
+ },
+ {
+  "id": "M2#3150",
+  "en": " I won't spill it!"
+ },
+ {
+  "id": "M2#3151",
+  "en": "If we are friends,"
+ },
+ {
+  "id": "M2#3152",
+  "en": "then you will help me.",
+  "note": "A pause and a line break follow; #3153 is the next line."
+ },
+ {
+  "id": "M2#3153",
+  "en": "As my servant.",
+  "note": "No used_in; it follows #3152 by row order (decoder stops after #3152 <p> /)."
+ },
+ {
+  "id": "M2#3154",
+  "en": "A mere human",
+  "note": "#152 '...' follows, then a pause and #3155 on the next line."
+ },
+ {
+  "id": "M2#3155",
+  "en": "talking of friendship? How laughable."
+ },
+ {
+  "id": "M2#3156",
+  "en": "I thought I'd come and say hello."
+ },
+ {
+  "id": "M2#3157",
+  "en": "Huh, so you're not here as a customer."
+ },
+ {
+  "id": "M2#3158",
+  "en": "I'm Robin. So long.",
+  "note": "As #3096/#3097."
+ },
+ {
+  "id": "M2#3159",
+  "en": "You heard weird rumours too, and you're",
+  "note": "Cut at the same point as the JP: #3160 carries the question."
+ },
+ {
+  "id": "M2#3160",
+  "en": "snooping on me?"
+ },
+ {
+  "id": "M2#3161",
+  "en": "You already know my shop's secret, after all."
+ },
+ {
+  "id": "M2#3162",
+  "en": "You get it, right?",
+  "note": "As #3107."
+ },
+ {
+  "id": "M2#3163",
+  "en": "But anyone who falls for it once is my friend.",
+  "note": "As #3108."
+ },
+ {
+  "id": "M2#3164",
+  "en": "I'd like a trim, please."
+ },
+ {
+  "id": "M2#3165",
+  "en": "Lately, you come, often.",
+  "note": "Robin's halting polite speech (see #3112-#3116)."
+ },
+ {
+  "id": "M2#3166",
+  "en": "Lately, you hear lots of scary rumours.",
+  "note": "#3118 'Hardly any of them are true, though.' follows."
+ },
+ {
+  "id": "M2#3167",
+  "en": "What's the matter?",
+  "note": "Shared: the player to Robin (112133) and Agatha to the player (353739)."
+ },
+ {
+  "id": "M2#3168",
+  "en": "You seem different today."
+ },
+ {
+  "id": "M2#3169",
+  "en": "Well, you really got me."
+ },
+ {
+  "id": "M2#3170",
+  "en": "That truly surprised me."
+ },
+ {
+  "id": "M2#3171",
+  "en": "Being just a barber, that's a dull life, see."
+ },
+ {
+  "id": "M2#3172",
+  "en": "Ah, welcome, Master",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#3173",
+  "en": "Please give me your orders",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#3174",
+  "en": "Oh? Mud and cuts on my arms and legs."
+ },
+ {
+  "id": "M2#3175",
+  "en": "How horrid, and filthy too. What is this?"
+ },
+ {
+  "id": "M2#3176",
+  "en": ", my master, your orders",
+  "note": "After the name (as #0 ', my master...'); #152 '...' follows. Cecil and Belinda (then #8080)."
+ },
+ {
+  "id": "M2#3177",
+  "en": "I don't remember a thing, but my arms and legs are all cut up."
+ },
+ {
+  "id": "M2#3178",
+  "en": "Am I thrashing about at night, unawares?"
+ },
+ {
+  "id": "M2#3179",
+  "en": "Welcome, this is a toiletries shop."
+ },
+ {
+  "id": "M2#3180",
+  "en": "Our best seller now is soap. Care for some?"
+ },
+ {
+  "id": "M2#3181",
+  "en": "Soap? Does it sell that well?"
+ },
+ {
+  "id": "M2#3182",
+  "en": "You live in London and don't know?"
+ },
+ {
+  "id": "M2#3183",
+  "en": "Cleanliness is essential to a civilized life."
+ },
+ {
+  "id": "M2#3184",
+  "en": "Do try some, to keep your body clean."
+ },
+ {
+  "id": "M2#3185",
+  "en": "Keeping clean also wards off disease."
+ },
+ {
+  "id": "M2#3186",
+  "en": "Hmm, is that so?"
+ },
+ {
+  "id": "M2#3187",
+  "en": "Then I shall take one."
+ },
+ {
+  "id": "M2#3188",
+  "en": "Soap does get used up, so when it runs out,"
+ },
+ {
+  "id": "M2#3189",
+  "en": "do come back to Cecil's shop."
+ },
+ {
+  "id": "M2#3190",
+  "en": "We sell toiletries. I'm Cecil, the owner."
+ },
+ {
+  "id": "M2#3191",
+  "en": "do come again.",
+  "note": "After #3188 '...so when it runs out,'."
+ },
+ {
+  "id": "M2#3192",
+  "en": "We also have perfumed ones for ladies."
+ },
+ {
+  "id": "M2#3193",
+  "en": "Welcome, come in."
+ },
+ {
+  "id": "M2#3194",
+  "en": "Here to buy soap again today?"
+ },
+ {
+  "id": "M2#3195",
+  "en": "Lately, customers who value cleanliness"
+ },
+ {
+  "id": "M2#3196",
+  "en": "have grown greatly in number."
+ },
+ {
+  "id": "M2#3197",
+  "en": "Soap is flying off the shelves."
+ },
+ {
+  "id": "M2#3198",
+  "en": "I'd recommend stocking up."
+ },
+ {
+  "id": "M2#3199",
+  "en": "As a seller of toiletries, I myself",
+  "note": "#3200 (slice 040) must continue in lowercase, e.g. 'use soap every day.'"
+ }
+]

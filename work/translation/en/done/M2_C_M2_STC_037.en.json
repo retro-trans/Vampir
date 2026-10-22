@@ -1,0 +1,335 @@
+[
+ {
+  "id": "M2#2960",
+  "en": "We take pride in our service, you know."
+ },
+ {
+  "id": "M2#2961",
+  "en": "Come by the shop if you can, eh?"
+ },
+ {
+  "id": "M2#2962",
+  "en": "Hmph, how base humans are."
+ },
+ {
+  "id": "M2#2963",
+  "en": "This man thinks of nothing but money."
+ },
+ {
+  "id": "M2#2964",
+  "en": "Become my servant and toil for me.",
+  "note": "No used_in: decoder seems to miss this box; read as the stern player speaking about Craig between msg 103531 and 103547 (#2962-#2967 one monologue)."
+ },
+ {
+  "id": "M2#2965",
+  "en": "That would serve the world and its people."
+ },
+ {
+  "id": "M2#2966",
+  "en": "Not that the good of the human world"
+ },
+ {
+  "id": "M2#2967",
+  "en": "is anything worth my thinking about."
+ },
+ {
+  "id": "M2#2968",
+  "en": "No, this is our first meeting."
+ },
+ {
+  "id": "M2#2969",
+  "en": "Is this where you do business?"
+ },
+ {
+  "id": "M2#2970",
+  "en": "I see... Another time, then."
+ },
+ {
+  "id": "M2#2971",
+  "en": "I have no money with me just now."
+ },
+ {
+  "id": "M2#2972",
+  "en": "Yes, I'm ",
+  "note": "'Yes, I'm ' + name + #473 '.'"
+ },
+ {
+  "id": "M2#2973",
+  "en": "Do you remember me?"
+ },
+ {
+  "id": "M2#2974",
+  "en": "He has no idea what a clock is worth.",
+  "note": "#2150 after it is '' (sentence ends here)."
+ },
+ {
+  "id": "M2#2975",
+  "en": "That customers pay for a clock's worth",
+  "note": "#2975/#2976 continue 'He has no idea...' from the box before."
+ },
+ {
+  "id": "M2#2976",
+  "en": "more than for the clock itself, see."
+ },
+ {
+  "id": "M2#2977",
+  "en": "I think I'll have a look at your clocks."
+ },
+ {
+  "id": "M2#2978",
+  "en": "It's not fair of me to always just browse."
+ },
+ {
+  "id": "M2#2979",
+  "en": "They'll palm a busted clock off on you.",
+  "note": "Subject (Dean's clock workshop, #2955) carried as 'They'."
+ },
+ {
+  "id": "M2#2980",
+  "en": ", my master. Your orders?",
+  "note": "After the name (Warren as servant): 'Chris, my master. Your orders?'"
+ },
+ {
+  "id": "M2#2981",
+  "en": "I'll see to anything you ask."
+ },
+ {
+  "id": "M2#2982",
+  "en": "At times I feel surprisingly light,"
+ },
+ {
+  "id": "M2#2983",
+  "en": "then so sluggish I can't move at all."
+ },
+ {
+  "id": "M2#2984",
+  "en": "It's as if this body weren't my own."
+ },
+ {
+  "id": "M2#2985",
+  "en": "Give me your orders..."
+ },
+ {
+  "id": "M2#2986",
+  "en": "Ah, it must be my age",
+  "note": "#152 '...' follows on the same line."
+ },
+ {
+  "id": "M2#2987",
+  "en": "My body just won't do as it's told."
+ },
+ {
+  "id": "M2#2988",
+  "en": "Well, now, I don't believe I know you."
+ },
+ {
+  "id": "M2#2989",
+  "en": "I have only just come to London."
+ },
+ {
+  "id": "M2#2990",
+  "en": "So it would seem."
+ },
+ {
+  "id": "M2#2991",
+  "en": "I've lived in this city 63 years now."
+ },
+ {
+  "id": "M2#2992",
+  "en": "My name's Warren."
+ },
+ {
+  "id": "M2#2993",
+  "en": "I run the optician's shop."
+ },
+ {
+  "id": "M2#2994",
+  "en": "We're closed just now.",
+  "note": "Made a full sentence so #2995 (used alone in 107281/107302/107734) and #3044 can start with a capital."
+ },
+ {
+  "id": "M2#2995",
+  "en": "Come back when the shop's open."
+ },
+ {
+  "id": "M2#2996",
+  "en": "Ah, you've come."
+ },
+ {
+  "id": "M2#2997",
+  "en": "But the shop isn't open just now."
+ },
+ {
+  "id": "M2#2998",
+  "en": "Care to watch me polish lenses?"
+ },
+ {
+  "id": "M2#2999",
+  "en": "The lenses I polish"
+ },
+ {
+  "id": "M2#3000",
+  "en": "are the most precise in these parts."
+ },
+ {
+  "id": "M2#3001",
+  "en": "Interested after all, eh?"
+ },
+ {
+  "id": "M2#3002",
+  "en": "Then why won't you buy anything",
+  "note": "#152 '...' follows on the same line."
+ },
+ {
+  "id": "M2#3003",
+  "en": "Welcome. In need of spectacles?"
+ },
+ {
+  "id": "M2#3004",
+  "en": "No, forgive me, but"
+ },
+ {
+  "id": "M2#3005",
+  "en": "I have no need of spectacles."
+ },
+ {
+  "id": "M2#3006",
+  "en": "I see. Well, it can't be helped."
+ },
+ {
+  "id": "M2#3007",
+  "en": "But I've not seen your face round here."
+ },
+ {
+  "id": "M2#3008",
+  "en": "I'm Warren."
+ },
+ {
+  "id": "M2#3009",
+  "en": "I run this optician's, as you can see."
+ },
+ {
+  "id": "M2#3010",
+  "en": "Ah, you've come. What spectacles suit you?"
+ },
+ {
+  "id": "M2#3011",
+  "en": "No, I merely dropped by again today."
+ },
+ {
+  "id": "M2#3012",
+  "en": "Well, then, I'll look out for"
+ },
+ {
+  "id": "M2#3013",
+  "en": "something you might buy."
+ },
+ {
+  "id": "M2#3014",
+  "en": "Welcome. Spectacles...",
+  "note": "Followed by #396 'Ah, ' + name + #101 ', it's you.' on the next line."
+ },
+ {
+  "id": "M2#3015",
+  "en": "You've no need of spectacles, as I recall."
+ },
+ {
+  "id": "M2#3016",
+  "en": "But an optician sells more"
+ },
+ {
+  "id": "M2#3017",
+  "en": "than just spectacles,"
+ },
+ {
+  "id": "M2#3018",
+  "en": "as I'll show you one of these days."
+ },
+ {
+  "id": "M2#3019",
+  "en": "This microscope here. Might you want it?"
+ },
+ {
+  "id": "M2#3020",
+  "en": "A powerful microscope I polished with care."
+ },
+ {
+  "id": "M2#3021",
+  "en": "You'll find none finer in all London."
+ },
+ {
+  "id": "M2#3022",
+  "en": "No, I have no need of it."
+ },
+ {
+  "id": "M2#3023",
+  "en": "I never have cause to examine"
+ },
+ {
+  "id": "M2#3024",
+  "en": "anything so small."
+ },
+ {
+  "id": "M2#3025",
+  "en": "No need, eh? What a pity."
+ },
+ {
+  "id": "M2#3026",
+  "en": ", I've been waiting for you.",
+  "note": "After the name."
+ },
+ {
+  "id": "M2#3027",
+  "en": "These tinted spectacles, said to come from Asia. ",
+  "note": "#3028 follows on the same line, so this row ends with a space."
+ },
+ {
+  "id": "M2#3028",
+  "en": "What do you think?"
+ },
+ {
+  "id": "M2#3029",
+  "en": "They say they were used to hide one's eye"
+ },
+ {
+  "id": "M2#3030",
+  "en": "movements from others. Quite rare, but",
+  "note": "#152 '...' follows on the same line."
+ },
+ {
+  "id": "M2#3031",
+  "en": "No, those are not for me either."
+ },
+ {
+  "id": "M2#3032",
+  "en": "I have no need to hide these eyes."
+ },
+ {
+  "id": "M2#3033",
+  "en": "I see. So you don't want them after all."
+ },
+ {
+  "id": "M2#3034",
+  "en": "With these, you could even shut out"
+ },
+ {
+  "id": "M2#3035",
+  "en": "dazzling light, you know."
+ },
+ {
+  "id": "M2#3036",
+  "en": "Business truly is a contest, eh?"
+ },
+ {
+  "id": "M2#3037",
+  "en": "I won't give up until you buy something."
+ },
+ {
+  "id": "M2#3038",
+  "en": "I've only just come to London."
+ },
+ {
+  "id": "M2#3039",
+  "en": "So it seems. My name's Warren."
+ }
+]

@@ -1,0 +1,81 @@
+[
+ {
+  "id": "MCX.BIN@6EC",
+  "en": "Formatting failed."
+ },
+ {
+  "id": "MCX.BIN@70C",
+  "en": "Saving failed."
+ },
+ {
+  "id": "MCX.BIN@724",
+  "en": "Loading failed."
+ },
+ {
+  "id": "MCX.BIN@73C",
+  "en": "This Vampir save data is corrupted."
+ },
+ {
+  "id": "MCX.BIN@768",
+  "en": "Checking the Memory Card..."
+ },
+ {
+  "id": "MCX.BIN@790",
+  "en": "Saving..."
+ },
+ {
+  "id": "MCX.BIN@7A0",
+  "en": "Loading..."
+ },
+ {
+  "id": "MCX.BIN@7B0",
+  "en": "No Vampir save data found."
+ },
+ {
+  "id": "MCX.BIN@7D4",
+  "en": "No Memory Card inserted",
+  "note": "Source has no final period; kept without."
+ },
+ {
+  "id": "MCX.BIN@9B4",
+  "en": "Vampir",
+  "note": "Memory-card header title, piece 1 of 'Vampir(N) <name> STAGE1 Day 12'. Header title must stay double-byte Shift-JIS (see report)."
+ },
+ {
+  "id": "MCX.BIN@9C4",
+  "en": "(",
+  "note": "Header title: before slot digit."
+ },
+ {
+  "id": "MCX.BIN@9C8",
+  "en": ") ",
+  "note": "Header title: the trailing space is field separator #1 and must be emitted as U+3000 (0x8140)."
+ },
+ {
+  "id": "MCX.BIN@9D0",
+  "en": " STAGE",
+  "note": "Header title: leading space = separator #2 (0x8140). No space before the stage digit: an extra 0x8140 would break the game's title parser."
+ },
+ {
+  "id": "MCX.BIN@9E0",
+  "en": "STAGE",
+  "note": "In-game save list stage field; stage digit follows directly."
+ },
+ {
+  "id": "MCX.BIN@9EC",
+  "en": " Day "
+ },
+ {
+  "id": "MCX.BIN@9F0",
+  "en": ""
+ },
+ {
+  "id": "MCX.BIN@A08",
+  "en": ":"
+ },
+ {
+  "id": "MCX.BIN@A10",
+  "en": "PocketStation",
+  "note": "Official Sony product name."
+ }
+]

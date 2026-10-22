@@ -1,0 +1,279 @@
+{
+ "slice": "DC_MCX_BIN_000",
+ "file": "DC_MCX.BIN",
+ "rows": [
+  {
+   "id": "MCX.BIN@84"
+  },
+  {
+   "id": "MCX.BIN@70"
+  },
+  {
+   "id": "MCX.BIN@60"
+  },
+  {
+   "id": "MCX.BIN@54"
+  },
+  {
+   "id": "MCX.BIN@48"
+  },
+  {
+   "id": "MCX.BIN@44"
+  },
+  {
+   "id": "MCX.BIN@40"
+  },
+  {
+   "id": "MCX.BIN@3C"
+  },
+  {
+   "id": "MCX.BIN@38"
+  },
+  {
+   "id": "MCX.BIN@34"
+  },
+  {
+   "id": "MCX.BIN@30"
+  },
+  {
+   "id": "MCX.BIN@24"
+  },
+  {
+   "id": "MCX.BIN@1C"
+  },
+  {
+   "id": "MCX.BIN@8"
+  },
+  {
+   "id": "MCX.BIN@4"
+  },
+  {
+   "id": "MCX.BIN@DC"
+  },
+  {
+   "id": "MCX.BIN@D8"
+  },
+  {
+   "id": "MCX.BIN@D4"
+  },
+  {
+   "id": "MCX.BIN@D0"
+  },
+  {
+   "id": "MCX.BIN@CC"
+  },
+  {
+   "id": "MCX.BIN@C8"
+  },
+  {
+   "id": "MCX.BIN@C4"
+  },
+  {
+   "id": "MCX.BIN@BC"
+  },
+  {
+   "id": "MCX.BIN@B4"
+  },
+  {
+   "id": "MCX.BIN@AC"
+  },
+  {
+   "id": "MCX.BIN@A4"
+  },
+  {
+   "id": "MCX.BIN@9C"
+  },
+  {
+   "id": "MCX.BIN@94"
+  },
+  {
+   "id": "MCX.BIN@8C"
+  },
+  {
+   "id": "MCX.BIN@140"
+  },
+  {
+   "id": "MCX.BIN@128"
+  },
+  {
+   "id": "MCX.BIN@120"
+  },
+  {
+   "id": "MCX.BIN@118"
+  },
+  {
+   "id": "MCX.BIN@100"
+  },
+  {
+   "id": "MCX.BIN@F8"
+  },
+  {
+   "id": "MCX.BIN@F0"
+  },
+  {
+   "id": "MCX.BIN@E0"
+  },
+  {
+   "id": "MCX.BIN@884"
+  },
+  {
+   "id": "MCX.BIN@858"
+  },
+  {
+   "id": "MCX.BIN@824"
+  },
+  {
+   "id": "MCX.BIN@800"
+  },
+  {
+   "id": "MCX.BIN@158"
+  },
+  {
+   "id": "MCX.BIN@180"
+  },
+  {
+   "id": "MCX.BIN@1A8"
+  },
+  {
+   "id": "MCX.BIN@1D4"
+  },
+  {
+   "id": "MCX.BIN@1E8"
+  },
+  {
+   "id": "MCX.BIN@210"
+  },
+  {
+   "id": "MCX.BIN@254"
+  },
+  {
+   "id": "MCX.BIN@284"
+  },
+  {
+   "id": "MCX.BIN@2B8"
+  },
+  {
+   "id": "MCX.BIN@2E8"
+  },
+  {
+   "id": "MCX.BIN@318"
+  },
+  {
+   "id": "MCX.BIN@32C"
+  },
+  {
+   "id": "MCX.BIN@348"
+  },
+  {
+   "id": "MCX.BIN@35C"
+  },
+  {
+   "id": "MCX.BIN@378"
+  },
+  {
+   "id": "MCX.BIN@388"
+  },
+  {
+   "id": "MCX.BIN@3B0"
+  },
+  {
+   "id": "MCX.BIN@3D4"
+  },
+  {
+   "id": "MCX.BIN@3EC"
+  },
+  {
+   "id": "MCX.BIN@400"
+  },
+  {
+   "id": "MCX.BIN@418"
+  },
+  {
+   "id": "MCX.BIN@438"
+  },
+  {
+   "id": "MCX.BIN@450"
+  },
+  {
+   "id": "MCX.BIN@480"
+  },
+  {
+   "id": "MCX.BIN@4B0"
+  },
+  {
+   "id": "MCX.BIN@4D8"
+  },
+  {
+   "id": "MCX.BIN@500"
+  },
+  {
+   "id": "MCX.BIN@510"
+  },
+  {
+   "id": "MCX.BIN@53C"
+  },
+  {
+   "id": "MCX.BIN@568"
+  },
+  {
+   "id": "MCX.BIN@58C"
+  },
+  {
+   "id": "MCX.BIN@5B8"
+  },
+  {
+   "id": "MCX.BIN@5E4"
+  },
+  {
+   "id": "MCX.BIN@608"
+  },
+  {
+   "id": "MCX.BIN@634"
+  },
+  {
+   "id": "MCX.BIN@654"
+  },
+  {
+   "id": "MCX.BIN@680"
+  },
+  {
+   "id": "MCX.BIN@6AC"
+  },
+  {
+   "id": "MCX.BIN@6CC"
+  }
+ ],
+ "before": [],
+ "after": [
+  {
+   "id": "MCX.BIN@6EC"
+  },
+  {
+   "id": "MCX.BIN@70C"
+  },
+  {
+   "id": "MCX.BIN@724"
+  },
+  {
+   "id": "MCX.BIN@73C"
+  },
+  {
+   "id": "MCX.BIN@768"
+  },
+  {
+   "id": "MCX.BIN@790"
+  },
+  {
+   "id": "MCX.BIN@7A0"
+  },
+  {
+   "id": "MCX.BIN@7B0"
+  },
+  {
+   "id": "MCX.BIN@7D4"
+  },
+  {
+   "id": "MCX.BIN@9B4"
+  }
+ ]
+}

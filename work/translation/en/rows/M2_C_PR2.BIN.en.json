@@ -1,0 +1,555 @@
+[
+ {
+  "id": "PR2.BIN@424",
+  "off": 1060,
+  "size": 14,
+  "slot": 14,
+  "refs": [
+   [
+    "ptr",
+    2148337504
+   ]
+  ],
+  "idx": 0,
+  "en": "London...",
+  "note": "Protagonist's monologue on arrival (speaker byte 12); Christopher by context, since the partner opcode in @3F0/@3E4 names the one he is chasing.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@3FC",
+  "off": 1020,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148337508
+   ]
+  ],
+  "idx": 1,
+  "en": "So this is the British Empire, said to be the center of the world.",
+  "note": "Wraps to 2 lines; box = 3 lines with @424.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@3F0",
+  "off": 1008,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148337512
+   ]
+  ],
+  "idx": 2,
+  "en": "What could ",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@3E4",
+  "off": 996,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148337516
+   ]
+  ],
+  "idx": 3,
+  "en": "'s purpose",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@3C4",
+  "off": 964,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148337520
+   ]
+  ],
+  "idx": 4,
+  "en": "in this land possibly be...?",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@3AC",
+  "off": 940,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148337524
+   ]
+  ],
+  "idx": 5,
+  "en": "Oh! The wind took my hat...",
+  "note": "Rose (unnamed young lady boarding a carriage; identified in @2A8).",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@388",
+  "off": 904,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148337528
+   ]
+  ],
+  "idx": 6,
+  "en": "You must have any number of hats.",
+  "note": "The man escorting Rose (unnamed; possibly Count Epstein, see report).",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@360",
+  "off": 864,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148337532
+   ]
+  ],
+  "idx": 7,
+  "en": "We're in a hurry now. Give it up.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@354",
+  "off": 852,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148337536
+   ]
+  ],
+  "idx": 8,
+  "en": "But...",
+  "note": "Rose.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@338",
+  "off": 824,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148337540
+   ]
+  ],
+  "idx": 9,
+  "en": "Come, drive on.",
+  "note": "Same man, to the coachman.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@310",
+  "off": 784,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148337544
+   ]
+  ],
+  "idx": 10,
+  "en": "This hat must belong to the young lady",
+  "note": "Protagonist (speaker byte 12). Rows regrouped: 'who just climbed into that carriage' moved to @2FC.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@2FC",
+  "off": 764,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148337548
+   ]
+  ],
+  "idx": 11,
+  "en": "who just climbed into that carriage...",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@2D0",
+  "off": 720,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148337552
+   ]
+  ],
+  "idx": 12,
+  "en": "That was the Epstein family's carriage, then.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@2A8",
+  "off": 680,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148337556
+   ]
+  ],
+  "idx": 13,
+  "en": "So the lady with the hat must be Miss Rose.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@27C",
+  "off": 636,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148337560
+   ]
+  ],
+  "idx": 14,
+  "en": "Word is she's a real beauty, and at her",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@254",
+  "off": 596,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148337564
+   ]
+  ],
+  "idx": 15,
+  "en": "Piccadilly mansion, fellows line up every day",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@238",
+  "off": 568,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148337568
+   ]
+  ],
+  "idx": 16,
+  "en": "to ask for her hand. There's no end to 'em.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@228",
+  "off": 552,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148337572
+   ]
+  ],
+  "idx": 17,
+  "en": "Rose...",
+  "note": "Protagonist.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@204",
+  "off": 516,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148337576
+   ]
+  ],
+  "idx": 18,
+  "en": "If we ever meet again, I'll return",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@1F8",
+  "off": 504,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148337580
+   ]
+  ],
+  "idx": 19,
+  "en": "her hat to her.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@1D4",
+  "off": 468,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148337584
+   ]
+  ],
+  "idx": 20,
+  "en": "Say, you ever heard the talk going round",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@1AC",
+  "off": 428,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148337588
+   ]
+  ],
+  "idx": 21,
+  "en": "about \"Jack the Ripper\", the one who's been",
+  "note": "「」 rendered as ASCII double quotes.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@190",
+  "off": 400,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148337592
+   ]
+  ],
+  "idx": 22,
+  "en": "putting all of London in a fright lately?",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@178",
+  "off": 376,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148337596
+   ]
+  ],
+  "idx": 23,
+  "en": "Jack the Ripper?",
+  "note": "Protagonist.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@168",
+  "off": 360,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148337600
+   ]
+  ],
+  "idx": 24,
+  "en": "Yeah...",
+  "note": "Passer-by; trailing 、 dropped (the next row starts a new line).",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@150",
+  "off": 336,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148337604
+   ]
+  ],
+  "idx": 25,
+  "en": "he's a fearsome killer.",
+  "note": "Lower-case: continues 'Yeah...' across the line break.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@124",
+  "off": 292,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148337608
+   ]
+  ],
+  "idx": 26,
+  "en": "Lots of people have already died by his hand.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@100",
+  "off": 256,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148337612
+   ]
+  ],
+  "idx": 27,
+  "en": "You, too, could be walking through London",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@D8",
+  "off": 216,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148337616
+   ]
+  ],
+  "idx": 28,
+  "en": "and run smack into him, y'know!",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@C8",
+  "off": 200,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148337620
+   ]
+  ],
+  "idx": 29,
+  "en": "So watch yourself.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@A8",
+  "off": 168,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148337624
+   ]
+  ],
+  "idx": 30,
+  "en": "So this is the great city of London...",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@80",
+  "off": 128,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148337628
+   ]
+  ],
+  "idx": 31,
+  "en": "While I slept, it seems, a great deal",
+  "note": "Rows regrouped: 'while I slept' moved to the front.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@6C",
+  "off": 108,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148337632
+   ]
+  ],
+  "idx": 32,
+  "en": "has changed.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@44",
+  "off": 68,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148337636
+   ]
+  ],
+  "idx": 33,
+  "en": "They seem giddy over their so-called science,",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@24",
+  "off": 36,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148337640
+   ]
+  ],
+  "idx": 34,
+  "en": "yet in the end, they are only foolish humans.",
+  "done": true
+ },
+ {
+  "id": "PR2.BIN@4",
+  "off": 4,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148337644
+   ]
+  ],
+  "idx": 35,
+  "en": "I shall make them feel my power.",
+  "done": true
+ }
+]

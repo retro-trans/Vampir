@@ -1,0 +1,342 @@
+[
+ {
+  "id": "M1#3920",
+  "en": "was originally a small fishing village.",
+  "note": "continues #3919 'Calstatt' (slice 048)"
+ },
+ {
+  "id": "M1#3921",
+  "en": "A rural place with only a handful of people,",
+  "note": "'but' moved into #3922"
+ },
+ {
+  "id": "M1#3922",
+  "en": "but lately it's turned into quite the city."
+ },
+ {
+  "id": "M1#3923",
+  "en": "Is that so..."
+ },
+ {
+  "id": "M1#3924",
+  "en": "You're not from Calstatt, then?"
+ },
+ {
+  "id": "M1#3925",
+  "en": "Now that you mention it, your features"
+ },
+ {
+  "id": "M1#3926",
+  "en": "don't look very German."
+ },
+ {
+  "id": "M1#3927",
+  "en": "One reason Calstatt has grown so much"
+ },
+ {
+  "id": "M1#3928",
+  "en": "is the immigrants who come in by ship."
+ },
+ {
+  "id": "M1#3929",
+  "en": "Mind you, lately plenty of folks"
+ },
+ {
+  "id": "M1#3930",
+  "en": "are trying to leave, too."
+ },
+ {
+  "id": "M1#3931",
+  "en": "(Nor do I intend to linger in this town.)"
+ },
+ {
+  "id": "M1#3932",
+  "en": "On my next voyage I cross the sea westward"
+ },
+ {
+  "id": "M1#3933",
+  "en": "all the way to London, in England."
+ },
+ {
+  "id": "M1#3934",
+  "en": "These days, under Her Majesty the Queen,",
+  "note": "lines reordered with #3935 for English word order"
+ },
+ {
+  "id": "M1#3935",
+  "en": "England is at the height of its glory."
+ },
+ {
+  "id": "M1#3936",
+  "en": "So there's no end of demand for goods."
+ },
+ {
+  "id": "M1#3937",
+  "en": "(No shortage of victims to feed on, then...)"
+ },
+ {
+  "id": "M1#3938",
+  "en": "Well, I'd best start getting ready"
+ },
+ {
+  "id": "M1#3939",
+  "en": "for the next voyage."
+ },
+ {
+  "id": "M1#3940",
+  "en": "I'd like to defeat "
+ },
+ {
+  "id": "M1#3941",
+  "en": " soon",
+  "note": "msg 148930: 'I'd like to defeat {PARTNER} soon / and leave this town too...'"
+ },
+ {
+  "id": "M1#3942",
+  "en": "and leave this town too..."
+ },
+ {
+  "id": "M1#3943",
+  "en": "Hm? Did you say something?"
+ },
+ {
+  "id": "M1#3944",
+  "en": "No, it's nothing."
+ },
+ {
+  "id": "M1#3945",
+  "en": "'s destination, then.)",
+  "note": "after #2705 '(' + PARTNER"
+ },
+ {
+  "id": "M1#3946",
+  "en": "Is London really that prosperous?"
+ },
+ {
+  "id": "M1#3947",
+  "en": "Oh yeah, no shortage of folks to trade with."
+ },
+ {
+  "id": "M1#3948",
+  "en": "You ought to go there once yourself."
+ },
+ {
+  "id": "M1#3949",
+  "en": " — can I defeat him before",
+  "note": "PARTNER opens the message, so the name is set off with a dash"
+ },
+ {
+  "id": "M1#3950",
+  "en": "he crosses over to London?"
+ },
+ {
+  "id": "M1#3951",
+  "en": "London",
+  "note": "followed by three #180 '.' after pauses"
+ },
+ {
+  "id": "M1#3952",
+  "en": "Oh, it's you. And this late at night, too."
+ },
+ {
+  "id": "M1#3953",
+  "en": "You want to go to London that badly?"
+ },
+ {
+  "id": "M1#3954",
+  "en": "Say, are you English, by any chance?"
+ },
+ {
+  "id": "M1#3955",
+  "en": "<...>",
+  "note": "menu option (silence); followed by #94 '.........'"
+ },
+ {
+  "id": "M1#3956",
+  "en": "<No, I'm not>",
+  "note": "menu option"
+ },
+ {
+  "id": "M1#3957",
+  "en": "Well, I won't pry.",
+  "note": "Stelan, after #94 '.........' + pause + newline"
+ },
+ {
+  "id": "M1#3958",
+  "en": "Still, I reckon you and I would get along."
+ },
+ {
+  "id": "M1#3959",
+  "en": "Anytime you need help, I'm your man."
+ },
+ {
+  "id": "M1#3960",
+  "en": "Then I'll take you at your word...",
+  "note": "player, after #2805 'Thank you very much.' + newline"
+ },
+ {
+  "id": "M1#3961",
+  "en": "You bet. ",
+  "note": "trailing space: #3962 'Anything' follows on the same line (opcode D2 between them)"
+ },
+ {
+  "id": "M1#3962",
+  "en": "Anything",
+  "note": "shared with Helmut 156466/156517 ('Anything...?'); here: 'You bet. Anything, just tell me...'"
+ },
+ {
+  "id": "M1#3963",
+  "en": ", just",
+  "note": "pauses follow each of #3963/#3964/#3965 (trance effect); leading spaces put in by hand so auto_space does not treat the joins as a split word"
+ },
+ {
+  "id": "M1#3964",
+  "en": " tell"
+ },
+ {
+  "id": "M1#3965",
+  "en": " me",
+  "note": "then three #180 '.' after pauses -> 'me...'"
+ },
+ {
+  "id": "M1#3966",
+  "en": "No, it's not that.",
+  "note": "player, after choosing <No, I'm not>"
+ },
+ {
+  "id": "M1#3967",
+  "en": "It's just that, for some reason I can't explain,"
+ },
+ {
+  "id": "M1#3968",
+  "en": "I sometimes feel a strange nostalgia for it.",
+  "note": "'it' = England/London (inferred)"
+ },
+ {
+  "id": "M1#3969",
+  "en": "Well, well."
+ },
+ {
+  "id": "M1#3970",
+  "en": "You're a romantic, just like you look."
+ },
+ {
+  "id": "M1#3971",
+  "en": "Let me tell you more about London."
+ },
+ {
+  "id": "M1#3972",
+  "en": "Right, tonight the two of us drink till dawn."
+ },
+ {
+  "id": "M1#3973",
+  "en": "What do you say?"
+ },
+ {
+  "id": "M1#3974",
+  "en": "Here, the captain's cabin is over that way."
+ },
+ {
+  "id": "M1#3975",
+  "en": "I've got a red from '48."
+ },
+ {
+  "id": "M1#3976",
+  "en": "...Don't mind if I do."
+ },
+ {
+  "id": "M1#3977",
+  "en": "...Thanks for the meal."
+ },
+ {
+  "id": "M1#3978",
+  "en": "Good day. I am Meyer."
+ },
+ {
+  "id": "M1#3979",
+  "en": "I'm the manager of the newly built theater."
+ },
+ {
+  "id": "M1#3980",
+  "en": "Our grand opening is coming up very soon."
+ },
+ {
+  "id": "M1#3981",
+  "en": "Do come, by all means."
+ },
+ {
+  "id": "M1#3982",
+  "en": "I'll be expecting you, so do come."
+ },
+ {
+  "id": "M1#3983",
+  "en": "Is there no good show I could put on at the theater, I wonder?"
+ },
+ {
+  "id": "M1#3984",
+  "en": "Thanks to you, the theater's show is a huge success."
+ },
+ {
+  "id": "M1#3985",
+  "en": "Do come to the theater, by all means."
+ },
+ {
+  "id": "M1#3986",
+  "en": "Ah. If only I had a good show for the theater."
+ },
+ {
+  "id": "M1#3987",
+  "en": "Thanks to you, the theater's"
+ },
+ {
+  "id": "M1#3988",
+  "en": "first show was a huge success."
+ },
+ {
+  "id": "M1#3989",
+  "en": "My name is Meyer."
+ },
+ {
+  "id": "M1#3990",
+  "en": "I'm the manager of the new theater"
+ },
+ {
+  "id": "M1#3991",
+  "en": "on City Hall Street. We open very soon,"
+ },
+ {
+  "id": "M1#3992",
+  "en": "so you must come too, by all means."
+ },
+ {
+  "id": "M1#3993",
+  "en": "If only I had a good show for the theater",
+  "note": "followed by #2 '...'"
+ },
+ {
+  "id": "M1#3994",
+  "en": "Ah, the building is finally finished, but"
+ },
+ {
+  "id": "M1#3995",
+  "en": "if there's nothing to put on",
+  "note": "followed by #2 '...'"
+ },
+ {
+  "id": "M1#3996",
+  "en": "I won't earn a single penny!"
+ },
+ {
+  "id": "M1#3997",
+  "en": "Why, the theater is a huge success."
+ },
+ {
+  "id": "M1#3998",
+  "en": "It's thanks to you that I made money."
+ },
+ {
+  "id": "M1#3999",
+  "en": "Why, ",
+  "note": "msg 152517: 'Why, {NAME}' (#98 '') / #4000"
+ }
+]

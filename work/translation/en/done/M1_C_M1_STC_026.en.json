@@ -1,0 +1,364 @@
+[
+ {
+  "id": "M1#2080",
+  "en": "Market merchants start early, you see,",
+  "note": "no used_in; Emil (merchant dialect softened)"
+ },
+ {
+  "id": "M1#2081",
+  "en": "so let's make it tomorrow, if you please."
+ },
+ {
+  "id": "M1#2082",
+  "en": "Well then, good night to you."
+ },
+ {
+  "id": "M1#2083",
+  "en": "Wait... no. Halt, Emil!"
+ },
+ {
+  "id": "M1#2084",
+  "en": "What on earth do you want?!"
+ },
+ {
+  "id": "M1#2085",
+  "en": "How dare you, ",
+  "note": "no used_in; #2085-#2089 look like one stuttering outburst; word order guessed"
+ },
+ {
+  "id": "M1#2086",
+  "en": "I-"
+ },
+ {
+  "id": "M1#2087",
+  "en": "M-my..."
+ },
+ {
+  "id": "M1#2088",
+  "en": "You called me "
+ },
+ {
+  "id": "M1#2089",
+  "en": "young master"
+ },
+ {
+  "id": "M1#2090",
+  "en": "You're just tired, same as me.",
+  "note": "subject (you = player) inferred; Japanese omits it"
+ },
+ {
+  "id": "M1#2091",
+  "en": "Let's turn in early, eh?"
+ },
+ {
+  "id": "M1#2092",
+  "en": "Raaagh!",
+  "note": "[PLAYER] attack cry after Emil's 'Young master!'"
+ },
+ {
+  "id": "M1#2093",
+  "en": "What?!",
+  "note": "no used_in; speaker not identified"
+ },
+ {
+  "id": "M1#2094",
+  "en": "Ah!"
+ },
+ {
+  "id": "M1#2095",
+  "en": "What have I done!"
+ },
+ {
+  "id": "M1#2096",
+  "en": "Forgive me, Emil..."
+ },
+ {
+  "id": "M1#2097",
+  "en": "Go on, tell me anything",
+  "note": "followed by #2 '...'; no hard referent"
+ },
+ {
+  "id": "M1#2098",
+  "en": "Hic.",
+  "note": "default for msg 82542/83034 (starts line)",
+  "variants": [
+   {
+    "msg": 82601,
+    "en": " Hic."
+   },
+   {
+    "msg": 82732,
+    "en": " Hic."
+   },
+   {
+    "msg": 82860,
+    "en": " Hic."
+   },
+   {
+    "msg": 83200,
+    "en": " Hic."
+   }
+  ]
+ },
+ {
+  "id": "M1#2099",
+  "en": "Who are you?"
+ },
+ {
+  "id": "M1#2100",
+  "en": "Huh, ",
+  "variants": [
+   {
+    "msg": 246546,
+    "en": "Oh, "
+   },
+   {
+    "msg": 247287,
+    "en": "Oh, "
+   }
+  ]
+ },
+ {
+  "id": "M1#2101",
+  "en": "Never heard that name before"
+ },
+ {
+  "id": "M1#2102",
+  "en": "Oh, shut up. ",
+  "note": "trailing space: #2103 follows on the same line"
+ },
+ {
+  "id": "M1#2103",
+  "en": "What's your problem, pal?"
+ },
+ {
+  "id": "M1#2104",
+  "en": "I'm just about to"
+ },
+ {
+  "id": "M1#2105",
+  "en": "go get a drink!"
+ },
+ {
+  "id": "M1#2106",
+  "en": "I've seen that face somewhere. Hic."
+ },
+ {
+  "id": "M1#2107",
+  "en": "Ah, I remember!"
+ },
+ {
+  "id": "M1#2108",
+  "en": "If I recall..."
+ },
+ {
+  "id": "M1#2109",
+  "en": "Mr. Zaemon, right?",
+  "note": "no used_in. Probably a deliberately wrong name guess; written to read alone"
+ },
+ {
+  "id": "M1#2110",
+  "en": "Mr. Starr, right?"
+ },
+ {
+  "id": "M1#2111",
+  "en": "Mr. Mitch, right?"
+ },
+ {
+  "id": "M1#2112",
+  "en": "Ah, it's you."
+ },
+ {
+  "id": "M1#2113",
+  "en": "I finally remembered your name."
+ },
+ {
+  "id": "M1#2114",
+  "en": "Got it right, haven't I?"
+ },
+ {
+  "id": "M1#2115",
+  "en": "I'm gonna have a drink,"
+ },
+ {
+  "id": "M1#2116",
+  "en": "and then I'm heading home."
+ },
+ {
+  "id": "M1#2117",
+  "en": "Well? I got it right, didn't I?",
+  "note": "followed by '...' + ' Hic.'"
+ },
+ {
+  "id": "M1#2118",
+  "en": "Hello. May I help you?"
+ },
+ {
+  "id": "M1#2119",
+  "en": "Pardon me. I seem to have the wrong house."
+ },
+ {
+  "id": "M1#2120",
+  "en": "I'm still a stranger to this town."
+ },
+ {
+  "id": "M1#2121",
+  "en": "Pay it no mind.",
+  "note": "shared with Henri (msg 115938/116603): 'I only said it on a whim. Pay it no mind.' works"
+ },
+ {
+  "id": "M1#2122",
+  "en": "May I help you?"
+ },
+ {
+  "id": "M1#2123",
+  "en": "Sorry to trouble you again."
+ },
+ {
+  "id": "M1#2124",
+  "en": "My apologies.",
+  "note": "shared with Kurten msg 99186 after '...'"
+ },
+ {
+  "id": "M1#2125",
+  "en": "When I've had a few, my temper tends to"
+ },
+ {
+  "id": "M1#2126",
+  "en": "get rough, I'm afraid."
+ },
+ {
+  "id": "M1#2127",
+  "en": "Even knowing that,"
+ },
+ {
+  "id": "M1#2128",
+  "en": "I just can't quit"
+ },
+ {
+  "id": "M1#2129",
+  "en": "when it comes to the drink."
+ },
+ {
+  "id": "M1#2130",
+  "en": "Because I'm such a drunk,"
+ },
+ {
+  "id": "M1#2131",
+  "en": "I know I'm doing wrong by my son,"
+ },
+ {
+  "id": "M1#2132",
+  "en": "but I just can't quit."
+ },
+ {
+  "id": "M1#2133",
+  "en": "Booze... isn't there any booze?!"
+ },
+ {
+  "id": "M1#2134",
+  "en": "Hey, Richard! Go buy some booze!",
+  "note": "Richard = his son (glossary, age 12)"
+ },
+ {
+  "id": "M1#2135",
+  "en": "Richard... Aren't you here?!"
+ },
+ {
+  "id": "M1#2136",
+  "en": "It's embarrassing, the way you"
+ },
+ {
+  "id": "M1#2137",
+  "en": "always see me drunk."
+ },
+ {
+  "id": "M1#2138",
+  "en": "Who are you?"
+ },
+ {
+  "id": "M1#2139",
+  "en": "I haven't seen you in this tavern before."
+ },
+ {
+  "id": "M1#2140",
+  "en": "The name's Eduard."
+ },
+ {
+  "id": "M1#2141",
+  "en": "Call me Ed."
+ },
+ {
+  "id": "M1#2142",
+  "en": "Ha ha ha."
+ },
+ {
+  "id": "M1#2143",
+  "en": "Well, a name's just a name."
+ },
+ {
+  "id": "M1#2144",
+  "en": "Long as we can drink happily!"
+ },
+ {
+  "id": "M1#2145",
+  "en": "Hey, you're not drinking at all!"
+ },
+ {
+  "id": "M1#2146",
+  "en": "Come on, drink up, drink up!"
+ },
+ {
+  "id": "M1#2147",
+  "en": "Whoo."
+ },
+ {
+  "id": "M1#2148",
+  "en": "Barkeep, another round!"
+ },
+ {
+  "id": "M1#2149",
+  "en": "The booze here is great, I tell ya."
+ },
+ {
+  "id": "M1#2150",
+  "en": "What was your name again?"
+ },
+ {
+  "id": "M1#2151",
+  "en": "Um, let me see..."
+ },
+ {
+  "id": "M1#2152",
+  "en": "You're awfully well dressed."
+ },
+ {
+  "id": "M1#2153",
+  "en": "You're from some rich family, aren't you?"
+ },
+ {
+  "id": "M1#2154",
+  "en": "Why drink in a place like this at midday?"
+ },
+ {
+  "id": "M1#2155",
+  "en": "Oops, calling it a dump like this is rude to the",
+  "note": "shared with msg 84001"
+ },
+ {
+  "id": "M1#2156",
+  "en": "barkeep, huh."
+ },
+ {
+  "id": "M1#2157",
+  "en": "Look who's talking. If you drink in a place like"
+ },
+ {
+  "id": "M1#2158",
+  "en": "this from noon, your family must be worried."
+ },
+ {
+  "id": "M1#2159",
+  "en": "Family... family, huh."
+ }
+]

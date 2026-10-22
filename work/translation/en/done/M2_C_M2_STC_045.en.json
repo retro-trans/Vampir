@@ -1,0 +1,328 @@
+[
+ {
+  "id": "M2#3600",
+  "en": "Hmm, I didn't make a reservation."
+ },
+ {
+  "id": "M2#3601",
+  "en": "Rare, I think. I do like it rare."
+ },
+ {
+  "id": "M2#3602",
+  "en": "Mm..."
+ },
+ {
+  "id": "M2#3603",
+  "en": "It's very good."
+ },
+ {
+  "id": "M2#3604",
+  "en": "Ah, I'm full."
+ },
+ {
+  "id": "M2#3605",
+  "en": "A meal like this isn't half bad."
+ },
+ {
+  "id": "M2#3606",
+  "en": "Perhaps I'll try something different for once."
+ },
+ {
+  "id": "M2#3607",
+  "en": "My, fish is quite nice too."
+ },
+ {
+  "id": "M2#3608",
+  "en": "For the dinner you reserved, sir,"
+ },
+ {
+  "id": "M2#3609",
+  "en": "it's still a little early."
+ },
+ {
+  "id": "M2#3610",
+  "en": "Oh, is that so?"
+ },
+ {
+  "id": "M2#3611",
+  "en": "(I've never cared for that name, 'Christ'.)",
+  "note": "Thought (parentheses kept). Player dislikes the name of Christ (Christmas talk)."
+ },
+ {
+  "id": "M2#3612",
+  "en": "Hm? I thought I sensed someone",
+  "note": "+ '...?' (#265 x3, #537)"
+ },
+ {
+  "id": "M2#3613",
+  "en": "Must be my imagination."
+ },
+ {
+  "id": "M2#3614",
+  "en": "Good heavens! "
+ },
+ {
+  "id": "M2#3615",
+  "en": "What brings you here at this hour?"
+ },
+ {
+  "id": "M2#3616",
+  "en": "Was something wrong with the meal?"
+ },
+ {
+  "id": "M2#3617",
+  "en": "Yes, it was a little lacking."
+ },
+ {
+  "id": "M2#3618",
+  "en": "Wh-why",
+  "note": "+ #152 '...' -> 'Wh-why...'"
+ },
+ {
+  "id": "M2#3619",
+  "en": "I was quite certain it had been"
+ },
+ {
+  "id": "M2#3620",
+  "en": "to your liking",
+  "note": "+ #152 '...'"
+ },
+ {
+  "id": "M2#3621",
+  "en": "What was it that displeased you...?"
+ },
+ {
+  "id": "M2#3622",
+  "en": "The meat. I'd have liked it rarer, so rare"
+ },
+ {
+  "id": "M2#3623",
+  "en": "it dripped with blood."
+ },
+ {
+  "id": "M2#3624",
+  "en": "Aaaaaagh..."
+ },
+ {
+  "id": "M2#3625",
+  "en": "Hmm, it tastes rather ordinary."
+ },
+ {
+  "id": "M2#3626",
+  "en": "Perhaps the restaurant's meat dishes"
+ },
+ {
+  "id": "M2#3627",
+  "en": "were tastier, after all",
+  "note": "+ #152 '...'"
+ },
+ {
+  "id": "M2#3628",
+  "en": "Ah, I've gone and done it again."
+ },
+ {
+  "id": "M2#3629",
+  "en": "My master..."
+ },
+ {
+  "id": "M2#3630",
+  "en": "Give me a mission..."
+ },
+ {
+  "id": "M2#3631",
+  "en": "Command me as you will..."
+ },
+ {
+  "id": "M2#3632",
+  "en": "Me, I'm Dudley, see."
+ },
+ {
+  "id": "M2#3633",
+  "en": "Don't you forget it, ya hear!"
+ },
+ {
+  "id": "M2#3634",
+  "en": "Hic."
+ },
+ {
+  "id": "M2#3635",
+  "en": "You got that, ya hear!"
+ },
+ {
+  "id": "M2#3636",
+  "en": "Hic..."
+ },
+ {
+  "id": "M2#3637",
+  "en": "The booze here's real good, see."
+ },
+ {
+  "id": "M2#3638",
+  "en": "And why's that? 'Cause here the missus"
+ },
+ {
+  "id": "M2#3639",
+  "en": "can't keep an eye on me."
+ },
+ {
+  "id": "M2#3640",
+  "en": "This is the only place I get any peace."
+ },
+ {
+  "id": "M2#3641",
+  "en": "......Hic."
+ },
+ {
+  "id": "M2#3642",
+  "en": "...Hic.",
+  "note": "In msg 140541 joined directly after #3709 (slice 046 variant 'Huh, my mistake') -> 'Huh, my mistake...Hic.'"
+ },
+ {
+  "id": "M2#3643",
+  "en": "I've seen you 'round a lot lately..."
+ },
+ {
+  "id": "M2#3644",
+  "en": "You runnin' from your missus too?"
+ },
+ {
+  "id": "M2#3645",
+  "en": "Nah, couldn't be."
+ },
+ {
+  "id": "M2#3646",
+  "en": "With a fine fella like you, women'd meekly"
+ },
+ {
+  "id": "M2#3647",
+  "en": "do whatever you tell 'em."
+ },
+ {
+  "id": "M2#3648",
+  "en": "Even the gals at my inn would, I bet."
+ },
+ {
+  "id": "M2#3649",
+  "en": "My name's Dudley, see."
+ },
+ {
+  "id": "M2#3650",
+  "en": "You remember it yet?"
+ },
+ {
+  "id": "M2#3651",
+  "en": "Reeeally? Huh?"
+ },
+ {
+  "id": "M2#3652",
+  "en": ", say,"
+ },
+ {
+  "id": "M2#3653",
+  "en": "this fella called Jack the Ripper,"
+ },
+ {
+  "id": "M2#3654",
+  "en": "you know about him?"
+ },
+ {
+  "id": "M2#3655",
+  "en": "I only heard the name lately, see,"
+ },
+ {
+  "id": "M2#3656",
+  "en": "but they say he's a real master with a knife."
+ },
+ {
+  "id": "M2#3657",
+  "en": "Ah, while he's at it, I wish he'd go after"
+ },
+ {
+  "id": "M2#3658",
+  "en": "that missus of mine."
+ },
+ {
+  "id": "M2#3659",
+  "en": "Course, more likely the missus'd end up"
+ },
+ {
+  "id": "M2#3660",
+  "en": "catchin' him instead."
+ },
+ {
+  "id": "M2#3661",
+  "en": "Folks scarier than my missus?"
+ },
+ {
+  "id": "M2#3662",
+  "en": "There ain't many of 'em."
+ },
+ {
+  "id": "M2#3663",
+  "en": "Whoo, hic."
+ },
+ {
+  "id": "M2#3664",
+  "en": "What, you a guest at the inn?"
+ },
+ {
+  "id": "M2#3665",
+  "en": "Sorry, rooms are all booked up right now."
+ },
+ {
+  "id": "M2#3666",
+  "en": "Business is good, it seems."
+ },
+ {
+  "id": "M2#3667",
+  "en": "Sorry 'bout that, come again, eh."
+ },
+ {
+  "id": "M2#3668",
+  "en": "Much obliged."
+ },
+ {
+  "id": "M2#3669",
+  "en": "Ah, can't wait to knock back"
+ },
+ {
+  "id": "M2#3670",
+  "en": "a drink at the pub."
+ },
+ {
+  "id": "M2#3671",
+  "en": "At the pub right now, everyone's talkin'"
+ },
+ {
+  "id": "M2#3672",
+  "en": "about some fella named Jack-somethin'."
+ },
+ {
+  "id": "M2#3673",
+  "en": "A pub's where all kinds of news"
+ },
+ {
+  "id": "M2#3674",
+  "en": "ends up, y'see."
+ },
+ {
+  "id": "M2#3675",
+  "en": ", my good sir, eh."
+ },
+ {
+  "id": "M2#3676",
+  "en": "Say, you got any booze on ya?"
+ },
+ {
+  "id": "M2#3677",
+  "en": "Nah, no fun drinkin' in a place like this."
+ },
+ {
+  "id": "M2#3678",
+  "en": "You came back, eh."
+ },
+ {
+  "id": "M2#3679",
+  "en": "Next time, bring me some booze as a gift."
+ }
+]

@@ -1,0 +1,334 @@
+[
+ {
+  "id": "M2#7520",
+  "en": "And scratches, too. How horrid."
+ },
+ {
+  "id": "M2#7521",
+  "en": "Good day, madam."
+ },
+ {
+  "id": "M2#7522",
+  "en": "Yes? Who might you be?"
+ },
+ {
+  "id": "M2#7523",
+  "en": "My work involves a bit of investigating."
+ },
+ {
+  "id": "M2#7524",
+  "en": "It doubles as a stroll, though."
+ },
+ {
+  "id": "M2#7525",
+  "en": "There's nothing to investigate at our house."
+ },
+ {
+  "id": "M2#7526",
+  "en": "But you're welcome to drop in on your walks."
+ },
+ {
+  "id": "M2#7527",
+  "en": "I'm stuck indoors with housework all day."
+ },
+ {
+  "id": "M2#7528",
+  "en": "Yes, who is it?"
+ },
+ {
+  "id": "M2#7529",
+  "en": "Oh, it's you,",
+  "note": "Comma: next line is name + #98 '.', giving 'Oh, it's you, / Chris.'"
+ },
+ {
+  "id": "M2#7530",
+  "en": "What brings you here today?"
+ },
+ {
+  "id": "M2#7531",
+  "en": "Being a housewife is such a dull life."
+ },
+ {
+  "id": "M2#7532",
+  "en": "I can see why my daughter wants to work."
+ },
+ {
+  "id": "M2#7533",
+  "en": "Why don't you go and meet my daughter?"
+ },
+ {
+  "id": "M2#7534",
+  "en": "She's at the telephone exchange."
+ },
+ {
+  "id": "M2#7535",
+  "en": "She has a knack for witty conversation."
+ },
+ {
+  "id": "M2#7536",
+  "en": "She's of marrying age, but it's all work, work."
+ },
+ {
+  "id": "M2#7537",
+  "en": "It's not as if she were a boy",
+  "note": "#152 '...' follows: 'It's not as if she were a boy...'"
+ },
+ {
+  "id": "M2#7538",
+  "en": "I want her to meet someone nice and marry."
+ },
+ {
+  "id": "M2#7539",
+  "en": "Have you met Winnie yet?"
+ },
+ {
+  "id": "M2#7540",
+  "en": "<I haven't met her yet>",
+  "note": "Stern-branch choice; the other choice is M2#6262 '<Yes>' (bytecode 13 18 76 1d 74), which leads to #7541-#7543."
+ },
+ {
+  "id": "M2#7541",
+  "en": "She's a good girl, isn't she? Serious, no fool.",
+  "note": "No used_in (decoder loses the first string of a branch). Branch after '<Yes>' / '<Yes, I've met her>': #7541 / #7542 / #7543 in one box."
+ },
+ {
+  "id": "M2#7542",
+  "en": "It bothers her too, but she's still not married."
+ },
+ {
+  "id": "M2#7543",
+  "en": "She throws herself into her work like a man."
+ },
+ {
+  "id": "M2#7544",
+  "en": "Oh my. Even though you walk all over town?"
+ },
+ {
+  "id": "M2#7545",
+  "en": "She's at the exchange, so do go and see her."
+ },
+ {
+  "id": "M2#7546",
+  "en": "Am I being a bit of a busybody?"
+ },
+ {
+  "id": "M2#7547",
+  "en": "It must be hard, always roaming the town."
+ },
+ {
+  "id": "M2#7548",
+  "en": "You must be tired. Will you stay for some tea?"
+ },
+ {
+  "id": "M2#7549",
+  "en": "Since my husband died three years ago",
+  "note": "#152 '...' follows; #7550 starts a new sentence."
+ },
+ {
+  "id": "M2#7550",
+  "en": "Winnie and I have managed on our own."
+ },
+ {
+  "id": "M2#7551",
+  "en": "She works so hard, for the family's sake."
+ },
+ {
+  "id": "M2#7552",
+  "en": "It may be my fault that she can't"
+ },
+ {
+  "id": "M2#7553",
+  "en": "get married."
+ },
+ {
+  "id": "M2#7554",
+  "en": "But I want my daughter to be happy."
+ },
+ {
+  "id": "M2#7555",
+  "en": "Won't you come to dinner with us sometime?"
+ },
+ {
+  "id": "M2#7556",
+  "en": "There's no man in the house at all, so if you",
+  "note": "Sentence continues into #7557."
+ },
+ {
+  "id": "M2#7557",
+  "en": "came, I'm sure Winnie would be delighted."
+ },
+ {
+  "id": "M2#7558",
+  "en": "Looking at you, I can't help worrying."
+ },
+ {
+  "id": "M2#7559",
+  "en": "I can't picture you with a home or family."
+ },
+ {
+  "id": "M2#7560",
+  "en": "Though perhaps it's none of my business."
+ },
+ {
+  "id": "M2#7561",
+  "en": "Yes... I'll open the door. Who could it be?"
+ },
+ {
+  "id": "M2#7562",
+  "en": "Someone from my daughter's work?"
+ },
+ {
+  "id": "M2#7563",
+  "en": "Oh, I see you're not."
+ },
+ {
+  "id": "M2#7564",
+  "en": "It's late now, so please come again",
+  "note": "Sentence continues into #7565."
+ },
+ {
+  "id": "M2#7565",
+  "en": "tomorrow, perhaps."
+ },
+ {
+  "id": "M2#7566",
+  "en": "Oh my, it's you. Good day."
+ },
+ {
+  "id": "M2#7567",
+  "en": "You look busy again today."
+ },
+ {
+  "id": "M2#7568",
+  "en": "You must rest now and then, or you'll fall ill."
+ },
+ {
+  "id": "M2#7569",
+  "en": "If you need Winnie, I'll pass on a message."
+ },
+ {
+  "id": "M2#7570",
+  "en": "How nice of you to come. Some tea?"
+ },
+ {
+  "id": "M2#7571",
+  "en": "If only my daughter had someone like you..."
+ },
+ {
+  "id": "M2#7572",
+  "en": "Then I wouldn't need to worry."
+ },
+ {
+  "id": "M2#7573",
+  "en": "Do come again. Don't be shy."
+ },
+ {
+  "id": "M2#7574",
+  "en": "When you visit, feel free to make",
+  "note": "Shared by #7575 'yourself at home, I mean it.' and #7596 'yourself at home.'"
+ },
+ {
+  "id": "M2#7575",
+  "en": "yourself at home, I mean it."
+ },
+ {
+  "id": "M2#7576",
+  "en": "Yes? Who's there?"
+ },
+ {
+  "id": "M2#7577",
+  "en": "You don't seem to be a friend of Winifred's."
+ },
+ {
+  "id": "M2#7578",
+  "en": "Your daughter? I'm afraid not.",
+  "note": "Next line is name + M2#5477 '.' (slice 068): needs a variant for msg 296103, see report."
+ },
+ {
+  "id": "M2#7579",
+  "en": "I was looking for a certain house. Excuse me."
+ },
+ {
+  "id": "M2#7580",
+  "en": "I see. How polite of you."
+ },
+ {
+  "id": "M2#7581",
+  "en": "If there's nothing else, I'll say good day."
+ },
+ {
+  "id": "M2#7582",
+  "en": "I do a bit of investigating for a living."
+ },
+ {
+  "id": "M2#7583",
+  "en": "While out for a stroll, mind you."
+ },
+ {
+  "id": "M2#7584",
+  "en": "<Yes, I've met her>"
+ },
+ {
+  "id": "M2#7585",
+  "en": "<Not yet>"
+ },
+ {
+  "id": "M2#7586",
+  "en": "Oh dear, was that a bit nosy of me?",
+  "note": "Gentle branch after '<Not yet>': #7544 / #7545 <pause> / #7586."
+ },
+ {
+  "id": "M2#7587",
+  "en": "It must be so hard, always roaming the town."
+ },
+ {
+  "id": "M2#7588",
+  "en": "You must be tired. How about some tea?"
+ },
+ {
+  "id": "M2#7589",
+  "en": "How about dinner at our house sometime?"
+ },
+ {
+  "id": "M2#7590",
+  "en": "Yes... I'll open the door. Who is it?"
+ },
+ {
+  "id": "M2#7591",
+  "en": "Oh... so young. A friend of my daughter's?"
+ },
+ {
+  "id": "M2#7592",
+  "en": "It's late now, so...",
+  "note": "JP has two dots; written '...' (trails off)."
+ },
+ {
+  "id": "M2#7593",
+  "en": "If you like, please come again tomorrow."
+ },
+ {
+  "id": "M2#7594",
+  "en": "Then I wouldn't worry one bit."
+ },
+ {
+  "id": "M2#7595",
+  "en": "Come again. No need to be shy."
+ },
+ {
+  "id": "M2#7596",
+  "en": "yourself at home."
+ },
+ {
+  "id": "M2#7597",
+  "en": "Even people working so hard just to get by,"
+ },
+ {
+  "id": "M2#7598",
+  "en": "I've made them like that, for my selfish ends",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#7599",
+  "en": "Charlotte"
+ }
+]

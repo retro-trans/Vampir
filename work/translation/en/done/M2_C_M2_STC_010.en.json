@@ -1,0 +1,475 @@
+[
+ {
+  "id": "M2#800",
+  "en": "This is the private home of Mayor Gilbert."
+ },
+ {
+  "id": "M2#801",
+  "en": "Kindly call during normal hours."
+ },
+ {
+  "id": "M2#802",
+  "en": "That's what comes of living where you work."
+ },
+ {
+  "id": "M2#803",
+  "en": "You'd do well not to act too suspiciously."
+ },
+ {
+  "id": "M2#804",
+  "en": "Oh, hello there.",
+  "note": "Shared with Wilfred (pawnbroker, msgs 177122/177551)."
+ },
+ {
+  "id": "M2#805",
+  "en": "Paying house calls? What a busy man you are."
+ },
+ {
+  "id": "M2#806",
+  "en": "You might as well help me with my work."
+ },
+ {
+  "id": "M2#807",
+  "en": "I'm surprised... or rather, lost for words."
+ },
+ {
+  "id": "M2#808",
+  "en": "Could it be you have no sense of direction?"
+ },
+ {
+  "id": "M2#809",
+  "en": "Yet oddly, I can't seem to get angry",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#810",
+  "en": "You're certainly an interesting fellow."
+ },
+ {
+  "id": "M2#811",
+  "en": ", it's you.",
+  "note": "After #608 'Oh, ' + name: 'Oh, {NAME}, it's you.'"
+ },
+ {
+  "id": "M2#812",
+  "en": "Well, all right. Do come in."
+ },
+ {
+  "id": "M2#813",
+  "en": "I'll allow your visiting habit as a quirk."
+ },
+ {
+  "id": "M2#814",
+  "en": "Strangely, I can't bring myself to dislike you."
+ },
+ {
+  "id": "M2#815",
+  "en": "Being a politician by trade, I'm usually"
+ },
+ {
+  "id": "M2#816",
+  "en": "wary of other people, you know",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#817",
+  "en": "Hahaha, that's just like you."
+ },
+ {
+  "id": "M2#818",
+  "en": "I won't say another word. Come whenever"
+ },
+ {
+  "id": "M2#819",
+  "en": "you please, my amusing friend."
+ },
+ {
+  "id": "M2#820",
+  "en": "To make even the man who governs London"
+ },
+ {
+  "id": "M2#821",
+  "en": "my servant... What good fortune."
+ },
+ {
+  "id": "M2#822",
+  "en": "Y-you",
+  "note": "#152 '...' follows: 'Y-you...'. Shared with Maud (msg 267486, before the name on the next line)."
+ },
+ {
+  "id": "M2#823",
+  "en": "Still, why are humans so utterly"
+ },
+ {
+  "id": "M2#824",
+  "en": "unguarded... It's beyond me."
+ },
+ {
+  "id": "M2#825",
+  "en": "A few talks, and they open their hearts to me."
+ },
+ {
+  "id": "M2#826",
+  "en": "You",
+  "note": "#152 '...' follows: 'You...'. Shared with Sylvia (msg 280626)."
+ },
+ {
+  "id": "M2#827",
+  "en": "I knew it",
+  "note": "No used_in in the slice; msg 25764 (Gilbert): 'You... / I knew it' + pause dots."
+ },
+ {
+  "id": "M2#828",
+  "en": "Heh heh heh, this is going nicely."
+ },
+ {
+  "id": "M2#829",
+  "en": "Victory",
+  "note": "No used_in in the slice; msg 25796: 'Victory' <pause> 'will be mine...' (auto space after the pause)."
+ },
+ {
+  "id": "M2#830",
+  "en": "will be mine",
+  "note": "After #829 'Victory' and a pause; #152 '...' follows."
+ },
+ {
+  "id": "M2#831",
+  "en": "Ah, I'm sorry.",
+  "note": "Gentle player; also Bradford 59124, Nick 189999/190064."
+ },
+ {
+  "id": "M2#832",
+  "en": "I just wanted to come and greet you",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#833",
+  "en": "Hello, Mayor Gilbert. It's me,",
+  "note": "Gentle version of #767: 'Hello, Mayor Gilbert. It's me, / {NAME}. Don't you remember me?'"
+ },
+ {
+  "id": "M2#834",
+  "en": ". Don't you remember me?"
+ },
+ {
+  "id": "M2#835",
+  "en": "I'm terribly sorry about the other day."
+ },
+ {
+  "id": "M2#836",
+  "en": "<Yes, that's right>",
+  "note": "Answer choice (no used_in): gentle version of #780, reply to #778/#779."
+ },
+ {
+  "id": "M2#837",
+  "en": "<I have my reasons>",
+  "note": "Answer choice (no used_in): gentle version of #781 (same English)."
+ },
+ {
+  "id": "M2#838",
+  "en": "Let's talk for a little while",
+  "note": "Pause dots follow: 'Let's talk for a little while...'"
+ },
+ {
+  "id": "M2#839",
+  "en": "It's no use telling you this, but...",
+  "note": "No used_in; msg 26053 shows it between #838 and #840 (own line). Ends with '...' so #840 can start a sentence (the decoder also shows #840 as the start of msg 26090)."
+ },
+ {
+  "id": "M2#840",
+  "en": "People don't see me as an upright politician."
+ },
+ {
+  "id": "M2#841",
+  "en": "Yet this city needs someone who does"
+ },
+ {
+  "id": "M2#842",
+  "en": "the kind of work I do."
+ },
+ {
+  "id": "M2#843",
+  "en": "That is why I work on as mayor.",
+  "note": "Echoes #795 'I believe that, and so I work on as mayor.'"
+ },
+ {
+  "id": "M2#844",
+  "en": "Let those who want to talk, talk."
+ },
+ {
+  "id": "M2#845",
+  "en": "They have every right to speak, but"
+ },
+ {
+  "id": "M2#846",
+  "en": "they can do nothing more than that."
+ },
+ {
+  "id": "M2#847",
+  "en": "This work is what I live for."
+ },
+ {
+  "id": "M2#848",
+  "en": "It has to be me, and no one else",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#849",
+  "en": "You're certainly an interesting fellow, though."
+ },
+ {
+  "id": "M2#850",
+  "en": "I'd like you to help me with my work, too."
+ },
+ {
+  "id": "M2#851",
+  "en": "Your orders, please",
+  "note": "#152 '...' follows. Colin/Abraham as servants (after #754 ', my master...' or #4253)."
+ },
+ {
+  "id": "M2#852",
+  "en": "What on earth is happening to me?"
+ },
+ {
+  "id": "M2#853",
+  "en": "I'm more worn out with every passing day."
+ },
+ {
+  "id": "M2#854",
+  "en": ", my master.",
+  "variants": [
+   {
+    "msg": 87152,
+    "en": ", sir."
+   },
+   {
+    "msg": 87721,
+    "en": ", sir."
+   },
+   {
+    "msg": 185342,
+    "en": ", sir."
+   },
+   {
+    "msg": 185765,
+    "en": ", sir."
+   },
+   {
+    "msg": 136232,
+    "en": ", sir."
+   },
+   {
+    "msg": 136884,
+    "en": ", sir."
+   },
+   {
+    "msg": 193443,
+    "en": ", sir."
+   },
+   {
+    "msg": 193505,
+    "en": ", sir."
+   },
+   {
+    "msg": 193887,
+    "en": ", sir."
+   },
+   {
+    "msg": 193926,
+    "en": ", sir."
+   },
+   {
+    "msg": 194278,
+    "en": ", sir."
+   },
+   {
+    "msg": 194340,
+    "en": ", sir."
+   },
+   {
+    "msg": 194722,
+    "en": ", sir."
+   },
+   {
+    "msg": 194761,
+    "en": ", sir."
+   },
+   {
+    "msg": 402393,
+    "en": "!"
+   },
+   {
+    "msg": 402484,
+    "en": "!"
+   },
+   {
+    "msg": 402873,
+    "en": "!"
+   },
+   {
+    "msg": 205421,
+    "en": ", my master. "
+   },
+   {
+    "msg": 320109,
+    "en": ", my master. "
+   }
+  ]
+ },
+ {
+  "id": "M2#855",
+  "en": "Give me any order you wish",
+  "note": "#152 '...' follows (as #755)."
+ },
+ {
+  "id": "M2#856",
+  "en": "I'm sure I fall asleep in my bed, but then"
+ },
+ {
+  "id": "M2#857",
+  "en": "I wake up on the sofa in the living room."
+ },
+ {
+  "id": "M2#858",
+  "en": "Hold it right there, you."
+ },
+ {
+  "id": "M2#859",
+  "en": "I haven't seen you before. And so early, too."
+ },
+ {
+  "id": "M2#860",
+  "en": "State your name."
+ },
+ {
+  "id": "M2#861",
+  "en": "I am no one suspicious.",
+  "note": "Stern player (as #930)."
+ },
+ {
+  "id": "M2#862",
+  "en": "My name is ",
+  "note": "Before the name; #863/#363/#473 give the full stop."
+ },
+ {
+  "id": "M2#863",
+  "en": ".",
+  "note": "After the name. Variant '' where it follows dots ('...' + '。'), so no fourth dot.",
+  "variants": [
+   {
+    "msg": 46249,
+    "en": ""
+   },
+   {
+    "msg": 70243,
+    "en": ""
+   },
+   {
+    "msg": 70624,
+    "en": ""
+   },
+   {
+    "msg": 71668,
+    "en": ""
+   },
+   {
+    "msg": 71781,
+    "en": ""
+   },
+   {
+    "msg": 72137,
+    "en": ""
+   },
+   {
+    "msg": 156829,
+    "en": ""
+   },
+   {
+    "msg": 271654,
+    "en": ""
+   },
+   {
+    "msg": 312607,
+    "en": ""
+   },
+   {
+    "msg": 357443,
+    "en": ""
+   },
+   {
+    "msg": 377890,
+    "en": ""
+   },
+   {
+    "msg": 402953,
+    "en": ""
+   }
+  ]
+ },
+ {
+  "id": "M2#864",
+  "en": "I have only just come to London, however."
+ },
+ {
+  "id": "M2#865",
+  "en": "Hmm... I see. Very well."
+ },
+ {
+  "id": "M2#866",
+  "en": "I'm Constable Colin. No suspicious behavior.",
+  "note": "#955/#956 (slice 012) split the same text over two rows; shortened here to fit one line."
+ },
+ {
+  "id": "M2#867",
+  "en": "Any trouble just means more work for me."
+ },
+ {
+  "id": "M2#868",
+  "en": "How long are you going to hang about here?"
+ },
+ {
+  "id": "M2#869",
+  "en": "Well, well..."
+ },
+ {
+  "id": "M2#870",
+  "en": "I keep running into you these days."
+ },
+ {
+  "id": "M2#871",
+  "en": "An early-morning stroll? How commendable."
+ },
+ {
+  "id": "M2#872",
+  "en": "Though you look rather pale for it."
+ },
+ {
+  "id": "M2#873",
+  "en": ", good morning.",
+  "note": "After the name (Colin, Peter, Dean, Ted, Mary): '{NAME}, good morning.'"
+ },
+ {
+  "id": "M2#874",
+  "en": "Have you seen or heard anything odd?"
+ },
+ {
+  "id": "M2#875",
+  "en": "This city's become a dangerous place lately."
+ },
+ {
+  "id": "M2#876",
+  "en": "Good grief, I can't watch it all on my own."
+ },
+ {
+  "id": "M2#877",
+  "en": "Wandering about here? That's suspicious."
+ },
+ {
+  "id": "M2#878",
+  "en": "What district are you from? State your name."
+ },
+ {
+  "id": "M2#879",
+  "en": "I am certainly no one suspicious."
+ }
+]

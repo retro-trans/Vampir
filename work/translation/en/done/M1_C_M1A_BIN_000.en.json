@@ -1,0 +1,358 @@
+[
+ {
+  "id": "M1A.BIN@6AC",
+  "en": "Do you truly intend to defeat me?"
+ },
+ {
+  "id": "M1A.BIN@694",
+  "en": "Yes, of course."
+ },
+ {
+  "id": "M1A.BIN@674",
+  "en": "...Don't make me laugh, you whelp!!!!"
+ },
+ {
+  "id": "M1A.BIN@654",
+  "en": "I am Van Helsing.",
+  "note": "Van Helsing self-introduction, rows 654-430 in forward order."
+ },
+ {
+  "id": "M1A.BIN@634",
+  "en": "I'm a university professor, and a doctor too."
+ },
+ {
+  "id": "M1A.BIN@60C",
+  "en": "My former student, Jonathan Harker, and"
+ },
+ {
+  "id": "M1A.BIN@5E8",
+  "en": "my fellow physician, Dr. Jack Seward,"
+ },
+ {
+  "id": "M1A.BIN@5D4",
+  "en": "both sent word to me, you see,"
+ },
+ {
+  "id": "M1A.BIN@5B0",
+  "en": "and so now, as a vampire hunter,"
+ },
+ {
+  "id": "M1A.BIN@598",
+  "en": "I have come to this port town."
+ },
+ {
+  "id": "M1A.BIN@584",
+  "en": "My titles, however,"
+ },
+ {
+  "id": "M1A.BIN@564",
+  "en": "are not just professor and doctor."
+ },
+ {
+  "id": "M1A.BIN@548",
+  "en": "My other title is that of"
+ },
+ {
+  "id": "M1A.BIN@530",
+  "en": "a researcher of the paranormal..."
+ },
+ {
+  "id": "M1A.BIN@50C",
+  "en": "Not that the world knows much of it."
+ },
+ {
+  "id": "M1A.BIN@4E8",
+  "en": "I have read every text there is, and so I"
+ },
+ {
+  "id": "M1A.BIN@4C0",
+  "en": "know the means to defeat a vampire."
+ },
+ {
+  "id": "M1A.BIN@49C",
+  "en": "The most effective way to defeat a vampire..."
+ },
+ {
+  "id": "M1A.BIN@47C",
+  "en": "is to seek out its coffin."
+ },
+ {
+  "id": "M1A.BIN@458",
+  "en": "If you can find it, you should be able to deal",
+  "note": "Generic subject 'you' restored (source has none)."
+ },
+ {
+  "id": "M1A.BIN@430",
+  "en": "the vampire a fatal wound..."
+ },
+ {
+  "id": "M1A.BIN@40C",
+  "en": "When my best friend Jonathan asks a favor,"
+ },
+ {
+  "id": "M1A.BIN@3F0",
+  "en": "I can hardly refuse."
+ },
+ {
+  "id": "M1A.BIN@3D8",
+  "en": "So that's why I've",
+  "note": "Row cut moved: 'as a vampire hunter' moved from 3B0 to 39C so the verb row is not a lone 'came'."
+ },
+ {
+  "id": "M1A.BIN@3B0",
+  "en": "come to this town"
+ },
+ {
+  "id": "M1A.BIN@39C",
+  "en": "as a vampire hunter."
+ },
+ {
+  "id": "M1A.BIN@378",
+  "en": "A vampire that preys on human beings...",
+  "note": "Vampire referred to as 'it' (gender not stated)."
+ },
+ {
+  "id": "M1A.BIN@364",
+  "en": "I won't stand for it...!"
+ },
+ {
+  "id": "M1A.BIN@340",
+  "en": "I'll cut it down with this sword of mine!!"
+ },
+ {
+  "id": "M1A.BIN@314",
+  "en": "This sword I carry is called a blessed sword,"
+ },
+ {
+  "id": "M1A.BIN@2FC",
+  "en": "and it's quite something, you know..."
+ },
+ {
+  "id": "M1A.BIN@2D4",
+  "en": "Blessed by God, it has the power to sever evil."
+ },
+ {
+  "id": "M1A.BIN@2B8",
+  "en": "I'm Quincey Morris."
+ },
+ {
+  "id": "M1A.BIN@298",
+  "en": "I hail from Texas, in America."
+ },
+ {
+  "id": "M1A.BIN@274",
+  "en": "Back in my student days in England,"
+ },
+ {
+  "id": "M1A.BIN@258",
+  "en": "Professor Van Helsing looked after me."
+ },
+ {
+  "id": "M1A.BIN@240",
+  "en": "I've come here as his escort."
+ },
+ {
+  "id": "M1A.BIN@21C",
+  "en": "Professor Van Helsing saw promise in"
+ },
+ {
+  "id": "M1A.BIN@204",
+  "en": "my marksmanship, you see..."
+ },
+ {
+  "id": "M1A.BIN@1E0",
+  "en": "Well, when I'm on the job, vampires"
+ },
+ {
+  "id": "M1A.BIN@1D0",
+  "en": "go down in one shot."
+ },
+ {
+  "id": "M1A.BIN@1AC",
+  "en": "Dang... Last night I took a shot at a bat"
+ },
+ {
+  "id": "M1A.BIN@190",
+  "en": "and let it get away."
+ },
+ {
+  "id": "M1A.BIN@16C",
+  "en": "This wasn't how it was supposed to go..."
+ },
+ {
+  "id": "M1A.BIN@154",
+  "en": "You won't get away from me...",
+  "note": "Player (polite) taunting an opponent; reply 124/100 knows the listener is a vampire (coffin). Speaker pair not certain; matches the M0A #85C wording 'Our showdown comes... with the night'."
+ },
+ {
+  "id": "M1A.BIN@140",
+  "en": "Our showdown comes with the night."
+ },
+ {
+  "id": "M1A.BIN@124",
+  "en": "You're the one who should strap your coffin"
+ },
+ {
+  "id": "M1A.BIN@100",
+  "en": "to your back and get out of this town, fast."
+ },
+ {
+  "id": "M1A.BIN@C04",
+  "en": "I hear Nosferatu and Dhampir have often",
+  "note": "Same as M0A.BIN@DAC"
+ },
+ {
+  "id": "M1A.BIN@BE8",
+  "en": "been appearing around these parts.",
+  "note": "Same as M0A.BIN@D90"
+ },
+ {
+  "id": "M1A.BIN@BC8",
+  "en": "Have you heard any such rumors?",
+  "note": "Same as M0A.BIN@D70"
+ },
+ {
+  "id": "M1A.BIN@BB8",
+  "en": "<Answer>",
+  "note": "Same as M0A.BIN@D60"
+ },
+ {
+  "id": "M1A.BIN@BA8",
+  "en": "<Don't answer>",
+  "note": "Same as M0A.BIN@D50"
+ },
+ {
+  "id": "M1A.BIN@B8C",
+  "en": "Yes. I've heard about it.",
+  "note": "Same as M0A.BIN@D34 (Christopher (polite) branch.)"
+ },
+ {
+  "id": "M1A.BIN@B74",
+  "en": "Yeah. I've heard.",
+  "note": "Same as M0A.BIN@D1C (Duran branch.)"
+ },
+ {
+  "id": "M1A.BIN@B50",
+  "en": "Then show me where on this map.",
+  "note": "Same as M0A.BIN@CF8"
+ },
+ {
+  "id": "M1A.BIN@B38",
+  "en": "They're said to appear around here.",
+  "note": "Same as M0A.BIN@CE0"
+ },
+ {
+  "id": "M1A.BIN@B20",
+  "en": "I see. Thank you.",
+  "note": "Same as M0A.BIN@CC8"
+ },
+ {
+  "id": "M1A.BIN@B14",
+  "en": "I'm sorry. ",
+  "note": "Same as M0A.BIN@CBC (Christopher branch; printed on the same line as #C9C, hence trailing space.)"
+ },
+ {
+  "id": "M1A.BIN@B08",
+  "en": "Sorry. ",
+  "note": "Same as M0A.BIN@CB0 (Duran branch; same line as #C9C, trailing space.)"
+ },
+ {
+  "id": "M1A.BIN@AF4",
+  "en": "I've forgotten.",
+  "note": "Same as M0A.BIN@C9C"
+ },
+ {
+  "id": "M1A.BIN@AD0",
+  "en": "Then don't get my hopes up like that.",
+  "note": "Same as M0A.BIN@C78"
+ },
+ {
+  "id": "M1A.BIN@ABC",
+  "en": "No, I haven't heard ",
+  "note": "Same as M0A.BIN@C64 (Same line as #C54 (Christopher) or #C48 (Duran); trailing space.)"
+ },
+ {
+  "id": "M1A.BIN@AAC",
+  "en": "of any such thing.",
+  "note": "Same as M0A.BIN@C54 (Christopher branch.)"
+ },
+ {
+  "id": "M1A.BIN@AA0",
+  "en": "of it.",
+  "note": "Same as M0A.BIN@C48 (Duran branch.)"
+ },
+ {
+  "id": "M1A.BIN@A8C",
+  "en": "I see. Sorry to have bothered you.",
+  "note": "Same as M0A.BIN@C34"
+ },
+ {
+  "id": "M1A.BIN@A68",
+  "en": "Lately, at night, Nosferatu and",
+  "note": "Same as M0A.BIN@C10 (Player tells a rumor; next line is #BFC + #BF0/#BE4.)"
+ },
+ {
+  "id": "M1A.BIN@A54",
+  "en": "Dhampir have been showing up, ",
+  "note": "Same as M0A.BIN@BFC (Same line as #BF0 (Christopher) or #BE4 (Duran); trailing space.)"
+ },
+ {
+  "id": "M1A.BIN@A48",
+  "en": "or so I hear.",
+  "note": "Same as M0A.BIN@BF0"
+ },
+ {
+  "id": "M1A.BIN@A3C",
+  "en": "they say.",
+  "note": "Same as M0A.BIN@BE4"
+ },
+ {
+  "id": "M1A.BIN@A1C",
+  "en": "And they're often seen in this area...",
+  "note": "Same as M0A.BIN@BC4 (Player continues the rumor (#C10/#BFC/#BF0|#BE4, slice 000); 'this area' = the spot chosen on the map. Subject 'they' (Nosferatu and Dhampir) restored.)"
+ },
+ {
+  "id": "M1A.BIN@A10",
+  "en": "No, uh, ",
+  "note": "Same as M0A.BIN@BB8 (Player backs out (likely after cancelling the map). Assumed to print on the same line as #B98/#B7C, hence trailing space.)"
+ },
+ {
+  "id": "M1A.BIN@9F0",
+  "en": "I'm sorry. It's nothing.",
+  "note": "Same as M0A.BIN@B98 (Christopher (polite) branch.)"
+ },
+ {
+  "id": "M1A.BIN@9D4",
+  "en": "It's nothing. Forget it.",
+  "note": "Same as M0A.BIN@B7C (Duran branch.)"
+ },
+ {
+  "id": "M1A.BIN@9B0",
+  "en": "Please don't bother me for no reason!"
+ },
+ {
+  "id": "M1A.BIN@99C",
+  "en": "Really... ",
+  "note": "Same as M0A.BIN@B44 (Disbelief reply, followed by #B30 (same line assumed: trailing space).)"
+ },
+ {
+  "id": "M1A.BIN@988",
+  "en": "I can't believe that.",
+  "note": "Same as M0A.BIN@B30"
+ },
+ {
+  "id": "M1A.BIN@958",
+  "en": "I see. Then I'd better not go out at night.",
+  "note": "Same as M0A.BIN@B00"
+ },
+ {
+  "id": "M1A.BIN@934",
+  "en": "Why do you keep telling me the same thing?",
+  "note": "Same as M0A.BIN@ADC"
+ },
+ {
+  "id": "M1A.BIN@914",
+  "en": "Are you really that worried about me?",
+  "note": "Same as M0A.BIN@ABC"
+ }
+]

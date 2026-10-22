@@ -1,0 +1,338 @@
+[
+ {
+  "id": "M2#1040",
+  "en": "When I think about my family, I"
+ },
+ {
+  "id": "M2#1041",
+  "en": "What? Quit lookin' at me."
+ },
+ {
+  "id": "M2#1042",
+  "en": "Ya get a kick outta gawkin' at cons?"
+ },
+ {
+  "id": "M2#1043",
+  "en": "This here's the great Patrick's castle. Beat it."
+ },
+ {
+  "id": "M2#1044",
+  "en": "I said quit lookin' at me, didn't I?"
+ },
+ {
+  "id": "M2#1045",
+  "en": "I'm sleepy. And I'm in a lousy mood."
+ },
+ {
+  "id": "M2#1046",
+  "en": "You again."
+ },
+ {
+  "id": "M2#1047",
+  "en": "Strange one, ain't ya? Eh, whatever."
+ },
+ {
+  "id": "M2#1048",
+  "en": "It's a grubby dump, but stick around a while."
+ },
+ {
+  "id": "M2#1049",
+  "en": "Back again, are you?",
+  "note": "Shared by Patrick, Lance, Tony (after '...') and Norman."
+ },
+ {
+  "id": "M2#1050",
+  "en": "It ain't half bad in this cage, y'know."
+ },
+ {
+  "id": "M2#1051",
+  "en": "I get my meals for free, after all."
+ },
+ {
+  "id": "M2#1052",
+  "en": "Course, ya can't see the outside",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#1053",
+  "en": "Hey, thanks for comin'. 'Preciate it."
+ },
+ {
+  "id": "M2#1054",
+  "en": "I hear somethin' big's goin' on out there?"
+ },
+ {
+  "id": "M2#1055",
+  "en": "Some nut carvin' up pretty gals with a knife."
+ },
+ {
+  "id": "M2#1056",
+  "en": "Some folks do awful things, huh."
+ },
+ {
+  "id": "M2#1057",
+  "en": "Next to that, my thievin's nothin', right?"
+ },
+ {
+  "id": "M2#1058",
+  "en": "I hope my daughter's all right",
+  "note": "Between two #152 '...'."
+ },
+ {
+  "id": "M2#1059",
+  "en": "Say, that case... it's been eatin' at me."
+ },
+ {
+  "id": "M2#1060",
+  "en": "I'll be gettin' out soon, but"
+ },
+ {
+  "id": "M2#1061",
+  "en": "I'm worried about my girl... Look into it",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#1062",
+  "en": "O little one, tormented by your fears,"
+ },
+ {
+  "id": "M2#1063",
+  "en": "you need fret no longer."
+ },
+ {
+  "id": "M2#1064",
+  "en": "Live on as my servant.",
+  "note": "No used_in; probably the third line of msg 33918 after #1063 (decoder loses it)."
+ },
+ {
+  "id": "M2#1065",
+  "en": "This too is salvation, in my own fashion. Hahaha",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#1066",
+  "en": "...What is it?"
+ },
+ {
+  "id": "M2#1067",
+  "en": "Pleased to meet you, Patrick."
+ },
+ {
+  "id": "M2#1068",
+  "en": "Haaa! 'Pleased to meet you,' he says to a con!"
+ },
+ {
+  "id": "M2#1069",
+  "en": "Plannin' on movin' in behind these bars, eh?"
+ },
+ {
+  "id": "M2#1070",
+  "en": "Heh heh, kiddin', just kiddin'."
+ },
+ {
+  "id": "M2#1071",
+  "en": "Eh, whatever. Hang in there. See ya."
+ },
+ {
+  "id": "M2#1072",
+  "en": "Get it? That's me doin' the shitty mayor.",
+  "note": "After #1016/#1017 + pause + #152 '...'; matches M2#1018 (slice 012), 'shitty' keeps the full strength."
+ },
+ {
+  "id": "M2#1073",
+  "en": "<Why are you in prison?>"
+ },
+ {
+  "id": "M2#1074",
+  "en": "<How many years have you been here?>"
+ },
+ {
+  "id": "M2#1075",
+  "en": "Maybe they don't need a guy like me now...",
+  "note": "= M2#1035 + '...'"
+ },
+ {
+  "id": "M2#1076",
+  "en": "What? Quit lookin' at me."
+ },
+ {
+  "id": "M2#1077",
+  "en": "To be given orders by my master,"
+ },
+ {
+  "id": "M2#1078",
+  "en": "what an honor..."
+ },
+ {
+  "id": "M2#1079",
+  "en": "I just can't shake this tiredness."
+ },
+ {
+  "id": "M2#1080",
+  "en": "And the work isn't even all that hard."
+ },
+ {
+  "id": "M2#1081",
+  "en": "Command me as you will",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#1082",
+  "en": "My hands are numb. I can hardly do my work."
+ },
+ {
+  "id": "M2#1083",
+  "en": "And there's this wound. I haven't a clue how",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#1084",
+  "en": "Oh, good morning."
+ },
+ {
+  "id": "M2#1085",
+  "en": "You're up early."
+ },
+ {
+  "id": "M2#1086",
+  "en": "You are rather early yourself."
+ },
+ {
+  "id": "M2#1087",
+  "en": "Yes, well, I've got work to do."
+ },
+ {
+  "id": "M2#1088",
+  "en": "Can't afford to lie about in bed."
+ },
+ {
+  "id": "M2#1089",
+  "en": "I'm Darrell, a tailor. And you are?"
+ },
+ {
+  "id": "M2#1090",
+  "en": "I see. Well, see you another time."
+ },
+ {
+  "id": "M2#1091",
+  "en": "Oh, we meet again."
+ },
+ {
+  "id": "M2#1092",
+  "en": "Oh! Good morning.",
+  "note": "Shared with Dean."
+ },
+ {
+  "id": "M2#1093",
+  "en": "How are you? Keeping well?"
+ },
+ {
+  "id": "M2#1094",
+  "en": "Me, I'm the same as ever."
+ },
+ {
+  "id": "M2#1095",
+  "en": "You're looking well. I'm glad."
+ },
+ {
+  "id": "M2#1096",
+  "en": "I'm feeling pretty good myself."
+ },
+ {
+  "id": "M2#1097",
+  "en": "And work's going well, too."
+ },
+ {
+  "id": "M2#1098",
+  "en": "Let's both stay healthy, day after day!"
+ },
+ {
+  "id": "M2#1099",
+  "en": "Oh, good evening."
+ },
+ {
+  "id": "M2#1100",
+  "en": "There are no streetlamps here. It's not safe."
+ },
+ {
+  "id": "M2#1101",
+  "en": "Do be careful."
+ },
+ {
+  "id": "M2#1102",
+  "en": "Ah, yes, it is certainly dark."
+ },
+ {
+  "id": "M2#1103",
+  "en": "I thank you for the warning.",
+  "note": "Shared with Dean msg 66344 (stopped watch)."
+ },
+ {
+  "id": "M2#1104",
+  "en": "On your way home from work?"
+ },
+ {
+  "id": "M2#1105",
+  "en": "Yes, that's right. I'm off home to supper."
+ },
+ {
+  "id": "M2#1106",
+  "en": "I see. Well, take care."
+ },
+ {
+  "id": "M2#1107",
+  "en": "Get home soon, or your family will worry."
+ },
+ {
+  "id": "M2#1108",
+  "en": "Oops, I'd better hurry home too, or the wife'll..."
+ },
+ {
+  "id": "M2#1109",
+  "en": "Good evening. I trust you're well.",
+  "note": "Shared with Bridget msg 292483 (new line after name + #7392)."
+ },
+ {
+  "id": "M2#1110",
+  "en": "You're a funny one. You seem livelier at night."
+ },
+ {
+  "id": "M2#1111",
+  "en": "I'll be heading home now. Bye."
+ },
+ {
+  "id": "M2#1112",
+  "en": "! Well, hello there!",
+  "note": "After the name; next row on a new line starts a sentence (Darrell, Luke, Dean)."
+ },
+ {
+  "id": "M2#1113",
+  "en": "Glad to see you're well. That's good."
+ },
+ {
+  "id": "M2#1114",
+  "en": "Yes.",
+  "note": "Player reply, shared with Clement, Dudley, Bruce, Isaac, Claudia."
+ },
+ {
+  "id": "M2#1115",
+  "en": "You look well yourself."
+ },
+ {
+  "id": "M2#1116",
+  "en": "Yes, thankfully."
+ },
+ {
+  "id": "M2#1117",
+  "en": "I've got someone waiting for me at home."
+ },
+ {
+  "id": "M2#1118",
+  "en": "Well then, ",
+  "note": "Before the name; #1119 follows the name."
+ },
+ {
+  "id": "M2#1119",
+  "en": ", until next time."
+ }
+]

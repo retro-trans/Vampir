@@ -1,0 +1,135 @@
+[
+ {
+  "id": "M0A.BIN@BC4",
+  "en": "And they're often seen in this area...",
+  "note": "Player continues the rumor (#C10/#BFC/#BF0|#BE4, slice 000); 'this area' = the spot chosen on the map. Subject 'they' (Nosferatu and Dhampir) restored."
+ },
+ {
+  "id": "M0A.BIN@BB8",
+  "en": "No, uh, ",
+  "note": "Player backs out (likely after cancelling the map). Assumed to print on the same line as #B98/#B7C, hence trailing space."
+ },
+ {
+  "id": "M0A.BIN@B98",
+  "en": "I'm sorry. It's nothing.",
+  "note": "Christopher (polite) branch."
+ },
+ {
+  "id": "M0A.BIN@B7C",
+  "en": "It's nothing. Forget it.",
+  "note": "Duran branch."
+ },
+ {
+  "id": "M0A.BIN@B58",
+  "en": "Please don't bother me for no reason!"
+ },
+ {
+  "id": "M0A.BIN@B44",
+  "en": "Really... ",
+  "note": "Disbelief reply, followed by #B30 (same line assumed: trailing space)."
+ },
+ {
+  "id": "M0A.BIN@B30",
+  "en": "I can't believe that."
+ },
+ {
+  "id": "M0A.BIN@B00",
+  "en": "I see. Then I'd better not go out at night."
+ },
+ {
+  "id": "M0A.BIN@ADC",
+  "en": "Why do you keep telling me the same thing?"
+ },
+ {
+  "id": "M0A.BIN@ABC",
+  "en": "Are you really that worried about me?"
+ },
+ {
+  "id": "M0A.BIN@A98",
+  "en": "That's not what you told me before."
+ },
+ {
+  "id": "M0A.BIN@A70",
+  "en": "Now I can't believe either of your stories."
+ },
+ {
+  "id": "M0A.BIN@A4C",
+  "en": "Don't talk to me if you've got no business!",
+  "note": "Male listener set (#A38-#970)."
+ },
+ {
+  "id": "M0A.BIN@A38",
+  "en": "Is that true...? ",
+  "note": "Followed by #A24 (same line assumed: trailing space)."
+ },
+ {
+  "id": "M0A.BIN@A24",
+  "en": "I can't believe it."
+ },
+ {
+  "id": "M0A.BIN@9FC",
+  "en": "I see. Then I guess I'll stay in at night."
+ },
+ {
+  "id": "M0A.BIN@9E0",
+  "en": "I heard that one already."
+ },
+ {
+  "id": "M0A.BIN@9B8",
+  "en": "Why do you keep saying the same thing?"
+ },
+ {
+  "id": "M0A.BIN@994",
+  "en": "That's not what you said before."
+ },
+ {
+  "id": "M0A.BIN@970",
+  "en": "Which one am I supposed to believe...?"
+ },
+ {
+  "id": "M0A.BIN@968",
+  "en": "..."
+ },
+ {
+  "id": "M0A.BIN@940",
+  "en": "You can't seriously expect me to believe that."
+ },
+ {
+  "id": "M0A.BIN@928",
+  "en": "I'll take that into account."
+ },
+ {
+  "id": "M0A.BIN@918",
+  "en": "You don't give up, do you?"
+ },
+ {
+  "id": "M0A.BIN@8F8",
+  "en": "I understood you the first time."
+ },
+ {
+  "id": "M0A.BIN@8EC",
+  "en": "Enough. You're relentless."
+ },
+ {
+  "id": "M0A.BIN@8D0",
+  "en": "You've gone too far in mocking me."
+ },
+ {
+  "id": "M0A.BIN@8B0",
+  "en": "Bringing a rumor like that to me...",
+  "note": "Sentence continues in #890."
+ },
+ {
+  "id": "M0A.BIN@890",
+  "en": "what on earth is the point of it!"
+ },
+ {
+  "id": "M0A.BIN@870",
+  "en": "Thank you. I'll keep it in mind."
+ },
+ {
+  "id": "M0A.BIN@4",
+  "en": "Select a location",
+  "note": "UI prompt on the map (no period, like a menu prompt)."
+ }
+]

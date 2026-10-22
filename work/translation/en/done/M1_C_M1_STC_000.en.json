@@ -1,0 +1,361 @@
+[
+ {
+  "id": "M1#0",
+  "en": "Big brother, I'll do",
+  "note": "honorific 'big brother' kept; joins #1 as 'I'll do / anything you say'"
+ },
+ {
+  "id": "M1#1",
+  "en": "anything you say",
+  "note": "shared with #0 (big brother) and #5 (mister)"
+ },
+ {
+  "id": "M1#2",
+  "en": "..."
+ },
+ {
+  "id": "M1#3",
+  "en": "I'm sleepy"
+ },
+ {
+  "id": "M1#4",
+  "en": "Maybe it's because I'm a growing boy."
+ },
+ {
+  "id": "M1#5",
+  "en": "Mister, I'll do",
+  "note": "mister version of #0"
+ },
+ {
+  "id": "M1#6",
+  "en": "I wonder if it's because I'm a growing boy."
+ },
+ {
+  "id": "M1#7",
+  "en": "Mister, what are you doing?"
+ },
+ {
+  "id": "M1#8",
+  "en": "And what are you doing?"
+ },
+ {
+  "id": "M1#9",
+  "en": "I'm on my way to school."
+ },
+ {
+  "id": "M1#10",
+  "en": "See you, mister."
+ },
+ {
+  "id": "M1#11",
+  "en": ", you know,",
+  "note": "name comes first in msg 736; 'Mr.' cannot precede it, honorific dropped"
+ },
+ {
+  "id": "M1#12",
+  "en": "you always wear such weird clothes."
+ },
+ {
+  "id": "M1#13",
+  "en": "Oh, it's ",
+  "note": "'Oh, it's ' + name; #14 = '!' (Johann) or Ludwig's #189 '.'"
+ },
+ {
+  "id": "M1#14",
+  "en": "!",
+  "note": "'!' reads right after name in all four uses (755, 829, 953, 1146)"
+ },
+ {
+  "id": "M1#15",
+  "en": "Good morning."
+ },
+ {
+  "id": "M1#16",
+  "en": "Mister, what are you doing?"
+ },
+ {
+  "id": "M1#17",
+  "en": "I'm just out for a walk."
+ },
+ {
+  "id": "M1#18",
+  "en": "Hmm"
+ },
+ {
+  "id": "M1#19",
+  "en": " Guess you've got lots of free time."
+ },
+ {
+  "id": "M1#20",
+  "en": "At my house, Mom and Dad are both busy."
+ },
+ {
+  "id": "M1#21",
+  "en": "Good evening."
+ },
+ {
+  "id": "M1#22",
+  "en": ", are you out for a walk again today?",
+  "note": "name comes first; -san dropped"
+ },
+ {
+  "id": "M1#23",
+  "en": "Who are you, mister?"
+ },
+ {
+  "id": "M1#24",
+  "en": "I'm ",
+  "note": "'I'm ' + name + '.'; msg 99307 has no closing fragment so it prints 'I'm Name' without a period"
+ },
+ {
+  "id": "M1#25",
+  "en": ".",
+  "note": "period; variants for msg 1299 and 18114 where it would follow '...' and print four dots",
+  "variants": [
+   {
+    "msg": 1299,
+    "en": ""
+   },
+   {
+    "msg": 18114,
+    "en": ""
+   }
+  ]
+ },
+ {
+  "id": "M1#26",
+  "en": "Oh, mister."
+ },
+ {
+  "id": "M1#27",
+  "en": "Back again?"
+ },
+ {
+  "id": "M1#28",
+  "en": "Did you come over to my house to play?"
+ },
+ {
+  "id": "M1#29",
+  "en": "Hey, come play with me!"
+ },
+ {
+  "id": "M1#30",
+  "en": "What should we play?"
+ },
+ {
+  "id": "M1#31",
+  "en": "Who are you, mister?"
+ },
+ {
+  "id": "M1#32",
+  "en": "Could you be the new teacher?"
+ },
+ {
+  "id": "M1#33",
+  "en": "Oh, I know you, mister!",
+  "note": "'this mister' rendered as 'you, mister' (he is talking to the player)"
+ },
+ {
+  "id": "M1#34",
+  "en": "Hey, are you maybe the new teacher?"
+ },
+ {
+  "id": "M1#35",
+  "en": "Mister, are you the new teacher?"
+ },
+ {
+  "id": "M1#36",
+  "en": "Even a farmer's kid, if he studies hard,"
+ },
+ {
+  "id": "M1#37",
+  "en": "can become somebody great someday."
+ },
+ {
+  "id": "M1#38",
+  "en": "That's why I'm going to work as hard as I can"
+ },
+ {
+  "id": "M1#39",
+  "en": "at my studies."
+ },
+ {
+  "id": "M1#40",
+  "en": "My mom is really beautiful, you know!"
+ },
+ {
+  "id": "M1#41",
+  "en": "I'm so hungry."
+ },
+ {
+  "id": "M1#42",
+  "en": "I want to hurry home and eat dinner."
+ },
+ {
+  "id": "M1#43",
+  "en": "I'll do my homework after I eat."
+ },
+ {
+  "id": "M1#44",
+  "en": "And after that I have to clean the animal shed."
+ },
+ {
+  "id": "M1#45",
+  "en": "When I graduate from this primary school,",
+  "note": "cut moved one word earlier than the Japanese (new school) to keep each row on one box line"
+ },
+ {
+  "id": "M1#46",
+  "en": "I have to choose a new one.",
+  "note": "see #45"
+ },
+ {
+  "id": "M1#47",
+  "en": "I wonder which school is best."
+ },
+ {
+  "id": "M1#48",
+  "en": "I want to study even more."
+ },
+ {
+  "id": "M1#49",
+  "en": "I want to work hard and get into a good school."
+ },
+ {
+  "id": "M1#50",
+  "en": "Why are you in our house at this hour?"
+ },
+ {
+  "id": "M1#51",
+  "en": "Johann,"
+ },
+ {
+  "id": "M1#52",
+  "en": "you want to study all sorts of things, don't you?"
+ },
+ {
+  "id": "M1#53",
+  "en": "Yeah."
+ },
+ {
+  "id": "M1#54",
+  "en": "But if I'm not quiet at night, Mom will...",
+  "note": "trails off, Japanese stops at 'Mom will'"
+ },
+ {
+  "id": "M1#55",
+  "en": "You mustn't make your mother worry."
+ },
+ {
+  "id": "M1#56",
+  "en": "So close your eyes quietly and listen to me."
+ },
+ {
+  "id": "M1#57",
+  "en": "Okay."
+ },
+ {
+  "id": "M1#58",
+  "en": "(Studying at school is pointless.",
+  "note": "inner thought of the night-time vampire protagonist, start of the parenthetical"
+ },
+ {
+  "id": "M1#59",
+  "en": "I'll re-educate you as my servant.)",
+  "note": "closes the parenthetical"
+ },
+ {
+  "id": "M1#60",
+  "en": "Big brother, what are you doing?"
+ },
+ {
+  "id": "M1#61",
+  "en": "I'm out for a walk."
+ },
+ {
+  "id": "M1#62",
+  "en": "Hmm."
+ },
+ {
+  "id": "M1#63",
+  "en": "See you later, big brother."
+ },
+ {
+  "id": "M1#64",
+  "en": "Oh, it's ",
+  "note": "'Oh, it's ' + name; msg 1262 and 1532 get 'big bro' variants (Johann calls him niichan, 'big bro')",
+  "variants": [
+   {
+    "msg": 1262,
+    "en": "Oh, it's big bro "
+   },
+   {
+    "msg": 1532,
+    "en": "Oh, it's big bro "
+   }
+  ]
+ },
+ {
+  "id": "M1#65",
+  "en": "!",
+  "note": "closes msg 1262 variant: 'Oh, it's big bro Name!'"
+ },
+ {
+  "id": "M1#66",
+  "en": ", big bro,",
+  "note": "name first in msg 1280; 'big bro' put after the name"
+ },
+ {
+  "id": "M1#67",
+  "en": "you're so cool!"
+ },
+ {
+  "id": "M1#68",
+  "en": "Big brother, what are you up to?"
+ },
+ {
+  "id": "M1#69",
+  "en": "At my house, Mom and Dad are both working"
+ },
+ {
+  "id": "M1#70",
+  "en": "and they seem busy."
+ },
+ {
+  "id": "M1#71",
+  "en": "Bye, big brother."
+ },
+ {
+  "id": "M1#72",
+  "en": "School's out, so I'm going home."
+ },
+ {
+  "id": "M1#73",
+  "en": "I'm on my way home."
+ },
+ {
+  "id": "M1#74",
+  "en": "Who are you, big brother?"
+ },
+ {
+  "id": "M1#75",
+  "en": "I'm ",
+  "note": "same wording as #24 (boku vs watashi register)"
+ },
+ {
+  "id": "M1#76",
+  "en": "Hey, did you come over to my house to play?"
+ },
+ {
+  "id": "M1#77",
+  "en": "Big brother, let's play together!"
+ },
+ {
+  "id": "M1#78",
+  "en": "You came to play with me again!"
+ },
+ {
+  "id": "M1#79",
+  "en": "Hey, what should we play next?"
+ }
+]

@@ -1,0 +1,335 @@
+[
+ {
+  "id": "M2#8720",
+  "en": "With me...",
+  "note": "Player. Ends the inverted question in #8718/#8719 ('Like Princess Rowena, / would you have the courage to leave this house? / With me...')."
+ },
+ {
+  "id": "M2#8721",
+  "en": "...Do you mean it,",
+  "note": "Rose; the name + #537 '?' follow on the next line."
+ },
+ {
+  "id": "M2#8722",
+  "en": "If you do..."
+ },
+ {
+  "id": "M2#8723",
+  "en": "I'd be so happy.",
+  "note": "Separate msg 337000; completes #8722 'If you do...'."
+ },
+ {
+  "id": "M2#8724",
+  "en": "Here in London, I have something"
+ },
+ {
+  "id": "M2#8725",
+  "en": "that I must do, but..."
+ },
+ {
+  "id": "M2#8726",
+  "en": "Will you wait for me until it's done?"
+ },
+ {
+  "id": "M2#8727",
+  "en": "Of course..."
+ },
+ {
+  "id": "M2#8728",
+  "en": "I'll wait for you forever."
+ },
+ {
+  "id": "M2#8729",
+  "en": "Even if I were a monster,"
+ },
+ {
+  "id": "M2#8730",
+  "en": "would you still come with me?"
+ },
+ {
+  "id": "M2#8731",
+  "en": "I don't care who or what you are."
+ },
+ {
+  "id": "M2#8732",
+  "en": "So be sure to come for me."
+ },
+ {
+  "id": "M2#8733",
+  "en": "You came for me?"
+ },
+ {
+  "id": "M2#8734",
+  "en": "Rose",
+  "note": "Followed by #152 '...'."
+ },
+ {
+  "id": "M2#8735",
+  "en": "Close your eyes..."
+ },
+ {
+  "id": "M2#8736",
+  "en": "It'll be over soon..."
+ },
+ {
+  "id": "M2#8737",
+  "en": "Someday, into my clan"
+ },
+ {
+  "id": "M2#8738",
+  "en": "I'll welcome you properly..."
+ },
+ {
+  "id": "M2#8739",
+  "en": "...Rose, I love you."
+ },
+ {
+  "id": "M2#8740",
+  "en": "Master, command me as you wish...",
+  "note": "Clotilde in servant mode."
+ },
+ {
+  "id": "M2#8741",
+  "en": "I've felt strange since coming to London."
+ },
+ {
+  "id": "M2#8742",
+  "en": "More fresh cuts, and no memory of my nights."
+ },
+ {
+  "id": "M2#8743",
+  "en": "Bid me do anything at all...",
+  "note": "After '{NAME}, my master...' (#0)."
+ },
+ {
+  "id": "M2#8744",
+  "en": "I dreamed a monster chased me through the streets."
+ },
+ {
+  "id": "M2#8745",
+  "en": "But I was a monster too. It frightens me."
+ },
+ {
+  "id": "M2#8746",
+  "en": "Madam, is something the matter?"
+ },
+ {
+  "id": "M2#8747",
+  "en": "Oh, good morning."
+ },
+ {
+  "id": "M2#8748",
+  "en": "Um... I've lost my way."
+ },
+ {
+  "id": "M2#8749",
+  "en": "Oh? Where were you headed?"
+ },
+ {
+  "id": "M2#8750",
+  "en": "I may be able to help you."
+ },
+ {
+  "id": "M2#8751",
+  "en": "I take it you're from abroad as well."
+ },
+ {
+  "id": "M2#8752",
+  "en": "I came from Paris to see the sights."
+ },
+ {
+  "id": "M2#8753",
+  "en": "I left the hotel for a little morning walk,",
+  "note": "Shared with msg 341325, where slice 110 row #8830 follows: it must start lowercase."
+ },
+ {
+  "id": "M2#8754",
+  "en": "and now I can't find my way back..."
+ },
+ {
+  "id": "M2#8755",
+  "en": "I have a map. I'll show you on it."
+ },
+ {
+  "id": "M2#8756",
+  "en": "Thank you for your kindness.",
+  "note": "After #1857 variant 'Yes, please.'"
+ },
+ {
+  "id": "M2#8757",
+  "en": "You're such a kind person."
+ },
+ {
+  "id": "M2#8758",
+  "en": "Good morning. We meet again."
+ },
+ {
+  "id": "M2#8759",
+  "en": "It seems you live here.",
+  "note": "Shared with msg 341414 after #8836 (slice 110)."
+ },
+ {
+  "id": "M2#8760",
+  "en": "London is such a lovely city."
+ },
+ {
+  "id": "M2#8761",
+  "en": "I'd have liked to live here longer too."
+ },
+ {
+  "id": "M2#8762",
+  "en": "My, what luck to run into you again."
+ },
+ {
+  "id": "M2#8763",
+  "en": "I've enjoyed the sights and made a lovely",
+  "note": "Cut before 'friend' to match #8839 (slice 110) 'I've enjoyed the sights and made a lovely young', which shares #8764."
+ },
+ {
+  "id": "M2#8764",
+  "en": "friend, too. How lucky I am."
+ },
+ {
+  "id": "M2#8765",
+  "en": "On your way to work, I suppose. Take care."
+ },
+ {
+  "id": "M2#8766",
+  "en": "Madam. Is something wrong?"
+ },
+ {
+  "id": "M2#8767",
+  "en": "I only meant to stroll around a little,",
+  "note": "Followed by #8754 (msg 340792) and #8842 (slice 110, msg 341466): #8842 must start lowercase."
+ },
+ {
+  "id": "M2#8768",
+  "en": "Coming home from work? You must be tired."
+ },
+ {
+  "id": "M2#8769",
+  "en": "London really is a wonderful city."
+ },
+ {
+  "id": "M2#8770",
+  "en": "So pretty, so modern. If I were younger,"
+ },
+ {
+  "id": "M2#8771",
+  "en": "I'd have liked to really live here."
+ },
+ {
+  "id": "M2#8772",
+  "en": "Good evening. A lovely night, isn't it?"
+ },
+ {
+  "id": "M2#8773",
+  "en": "The night breeze has its charm, too."
+ },
+ {
+  "id": "M2#8774",
+  "en": "You're a curious one. Somehow you seem"
+ },
+ {
+  "id": "M2#8775",
+  "en": "more alive at night."
+ },
+ {
+  "id": "M2#8776",
+  "en": "Hello. Um, could I trouble you a moment?"
+ },
+ {
+  "id": "M2#8777",
+  "en": "This is Big Ben, isn't it?"
+ },
+ {
+  "id": "M2#8778",
+  "en": "Yes, it is. No mistake."
+ },
+ {
+  "id": "M2#8779",
+  "en": "Are you sightseeing?"
+ },
+ {
+  "id": "M2#8780",
+  "en": "Yes. Can you tell?"
+ },
+ {
+  "id": "M2#8781",
+  "en": "I'm from Paris."
+ },
+ {
+  "id": "M2#8782",
+  "en": "London really is a big city. It amazes me."
+ },
+ {
+  "id": "M2#8783",
+  "en": "Indeed. It's so big it makes my head spin."
+ },
+ {
+  "id": "M2#8784",
+  "en": "I'm from abroad myself, you see."
+ },
+ {
+  "id": "M2#8785",
+  "en": "Thank you so much. Good day."
+ },
+ {
+  "id": "M2#8786",
+  "en": "Hello. We've met before, haven't we?"
+ },
+ {
+  "id": "M2#8787",
+  "en": "Is this the right place for Big Ben?"
+ },
+ {
+  "id": "M2#8788",
+  "en": "Yes, this right here is Big Ben."
+ },
+ {
+  "id": "M2#8789",
+  "en": "Oh, good. I thought I'd gotten lost again."
+ },
+ {
+  "id": "M2#8790",
+  "en": "Thanks to you, I'm enjoying my sightseeing."
+ },
+ {
+  "id": "M2#8791",
+  "en": "Silly, isn't it? I came to see Big Ben",
+  "note": "Shared with msg 341766, where slice 110 row #8866 follows: it must start with 'again.'"
+ },
+ {
+  "id": "M2#8792",
+  "en": "again. ...It's so big and lovely."
+ },
+ {
+  "id": "M2#8793",
+  "en": "It's the symbol of London, after all."
+ },
+ {
+  "id": "M2#8794",
+  "en": "If only I could take a photograph."
+ },
+ {
+  "id": "M2#8795",
+  "en": "Oh my, you've caught me again."
+ },
+ {
+  "id": "M2#8796",
+  "en": "Coming here has somehow become a habit."
+ },
+ {
+  "id": "M2#8797",
+  "en": "I never tire of it, however often I look."
+ },
+ {
+  "id": "M2#8798",
+  "en": "So you like Big Ben too.",
+  "note": "Followed by shared #8044 'Isn't that so?'."
+ },
+ {
+  "id": "M2#8799",
+  "en": "Where should I go next, I wonder."
+ }
+]

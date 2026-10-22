@@ -1,0 +1,342 @@
+[
+ {
+  "id": "EP1.BIN@AA8",
+  "en": "You will not set foot in London alive...",
+  "note": "Christopher (scene 1, Christopher-scenario ending)."
+ },
+ {
+  "id": "EP1.BIN@A84",
+  "en": "I will end this here and now...!"
+ },
+ {
+  "id": "EP1.BIN@A74",
+  "en": "Hmph. Whelp",
+  "note": "Duran; followed by @A68 on the same line (as EP0 'Whelp' + '...')."
+ },
+ {
+  "id": "EP1.BIN@A68",
+  "en": "..."
+ },
+ {
+  "id": "EP1.BIN@A40",
+  "en": "While I was toying with these foolish humans,",
+  "note": "240 px, exactly one line."
+ },
+ {
+  "id": "EP1.BIN@A24",
+  "en": "the ship carrying my coffin"
+ },
+ {
+  "id": "EP1.BIN@A00",
+  "en": "has reached its destination, London."
+ },
+ {
+  "id": "EP1.BIN@9D8",
+  "en": "I will let no one stand in my way."
+ },
+ {
+  "id": "EP1.BIN@9AC",
+  "en": "Not those irksome vampire hunters,"
+ },
+ {
+  "id": "EP1.BIN@998",
+  "en": "and not you either."
+ },
+ {
+  "id": "EP1.BIN@988",
+  "en": "......",
+  "note": "Christopher."
+ },
+ {
+  "id": "EP1.BIN@974",
+  "en": ", my lord, shall we go after him?",
+  "note": "Sistina; preceded by the player-name opcode: '{PLAYER_NAME}, my lord, shall we go after him?' (same as EP0@774)."
+ },
+ {
+  "id": "EP1.BIN@95C",
+  "en": "I will arrange a ship at once.",
+  "note": "Christopher."
+ },
+ {
+  "id": "EP1.BIN@938",
+  "en": "Sistina, send word to Ragash."
+ },
+ {
+  "id": "EP1.BIN@928",
+  "en": "I'm counting on you...!"
+ },
+ {
+  "id": "EP1.BIN@908",
+  "en": "Our little game ends here.",
+  "note": "Scene 2 (Duran-scenario ending): Duran to the defeated opponent (Christopher?)."
+ },
+ {
+  "id": "EP1.BIN@8E4",
+  "en": "...Now begone from my sight!"
+ },
+ {
+  "id": "EP1.BIN@8D0",
+  "en": ", my lord, please hurry.",
+  "note": "Servant (unidentified, as EP0@39C); preceded by the player-name opcode: '{PLAYER_NAME}, my lord, please hurry.'"
+ },
+ {
+  "id": "EP1.BIN@8B0",
+  "en": "The ship will be leaving port shortly."
+ },
+ {
+  "id": "EP1.BIN@898",
+  "en": "Very well. I shall come at once.",
+  "note": "Duran; same wording as EP0@364."
+ },
+ {
+  "id": "EP1.BIN@880",
+  "en": "Go ahead and wait for me on the ship."
+ },
+ {
+  "id": "EP1.BIN@85C",
+  "en": "So you have cheated death once again."
+ },
+ {
+  "id": "EP1.BIN@83C",
+  "en": "Let this be a lesson: never again show"
+ },
+ {
+  "id": "EP1.BIN@81C",
+  "en": "your face before me..."
+ },
+ {
+  "id": "EP1.BIN@7F8",
+  "en": "Lately the livestock keep dyin' strange-like."
+ },
+ {
+  "id": "EP1.BIN@7D8",
+  "en": "Found 'em collapsed, dead from losin' blood."
+ },
+ {
+  "id": "EP1.BIN@7B4",
+  "en": "And the babies bein' born, why,"
+ },
+ {
+  "id": "EP1.BIN@794",
+  "en": "every one's deformed. They die right off."
+ },
+ {
+  "id": "EP1.BIN@770",
+  "en": "Wondered why the critters in the woods were"
+ },
+ {
+  "id": "EP1.BIN@754",
+  "en": "gettin' so scarce, and behind the lord's manor"
+ },
+ {
+  "id": "EP1.BIN@72C",
+  "en": "there was a whole mountain of dead animals!"
+ },
+ {
+  "id": "EP1.BIN@708",
+  "en": "The lord's away at the war right now..."
+ },
+ {
+  "id": "EP1.BIN@6E0",
+  "en": "This is all that outsider bride's doing,"
+ },
+ {
+  "id": "EP1.BIN@6D0",
+  "en": "I'm sure of it..."
+ },
+ {
+  "id": "EP1.BIN@6AC",
+  "en": "Ever since that bride came, it's been"
+ },
+ {
+  "id": "EP1.BIN@698",
+  "en": "one queer thing after another..."
+ },
+ {
+  "id": "EP1.BIN@67C",
+  "en": "That woman's a witch, sure as anything!"
+ },
+ {
+  "id": "EP1.BIN@65C",
+  "en": "Burn her at the stake! Put her to death!"
+ },
+ {
+  "id": "EP1.BIN@64C",
+  "en": "!!!!!!",
+  "note": "The lord (name inserted later via opcode; Duran in context) returning."
+ },
+ {
+  "id": "EP1.BIN@62C",
+  "en": "What is the meaning of this!"
+ },
+ {
+  "id": "EP1.BIN@610",
+  "en": "What has happened here!"
+ },
+ {
+  "id": "EP1.BIN@608",
+  "en": "...",
+  "note": "Servant; followed on the same line by the player-name opcode and @5F8."
+ },
+ {
+  "id": "EP1.BIN@5F8",
+  "en": ", my lord, while you were away,",
+  "note": "Line reads '...{PLAYER_NAME}, my lord, while you were away,'."
+ },
+ {
+  "id": "EP1.BIN@5D0",
+  "en": "the villagers seized Lady Rowena as a witch"
+ },
+ {
+  "id": "EP1.BIN@5A4",
+  "en": "and took her away from the castle."
+ },
+ {
+  "id": "EP1.BIN@578",
+  "en": "By the time I noticed, it was already..."
+ },
+ {
+  "id": "EP1.BIN@55C",
+  "en": "All I could do was bring her body"
+ },
+ {
+  "id": "EP1.BIN@534",
+  "en": "back like this. I am so sorry."
+ },
+ {
+  "id": "EP1.BIN@528",
+  "en": "All because I",
+  "note": "The lord; printed on its own line."
+ },
+ {
+  "id": "EP1.BIN@500",
+  "en": "never gave you eternal life...",
+  "note": "Trailing 、 dropped."
+ },
+ {
+  "id": "EP1.BIN@4F0",
+  "en": "Rowena!"
+ },
+ {
+  "id": "EP1.BIN@4C4",
+  "en": "If it is not too late, I will give you all"
+ },
+ {
+  "id": "EP1.BIN@4AC",
+  "en": "of my blood..."
+ },
+ {
+  "id": "EP1.BIN@484",
+  "en": "...if only that would bring you back to life..."
+ },
+ {
+  "id": "EP1.BIN@464",
+  "en": "She may draw breath again.",
+  "note": "Servant (unidentified). Subject (Rowena) restored as 'She'."
+ },
+ {
+  "id": "EP1.BIN@444",
+  "en": "Though surely only for a moment..."
+ },
+ {
+  "id": "EP1.BIN@434",
+  "en": "Oh, my love. ",
+  "note": "Rowena (wife) to her husband; trailing space: followed by the player-name opcode and @428 on the same line."
+ },
+ {
+  "id": "EP1.BIN@428",
+  "en": "..."
+ },
+ {
+  "id": "EP1.BIN@418",
+  "en": "I'm so glad..."
+ },
+ {
+  "id": "EP1.BIN@3F4",
+  "en": "that I could see you once more, like this."
+ },
+ {
+  "id": "EP1.BIN@3E0",
+  "en": "Rowena..."
+ },
+ {
+  "id": "EP1.BIN@3B4",
+  "en": "I am human, so I will die, but you"
+ },
+ {
+  "id": "EP1.BIN@388",
+  "en": "are a vampire who lives forever, aren't you?"
+ },
+ {
+  "id": "EP1.BIN@360",
+  "en": "Then I will be born again,"
+ },
+ {
+  "id": "EP1.BIN@340",
+  "en": "and I know I will meet you once more."
+ },
+ {
+  "id": "EP1.BIN@314",
+  "en": "Remember the linden tree in London?"
+ },
+ {
+  "id": "EP1.BIN@2E8",
+  "en": "It was beneath that linden tree"
+ },
+ {
+  "id": "EP1.BIN@2BC",
+  "en": "that I met you. ...That tree is the tree of life..."
+ },
+ {
+  "id": "EP1.BIN@294",
+  "en": "I know I will be born again."
+ },
+ {
+  "id": "EP1.BIN@270",
+  "en": "So please, don't grieve..."
+ },
+ {
+  "id": "EP1.BIN@258",
+  "en": "All because I shrank from"
+ },
+ {
+  "id": "EP1.BIN@23C",
+  "en": "drinking human blood,"
+ },
+ {
+  "id": "EP1.BIN@228",
+  "en": "it has come to this..."
+ },
+ {
+  "id": "EP1.BIN@214",
+  "en": "I will not forgive this! I will not!"
+ },
+ {
+  "id": "EP1.BIN@1FC",
+  "en": "Foolish humans!!!"
+ },
+ {
+  "id": "EP1.BIN@1EC",
+  "en": "I beg you, ",
+  "note": "Servant; trailing space: followed by the player-name opcode and @1E8 on the same line."
+ },
+ {
+  "id": "EP1.BIN@1E8",
+  "en": ", my lord,",
+  "note": "Line reads 'I beg you, {PLAYER_NAME}, my lord,'."
+ },
+ {
+  "id": "EP1.BIN@1CC",
+  "en": "please come back to your senses."
+ },
+ {
+  "id": "EP1.BIN@1A0",
+  "en": "You were so gentle you shrank from drinking human blood, ",
+  "note": "Trailing space: followed by the player-name opcode and @194 on the same line; 2 box lines."
+ },
+ {
+  "id": "EP1.BIN@194",
+  "en": ", my lord...",
+  "note": "Line reads '...human blood, {PLAYER_NAME}, my lord...'."
+ }
+]

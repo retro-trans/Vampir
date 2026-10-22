@@ -1,0 +1,402 @@
+[
+ {
+  "id": "SLPS_019.32@1F98",
+  "en": "Type",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@1F90",
+  "en": "VIT",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@1F88",
+  "en": "Str",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@1F80",
+  "en": "Crit",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@1FAC",
+  "en": "Combat",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@1FA4",
+  "en": "Labor",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@1FA0",
+  "en": " ",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@0",
+  "en": "0",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@3",
+  "en": "1",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@9",
+  "en": "3",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@C",
+  "en": "4",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@18",
+  "en": "8",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@20",
+  "en": "normal",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@38",
+  "en": "none",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@134",
+  "en": "STAGE",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@140",
+  "en": "VAMPIRE",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@150",
+  "en": "ND setup",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@160",
+  "en": "critical limit",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@21C",
+  "en": "Duran",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@228",
+  "en": "Christopher",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@5F0",
+  "en": "Waiting...",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@5FC",
+  "en": "Not enough Blood Flow to drink!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@644",
+  "en": "Summon/Command",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@650",
+  "en": "You can't summon!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@664",
+  "en": "Message",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@66C",
+  "en": "No direct servants to command.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@688",
+  "en": "Can't summon any more!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@6A0",
+  "en": "No direct servants.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@844",
+  "en": "Transform",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@84C",
+  "en": "No transform power left!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@864",
+  "en": "Repairing coffin...",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@878",
+  "en": "Waiting",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@880",
+  "en": "Dawn breaks",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@88C",
+  "en": "Night falls",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@898",
+  "en": "Mortally wounded!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@8CC",
+  "en": "PAUSE",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@8D8",
+  "en": "Quit Game",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@8E4",
+  "en": "Are you sure?",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@8FC",
+  "en": "GAME OVER",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@910",
+  "en": "Transform power is gone!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@A50",
+  "en": "Before tally",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@AA0",
+  "en": "After tally",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@C0C",
+  "en": "The professor destroyed your coffin!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@C28",
+  "en": "Direct",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@C30",
+  "en": " was purified!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@C40",
+  "en": "Subord.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@C48",
+  "en": ": message failed!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@C60",
+  "en": " started fighting!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@C70",
+  "en": ": message delivered!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@C88",
+  "en": " ",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@C8C",
+  "en": " is now a subordinate.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@C9C",
+  "en": " is mortally wounded!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@CB0",
+  "en": " is cornered.",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@CC0",
+  "en": " defeated!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@CCC",
+  "en": " was defeated!",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@D9C",
+  "en": "Van Helsing",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@DA8",
+  "en": "Morris",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@DB0",
+  "en": "Harker",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@DBC",
+  "en": "Holmwood",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@DCC",
+  "en": "Seward",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@DF0",
+  "en": "M",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@DF4",
+  "en": "F",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@DF8",
+  "en": "Direct",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@E00",
+  "en": "Subord",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@E08",
+  "en": "Dhampir",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@E14",
+  "en": "Nosferatu",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@E24",
+  "en": " yrs",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@EF4",
+  "en": "Vampire",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@F04",
+  "en": "Labor type",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@F10",
+  "en": "Combat type",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@F6C",
+  "en": "Talk to whom?",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@F80",
+  "en": "Drink from whom?",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@1398",
+  "en": "Villager 2",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@13A0",
+  "en": "Villager 1",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@13A8",
+  "en": "Soldier",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@13B0",
+  "en": "Rowena",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@13BC",
+  "en": "Ragash",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@13C8",
+  "en": "Rusalie",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@13D4",
+  "en": "Sistina",
+  "note": "from work/translation/en/exe_en.tsv"
+ },
+ {
+  "id": "SLPS_019.32@13E4",
+  "en": "Orgo",
+  "note": "from work/translation/en/exe_en.tsv"
+ }
+]

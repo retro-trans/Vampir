@@ -1,0 +1,341 @@
+[
+ {
+  "id": "M2#7760",
+  "en": "Good evening. What can I do for you, miss?"
+ },
+ {
+  "id": "M2#7761",
+  "en": "Oh dear, that won't do. Let me see",
+  "note": "Followed by three paused '.' rows (#265), giving 'Let me see...'."
+ },
+ {
+  "id": "M2#7762",
+  "en": "Here, isn't this it?"
+ },
+ {
+  "id": "M2#7763",
+  "en": "If you don't replace the belt, you'll"
+ },
+ {
+  "id": "M2#7764",
+  "en": "drop it in the street again."
+ },
+ {
+  "id": "M2#7765",
+  "en": "I happen to like that belt!"
+ },
+ {
+  "id": "M2#7766",
+  "en": "Thaaank you, handsome. Bye!"
+ },
+ {
+  "id": "M2#7767",
+  "en": "What a strange girl"
+ },
+ {
+  "id": "M2#7768",
+  "en": "Oh, you're the one from earlier"
+ },
+ {
+  "id": "M2#7769",
+  "en": "Could it be you came for me...?"
+ },
+ {
+  "id": "M2#7770",
+  "en": "Oh! I have to get home. Bye!"
+ },
+ {
+  "id": "M2#7771",
+  "en": "<It's a secret>"
+ },
+ {
+  "id": "M2#7772",
+  "en": "<I'm a detective>"
+ },
+ {
+  "id": "M2#7773",
+  "en": "Oh well, fine. I bet it's way more fun",
+  "note": "No used_in; inferred reply to the <It's a secret> choice (parallel of #7670)."
+ },
+ {
+  "id": "M2#7774",
+  "en": "than going to some school, anyway."
+ },
+ {
+  "id": "M2#7775",
+  "en": "Huh?... Are you a student too?"
+ },
+ {
+  "id": "M2#7776",
+  "en": "An exchange student? You're kinda my type."
+ },
+ {
+  "id": "M2#7777",
+  "en": "What do you want? And tell me your name."
+ },
+ {
+  "id": "M2#7778",
+  "en": "I'm not a student."
+ },
+ {
+  "id": "M2#7779",
+  "en": "I'm so very ladylike that everyone calls me",
+  "note": "As #7681/#7682 (slice 096); 'Lady' carried into #7780."
+ },
+ {
+  "id": "M2#7780",
+  "en": "\"Lady.\" You can call me that too."
+ },
+ {
+  "id": "M2#7781",
+  "en": "See you, then."
+ },
+ {
+  "id": "M2#7782",
+  "en": "Good day, Mary."
+ },
+ {
+  "id": "M2#7783",
+  "en": "So this big building was a school."
+ },
+ {
+  "id": "M2#7784",
+  "en": "Yep, a school that's no damn fun at all."
+ },
+ {
+  "id": "M2#7785",
+  "en": "Your father is a scholar... How impressive."
+ },
+ {
+  "id": "M2#7786",
+  "en": "Not impressive at all. Papa's obsessed."
+ },
+ {
+  "id": "M2#7787",
+  "en": "He's forever fiddling with weird equations"
+ },
+ {
+  "id": "M2#7788",
+  "en": "and gadgets, and he totally ignores me."
+ },
+ {
+  "id": "M2#7789",
+  "en": "What, back again? Going to enroll or what?"
+ },
+ {
+  "id": "M2#7790",
+  "en": "Good day, Lady."
+ },
+ {
+  "id": "M2#7791",
+  "en": "You look well. I'm glad to see you."
+ },
+ {
+  "id": "M2#7792",
+  "en": "Wow... aren't you a smooth talker."
+ },
+ {
+  "id": "M2#7793",
+  "en": "But no way, I won't be fooled."
+ },
+ {
+  "id": "M2#7794",
+  "en": "I can't trust handsome men."
+ },
+ {
+  "id": "M2#7795",
+  "en": ", you're the talk of the school.",
+  "note": "After the name at line start: '{NAME}, you're the talk of the school.'"
+ },
+ {
+  "id": "M2#7796",
+  "en": "I'm kinda proud I get to talk to you."
+ },
+ {
+  "id": "M2#7797",
+  "en": "Come again. How about a date sometime?"
+ },
+ {
+  "id": "M2#7798",
+  "en": "If you're not already spoken for, that is."
+ },
+ {
+  "id": "M2#7799",
+  "en": "Who are you, mister? A pushy peddler?"
+ },
+ {
+  "id": "M2#7800",
+  "en": "I assure you I'm nobody suspicious."
+ },
+ {
+  "id": "M2#7801",
+  "en": " is my name, miss.",
+  "note": "After the name at line start: '{NAME} is my name, miss.'"
+ },
+ {
+  "id": "M2#7802",
+  "en": "I came to the wrong house. Sorry."
+ },
+ {
+  "id": "M2#7803",
+  "en": "Seems she got the wrong idea.",
+  "note": "After '...' (#152)."
+ },
+ {
+  "id": "M2#7804",
+  "en": "You're a pushy peddler, right?",
+  "note": "After '...' (#152)."
+ },
+ {
+  "id": "M2#7805",
+  "en": "Oh, back again? No pushy peddlers."
+ },
+ {
+  "id": "M2#7806",
+  "en": "Father's battling his research. No visitors."
+ },
+ {
+  "id": "M2#7807",
+  "en": "If you want to see me, come to the school. Bye."
+ },
+ {
+  "id": "M2#7808",
+  "en": "I told you, I've got no room to breathe!"
+ },
+ {
+  "id": "M2#7809",
+  "en": "My life is ruled by homework."
+ },
+ {
+  "id": "M2#7810",
+  "en": "Come again. Let's talk about all sorts."
+ },
+ {
+  "id": "M2#7811",
+  "en": ", you're always welcome.",
+  "note": "After the name at line start."
+ },
+ {
+  "id": "M2#7812",
+  "en": "Sorry I was such a brat at first."
+ },
+ {
+  "id": "M2#7813",
+  "en": "Would you say, 'I'm sure you can'?",
+  "note": "Joined directly after #7743, whose variant for msg 301356 (slice 096) ends with a space."
+ },
+ {
+  "id": "M2#7814",
+  "en": "Mary"
+ },
+ {
+  "id": "M2#7815",
+  "en": "Sleeping so soundly"
+ },
+ {
+  "id": "M2#7816",
+  "en": "in my arms"
+ },
+ {
+  "id": "M2#7817",
+  "en": "May you grow into a graceful lady"
+ },
+ {
+  "id": "M2#7818",
+  "en": "I'll never see you so full of life again."
+ },
+ {
+  "id": "M2#7819",
+  "en": "Forgive me"
+ },
+ {
+  "id": "M2#7820",
+  "en": "I am your loyal servant."
+ },
+ {
+  "id": "M2#7821",
+  "en": "Weird... when I woke up, my pillow was at my feet."
+ },
+ {
+  "id": "M2#7822",
+  "en": "I'll obey anything. Now, your orders..."
+ },
+ {
+  "id": "M2#7823",
+  "en": "I dreamed of a huge fight in town at night."
+ },
+ {
+  "id": "M2#7824",
+  "en": "Both of us were as strong as monsters!"
+ },
+ {
+  "id": "M2#7825",
+  "en": "No, I was just impressed you're up so early,",
+  "note": "Shared opening; followed by #7826 or #7894 (slice 098)."
+ },
+ {
+  "id": "M2#7826",
+  "en": "that's all. Sorry to bother you.",
+  "note": "Must read after #7825 and after #7843 (slice 098)."
+ },
+ {
+  "id": "M2#7827",
+  "en": "No, I don't mind at all."
+ },
+ {
+  "id": "M2#7828",
+  "en": "Thank you for greeting me."
+ },
+ {
+  "id": "M2#7829",
+  "en": "My name is Mike."
+ },
+ {
+  "id": "M2#7830",
+  "en": ".",
+  "note": "After 'My name is '/'I'm ' + name.",
+  "variants": [
+   {
+    "msg": 328638,
+    "en": " is my name."
+   }
+  ]
+ },
+ {
+  "id": "M2#7831",
+  "en": "What a polite boy. I'm impressed."
+ },
+ {
+  "id": "M2#7832",
+  "en": "No, it's only natural."
+ },
+ {
+  "id": "M2#7833",
+  "en": "...I don't want to be like my father."
+ },
+ {
+  "id": "M2#7834",
+  "en": "Oh, well, excuse me."
+ },
+ {
+  "id": "M2#7835",
+  "en": "Please don't mind what happened earlier."
+ },
+ {
+  "id": "M2#7836",
+  "en": "Thank you for your hard work again today."
+ },
+ {
+  "id": "M2#7837",
+  "en": "I'll work hard at my studies at school, too."
+ },
+ {
+  "id": "M2#7838",
+  "en": ", you're always",
+  "note": "After the name at line start; #7839 continues on the next line."
+ },
+ {
+  "id": "M2#7839",
+  "en": "so admirable."
+ }
+]

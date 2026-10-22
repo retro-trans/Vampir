@@ -1,0 +1,342 @@
+[
+ {
+  "id": "M1#6160",
+  "en": "But it can't be helped. We'll just have to"
+ },
+ {
+  "id": "M1#6161",
+  "en": "get by on his small salary somehow."
+ },
+ {
+  "id": "M1#6162",
+  "en": "Money is tight again this month."
+ },
+ {
+  "id": "M1#6163",
+  "en": "But we'll just have to make do somehow."
+ },
+ {
+  "id": "M1#6164",
+  "en": "Who is it, at this hour of the night?"
+ },
+ {
+  "id": "M1#6165",
+  "en": "Is something the matter?"
+ },
+ {
+  "id": "M1#6166",
+  "en": "I wished to see the face of the husband"
+ },
+ {
+  "id": "M1#6167",
+  "en": "who causes you such suffering."
+ },
+ {
+  "id": "M1#6168",
+  "en": "Oh, I can't have that!"
+ },
+ {
+  "id": "M1#6169",
+  "en": "Please, I beg you, go home."
+ },
+ {
+  "id": "M1#6170",
+  "en": "I see. A pity I could not obtain"
+ },
+ {
+  "id": "M1#6171",
+  "en": "your husband's permission, but"
+ },
+ {
+  "id": "M1#6172",
+  "en": "You, ",
+  "note": "no used_in: joins #6173 ('You, shall be my servant by night.'); trailing space in case both print on one line"
+ },
+ {
+  "id": "M1#6173",
+  "en": "shall be my servant by night."
+ },
+ {
+  "id": "M1#6174",
+  "en": "Your servant by night?"
+ },
+ {
+  "id": "M1#6175",
+  "en": "What a rude way to put it",
+  "note": "no used_in; JP has no closing punctuation, kept open as in source"
+ },
+ {
+  "id": "M1#6176",
+  "en": "Hey, ",
+  "note": "no used_in; trailing space in case #6177 follows on the same line"
+ },
+ {
+  "id": "M1#6177",
+  "en": "what are you doing",
+  "note": "no used_in; JP has no closing punctuation; lowercase because it follows #6176 'Hey, '"
+ },
+ {
+  "id": "M1#6178",
+  "en": "Eeeek"
+ },
+ {
+  "id": "M1#6179",
+  "en": "Now you are a fine servant."
+ },
+ {
+  "id": "M1#6180",
+  "en": "Serve your husband by day, and me by night."
+ },
+ {
+  "id": "M1#6181",
+  "en": "I've just come to introduce myself"
+ },
+ {
+  "id": "M1#6182",
+  "en": "My, what a charming young gentleman"
+ },
+ {
+  "id": "M1#6183",
+  "en": "Oh, listen to me."
+ },
+ {
+  "id": "M1#6184",
+  "en": "And I'm a married woman!"
+ },
+ {
+  "id": "M1#6185",
+  "en": "A gentleman like you is always welcome here."
+ },
+ {
+  "id": "M1#6186",
+  "en": "How nice of you to visit. I baked some"
+ },
+ {
+  "id": "M1#6187",
+  "en": "cookies. Please, help yourself."
+ },
+ {
+  "id": "M1#6188",
+  "en": "It's embarrassing, but we have no money,"
+ },
+ {
+  "id": "M1#6189",
+  "en": "so I can't even hire a servant anymore."
+ },
+ {
+  "id": "M1#6190",
+  "en": "If I buy in bulk at the market once a week,"
+ },
+ {
+  "id": "M1#6191",
+  "en": "it works out cheaper."
+ },
+ {
+  "id": "M1#6192",
+  "en": "Oh dear, why am I telling a guest all this?"
+ },
+ {
+  "id": "M1#6193",
+  "en": "By night, I am your servant"
+ },
+ {
+  "id": "M1#6194",
+  "en": "Command me as you wish"
+ },
+ {
+  "id": "M1#6195",
+  "en": "Where are you off to"
+ },
+ {
+  "id": "M1#6196",
+  "en": "I'm on my way to Alster Park"
+ },
+ {
+  "id": "M1#6197",
+  "en": "I have some business to attend to"
+ },
+ {
+  "id": "M1#6198",
+  "en": "Hello, miss."
+ },
+ {
+  "id": "M1#6199",
+  "en": "Off to the park again today?"
+ },
+ {
+  "id": "M1#6200",
+  "en": "Yes",
+  "note": "variants for 246546/247287: lowercase after #2100 'Oh, ' and carry the period (zz_auto_space blanks #25 in those messages)",
+  "variants": [
+   {
+    "msg": 246546,
+    "en": "yes."
+   },
+   {
+    "msg": 247287,
+    "en": "yes."
+   }
+  ]
+ },
+ {
+  "id": "M1#6201",
+  "en": "Who might you be?"
+ },
+ {
+  "id": "M1#6202",
+  "en": "I don't believe we've met before."
+ },
+ {
+  "id": "M1#6203",
+  "en": "Forgive me. Allow me to introduce myself."
+ },
+ {
+  "id": "M1#6204",
+  "en": "I hope you will remember me"
+ },
+ {
+  "id": "M1#6205",
+  "en": " Pleased to meet you",
+  "note": "leading space: follows #25 '.' in both uses"
+ },
+ {
+  "id": "M1#6206",
+  "en": "I must be getting home..."
+ },
+ {
+  "id": "M1#6207",
+  "en": "If you'll excuse me."
+ },
+ {
+  "id": "M1#6208",
+  "en": "I must be getting home"
+ },
+ {
+  "id": "M1#6209",
+  "en": ",",
+  "note": "'NAME,' then #5664 'we keep running into each other.' on the next line"
+ },
+ {
+  "id": "M1#6210",
+  "en": "Perhaps it's some kind of fate"
+ },
+ {
+  "id": "M1#6211",
+  "en": "Joseph! You came"
+ },
+ {
+  "id": "M1#6212",
+  "en": "I fear you mistake me for another. I am"
+ },
+ {
+  "id": "M1#6213",
+  "en": "Oh! I-I'm so sorry."
+ },
+ {
+  "id": "M1#6214",
+  "en": "I had arranged to meet someone here,"
+ },
+ {
+  "id": "M1#6215",
+  "en": "you see",
+  "note": "#6272 (slice 078, same sentence end) should read 'you see...'"
+ },
+ {
+  "id": "M1#6216",
+  "en": ", wasn't it?",
+  "note": "'NAME, wasn't it?'"
+ },
+ {
+  "id": "M1#6217",
+  "en": "Isn't he coming today either?"
+ },
+ {
+  "id": "M1#6218",
+  "en": "I'm waiting for someone in this park."
+ },
+ {
+  "id": "M1#6219",
+  "en": "His name is Joseph,"
+ },
+ {
+  "id": "M1#6220",
+  "en": "and he is my sweetheart."
+ },
+ {
+  "id": "M1#6221",
+  "en": "The one I'm waiting for"
+ },
+ {
+  "id": "M1#6222",
+  "en": "is Joseph, my sweetheart. He's a soldier."
+ },
+ {
+  "id": "M1#6223",
+  "en": "He said he'd be back from the war in a year."
+ },
+ {
+  "id": "M1#6224",
+  "en": "But the day has come, and he hasn't..."
+ },
+ {
+  "id": "M1#6225",
+  "en": "We promised to meet in this park in a year."
+ },
+ {
+  "id": "M1#6226",
+  "en": "I'm waiting for my sweetheart, Joseph"
+ },
+ {
+  "id": "M1#6227",
+  "en": "He was never one to break a promise."
+ },
+ {
+  "id": "M1#6228",
+  "en": "Has something happened to him"
+ },
+ {
+  "id": "M1#6229",
+  "en": "Human hearts are fickle things."
+ },
+ {
+  "id": "M1#6230",
+  "en": "No. I believe in Joseph. No matter how"
+ },
+ {
+  "id": "M1#6231",
+  "en": "late he may be, I know he will surely"
+ },
+ {
+  "id": "M1#6232",
+  "en": "come back to me."
+ },
+ {
+  "id": "M1#6233",
+  "en": "I mean to wait here for him every day,"
+ },
+ {
+  "id": "M1#6234",
+  "en": "for as long as I need to."
+ },
+ {
+  "id": "M1#6235",
+  "en": "After all, there is nothing else"
+ },
+ {
+  "id": "M1#6236",
+  "en": "I can do"
+ },
+ {
+  "id": "M1#6237",
+  "en": "Forgive me, I'm rather busy right now."
+ },
+ {
+  "id": "M1#6238",
+  "en": "Sorry, I'm busy right now."
+ },
+ {
+  "id": "M1#6239",
+  "en": "Lately, people around me keep bringing me",
+  "note": "#6240 (slice 078) must supply the object: 'marriage proposals.'"
+ }
+]

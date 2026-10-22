@@ -1,0 +1,333 @@
+[
+ {
+  "id": "EP0.BIN@900",
+  "en": "Such power is surging through me"
+ },
+ {
+  "id": "EP0.BIN@8FC",
+  "en": ".",
+  "note": "Shared: printed three times with pauses after @900 to give '...'."
+ },
+ {
+  "id": "EP0.BIN@8D8",
+  "en": "With this, I may be able to defeat the enemy."
+ },
+ {
+  "id": "EP0.BIN@8D0",
+  "en": "Whelp",
+  "note": "Duran. Followed by shared @8C4 '...'."
+ },
+ {
+  "id": "EP0.BIN@8C4",
+  "en": "..."
+ },
+ {
+  "id": "EP0.BIN@89C",
+  "en": "You think you can finish me off? Laughable."
+ },
+ {
+  "id": "EP0.BIN@870",
+  "en": "To regain my lost power, I've been slaking"
+ },
+ {
+  "id": "EP0.BIN@850",
+  "en": "my thirst for blood on humans here, but",
+  "note": "Followed by @8C4 '...'."
+ },
+ {
+  "id": "EP0.BIN@828",
+  "en": "In any case, I never meant to linger"
+ },
+ {
+  "id": "EP0.BIN@818",
+  "en": "in this backwater forever",
+  "note": "Followed by @8C4 '...'."
+ },
+ {
+  "id": "EP0.BIN@7F0",
+  "en": "My purpose is to bring pain and"
+ },
+ {
+  "id": "EP0.BIN@7DC",
+  "en": "terror to as many humans as possible."
+ },
+ {
+  "id": "EP0.BIN@7B4",
+  "en": "At last, the preparations are in place..."
+ },
+ {
+  "id": "EP0.BIN@78C",
+  "en": "We had him cornered, just one step away!"
+ },
+ {
+  "id": "EP0.BIN@774",
+  "en": ", my lord, shall we go after him?"
+ },
+ {
+  "id": "EP0.BIN@750",
+  "en": "No, let's head back to the castle for now"
+ },
+ {
+  "id": "EP0.BIN@744",
+  "en": "and report to Ragash."
+ },
+ {
+  "id": "EP0.BIN@71C",
+  "en": "It's galling, but he still seems to have"
+ },
+ {
+  "id": "EP0.BIN@710",
+  "en": "plenty of strength in reserve"
+ },
+ {
+  "id": "EP0.BIN@6F8",
+  "en": ", I'm glad you made it back safely.",
+  "note": "Ragash; preceded by the player-name opcode."
+ },
+ {
+  "id": "EP0.BIN@6D4",
+  "en": "I'm sorry. I let the enemy get away.",
+  "note": "Christopher; subject 'I' restored."
+ },
+ {
+  "id": "EP0.BIN@6B8",
+  "en": "No, it was your first time in the human world."
+ },
+ {
+  "id": "EP0.BIN@69C",
+  "en": "Much of it must have confused you",
+  "note": "Followed by @8C4 '...'."
+ },
+ {
+  "id": "EP0.BIN@670",
+  "en": "You fought quite admirably, I must say."
+ },
+ {
+  "id": "EP0.BIN@648",
+  "en": "Actually, while you held off the enemy,"
+ },
+ {
+  "id": "EP0.BIN@63C",
+  "en": "Rusalie found out where ",
+  "note": "Followed by the partner-name opcode (Duran), then @638, then a newline."
+ },
+ {
+  "id": "EP0.BIN@638",
+  "en": ""
+ },
+ {
+  "id": "EP0.BIN@618",
+  "en": "was headed."
+ },
+ {
+  "id": "EP0.BIN@5F0",
+  "en": "It seems his final destination is"
+ },
+ {
+  "id": "EP0.BIN@5DC",
+  "en": "London, in England."
+ },
+ {
+  "id": "EP0.BIN@5B4",
+  "en": "London is now the seat of a great empire"
+ },
+ {
+  "id": "EP0.BIN@5A8",
+  "en": "where the whole world's wealth gathers."
+ },
+ {
+  "id": "EP0.BIN@580",
+  "en": "He must have some scheme in mind."
+ },
+ {
+  "id": "EP0.BIN@568",
+  "en": "To get from Medoekia",
+  "note": "Script waits for a button after this row, then appends @550 on the same line. Speaker not settled (Ragash or Christopher); English needs no speaker."
+ },
+ {
+  "id": "EP0.BIN@550",
+  "en": " to London,",
+  "note": "Leading space: appended to @568 on the same line."
+ },
+ {
+  "id": "EP0.BIN@530",
+  "en": "he must board a ship somewhere."
+ },
+ {
+  "id": "EP0.BIN@51C",
+  "en": "Britain is an island nation."
+ },
+ {
+  "id": "EP0.BIN@4F4",
+  "en": "That's the only way to transport a coffin."
+ },
+ {
+  "id": "EP0.BIN@4D0",
+  "en": "I checked the ships' cargo registers"
+ },
+ {
+  "id": "EP0.BIN@4C0",
+  "en": "and found out where it was headed."
+ },
+ {
+  "id": "EP0.BIN@4A4",
+  "en": "That carriage is bound for..."
+ },
+ {
+  "id": "EP0.BIN@48C",
+  "en": "the port town of Calstatt",
+  "note": "Followed by @8C4 '...'."
+ },
+ {
+  "id": "EP0.BIN@464",
+  "en": "You dare defy me? Laughable."
+ },
+ {
+  "id": "EP0.BIN@43C",
+  "en": "Yes... there is one thing I have remembered"
+ },
+ {
+  "id": "EP0.BIN@434",
+  "en": "here in this land."
+ },
+ {
+  "id": "EP0.BIN@410",
+  "en": "My purpose is... revenge."
+ },
+ {
+  "id": "EP0.BIN@3E4",
+  "en": "To bring pain and terror to more humans,"
+ },
+ {
+  "id": "EP0.BIN@3C0",
+  "en": "I cannot remain in this backwater",
+  "note": "@3A4 is appended on the same line."
+ },
+ {
+  "id": "EP0.BIN@3A4",
+  "en": " forever...",
+  "note": "Leading space: appended to @3C0."
+ },
+ {
+  "id": "EP0.BIN@39C",
+  "en": ", my lord,",
+  "note": "Preceded by the player-name opcode (Duran in this scene): '{PLAYER_NAME}, my lord,' then newline. Servant unidentified (likely Orgo)."
+ },
+ {
+  "id": "EP0.BIN@37C",
+  "en": "the carriage is ready..."
+ },
+ {
+  "id": "EP0.BIN@364",
+  "en": "Very well. I shall come at once."
+ },
+ {
+  "id": "EP0.BIN@340",
+  "en": "I have no time to waste Critical Vitality"
+ },
+ {
+  "id": "EP0.BIN@318",
+  "en": "on the likes of you in a place like this."
+ },
+ {
+  "id": "EP0.BIN@2F0",
+  "en": "The British Empire... To reach London,"
+ },
+ {
+  "id": "EP0.BIN@2D4",
+  "en": "I must go by sea."
+ },
+ {
+  "id": "EP0.BIN@2AC",
+  "en": "...The Diary of Jonathan Harker..."
+ },
+ {
+  "id": "EP0.BIN@2A0",
+  "en": "<Read>"
+ },
+ {
+  "id": "EP0.BIN@290",
+  "en": "<Don't read>"
+ },
+ {
+  "id": "EP0.BIN@27C",
+  "en": "<November 12>"
+ },
+ {
+  "id": "EP0.BIN@24C",
+  "en": "The Count had vanished without a trace, and the",
+  "note": "Diary page (264 px); each row kept to one page line."
+ },
+ {
+  "id": "EP0.BIN@244",
+  "en": "tower stood utterly empty."
+ },
+ {
+  "id": "EP0.BIN@214",
+  "en": "Tracking the Count these past few days, I have"
+ },
+ {
+  "id": "EP0.BIN@200",
+  "en": "noticed one thing."
+ },
+ {
+  "id": "EP0.BIN@1E0",
+  "en": "It is this: there is not just"
+ },
+ {
+  "id": "EP0.BIN@1C8",
+  "en": "one vampire."
+ },
+ {
+  "id": "EP0.BIN@1AC",
+  "en": "Vampires other than the Count"
+ },
+ {
+  "id": "EP0.BIN@194",
+  "en": "do exist..."
+ },
+ {
+  "id": "EP0.BIN@164",
+  "en": "That Count Valaur is bound for London"
+ },
+ {
+  "id": "EP0.BIN@14C",
+  "en": "is all but certain."
+ },
+ {
+  "id": "EP0.BIN@11C",
+  "en": "In London live Miss Rose, my intended,"
+ },
+ {
+  "id": "EP0.BIN@F8",
+  "en": "and many other acquaintances of mine."
+ },
+ {
+  "id": "EP0.BIN@EC",
+  "en": "I cannot meekly stand by"
+ },
+ {
+  "id": "EP0.BIN@C0",
+  "en": "and let them fall prey to a vampire."
+ },
+ {
+  "id": "EP0.BIN@90",
+  "en": "To stop the Count entering the country, I wrote"
+ },
+ {
+  "id": "EP0.BIN@64",
+  "en": "to my old mentor, Professor Van Helsing, and to"
+ },
+ {
+  "id": "EP0.BIN@58",
+  "en": "my university friends, asking for their help."
+ },
+ {
+  "id": "EP0.BIN@30",
+  "en": "He is an expert in psychology and the occult."
+ },
+ {
+  "id": "EP0.BIN@4",
+  "en": "He is sure to have some effective countermeasure."
+ }
+]

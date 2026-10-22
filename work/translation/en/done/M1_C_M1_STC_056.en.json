@@ -1,0 +1,341 @@
+[
+ {
+  "id": "M1#4480",
+  "en": "a shrewd dealer, it seems",
+  "note": "continues slice 055 #4479 'This Mr. Wesseli here, he is quite'; '...' follows from #2"
+ },
+ {
+  "id": "M1#4481",
+  "en": "At last, the deal is closed!",
+  "note": "echoes #4478 'The deal, it will not close at all.'"
+ },
+ {
+  "id": "M1#4482",
+  "en": "By way of this port, I was able to get"
+ },
+ {
+  "id": "M1#4483",
+  "en": "the tea for cheap price."
+ },
+ {
+  "id": "M1#4484",
+  "en": "Quickly I must be preparing a ship"
+ },
+ {
+  "id": "M1#4485",
+  "en": "It looks like I go home carrying"
+ },
+ {
+  "id": "M1#4486",
+  "en": "very much cargo, yes.",
+  "note": "Japanese order of #4485/#4486 swapped across the row cut"
+ },
+ {
+  "id": "M1#4487",
+  "en": "Thinking that once I go home I cannot see you"
+ },
+ {
+  "id": "M1#4488",
+  "en": "anymore, I am a little bit lonely."
+ },
+ {
+  "id": "M1#4489",
+  "en": "But you, if you are traveler, maybe someday"
+ },
+ {
+  "id": "M1#4490",
+  "en": "somewhere we can meet again, yes."
+ },
+ {
+  "id": "M1#4491",
+  "en": "Ah, you are "
+ },
+ {
+  "id": "M1#4492",
+  "en": "What is the matter?"
+ },
+ {
+  "id": "M1#4493",
+  "en": "Ah, I understand!"
+ },
+ {
+  "id": "M1#4494",
+  "en": "You are sad because I go home, and so"
+ },
+ {
+  "id": "M1#4495",
+  "en": "you came to say goodbye, yes?",
+  "note": "player answers #4390 'That's right.'"
+ },
+ {
+  "id": "M1#4496",
+  "en": "Here's a parting gift from me. Take it.",
+  "note": "no used_in (unverified); read as the stern player before he bites Rosner, after #4390 'That's right.'"
+ },
+ {
+  "id": "M1#4497",
+  "en": "Gyaaaaaaah!",
+  "note": "no used_in (unverified); Rosner's scream"
+ },
+ {
+  "id": "M1#4498",
+  "en": "Sorry, but your trip home will have to wait a while."
+ },
+ {
+  "id": "M1#4499",
+  "en": "Do you do some kind of work?",
+  "note": "after #4424 'Hello to you, {NAME}.' (slice 055)"
+ },
+ {
+  "id": "M1#4500",
+  "en": "I can't afford it. Sorry."
+ },
+ {
+  "id": "M1#4501",
+  "en": "Is that so? Yes, of course."
+ },
+ {
+  "id": "M1#4502",
+  "en": "is there something you are needing?"
+ },
+ {
+  "id": "M1#4503",
+  "en": "Well, I'd love some nice, tasty blood."
+ },
+ {
+  "id": "M1#4504",
+  "en": "Eh!?"
+ },
+ {
+  "id": "M1#4505",
+  "en": "What is it you said just now?"
+ },
+ {
+  "id": "M1#4506",
+  "en": "Oh, no, I misspoke."
+ },
+ {
+  "id": "M1#4507",
+  "en": "I'd love a drink of some nice wine."
+ },
+ {
+  "id": "M1#4508",
+  "en": "Hmm, taking orders from a whelp like you"
+ },
+ {
+  "id": "M1#4509",
+  "en": "does not sit well, but it can't be helped",
+  "note": "shared: after #4508 and #4510; no end punctuation ('...' follows)"
+ },
+ {
+  "id": "M1#4510",
+  "en": "Hmm, taking orders"
+ },
+ {
+  "id": "M1#4511",
+  "en": "And who might you be?"
+ },
+ {
+  "id": "M1#4512",
+  "en": "Do you realize it's Dellwald"
+ },
+ {
+  "id": "M1#4513",
+  "en": "you're speaking to?"
+ },
+ {
+  "id": "M1#4514",
+  "en": "I am the jeweler"
+ },
+ {
+  "id": "M1#4515",
+  "en": "Hapst Dellwald."
+ },
+ {
+  "id": "M1#4516",
+  "en": "I'll thank you not to be so familiar."
+ },
+ {
+  "id": "M1#4517",
+  "en": "Look here, I'm in a hurry to get somewhere."
+ },
+ {
+  "id": "M1#4518",
+  "en": "Kindly stay out of my way."
+ },
+ {
+  "id": "M1#4519",
+  "en": "Oh, it's you."
+ },
+ {
+  "id": "M1#4520",
+  "en": "Still, what a strange name that is."
+ },
+ {
+  "id": "M1#4521",
+  "en": "I am the jeweler"
+ },
+ {
+  "id": "M1#4522",
+  "en": "I told you, I won't have you being so familiar."
+ },
+ {
+  "id": "M1#4523",
+  "en": "Impertinent fellow."
+ },
+ {
+  "id": "M1#4524",
+  "en": "(You're the impertinent one.)"
+ },
+ {
+  "id": "M1#4525",
+  "en": "I'm on my way home."
+ },
+ {
+  "id": "M1#4526",
+  "en": "Isn't it about time you bought a jewel?"
+ },
+ {
+  "id": "M1#4527",
+  "en": "I'll be looking forward to it."
+ },
+ {
+  "id": "M1#4528",
+  "en": "Did you come here knowing this is"
+ },
+ {
+  "id": "M1#4529",
+  "en": "the Dellwald house?"
+ },
+ {
+  "id": "M1#4530",
+  "en": "This is no house for the likes of you"
+ },
+ {
+  "id": "M1#4531",
+  "en": "to just drop in on."
+ },
+ {
+  "id": "M1#4532",
+  "en": "Now, off you go."
+ },
+ {
+  "id": "M1#4533",
+  "en": "How tiresome. Off with you, and be quick."
+ },
+ {
+  "id": "M1#4534",
+  "en": "Barging in on me at my own home is a nuisance."
+ },
+ {
+  "id": "M1#4535",
+  "en": "Kindly leave.",
+  "note": "variant for Anna msg 222895, after #5633 ending 'hurry up'",
+  "variants": [
+   {
+    "msg": 222895,
+    "en": "and get out."
+   }
+  ]
+ },
+ {
+  "id": "M1#4536",
+  "en": "If memory serves, you're called "
+ },
+ {
+  "id": "M1#4537",
+  "en": " or"
+ },
+ {
+  "id": "M1#4538",
+  "en": "something like that."
+ },
+ {
+  "id": "M1#4539",
+  "en": "If you want to talk, I'll hear you at the shop."
+ },
+ {
+  "id": "M1#4540",
+  "en": "I am the jeweler Hapst Dellwald."
+ },
+ {
+  "id": "M1#4541",
+  "en": "My shop has no use for paupers."
+ },
+ {
+  "id": "M1#4542",
+  "en": "Hmm, from the look of you, you don't seem"
+ },
+ {
+  "id": "M1#4543",
+  "en": "to be a pauper, at least.",
+  "note": "shared with #4595 (slice 057): that row should end like 'you may be young, but you don't seem'"
+ },
+ {
+  "id": "M1#4544",
+  "en": "Well then, feel free to look, at least."
+ },
+ {
+  "id": "M1#4545",
+  "en": "Not that these are things just anyone"
+ },
+ {
+  "id": "M1#4546",
+  "en": "can afford, mind you."
+ },
+ {
+  "id": "M1#4547",
+  "en": "This is a jeweler's. We've no use for paupers."
+ },
+ {
+  "id": "M1#4548",
+  "en": "Well, feel free to look at the goods, at least."
+ },
+ {
+  "id": "M1#4549",
+  "en": "Oh, welcome.",
+  "note": "shared with Anna msg 222367"
+ },
+ {
+  "id": "M1#4550",
+  "en": "Has anything caught your eye?"
+ },
+ {
+  "id": "M1#4551",
+  "en": "Hmm,"
+ },
+ {
+  "id": "M1#4552",
+  "en": "you've a sharp tongue, but decent stock.",
+  "note": "said to Dellwald's face: he answers about his stock"
+ },
+ {
+  "id": "M1#4553",
+  "en": "As for stock, through Wesseli's trading house"
+ },
+ {
+  "id": "M1#4554",
+  "en": "I gather only the finest goods in the world."
+ },
+ {
+  "id": "M1#4555",
+  "en": "I deal in nothing but the first-rate."
+ },
+ {
+  "id": "M1#4556",
+  "en": "Oh? Looking closely, your necktie is made"
+ },
+ {
+  "id": "M1#4557",
+  "en": "of a rather unusual material."
+ },
+ {
+  "id": "M1#4558",
+  "en": "Would you let me have a good look at it?"
+ },
+ {
+  "id": "M1#4559",
+  "en": "No, I cannot let anyone else",
+  "note": "continues in #2852 variant for msg 177331 'touch this.'"
+ }
+]

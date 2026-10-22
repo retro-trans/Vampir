@@ -1,0 +1,357 @@
+[
+ {
+  "id": "M1#720",
+  "en": "Doing exactly as I command."
+ },
+ {
+  "id": "M1#721",
+  "en": "I don't get it! If this is a dream, wake me up!"
+ },
+ {
+  "id": "M1#722",
+  "en": "Could you be a woman too?"
+ },
+ {
+  "id": "M1#723",
+  "en": "Nah, no way."
+ },
+ {
+  "id": "M1#724",
+  "en": "Though with a build that thin,"
+ },
+ {
+  "id": "M1#725",
+  "en": "you might not make it as a soldier."
+ },
+ {
+  "id": "M1#726",
+  "en": "You don't look like you're here to enlist."
+ },
+ {
+  "id": "M1#727",
+  "en": "So what brings you here?"
+ },
+ {
+  "id": "M1#728",
+  "en": "too...?",
+  "note": "pairs with M1#660 (slice 008): needs '...curious about Hans' with no 'too'; this row supplies 'too...?'"
+ },
+ {
+  "id": "M1#729",
+  "en": "Aah, it's bugging me!"
+ },
+ {
+  "id": "M1#730",
+  "en": "There is.",
+  "note": "no row uses it; meaning unverified"
+ },
+ {
+  "id": "M1#731",
+  "en": "Please let me hold on to it."
+ },
+ {
+  "id": "M1#732",
+  "en": "Why, you sly dog, you ladies' man."
+ },
+ {
+  "id": "M1#733",
+  "en": "the answer was \"I don't know\", so",
+  "note": "follows M1#693 (slice 008) '...ask Hans too, but'; no pronoun for Hans (gender unclear in scene); the 2 dots after it come from M1#2"
+ },
+ {
+  "id": "M1#734",
+  "en": "No time for idle thoughts on duty."
+ },
+ {
+  "id": "M1#735",
+  "en": "Hey. I'm off duty for a while."
+ },
+ {
+  "id": "M1#736",
+  "en": "I'm just heading out for a drink."
+ },
+ {
+  "id": "M1#737",
+  "en": "Some days you can't get by"
+ },
+ {
+  "id": "M1#738",
+  "en": "without a drink."
+ },
+ {
+  "id": "M1#739",
+  "en": "Drinking since morning."
+ },
+ {
+  "id": "M1#740",
+  "en": "Can't do that on the battlefield, though"
+ },
+ {
+  "id": "M1#741",
+  "en": "Booze only tastes good when you're alive."
+ },
+ {
+  "id": "M1#742",
+  "en": "You know what I mean, ",
+  "note": "name follows; M1#189 supplies the period"
+ },
+ {
+  "id": "M1#743",
+  "en": "On days like this I drink all day long."
+ },
+ {
+  "id": "M1#744",
+  "en": "without a drink, you know."
+ },
+ {
+  "id": "M1#745",
+  "en": "Before I became a soldier, I never"
+ },
+ {
+  "id": "M1#746",
+  "en": "got drunk like this every day."
+ },
+ {
+  "id": "M1#747",
+  "en": "You never get drunk at all, do you?",
+  "note": "message opens 'NAME.' from M1#189"
+ },
+ {
+  "id": "M1#748",
+  "en": "At times like this, nothing beats a drink."
+ },
+ {
+  "id": "M1#749",
+  "en": "Lately I go to the pub \"Kaiser\"."
+ },
+ {
+  "id": "M1#750",
+  "en": "You want a drink too?"
+ },
+ {
+  "id": "M1#751",
+  "en": "Oh, it's "
+ },
+ {
+  "id": "M1#752",
+  "en": "!",
+  "note": "NAME + '!' reads as a greeting for Michael, Martin and Kroger; Werther msg 29557 = 'Oh, it's NAME!'"
+ },
+ {
+  "id": "M1#753",
+  "en": "There's no booze here."
+ },
+ {
+  "id": "M1#754",
+  "en": "So you like your drink too, huh?",
+  "variants": [
+   {
+    "msg": 30153,
+    "en": "you like your drink too, huh?"
+   }
+  ]
+ },
+ {
+  "id": "M1#755",
+  "en": "Hold on, you really love your booze."
+ },
+ {
+  "id": "M1#756",
+  "en": "There are two times in life you get to be"
+ },
+ {
+  "id": "M1#757",
+  "en": "the star of the show."
+ },
+ {
+  "id": "M1#758",
+  "en": "One is when you're born."
+ },
+ {
+  "id": "M1#759",
+  "en": "The other is when you die."
+ },
+ {
+  "id": "M1#760",
+  "en": "I'm Werther, a navy soldier."
+ },
+ {
+  "id": "M1#761",
+  "en": "Pleased to meet you.",
+  "note": "shared with Leopold (shop owner): variants",
+  "variants": [
+   {
+    "msg": 136504,
+    "en": "See you then."
+   },
+   {
+    "msg": 136575,
+    "en": "Keep that in mind."
+   }
+  ]
+ },
+ {
+  "id": "M1#762",
+  "en": "We meet again."
+ },
+ {
+  "id": "M1#763",
+  "en": "Come on, let's drink."
+ },
+ {
+  "id": "M1#764",
+  "en": "A war this long makes you forget Mom's cooking"
+ },
+ {
+  "id": "M1#765",
+  "en": "I wonder how everyone back home is doing."
+ },
+ {
+  "id": "M1#766",
+  "en": "Lost everything, but at least I'm alive..."
+ },
+ {
+  "id": "M1#767",
+  "en": "Well, a dead man can't enjoy a drink,"
+ },
+ {
+  "id": "M1#768",
+  "en": "after all."
+ },
+ {
+  "id": "M1#769",
+  "en": "Right now this country is"
+ },
+ {
+  "id": "M1#770",
+  "en": "in the middle of expanding its military."
+ },
+ {
+  "id": "M1#771",
+  "en": "And in any war, soldiers are destined"
+ },
+ {
+  "id": "M1#772",
+  "en": "to be used and thrown away."
+ },
+ {
+  "id": "M1#773",
+  "en": "Either way, soldiers get used and thrown away;"
+ },
+ {
+  "id": "M1#774",
+  "en": "that's their destiny."
+ },
+ {
+  "id": "M1#775",
+  "en": "He's a drunk by day, but"
+ },
+ {
+  "id": "M1#776",
+  "en": "he looks useful as a servant."
+ },
+ {
+  "id": "M1#777",
+  "en": ".",
+  "note": "Hugo variants: NAME + ', is it?'",
+  "variants": [
+   {
+    "msg": 189363,
+    "en": ", is it?"
+   },
+   {
+    "msg": 190363,
+    "en": ", is it?"
+   }
+  ]
+ },
+ {
+  "id": "M1#778",
+  "en": "I never drink at night."
+ },
+ {
+  "id": "M1#779",
+  "en": "Nights are what matter on the battlefield."
+ },
+ {
+  "id": "M1#780",
+  "en": "You seem to understand well enough."
+ },
+ {
+  "id": "M1#781",
+  "en": "From now on, I'll take you to the battlefield."
+ },
+ {
+  "id": "M1#782",
+  "en": "Come on, quit joking,"
+ },
+ {
+  "id": "M1#783",
+  "en": "I'd like a peaceful sleep when I'm off duty."
+ },
+ {
+  "id": "M1#784",
+  "en": "Why do you suppose I, of all people,"
+ },
+ {
+  "id": "M1#785",
+  "en": "have been bothering to talk to the likes of you? Still don't get it?!"
+ },
+ {
+  "id": "M1#786",
+  "en": "What are you doing?!"
+ },
+ {
+  "id": "M1#787",
+  "en": "Let go of me!"
+ },
+ {
+  "id": "M1#788",
+  "en": "To me, you are nothing more than"
+ },
+ {
+  "id": "M1#789",
+  "en": "a disposable pawn."
+ },
+ {
+  "id": "M1#790",
+  "en": "Accept it as your fate and give up."
+ },
+ {
+  "id": "M1#791",
+  "en": "Can't do that on the battlefield, though..."
+ },
+ {
+  "id": "M1#792",
+  "en": "You don't look it, but"
+ },
+ {
+  "id": "M1#793",
+  "en": "Lost everything, but my life is safe",
+  "note": "msg 30289: M1#2 '...' + M1#25 '.' would print four dots; M1#25 needs variant ''"
+ },
+ {
+  "id": "M1#794",
+  "en": "Your strength is immense."
+ },
+ {
+  "id": "M1#795",
+  "en": "That power... use it for nothing but"
+ },
+ {
+  "id": "M1#796",
+  "en": "defeating the enemy."
+ },
+ {
+  "id": "M1#797",
+  "en": "Understood......"
+ },
+ {
+  "id": "M1#798",
+  "en": "Make anyone you dislike obey you, even"
+ },
+ {
+  "id": "M1#799",
+  "en": "if you have to hit them."
+ }
+]

@@ -1,0 +1,328 @@
+[
+ {
+  "id": "M1#80",
+  "en": "Yay, "
+ },
+ {
+  "id": "M1#81",
+  "en": " is here!"
+ },
+ {
+  "id": "M1#82",
+  "en": "Who are you, mister?",
+  "note": "'big brother' -> 'mister' per brief (stranger child-to-adult); fits Johann and Marie"
+ },
+ {
+  "id": "M1#83",
+  "en": "I know! You're the new teacher, right?"
+ },
+ {
+  "id": "M1#84",
+  "en": " is here!",
+  "note": "#64 assumed = 'Oh, ' (also Werther 'Oh, Name?' and Josef 'Oh, Name.'); 'big brother' dropped"
+ },
+ {
+  "id": "M1#85",
+  "en": "Hey, are you the new teacher,"
+ },
+ {
+  "id": "M1#86",
+  "en": "mister?"
+ },
+ {
+  "id": "M1#87",
+  "en": "Conversation at the 4th workplace",
+  "note": "Developer placeholder text; translated literally"
+ },
+ {
+  "id": "M1#88",
+  "en": "Not currently in use",
+  "note": "Developer placeholder text"
+ },
+ {
+  "id": "M1#89",
+  "en": "I want to study more,"
+ },
+ {
+  "id": "M1#90",
+  "en": "so I can get into a good school."
+ },
+ {
+  "id": "M1#91",
+  "en": "I have to study really hard."
+ },
+ {
+  "id": "M1#92",
+  "en": "I'll do anything you say..."
+ },
+ {
+  "id": "M1#93",
+  "en": "So please don't hit me."
+ },
+ {
+  "id": "M1#94",
+  "en": ".........",
+  "note": "9 middle dots kept as 9 periods (silence), as M0#2"
+ },
+ {
+  "id": "M1#95",
+  "en": "I work at the glass factory."
+ },
+ {
+  "id": "M1#96",
+  "en": "The factory is dark and filthy,"
+ },
+ {
+  "id": "M1#97",
+  "en": "and I really don't want to go."
+ },
+ {
+  "id": "M1#98",
+  "en": "",
+  "note": "Honorific dropped; Name alone works for Richard, Jahn, Oskar, Meyer, Marie. Ludwig msg 17931 needs #411/#412 to carry the name (see report)"
+ },
+ {
+  "id": "M1#99",
+  "en": "Dad drank again last night"
+ },
+ {
+  "id": "M1#100",
+  "en": "and went wild"
+ },
+ {
+  "id": "M1#101",
+  "en": "If Dad would just stop drinking,"
+ },
+ {
+  "id": "M1#102",
+  "en": "he'd be a good man..."
+ },
+ {
+  "id": "M1#103",
+  "en": "I'm worn out. I'm so tired."
+ },
+ {
+  "id": "M1#104",
+  "en": "Every single day."
+ },
+ {
+  "id": "M1#105",
+  "en": "Why are you so tired?"
+ },
+ {
+  "id": "M1#106",
+  "en": "I work at the glass factory."
+ },
+ {
+  "id": "M1#107",
+  "en": "They work me like a dog."
+ },
+ {
+  "id": "M1#108",
+  "en": "Another factory worker died today."
+ },
+ {
+  "id": "M1#109",
+  "en": "If I keep working there,"
+ },
+ {
+  "id": "M1#110",
+  "en": "I think I'll get sick too."
+ },
+ {
+  "id": "M1#111",
+  "en": "I wonder if I'll get paid more"
+ },
+ {
+  "id": "M1#112",
+  "en": "when I grow up."
+ },
+ {
+  "id": "M1#113",
+  "en": "I'm just a kid, so no matter how"
+ },
+ {
+  "id": "M1#114",
+  "en": "hard I work, I hardly earn a thing."
+ },
+ {
+  "id": "M1#115",
+  "en": "Is that you, Dad?"
+ },
+ {
+  "id": "M1#116",
+  "en": "Oh, it's not Dad."
+ },
+ {
+  "id": "M1#117",
+  "en": "Of course, Dad wouldn't"
+ },
+ {
+  "id": "M1#118",
+  "en": "be coming home at this hour."
+ },
+ {
+  "id": "M1#119",
+  "en": "Where did your father go?"
+ },
+ {
+  "id": "M1#120",
+  "en": "He's probably drinking at Sans Souci."
+ },
+ {
+  "id": "M1#121",
+  "en": "I have to do my factory work at home too,"
+ },
+ {
+  "id": "M1#122",
+  "en": "so I'll be going..."
+ },
+ {
+  "id": "M1#123",
+  "en": "I'm busy."
+ },
+ {
+  "id": "M1#124",
+  "en": "Dad is at Sans Souci,"
+ },
+ {
+  "id": "M1#125",
+  "en": "drinking."
+ },
+ {
+  "id": "M1#126",
+  "en": "so..."
+ },
+ {
+  "id": "M1#127",
+  "en": "Dad drank again last night"
+ },
+ {
+  "id": "M1#128",
+  "en": "and went wild..."
+ },
+ {
+  "id": "M1#129",
+  "en": "Both grown-ups and kids work here."
+ },
+ {
+  "id": "M1#130",
+  "en": "Are you going to work here too?"
+ },
+ {
+  "id": "M1#131",
+  "en": "It's dark and dusty in here,"
+ },
+ {
+  "id": "M1#132",
+  "en": "I feel like I'll get sick."
+ },
+ {
+  "id": "M1#133",
+  "en": "Some people really do get sick."
+ },
+ {
+  "id": "M1#134",
+  "en": "Every day someone's taken to the hospital."
+ },
+ {
+  "id": "M1#135",
+  "en": "Hey, are you going to work here too?"
+ },
+ {
+  "id": "M1#136",
+  "en": "Sometimes people are carried straight to the grave."
+ },
+ {
+  "id": "M1#137",
+  "en": "Work I can't finish at the factory today,"
+ },
+ {
+  "id": "M1#138",
+  "en": "I do at home."
+ },
+ {
+  "id": "M1#139",
+  "en": "As long as it's just polishing pearls,"
+ },
+ {
+  "id": "M1#140",
+  "en": "I can do it at home too."
+ },
+ {
+  "id": "M1#141",
+  "en": "I'm a polisher's helper."
+ },
+ {
+  "id": "M1#142",
+  "en": "I polish glass pearls."
+ },
+ {
+  "id": "M1#143",
+  "en": "I'm still small, so this is the only"
+ },
+ {
+  "id": "M1#144",
+  "en": "work they'll let me do."
+ },
+ {
+  "id": "M1#145",
+  "en": "It's easy, but it's hard work."
+ },
+ {
+  "id": "M1#146",
+  "en": "I really want to go to school too,"
+ },
+ {
+  "id": "M1#147",
+  "en": "but I have to earn money."
+ },
+ {
+  "id": "M1#148",
+  "en": "It's awful. Last night I polished"
+ },
+ {
+  "id": "M1#149",
+  "en": "pearls till midnight, and my drunk Dad"
+ },
+ {
+  "id": "M1#150",
+  "en": "broke every single one."
+ },
+ {
+  "id": "M1#151",
+  "en": "The factory foreman yelled at me..."
+ },
+ {
+  "id": "M1#152",
+  "en": "And now I won't get paid at all."
+ },
+ {
+  "id": "M1#153",
+  "en": "Dad apologized to me this morning."
+ },
+ {
+  "id": "M1#154",
+  "en": "He said he was sorry he broke the pearls."
+ },
+ {
+  "id": "M1#155",
+  "en": "He said he wouldn't go wild anymore,"
+ },
+ {
+  "id": "M1#156",
+  "en": "but I bet he forgets when he's drunk."
+ },
+ {
+  "id": "M1#157",
+  "en": "Even a Dad like that is still"
+ },
+ {
+  "id": "M1#158",
+  "en": "my Dad."
+ },
+ {
+  "id": "M1#159",
+  "en": "he'd be a good man"
+ }
+]

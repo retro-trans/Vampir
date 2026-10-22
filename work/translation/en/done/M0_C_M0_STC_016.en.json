@@ -1,0 +1,332 @@
+[
+ {
+  "id": "M0#1280",
+  "en": "Farm work?"
+ },
+ {
+  "id": "M0#1281",
+  "en": "That sounds interesting."
+ },
+ {
+  "id": "M0#1282",
+  "en": "May I come and watch?"
+ },
+ {
+  "id": "M0#1283",
+  "en": "Watch all you like, but"
+ },
+ {
+  "id": "M0#1284",
+  "en": "don't get in the way."
+ },
+ {
+  "id": "M0#1285",
+  "en": "Ah, ",
+  "note": "Shared by Katusa (msg 58469, alone) and Wendy ('Ah, ' + name + '.'); trailing space needed for Wendy"
+ },
+ {
+  "id": "M0#1286",
+  "en": "Another fine day today."
+ },
+ {
+  "id": "M0#1287",
+  "en": "Want to help me out again?"
+ },
+ {
+  "id": "M0#1288",
+  "en": "I'm just on my way home."
+ },
+ {
+  "id": "M0#1289",
+  "en": "Hey, good evening."
+ },
+ {
+  "id": "M0#1290",
+  "en": "It'll be dark soon. You'd best get home, too."
+ },
+ {
+  "id": "M0#1291",
+  "en": "Come by my place sometime."
+ },
+ {
+  "id": "M0#1292",
+  "en": "My wife'll give you a meal."
+ },
+ {
+  "id": "M0#1293",
+  "en": "I'm telling you, don't come around so much."
+ },
+ {
+  "id": "M0#1294",
+  "en": "If you want to talk, I'll hear you out later,"
+ },
+ {
+  "id": "M0#1295",
+  "en": "Quit hanging around here and go home."
+ },
+ {
+  "id": "M0#1296",
+  "en": "Glad you came. Sit down and eat."
+ },
+ {
+  "id": "M0#1297",
+  "en": "Yes, it's fascinating."
+ },
+ {
+  "id": "M0#1298",
+  "en": "Is that so? Then it can't be helped."
+ },
+ {
+  "id": "M0#1299",
+  "en": "I'm interested in both."
+ },
+ {
+  "id": "M0#1300",
+  "en": "Both...?"
+ },
+ {
+  "id": "M0#1301",
+  "en": "I don't mind you watching from there.",
+  "note": "Self-contained so it works with #1267 whatever follows"
+ },
+ {
+  "id": "M0#1302",
+  "en": "Is farm work really that unusual to you?"
+ },
+ {
+  "id": "M0#1303",
+  "en": "Well, it's harvest time right now,",
+  "note": "Ends with a comma; #1271 (slice 015) must read as a continuation, e.g. 'but the rest of the year the work is plainer.'"
+ },
+ {
+  "id": "M0#1304",
+  "en": "We grow wheat and such around here, but"
+ },
+ {
+  "id": "M0#1305",
+  "en": "this year is no good."
+ },
+ {
+  "id": "M0#1306",
+  "en": "Take a look around that tower. The land is ruined,"
+ },
+ {
+  "id": "M0#1307",
+  "en": "and not a single weed grows."
+ },
+ {
+  "id": "M0#1308",
+  "en": "On top of that, even the wheat over here is weak this year."
+ },
+ {
+  "id": "M0#1309",
+  "en": "It's a real worry."
+ },
+ {
+  "id": "M0#1310",
+  "en": "What? I'm to do the harvesting?"
+ },
+ {
+  "id": "M0#1311",
+  "en": "Yeah. It might come in handy someday."
+ },
+ {
+  "id": "M0#1312",
+  "en": "Besides, most of it's already done."
+ },
+ {
+  "id": "M0#1313",
+  "en": "Here, let me show you the knack..."
+ },
+ {
+  "id": "M0#1314",
+  "en": "Truth is, I'd like to plow the land by that tower, too."
+ },
+ {
+  "id": "M0#1315",
+  "en": "But somehow it feels hard to go near."
+ },
+ {
+  "id": "M0#1316",
+  "en": "Somehow, that place feels forsaken by God."
+ },
+ {
+  "id": "M0#1317",
+  "en": "It's just a feeling I get."
+ },
+ {
+  "id": "M0#1318",
+  "en": "No field survives once God forsakes it."
+ },
+ {
+  "id": "M0#1319",
+  "en": "So I'm leaving it alone."
+ },
+ {
+  "id": "M0#1320",
+  "en": "Y-you're",
+  "note": "'Y-you're' + '...' / name + '...?' (msg 58895)"
+ },
+ {
+  "id": "M0#1321",
+  "en": "...?",
+  "note": "'...?' after the name"
+ },
+ {
+  "id": "M0#1322",
+  "en": "Helping with the farm work was fun."
+ },
+ {
+  "id": "M0#1323",
+  "en": "In return, so to speak,"
+ },
+ {
+  "id": "M0#1324",
+  "en": "I'm terribly sorry, but..."
+ },
+ {
+  "id": "M0#1325",
+  "en": "Please help me out, too.",
+  "note": "No used_in; spoken by [PLAYER] right after #1324 (blood-taking scene); not referenced by any message"
+ },
+ {
+  "id": "M0#1326",
+  "en": "S-stop it",
+  "note": "No used_in; Katusa, probably followed by shared '...' like #1327"
+ },
+ {
+  "id": "M0#1327",
+  "en": "Nngaaah",
+  "note": "Groan, followed by shared '...' (#66)"
+ },
+ {
+  "id": "M0#1328",
+  "en": "Please don't resist so much."
+ },
+ {
+  "id": "M0#1329",
+  "en": "It's for the village's sake, too."
+ },
+ {
+  "id": "M0#1330",
+  "en": "I'm sure it will be over soon."
+ },
+ {
+  "id": "M0#1331",
+  "en": ", my master",
+  "note": "Servant (Lehn) addressing the player: name + ', my master' + '...'"
+ },
+ {
+  "id": "M0#1332",
+  "en": "Your orders"
+ },
+ {
+  "id": "M0#1333",
+  "en": "I would do anything for you."
+ },
+ {
+  "id": "M0#1334",
+  "en": "Welcome. Are you a traveler?"
+ },
+ {
+  "id": "M0#1335",
+  "en": "No, I have a place to live."
+ },
+ {
+  "id": "M0#1336",
+  "en": "Oh. I see."
+ },
+ {
+  "id": "M0#1337",
+  "en": "This is an inn."
+ },
+ {
+  "id": "M0#1338",
+  "en": "I've no use for people who aren't staying."
+ },
+ {
+  "id": "M0#1339",
+  "en": "You can go now."
+ },
+ {
+  "id": "M0#1340",
+  "en": "If you're staying, come when we're open."
+ },
+ {
+  "id": "M0#1341",
+  "en": "If you're not, don't come."
+ },
+ {
+  "id": "M0#1342",
+  "en": "Come when the inn is open."
+ },
+ {
+  "id": "M0#1343",
+  "en": "I can't have people showing up at my house."
+ },
+ {
+  "id": "M0#1344",
+  "en": "So you really did come."
+ },
+ {
+  "id": "M0#1345",
+  "en": "Want some of my stew?"
+ },
+ {
+  "id": "M0#1346",
+  "en": "I'll give you a bargain price."
+ },
+ {
+  "id": "M0#1347",
+  "en": "Well, eating now and then wouldn't be bad."
+ },
+ {
+  "id": "M0#1348",
+  "en": "Really?"
+ },
+ {
+  "id": "M0#1349",
+  "en": "Still, a good payer is always welcome.",
+  "note": "Shortened to fit 3 lines in msgs 62236 and 62660"
+ },
+ {
+  "id": "M0#1350",
+  "en": "Now, come over here and wait, please."
+ },
+ {
+  "id": "M0#1351",
+  "en": "Come again any time."
+ },
+ {
+  "id": "M0#1352",
+  "en": "Oh, I see."
+ },
+ {
+  "id": "M0#1353",
+  "en": "I've no use for people who don't stay."
+ },
+ {
+  "id": "M0#1354",
+  "en": "I told you, this is an inn."
+ },
+ {
+  "id": "M0#1355",
+  "en": "I've no use for the likes of you."
+ },
+ {
+  "id": "M0#1356",
+  "en": "I'm the owner, Lehn."
+ },
+ {
+  "id": "M0#1357",
+  "en": "What's your name?"
+ },
+ {
+  "id": "M0#1358",
+  "en": "So, you want to stay here?"
+ },
+ {
+  "id": "M0#1359",
+  "en": "Then I'll let you stay."
+ }
+]

@@ -1,0 +1,328 @@
+[
+ {
+  "id": "M2#5040",
+  "en": "You're looking into something, I hear, but I"
+ },
+ {
+  "id": "M2#5041",
+  "en": "can't do much to help you there."
+ },
+ {
+  "id": "M2#5042",
+  "en": "Well, hang in there."
+ },
+ {
+  "id": "M2#5043",
+  "en": ", it's you! Good of you to come."
+ },
+ {
+  "id": "M2#5044",
+  "en": "How about it? Stay for a bite while you're here?"
+ },
+ {
+  "id": "M2#5045",
+  "en": "No, let's make it another time."
+ },
+ {
+  "id": "M2#5046",
+  "en": "Aw, come on, don't be shy."
+ },
+ {
+  "id": "M2#5047",
+  "en": "...Don't tell me you don't like meat?"
+ },
+ {
+  "id": "M2#5048",
+  "en": "Come on by whenever you're hungry."
+ },
+ {
+  "id": "M2#5049",
+  "en": "Morning! Up early for a young fella. I'm impressed."
+ },
+ {
+  "id": "M2#5050",
+  "en": "You're up very early yourself."
+ },
+ {
+  "id": "M2#5051",
+  "en": "Oh, and polite to boot!"
+ },
+ {
+  "id": "M2#5052",
+  "en": "Pleased to meet you, Malcolm."
+ },
+ {
+  "id": "M2#5053",
+  "en": "Yes, I'm still new to London."
+ },
+ {
+  "id": "M2#5054",
+  "en": "But I'm not lost, I assure you."
+ },
+ {
+  "id": "M2#5055",
+  "en": "Thank you. Until next time, then."
+ },
+ {
+  "id": "M2#5056",
+  "en": "I hope we'll get along. Good night, then."
+ },
+ {
+  "id": "M2#5057",
+  "en": "Hey, "
+ },
+ {
+  "id": "M2#5058",
+  "en": "You must be real carefree or real gutsy.",
+  "note": "Same wording as #4985 (slice 062)."
+ },
+ {
+  "id": "M2#5059",
+  "en": "Lots of workers round here. Some of 'em"
+ },
+ {
+  "id": "M2#5060",
+  "en": "Good afternoon. Oh, so this is a butcher's?"
+ },
+ {
+  "id": "M2#5061",
+  "en": "I smelled blood and couldn't help coming in."
+ },
+ {
+  "id": "M2#5062",
+  "en": "(Oh no! Will he suspect me?)",
+  "note": "Thought after a pause; it continues on the same line as #5061 / #5067."
+ },
+ {
+  "id": "M2#5063",
+  "en": "Some nose you've got there! I'm amazed."
+ },
+ {
+  "id": "M2#5064",
+  "en": "I-is that so? Do take care of it..."
+ },
+ {
+  "id": "M2#5065",
+  "en": "I've just remembered an errand. Excuse me."
+ },
+ {
+  "id": "M2#5066",
+  "en": "Good afternoon. I thought I'd drop by."
+ },
+ {
+  "id": "M2#5067",
+  "en": "I notice the smell of blood more than meat."
+ },
+ {
+  "id": "M2#5068",
+  "en": "Sadly, I'm still on my own."
+ },
+ {
+  "id": "M2#5069",
+  "en": "A ladies' man like you!"
+ },
+ {
+  "id": "M2#5070",
+  "en": "Hurry up and find yourself a pretty wife!"
+ },
+ {
+  "id": "M2#5071",
+  "en": "Come by the shop and I'll give you a deal!"
+ },
+ {
+  "id": "M2#5072",
+  "en": "No, thank you kindly, but another time..."
+ },
+ {
+  "id": "M2#5073",
+  "en": "What's up? What brings you here this late?"
+ },
+ {
+  "id": "M2#5074",
+  "en": "Too late to browse the shop or grab a meal."
+ },
+ {
+  "id": "M2#5075",
+  "en": "Malcolm, forgive me!"
+ },
+ {
+  "id": "M2#5076",
+  "en": "Wh-what's this, apologizing all of a sudden?"
+ },
+ {
+  "id": "M2#5077",
+  "en": "I have no time to spare."
+ },
+ {
+  "id": "M2#5078",
+  "en": "Please, lend me your strength.",
+  "note": "No used_in in the slice, but msg.py shows it after #5077 in msg 202890 (player, before biting Malcolm)."
+ },
+ {
+  "id": "M2#5079",
+  "en": "What the hell are you doing?! Aaagh!"
+ },
+ {
+  "id": "M2#5080",
+  "en": "What is your wish today...",
+  "note": "Follows the #854 variant ', my master. ' on the same line: starts with a capital."
+ },
+ {
+  "id": "M2#5081",
+  "en": "I feel so sluggish... and sleepy."
+ },
+ {
+  "id": "M2#5082",
+  "en": "I'm all cut up, too... but oddly, it doesn't hurt."
+ },
+ {
+  "id": "M2#5083",
+  "en": "It gives me the creeps."
+ },
+ {
+  "id": "M2#5084",
+  "en": "I'll do as you wish...",
+  "note": "Follows #0 ', my master...' on a new line."
+ },
+ {
+  "id": "M2#5085",
+  "en": "I had a dream I was beating up women and kids."
+ },
+ {
+  "id": "M2#5086",
+  "en": "That didn't really happen... did it?"
+ },
+ {
+  "id": "M2#5087",
+  "en": "Move aside, you. You're in the way."
+ },
+ {
+  "id": "M2#5088",
+  "en": "I can't get by with you standing there."
+ },
+ {
+  "id": "M2#5089",
+  "en": "I'm not used to these streets.",
+  "note": "Stern player register (after 'Ah, forgive me.')."
+ },
+ {
+  "id": "M2#5090",
+  "en": "Huh, so you're a stranger here."
+ },
+ {
+  "id": "M2#5091",
+  "en": "Just don't block the way."
+ },
+ {
+  "id": "M2#5092",
+  "en": "Wander around too much and people'll get suspicious."
+ },
+ {
+  "id": "M2#5093",
+  "en": "Fancy seeing you first thing in the morning."
+ },
+ {
+  "id": "M2#5094",
+  "en": "Oh well. I'm off to work now."
+ },
+ {
+  "id": "M2#5095",
+  "en": "Nothing's gone right lately, so honestly,"
+ },
+ {
+  "id": "M2#5096",
+  "en": "I'd been sulking."
+ },
+ {
+  "id": "M2#5097",
+  "en": "But somehow I've got a feeling something good"
+ },
+ {
+  "id": "M2#5098",
+  "en": "is coming. I hope it really happens."
+ },
+ {
+  "id": "M2#5099",
+  "en": "I would like to ask the way."
+ },
+ {
+  "id": "M2#5100",
+  "en": "Sure, but I don't know the area that well."
+ },
+ {
+  "id": "M2#5101",
+  "en": "I just go between the factory and home."
+ },
+ {
+  "id": "M2#5102",
+  "en": "I don't go places I've no business in."
+ },
+ {
+  "id": "M2#5103",
+  "en": "I see. So that's how it is."
+ },
+ {
+  "id": "M2#5104",
+  "en": "And what sort of work do you do, may I ask?"
+ },
+ {
+  "id": "M2#5105",
+  "en": "What do you want to know that for?"
+ },
+ {
+  "id": "M2#5106",
+  "en": "You're a strange one."
+ },
+ {
+  "id": "M2#5107",
+  "en": "I work at the factory. It's a lousy job."
+ },
+ {
+  "id": "M2#5108",
+  "en": "What? You want something?"
+ },
+ {
+  "id": "M2#5109",
+  "en": ", it's you. Hi."
+ },
+ {
+  "id": "M2#5110",
+  "en": "You seem livelier at night."
+ },
+ {
+  "id": "M2#5111",
+  "en": "Me, I'm worn out after a day at the factory."
+ },
+ {
+  "id": "M2#5112",
+  "en": "Even at home, all I do is eat and sleep."
+ },
+ {
+  "id": "M2#5113",
+  "en": "Hey, how's it going? You well?"
+ },
+ {
+  "id": "M2#5114",
+  "en": "I'm not too tired today myself."
+ },
+ {
+  "id": "M2#5115",
+  "en": "I wish it was always like this."
+ },
+ {
+  "id": "M2#5116",
+  "en": "Work again tomorrow... Guess I'll keep at it."
+ },
+ {
+  "id": "M2#5117",
+  "en": "You take care too. See you."
+ },
+ {
+  "id": "M2#5118",
+  "en": "Hey, this is a factory. You can't come in here."
+ },
+ {
+  "id": "M2#5119",
+  "en": "I didn't know I was not permitted to enter."
+ }
+]

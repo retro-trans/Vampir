@@ -1,0 +1,370 @@
+[
+ {
+  "id": "M1#5120",
+  "en": "Grandpa?"
+ },
+ {
+  "id": "M1#5121",
+  "en": "What are you doing here at this hour?"
+ },
+ {
+  "id": "M1#5122",
+  "en": "The oven isn't even warm yet, you know."
+ },
+ {
+  "id": "M1#5123",
+  "en": "I didn't come here for bread today."
+ },
+ {
+  "id": "M1#5124",
+  "en": "Cheryl,",
+  "note": "a pause follows (auto space), then #5125 on the same line"
+ },
+ {
+  "id": "M1#5125",
+  "en": "I came because I want you.",
+  "note": "no used_in; scene order rebuilt from SQC bytes 202604-202790 (see report). Not softened."
+ },
+ {
+  "id": "M1#5126",
+  "en": "Huh?",
+  "note": "pause follows"
+ },
+ {
+  "id": "M1#5127",
+  "en": "Y-you ",
+  "note": "stutter; trailing space because a pause follows and auto_space treats you+can't as a split word"
+ },
+ {
+  "id": "M1#5128",
+  "en": "can't just",
+  "note": "three paused dots follow, then line break to #5129"
+ },
+ {
+  "id": "M1#5129",
+  "en": "say something like that out of nowhere!"
+ },
+ {
+  "id": "M1#5130",
+  "en": "I'm only 15,"
+ },
+ {
+  "id": "M1#5131",
+  "en": "I'd have to talk to Grandpa about it."
+ },
+ {
+  "id": "M1#5132",
+  "en": "We can talk to your grandpa tomorrow."
+ },
+ {
+  "id": "M1#5133",
+  "en": "Right now, what matters is how you feel, Cheryl."
+ },
+ {
+  "id": "M1#5134",
+  "en": "Do you like me?"
+ },
+ {
+  "id": "M1#5135",
+  "en": "So,",
+  "note": "pause follows"
+ },
+ {
+  "id": "M1#5136",
+  "en": "I,",
+  "note": "Cheryl: pause follows. Shared with Christine (238537, 239177) and Lily (246806): variants",
+  "variants": [
+   {
+    "msg": 238537,
+    "en": "You know, "
+   },
+   {
+    "msg": 239177,
+    "en": "You know, "
+   },
+   {
+    "msg": 246806,
+    "en": "You see,"
+   }
+  ]
+ },
+ {
+  "id": "M1#5137",
+  "en": "um,",
+  "note": "pause follows"
+ },
+ {
+  "id": "M1#5138",
+  "en": "uh,",
+  "note": "pause follows"
+ },
+ {
+  "id": "M1#5139",
+  "en": "Right, tomorrow's bread!",
+  "note": "pause follows"
+ },
+ {
+  "id": "M1#5140",
+  "en": "I have to bake it!",
+  "note": "shortened so the box fits 3 lines"
+ },
+ {
+  "id": "M1#5141",
+  "en": "Wait."
+ },
+ {
+  "id": "M1#5142",
+  "en": "The oven isn't warm yet.",
+  "note": "echoes Cheryl's #5122"
+ },
+ {
+  "id": "M1#5143",
+  "en": "Ah!"
+ },
+ {
+  "id": "M1#5144",
+  "en": "By night, I shall be your servant.",
+  "note": "preceded by '...' (#2)"
+ },
+ {
+  "id": "M1#5145",
+  "en": "Hello. My name is Therese."
+ },
+ {
+  "id": "M1#5146",
+  "en": "My younger brother Anton and I live in a",
+  "note": "same split as #5157; ends in #5147"
+ },
+ {
+  "id": "M1#5147",
+  "en": "small flat.",
+  "note": "shared 205488 (after #5146) and 205595 (after #5157); both end '...live in a'"
+ },
+ {
+  "id": "M1#5148",
+  "en": "I'm Therese."
+ },
+ {
+  "id": "M1#5149",
+  "en": "Nice to meet you.",
+  "variants": [
+   {
+    "msg": 211128,
+    "en": "Thanks. I'm counting on you."
+   }
+  ]
+ },
+ {
+  "id": "M1#5150",
+  "en": " I'm so worried about Anton, I can't",
+  "note": "leading space: follows 'Ah' + '...' (#1221 variant + #2) with no pause"
+ },
+ {
+  "id": "M1#5151",
+  "en": "rest easy. Where on earth does my brother"
+ },
+ {
+  "id": "M1#5152",
+  "en": "Anton go during the day",
+  "note": "followed by '...' + #25"
+ },
+ {
+  "id": "M1#5153",
+  "en": "My brother Anton says he's quitting his"
+ },
+ {
+  "id": "M1#5154",
+  "en": "dangerous trade and will work honestly now."
+ },
+ {
+  "id": "M1#5155",
+  "en": "I'm so relieved."
+ },
+ {
+  "id": "M1#5156",
+  "en": "Good evening. I'm Therese."
+ },
+ {
+  "id": "M1#5157",
+  "en": "My younger brother Anton and I live in a",
+  "note": "same as #5146; followed by #5147 or #5158"
+ },
+ {
+  "id": "M1#5158",
+  "en": "small flat."
+ },
+ {
+  "id": "M1#5159",
+  "en": "Oh, where on earth is my brother Anton,"
+ },
+ {
+  "id": "M1#5160",
+  "en": "and what is he doing?"
+ },
+ {
+  "id": "M1#5161",
+  "en": "I hope it's nothing dangerous."
+ },
+ {
+  "id": "M1#5162",
+  "en": "It seems my brother Anton has given up"
+ },
+ {
+  "id": "M1#5163",
+  "en": "his dangerous work. What a relief."
+ },
+ {
+  "id": "M1#5164",
+  "en": "Hello. I'm Therese."
+ },
+ {
+  "id": "M1#5165",
+  "en": "I live with my younger brother, Anton."
+ },
+ {
+  "id": "M1#5166",
+  "en": "I'm Therese. Nice to meet you."
+ },
+ {
+  "id": "M1#5167",
+  "en": "Oh, Anton's been fired from the factory,"
+ },
+ {
+  "id": "M1#5168",
+  "en": "so where does he go all day, and what for",
+  "note": "followed by '...'"
+ },
+ {
+  "id": "M1#5169",
+  "en": "I can't stop thinking about Anton."
+ },
+ {
+  "id": "M1#5170",
+  "en": "After all, he's my one and only dear brother."
+ },
+ {
+  "id": "M1#5171",
+  "en": "Thank goodness. Anton is safe."
+ },
+ {
+  "id": "M1#5172",
+  "en": "He promised he'd never do dangerous work"
+ },
+ {
+  "id": "M1#5173",
+  "en": "again",
+  "note": "followed by '...' + #25, then #5174"
+ },
+ {
+  "id": "M1#5174",
+  "en": " What a relief.",
+  "note": "leading space: joined directly after '...'/#25"
+ },
+ {
+  "id": "M1#5175",
+  "en": "I'm Therese. My younger brother Anton and I"
+ },
+ {
+  "id": "M1#5176",
+  "en": "live in a flat near here."
+ },
+ {
+  "id": "M1#5177",
+  "en": "It's about my brother Anton. The other day,",
+  "note": "word order moved across #5177/#5178 (always used together)"
+ },
+ {
+  "id": "M1#5178",
+  "en": "it seems he was fired from the factory."
+ },
+ {
+  "id": "M1#5179",
+  "en": "And yet, every day he comes home with more"
+ },
+ {
+  "id": "M1#5180",
+  "en": "money than the factory ever paid him",
+  "note": "followed by '...' + #25"
+ },
+ {
+  "id": "M1#5181",
+  "en": "What if he's doing something dangerous?",
+  "note": "shared: followed by #5182 or #5188, so made a full sentence"
+ },
+ {
+  "id": "M1#5182",
+  "en": "I'm worried sick."
+ },
+ {
+  "id": "M1#5183",
+  "en": "It's about my brother Anton. It seems the"
+ },
+ {
+  "id": "M1#5184",
+  "en": "factory where he worked has fired him."
+ },
+ {
+  "id": "M1#5185",
+  "en": "Oh, I'm so worried about my brother."
+ },
+ {
+  "id": "M1#5186",
+  "en": "He's lost his job at the factory, and yet"
+ },
+ {
+  "id": "M1#5187",
+  "en": "how on earth is he getting money?"
+ },
+ {
+  "id": "M1#5188",
+  "en": "It worries me so."
+ },
+ {
+  "id": "M1#5189",
+  "en": "It seems my brother really was doing"
+ },
+ {
+  "id": "M1#5190",
+  "en": "dangerous work",
+  "note": "followed by '...' + #25"
+ },
+ {
+  "id": "M1#5191",
+  "en": "But he's quit, and he says from now on"
+ },
+ {
+  "id": "M1#5192",
+  "en": "he'll do honest work."
+ },
+ {
+  "id": "M1#5193",
+  "en": "I'm so glad."
+ },
+ {
+  "id": "M1#5194",
+  "en": "My brother says he'll work honestly now."
+ },
+ {
+  "id": "M1#5195",
+  "en": ", hello.",
+  "note": "after {PLAYER_NAME}"
+ },
+ {
+  "id": "M1#5196",
+  "en": "Oh, I wish I were as healthy"
+ },
+ {
+  "id": "M1#5197",
+  "en": "as you are",
+  "note": "followed by #414 '!'"
+ },
+ {
+  "id": "M1#5198",
+  "en": "I was born frail. If I get tired, I collapse"
+ },
+ {
+  "id": "M1#5199",
+  "en": "right away. That's why the factory fired me.",
+  "note": "JP cuts mid-word before #5200 (slice 065); whole sentence kept here, so #5200 must be ''"
+ }
+]

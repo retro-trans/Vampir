@@ -1,0 +1,336 @@
+[
+ {
+  "id": "M1#2960",
+  "en": "Mind you, I don't suppose there's any such"
+ },
+ {
+  "id": "M1#2961",
+  "en": "thing as an easy job in this world."
+ },
+ {
+  "id": "M1#2962",
+  "en": "I've been a woodcutter for many years now."
+ },
+ {
+  "id": "M1#2963",
+  "en": "I know this forest like an old friend."
+ },
+ {
+  "id": "M1#2964",
+  "en": "I've been coming here near every day for decades."
+ },
+ {
+  "id": "M1#2965",
+  "en": "Truly, to me"
+ },
+ {
+  "id": "M1#2966",
+  "en": "it's like my own garden."
+ },
+ {
+  "id": "M1#2967",
+  "en": "I hope that you, too,"
+ },
+ {
+  "id": "M1#2968",
+  "en": "will come to see what's good about this forest."
+ },
+ {
+  "id": "M1#2969",
+  "en": "You see, the land here isn't much good"
+ },
+ {
+  "id": "M1#2970",
+  "en": "for growing things."
+ },
+ {
+  "id": "M1#2971",
+  "en": "It's thin, weak soil."
+ },
+ {
+  "id": "M1#2972",
+  "en": "So if you cut down trees and just plant"
+ },
+ {
+  "id": "M1#2973",
+  "en": "saplings after, they'll only wither."
+ },
+ {
+  "id": "M1#2974",
+  "en": "Check every tree, one by one. The weak ones,"
+ },
+ {
+  "id": "M1#2975",
+  "en": "you must boldly cut down. If you don't,"
+ },
+ {
+  "id": "M1#2976",
+  "en": "every tree withers and the forest dies..."
+ },
+ {
+  "id": "M1#2977",
+  "en": "That's what it means to nurture a forest."
+ },
+ {
+  "id": "M1#2978",
+  "en": "A forest needs looking after, it does."
+ },
+ {
+  "id": "M1#2979",
+  "en": "Even once this old wreck is dead and gone,"
+ },
+ {
+  "id": "M1#2980",
+  "en": "I do hope there'll be young folk"
+ },
+ {
+  "id": "M1#2981",
+  "en": "who'll treasure the forest."
+ },
+ {
+  "id": "M1#2982",
+  "en": "Say, would you find me some young one who'll",
+  "variants": [
+   {
+    "msg": 116603,
+    "en": "Say, won't you take my place and guard"
+   }
+  ],
+  "note": "base for msg 115938 (+#2983); variant for msg 116603 (+#2995)"
+ },
+ {
+  "id": "M1#2983",
+  "en": "guard this forest in my place?"
+ },
+ {
+  "id": "M1#2984",
+  "en": "Sir,"
+ },
+ {
+  "id": "M1#2985",
+  "en": "I'm not from around here,"
+ },
+ {
+  "id": "M1#2986",
+  "en": "so I don't know anyone."
+ },
+ {
+  "id": "M1#2987",
+  "en": "Ah, is that so."
+ },
+ {
+  "id": "M1#2988",
+  "en": "Bah, I was only thinking out loud."
+ },
+ {
+  "id": "M1#2989",
+  "en": "It'll be getting colder from here on."
+ },
+ {
+  "id": "M1#2990",
+  "en": "I'd best chop plenty of firewood for the hearth."
+ },
+ {
+  "id": "M1#2991",
+  "en": ", aren't you?",
+  "note": "after #2923 'You're ' + name"
+ },
+ {
+  "id": "M1#2992",
+  "en": " is my name, sir.",
+  "note": "name precedes; matches #2934"
+ },
+ {
+  "id": "M1#2993",
+  "en": "(Hmm, this fellow...",
+  "note": "same as #2951; thought goes on in #2952 'Who could he be?)'"
+ },
+ {
+  "id": "M1#2994",
+  "en": "Sorry for asking you over and over."
+ },
+ {
+  "id": "M1#2995",
+  "en": "this forest for me?"
+ },
+ {
+  "id": "M1#2996",
+  "en": "I'm sorry, sir."
+ },
+ {
+  "id": "M1#2997",
+  "en": "I have other things that I need"
+ },
+ {
+  "id": "M1#2998",
+  "en": "to take care of."
+ },
+ {
+  "id": "M1#2999",
+  "en": "I figured as much."
+ },
+ {
+  "id": "M1#3000",
+  "en": "I'd best chop plenty of firewood for the fireplace, too."
+ },
+ {
+  "id": "M1#3001",
+  "en": "This old man"
+ },
+ {
+  "id": "M1#3002",
+  "en": "might be willing to help me."
+ },
+ {
+  "id": "M1#3003",
+  "en": "Well now, young fellow."
+ },
+ {
+  "id": "M1#3004",
+  "en": "Has something happened, at this hour?"
+ },
+ {
+  "id": "M1#3005",
+  "en": "Actually, sir, there's a favor I must ask of you."
+ },
+ {
+  "id": "M1#3006",
+  "en": "For you to come in the dead of night,"
+ },
+ {
+  "id": "M1#3007",
+  "en": "it must be something very important."
+ },
+ {
+  "id": "M1#3008",
+  "en": "I'm an old man, mind you."
+ },
+ {
+  "id": "M1#3009",
+  "en": "I may not be much help, but"
+ },
+ {
+  "id": "M1#3010",
+  "en": "go on, tell me."
+ },
+ {
+  "id": "M1#3011",
+  "en": "Well, I'll be",
+  "note": "'!' comes from shared #414"
+ },
+ {
+  "id": "M1#3012",
+  "en": "To think I'd ever come face to face"
+ },
+ {
+  "id": "M1#3013",
+  "en": "with a real vampire",
+  "note": "'!' comes from shared #414"
+ },
+ {
+  "id": "M1#3014",
+  "en": "The stories I heard as a boy"
+ },
+ {
+  "id": "M1#3015",
+  "en": "made them out to be dreadful folk."
+ },
+ {
+  "id": "M1#3016",
+  "en": "But a kind-looking fellow like you being one?"
+ },
+ {
+  "id": "M1#3017",
+  "en": "That's twice the surprise!"
+ },
+ {
+  "id": "M1#3018",
+  "en": "If an old wreck like me will do, I'll lend you my strength."
+ },
+ {
+  "id": "M1#3019",
+  "en": "Do you really mean it?"
+ },
+ {
+  "id": "M1#3020",
+  "en": "In return, though, I've a favor to ask too."
+ },
+ {
+  "id": "M1#3021",
+  "en": "What is it?"
+ },
+ {
+  "id": "M1#3022",
+  "en": "When that war is over, would you take my place"
+ },
+ {
+  "id": "M1#3023",
+  "en": "and guard the forest?"
+ },
+ {
+  "id": "M1#3024",
+  "en": "If a vampire with eternal life"
+ },
+ {
+  "id": "M1#3025",
+  "en": "would guard the forest for all eternity,"
+ },
+ {
+  "id": "M1#3026",
+  "en": "I'd have nothing left to regret."
+ },
+ {
+  "id": "M1#3027",
+  "en": "I'm sorry."
+ },
+ {
+  "id": "M1#3028",
+  "en": "But instead,"
+ },
+ {
+  "id": "M1#3029",
+  "en": "I could give you eternal life, sir, if you wish."
+ },
+ {
+  "id": "M1#3030",
+  "en": "No, that's all right."
+ },
+ {
+  "id": "M1#3031",
+  "en": "I was only being a bit selfish."
+ },
+ {
+  "id": "M1#3032",
+  "en": "Best of all would be that, just as the trees ",
+  "note": "3032-3034 print as one run (no line breaks); trailing spaces needed"
+ },
+ {
+  "id": "M1#3033",
+  "en": "pass on their life, the work of guarding the "
+ },
+ {
+  "id": "M1#3034",
+  "en": "forest is passed on too, I reckon."
+ },
+ {
+  "id": "M1#3035",
+  "en": "Now, ",
+  "note": "pause follows; trailing space carries the gap before #3036"
+ },
+ {
+  "id": "M1#3036",
+  "en": "you're off to the war, aren't you?"
+ },
+ {
+  "id": "M1#3037",
+  "en": "No dawdling, then!"
+ },
+ {
+  "id": "M1#3038",
+  "en": "What'll it be......"
+ },
+ {
+  "id": "M1#3039",
+  "en": "We're not open yet."
+ }
+]

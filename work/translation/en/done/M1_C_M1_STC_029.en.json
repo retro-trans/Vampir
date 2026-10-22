@@ -1,0 +1,341 @@
+[
+ {
+  "id": "M1#2320",
+  "en": "Probably..."
+ },
+ {
+  "id": "M1#2321",
+  "en": "Plans must be laid meticulously, and then"
+ },
+ {
+  "id": "M1#2322",
+  "en": "executed with precision."
+ },
+ {
+  "id": "M1#2323",
+  "en": "That, for our nation and our army's victory,"
+ },
+ {
+  "id": "M1#2324",
+  "en": "is the shortest road of all."
+ },
+ {
+  "id": "M1#2325",
+  "en": "My days are spent on nothing but war."
+ },
+ {
+  "id": "M1#2326",
+  "en": "For a man like me, with no family of his own,"
+ },
+ {
+  "id": "M1#2327",
+  "en": "my men are like my own children."
+ },
+ {
+  "id": "M1#2328",
+  "en": "My men, like my own sons, clutch their guts"
+ },
+ {
+  "id": "M1#2329",
+  "en": "and beg for help, but I leave them and go on.",
+  "note": "239/240 px, tight but one line"
+ },
+ {
+  "id": "M1#2330",
+  "en": "That is the law of war."
+ },
+ {
+  "id": "M1#2331",
+  "en": ",",
+  "note": "Shared: '{PLAYER_NAME}, / do you think me heartless?' (msg 91228); Josef msg 141910 gets its own variant",
+  "variants": [
+   {
+    "msg": 141910,
+    "en": ""
+   }
+  ]
+ },
+ {
+  "id": "M1#2332",
+  "en": "do you think me heartless?"
+ },
+ {
+  "id": "M1#2333",
+  "en": "<You're heartless>",
+  "note": "Answer choice to 'do you think me heartless?'; answered by #2335-2339"
+ },
+ {
+  "id": "M1#2334",
+  "en": "<You're not heartless>",
+  "note": "Answer choice; answered by #2340-2344"
+ },
+ {
+  "id": "M1#2335",
+  "en": "Coming from someone like you,"
+ },
+ {
+  "id": "M1#2336",
+  "en": "I hardly expected such an answer."
+ },
+ {
+  "id": "M1#2337",
+  "en": "It's precisely because we know it's heartless"
+ },
+ {
+  "id": "M1#2338",
+  "en": "that wars come to an end."
+ },
+ {
+  "id": "M1#2339",
+  "en": "But that end is only ever temporary..."
+ },
+ {
+  "id": "M1#2340",
+  "en": "That's just the answer I'd expect from you."
+ },
+ {
+  "id": "M1#2341",
+  "en": "But that thinking is far too dangerous."
+ },
+ {
+  "id": "M1#2342",
+  "en": "Even war has its bare minimum of rules."
+ },
+ {
+  "id": "M1#2343",
+  "en": "It's a view that could even become an excuse"
+ },
+ {
+  "id": "M1#2344",
+  "en": "for those who break those rules."
+ },
+ {
+  "id": "M1#2345",
+  "en": "As long as there is war in this world,"
+ },
+ {
+  "id": "M1#2346",
+  "en": "victory alone is my duty."
+ },
+ {
+  "id": "M1#2347",
+  "en": "I've told you often enough that civilians"
+ },
+ {
+  "id": "M1#2348",
+  "en": "aren't allowed in. You don't seem to get it.",
+  "note": "Shared by msgs 91348 and 92012; 'get it' set up for the reply #2349 'No, I don't.'"
+ },
+ {
+  "id": "M1#2349",
+  "en": "No, I don't.",
+  "note": "Stern player register at night"
+ },
+ {
+  "id": "M1#2350",
+  "en": "At the very least, none of the reasons"
+ },
+ {
+  "id": "M1#2351",
+  "en": "you people have for keeping others out"
+ },
+ {
+  "id": "M1#2352",
+  "en": "apply to me."
+ },
+ {
+  "id": "M1#2353",
+  "en": "So you're no enemy spy,",
+  "note": "Thomas paraphrasing the player's claim; sentence continues in #2355 (msg 91418)"
+ },
+ {
+  "id": "M1#2354",
+  "en": "and no threat to discipline either."
+ },
+ {
+  "id": "M1#2355",
+  "en": "Is that what you're trying to tell me?"
+ },
+ {
+  "id": "M1#2356",
+  "en": "You really are an odd one.",
+  "note": "No used_in; Thomas"
+ },
+ {
+  "id": "M1#2357",
+  "en": "But I won't drag my precious men into a pointless ",
+  "note": "No used_in; joined with #2358/#2359 into one sentence (assumed printed on one line)"
+ },
+ {
+  "id": "M1#2358",
+  "en": "\"night battle\""
+ },
+ {
+  "id": "M1#2359",
+  "en": " if I can help it."
+ },
+ {
+  "id": "M1#2360",
+  "en": "So leave."
+ },
+ {
+  "id": "M1#2361",
+  "en": "You can't seem to judge the situation calmly.",
+  "note": "Speaker inferred as the player (a [Thomas] tag follows before #2362); wording works for either speaker"
+ },
+ {
+  "id": "M1#2362",
+  "en": "You underestimate me."
+ },
+ {
+  "id": "M1#2363",
+  "en": "I'm saying if you'll do it, then do it quickly."
+ },
+ {
+  "id": "M1#2364",
+  "en": "But do it to me alone."
+ },
+ {
+  "id": "M1#2365",
+  "en": "Leave my men alone."
+ },
+ {
+  "id": "M1#2366",
+  "en": "You know as well as I do"
+ },
+ {
+  "id": "M1#2367",
+  "en": "that stopping because you're told to"
+ },
+ {
+  "id": "M1#2368",
+  "en": "isn't the law of war..."
+ },
+ {
+  "id": "M1#2369",
+  "en": "A wise choice. A gentle sort like you"
+ },
+ {
+  "id": "M1#2370",
+  "en": "just wouldn't make it as a soldier anyway."
+ },
+ {
+  "id": "M1#2371",
+  "en": "A delicate fellow like you is hardly"
+ },
+ {
+  "id": "M1#2372",
+  "en": "cut out to be a soldier, I'd say."
+ },
+ {
+  "id": "M1#2373",
+  "en": "Do you want to join the navy?"
+ },
+ {
+  "id": "M1#2374",
+  "en": "Without any reason... I see."
+ },
+ {
+  "id": "M1#2375",
+  "en": "(But I have a reason for drinking blood.)"
+ },
+ {
+  "id": "M1#2376",
+  "en": "<You are heartless>",
+  "note": "Answer choice (polite Christopher version); answered by #2378"
+ },
+ {
+  "id": "M1#2377",
+  "en": "<It can't be helped>",
+  "note": "Answer choice; answered by #2379-2383"
+ },
+ {
+  "id": "M1#2378",
+  "en": "Just the answer I'd expect from you."
+ },
+ {
+  "id": "M1#2379",
+  "en": "A wise answer."
+ },
+ {
+  "id": "M1#2380",
+  "en": "If you don't know where to keep a cool head,"
+ },
+ {
+  "id": "M1#2381",
+  "en": "your losses will never grow any fewer."
+ },
+ {
+  "id": "M1#2382",
+  "en": "Only when it rests on cool judgment"
+ },
+ {
+  "id": "M1#2383",
+  "en": "does compassion take on any meaning."
+ },
+ {
+  "id": "M1#2384",
+  "en": "So you'd noticed..."
+ },
+ {
+  "id": "M1#2385",
+  "en": "It wasn't tonight that told me, but your"
+ },
+ {
+  "id": "M1#2386",
+  "en": "conduct during the day."
+ },
+ {
+  "id": "M1#2387",
+  "en": "Hardly anyone comes to me without"
+ },
+ {
+  "id": "M1#2388",
+  "en": "wanting to enlist, after all."
+ },
+ {
+  "id": "M1#2389",
+  "en": "By day you looked delicate,"
+ },
+ {
+  "id": "M1#2390",
+  "en": "but seeing you like this, at night,"
+ },
+ {
+  "id": "M1#2391",
+  "en": "I understand the position I'm in."
+ },
+ {
+  "id": "M1#2392",
+  "en": "Only for a short while, at night. That's all."
+ },
+ {
+  "id": "M1#2393",
+  "en": "I would like you to lend me your strength."
+ },
+ {
+  "id": "M1#2394",
+  "en": "I won't ask why you fight."
+ },
+ {
+  "id": "M1#2395",
+  "en": "Can you win?"
+ },
+ {
+  "id": "M1#2396",
+  "en": "That's why I approached you."
+ },
+ {
+  "id": "M1#2397",
+  "en": "Very well. Do it."
+ },
+ {
+  "id": "M1#2398",
+  "en": "Quickly, before I change my mind!"
+ },
+ {
+  "id": "M1#2399",
+  "en": "As you command...",
+  "note": "Follows '{PLAYER_NAME}, my master...' (#633)"
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "file": "DC_MCX.BIN",
+  "id": "MCX.BIN@9C8",
+  "why": "save title must fit 31 full-width letters (64-byte buffer, overflow crashed the save): '(N)' dropped (build.py MCX_CODE), only separator #1 left",
+  "en": " "
+ },
+ {
+  "file": "DC_MCX.BIN",
+  "id": "MCX.BIN@9EC",
+  "why": "save title: separator #3 only; 'D' is written by the day-field patch (build.py MCX_CODE) so Start/End stay clean",
+  "en": " "
+ },
+ {
+  "file": "DC_MCX.BIN",
+  "id": "MCX.BIN@9F0",
+  "why": "save title day part: 'D12' + ' ' + time word",
+  "en": " "
+ },
+ {
+  "file": "DC_MCX.BIN",
+  "id": "MCX.BIN@34",
+  "why": "save title day part must stay within 8 letters (slot day field 16 bytes)",
+  "en": "Morn"
+ },
+ {
+  "file": "DC_MCX.BIN",
+  "id": "MCX.BIN@30",
+  "why": "save title day part must stay within 8 letters (slot day field 16 bytes)",
+  "en": "Eve"
+ },
+ {
+  "file": "DC_MCX.BIN",
+  "id": "MCX.BIN@3EC",
+  "why": "second line also follows 'Save completed successfully.': full sentences read right in every pairing",
+  "en": "The game will continue."
+ },
+ {
+  "file": "DC_MCX.BIN",
+  "id": "MCX.BIN@400",
+  "why": "second line also follows 'Save completed successfully.': full sentences read right in every pairing",
+  "en": "The game will now resume."
+ },
+ {
+  "file": "DC_MCX.BIN",
+  "id": "MCX.BIN@418",
+  "why": "second line also follows 'Save completed successfully.': full sentences read right in every pairing",
+  "en": "The Memory Card was removed."
+ },
+ {
+  "file": "DC_MCX.BIN",
+  "id": "MCX.BIN@438",
+  "why": "second line also follows 'Save completed successfully.': full sentences read right in every pairing",
+  "en": "An error occurred."
+ }
+]

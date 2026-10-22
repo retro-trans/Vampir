@@ -1,0 +1,340 @@
+[
+ {
+  "id": "M0#2080",
+  "en": "Today I'm packing vegetables into jars."
+ },
+ {
+  "id": "M0#2081",
+  "en": "If you pour honey over food in a jar,"
+ },
+ {
+  "id": "M0#2082",
+  "en": "and seal it airtight,"
+ },
+ {
+  "id": "M0#2083",
+  "en": "it will keep for quite a long time."
+ },
+ {
+  "id": "M0#2084",
+  "en": "What I'm making now is going to be butter. ",
+  "note": "trailing space: msg 99251 prints #2084 and #2085 on one line with no separator"
+ },
+ {
+  "id": "M0#2085",
+  "en": "Like this, mixing in salt,"
+ },
+ {
+  "id": "M0#2086",
+  "en": "you work it with a spatula until it's firm."
+ },
+ {
+  "id": "M0#2087",
+  "en": "I need to make some cheese next, too..."
+ },
+ {
+  "id": "M0#2088",
+  "en": "What a sweet scent. Heh heh, wonderful.",
+  "note": "[PLAYER], stern voice; the scent's source is not named"
+ },
+ {
+  "id": "M0#2089",
+  "en": "I shall enjoy it as a delectable dessert.",
+  "note": "object kept as 'it' (jam, or Celia herself?) - source gives no object"
+ },
+ {
+  "id": "M0#2090",
+  "en": "Come to think of it, like this,"
+ },
+ {
+  "id": "M0#2091",
+  "en": "it's like having preserved food in hand.",
+  "note": "pairs with #886 'Mwahahaha...'"
+ },
+ {
+  "id": "M0#2092",
+  "en": "Aren't you adorable! Where are you from?"
+ },
+ {
+  "id": "M0#2093",
+  "en": "Um, I'm living at the villa to the east now."
+ },
+ {
+  "id": "M0#2094",
+  "en": "you soon lose touch with what's around you.",
+  "note": "continues #2060 (slice 025) 'If you ... indoors,' - needs a 'you' sentence start"
+ },
+ {
+  "id": "M0#2095",
+  "en": "So you've only just started living here."
+ },
+ {
+  "id": "M0#2096",
+  "en": "Yet you keep coming to this plain old house.",
+  "note": "Celia refers to her own house"
+ },
+ {
+  "id": "M0#2097",
+  "en": "Would you like to try some freshly made butter?"
+ },
+ {
+  "id": "M0#2098",
+  "en": "Shall we make something together next time?"
+ },
+ {
+  "id": "M0#2099",
+  "en": "I thought I smelled something sweet and lovely,"
+ },
+ {
+  "id": "M0#2100",
+  "en": "so that's what it was."
+ },
+ {
+  "id": "M0#2101",
+  "en": "It smells lovely again today."
+ },
+ {
+  "id": "M0#2102",
+  "en": "What are you making today?"
+ },
+ {
+  "id": "M0#2103",
+  "en": "Well, today,"
+ },
+ {
+  "id": "M0#2104",
+  "en": "I'm packing cooked vegetables into jars."
+ },
+ {
+  "id": "M0#2105",
+  "en": "If you put it in a jar and pour honey on top,",
+  "note": "same 'If you ..., and seal it airtight, it will keep' frame as #2081/#2082/#2083"
+ },
+ {
+  "id": "M0#2106",
+  "en": "What are you making there?"
+ },
+ {
+  "id": "M0#2107",
+  "en": "This is going to be butter."
+ },
+ {
+  "id": "M0#2108",
+  "en": "you work it with a spatula until it's firm.",
+  "note": "msg 99663: #2085 line is followed by this; 'you see' dropped to stay in 3 lines"
+ },
+ {
+  "id": "M0#2109",
+  "en": "Please give me any order you like...",
+  "note": "follows #0 ', my master...' and echoes #1; servant Wendy"
+ },
+ {
+  "id": "M0#2110",
+  "en": "Well, don't you look glum,"
+ },
+ {
+  "id": "M0#2111",
+  "en": "Pull yourself together."
+ },
+ {
+  "id": "M0#2112",
+  "en": "Come to think of it, I haven't seen you before,"
+ },
+ {
+  "id": "M0#2113",
+  "en": "What's your name?"
+ },
+ {
+  "id": "M0#2114",
+  "en": "I see, ",
+  "note": "name + #2115 ', is it?' or + #13 '.'"
+ },
+ {
+  "id": "M0#2115",
+  "en": ", is it?",
+  "note": "'san ne': honorific dropped; #2172 (other slice, 'ne') should match ', is it?'"
+ },
+ {
+  "id": "M0#2116",
+  "en": "I'm Wendy the washerwoman,"
+ },
+ {
+  "id": "M0#2117",
+  "en": "If you've got any washing, tell me.",
+  "note": "capitalised start because #2176 ends in a full stop; follows both #2116 and #2146"
+ },
+ {
+  "id": "M0#2118",
+  "en": "Stand up straight when you walk."
+ },
+ {
+  "id": "M0#2119",
+  "en": "You look as glum as ever,"
+ },
+ {
+  "id": "M0#2120",
+  "en": "Are you all right?"
+ },
+ {
+  "id": "M0#2121",
+  "en": "I've never once worried about my husband,"
+ },
+ {
+  "id": "M0#2122",
+  "en": "but I do worry about you."
+ },
+ {
+  "id": "M0#2123",
+  "en": "Hm? Well, don't you look glum,"
+ },
+ {
+  "id": "M0#2124",
+  "en": "Come on, cheer up and walk with some spirit."
+ },
+ {
+  "id": "M0#2125",
+  "en": "Good day, ",
+  "note": "shared with Johanna (msgs 107667, 108343): name + '.'"
+ },
+ {
+  "id": "M0#2126",
+  "en": "Nights get cold, don't they? Be careful."
+ },
+ {
+  "id": "M0#2127",
+  "en": "Well, don't you look glum."
+ },
+ {
+  "id": "M0#2128",
+  "en": "Oh, it's you. Still as listless as ever,"
+ },
+ {
+  "id": "M0#2129",
+  "en": "Can't you liven up a bit?"
+ },
+ {
+  "id": "M0#2130",
+  "en": "My strength isn't back yet. I have none to spare.",
+  "note": "[PLAYER] stern voice"
+ },
+ {
+  "id": "M0#2131",
+  "en": "Don't make such strange excuses,"
+ },
+ {
+  "id": "M0#2132",
+  "en": "Eat a proper meal and get your energy up."
+ },
+ {
+  "id": "M0#2133",
+  "en": "Is there something you want washed?"
+ },
+ {
+  "id": "M0#2134",
+  "en": "This house isn't a laundry counter,"
+ },
+ {
+  "id": "M0#2135",
+  "en": "so if that's it, come to the wash house."
+ },
+ {
+  "id": "M0#2136",
+  "en": "Oh, it's just ",
+  "note": "name + #2137 '.' (or #2183, same ending)"
+ },
+ {
+  "id": "M0#2137",
+  "en": "."
+ },
+ {
+  "id": "M0#2138",
+  "en": "You won't get anything by coming to my house, you know."
+ },
+ {
+  "id": "M0#2139",
+  "en": "Did you really come to get laundry done?"
+ },
+ {
+  "id": "M0#2140",
+  "en": "Of course not. Ahahaha!"
+ },
+ {
+  "id": "M0#2141",
+  "en": "My husband may be unfriendly,"
+ },
+ {
+  "id": "M0#2142",
+  "en": "but it's not that he dislikes you."
+ },
+ {
+  "id": "M0#2143",
+  "en": "Ios just isn't one to let things bother him."
+ },
+ {
+  "id": "M0#2144",
+  "en": "Even your answer's got no life in it."
+ },
+ {
+  "id": "M0#2145",
+  "en": "I'm Wendy,"
+ },
+ {
+  "id": "M0#2146",
+  "en": "a washerwoman, as you can see."
+ },
+ {
+  "id": "M0#2147",
+  "en": "Oh, it's you, ",
+  "note": "name + '.'"
+ },
+ {
+  "id": "M0#2148",
+  "en": "What, do you want your curtains washed or something?"
+ },
+ {
+  "id": "M0#2149",
+  "en": "I seem to be fine for now,"
+ },
+ {
+  "id": "M0#2150",
+  "en": "I'll ask if I need anything.",
+  "note": "[PLAYER] stern voice"
+ },
+ {
+  "id": "M0#2151",
+  "en": "Fair enough. But I mean it, you know.",
+  "note": "'honto da yo' read as Wendy insisting the offer is genuine"
+ },
+ {
+  "id": "M0#2152",
+  "en": "Aren't those clothes pretty dirty?"
+ },
+ {
+  "id": "M0#2153",
+  "en": "It looks like you've been wearing them for 100 years straight."
+ },
+ {
+  "id": "M0#2154",
+  "en": "Things that are hard to wash by hand,"
+ },
+ {
+  "id": "M0#2155",
+  "en": "I beat with a stick, like this, over and over,"
+ },
+ {
+  "id": "M0#2156",
+  "en": "until they're clean."
+ },
+ {
+  "id": "M0#2157",
+  "en": "It takes a fair bit of strength."
+ },
+ {
+  "id": "M0#2158",
+  "en": "So that job falls to me."
+ },
+ {
+  "id": "M0#2159",
+  "en": "All because I look the strongest, they say."
+ }
+]

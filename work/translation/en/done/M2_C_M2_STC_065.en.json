@@ -1,0 +1,336 @@
+[
+ {
+  "id": "M2#5200",
+  "en": "quite enjoyable.",
+  "note": "Completes #5199 (slice 064) 'After all, you seem to be up to something'."
+ },
+ {
+  "id": "M2#5201",
+  "en": "...Then let us make our pact."
+ },
+ {
+  "id": "M2#5202",
+  "en": "I am the vampire "
+ },
+ {
+  "id": "M2#5203",
+  "en": "I shall have that blood of yours."
+ },
+ {
+  "id": "M2#5204",
+  "en": "Heh, interesting"
+ },
+ {
+  "id": "M2#5205",
+  "en": "So the world still has things left that"
+ },
+ {
+  "id": "M2#5206",
+  "en": "can amuse me, it seems."
+ },
+ {
+  "id": "M2#5207",
+  "en": "I have gained a powerful servant."
+ },
+ {
+  "id": "M2#5208",
+  "en": "You want something with me?"
+ },
+ {
+  "id": "M2#5209",
+  "en": "You're an odd one too, huh."
+ },
+ {
+  "id": "M2#5210",
+  "en": "Or so I might claim, but whether it's true"
+ },
+ {
+  "id": "M2#5211",
+  "en": "Heard you've been looking for me, eh?"
+ },
+ {
+  "id": "M2#5212",
+  "en": "...Yes, I have."
+ },
+ {
+  "id": "M2#5213",
+  "en": "...from your lips."
+ },
+ {
+  "id": "M2#5214",
+  "en": "If you like... I could lend you a hand, y'know?"
+ },
+ {
+  "id": "M2#5215",
+  "en": "You're up to something quite enjoyable,"
+ },
+ {
+  "id": "M2#5216",
+  "en": "it seems.",
+  "note": "Shared with Bridget msg 291636 after #7379; 'it seems.' reads after both."
+ },
+ {
+  "id": "M2#5217",
+  "en": "...I'd like you to help me."
+ },
+ {
+  "id": "M2#5218",
+  "en": "I want that blood of yours..."
+ },
+ {
+  "id": "M2#5219",
+  "en": "Very well."
+ },
+ {
+  "id": "M2#5220",
+  "en": "Jack, show me what you can do."
+ },
+ {
+  "id": "M2#5221",
+  "en": ","
+ },
+ {
+  "id": "M2#5222",
+  "en": "I'll be good and do what you say..."
+ },
+ {
+  "id": "M2#5223",
+  "en": ","
+ },
+ {
+  "id": "M2#5224",
+  "en": "Hi! I'm Tim."
+ },
+ {
+  "id": "M2#5225",
+  "en": "I always play here in this empty lot."
+ },
+ {
+  "id": "M2#5226",
+  "en": "My dad, you know, he works at the factory"
+ },
+ {
+  "id": "M2#5227",
+  "en": "near here."
+ },
+ {
+  "id": "M2#5228",
+  "en": "And guess what? I'm hunting for treasure!"
+ },
+ {
+  "id": "M2#5229",
+  "en": "See, somewhere in this empty lot,"
+ },
+ {
+  "id": "M2#5230",
+  "en": "there's an amazing treasure buried, they say."
+ },
+ {
+  "id": "M2#5231",
+  "en": "I gotta dig holes with my shovel and find"
+ },
+ {
+  "id": "M2#5232",
+  "en": "my treasure."
+ },
+ {
+  "id": "M2#5233",
+  "en": "I'm Tim."
+ },
+ {
+  "id": "M2#5234",
+  "en": "This empty lot is my playground."
+ },
+ {
+  "id": "M2#5235",
+  "en": "Right now I'm hunting for treasure."
+ },
+ {
+  "id": "M2#5236",
+  "en": "Hey, come play with me!"
+ },
+ {
+  "id": "M2#5237",
+  "en": "My mum, she says I can't play here"
+ },
+ {
+  "id": "M2#5238",
+  "en": "'cause it's dangerous."
+ },
+ {
+  "id": "M2#5239",
+  "en": "There's some scary murderer around,"
+ },
+ {
+  "id": "M2#5240",
+  "en": "she says."
+ },
+ {
+  "id": "M2#5241",
+  "en": "Is it really true...?"
+ },
+ {
+  "id": "M2#5242",
+  "en": "But I'm gonna dig and dig and dig!"
+ },
+ {
+  "id": "M2#5243",
+  "en": "If I find the treasure, I bet Mum will"
+ },
+ {
+  "id": "M2#5244",
+  "en": "be really proud of me."
+ },
+ {
+  "id": "M2#5245",
+  "en": "You know, I found a patch of ground"
+ },
+ {
+  "id": "M2#5246",
+  "en": "that was really soft and easy to dig."
+ },
+ {
+  "id": "M2#5247",
+  "en": "When I dug there, lots of white, hard"
+ },
+ {
+  "id": "M2#5248",
+  "en": "things came up..."
+ },
+ {
+  "id": "M2#5249",
+  "en": "They might be human bones...",
+  "variants": [
+   {
+    "msg": 213820,
+    "en": "They might be human bones... "
+   }
+  ]
+ },
+ {
+  "id": "M2#5250",
+  "en": "Maybe I oughta tell the police..."
+ },
+ {
+  "id": "M2#5251",
+  "en": "I'm scared..."
+ },
+ {
+  "id": "M2#5252",
+  "en": "Hey, did they catch the murderer yet?"
+ },
+ {
+  "id": "M2#5253",
+  "en": "That white stuff I dug up the other day,"
+ },
+ {
+  "id": "M2#5254",
+  "en": "it was bones after all!"
+ },
+ {
+  "id": "M2#5255",
+  "en": "But they weren't human bones."
+ },
+ {
+  "id": "M2#5256",
+  "en": "They're from animals made into food at"
+ },
+ {
+  "id": "M2#5257",
+  "en": "Dad's factory, pigs and cows and stuff."
+ },
+ {
+  "id": "M2#5258",
+  "en": "Phew, what a relief!"
+ },
+ {
+  "id": "M2#5259",
+  "en": "I just can't find the treasure."
+ },
+ {
+  "id": "M2#5260",
+  "en": "But I'm not giving up!"
+ },
+ {
+  "id": "M2#5261",
+  "en": "I'm gonna dig and dig and dig some more!"
+ },
+ {
+  "id": "M2#5262",
+  "en": "I'm Tim."
+ },
+ {
+  "id": "M2#5263",
+  "en": "I'm off to play in the factory's empty lot now."
+ },
+ {
+  "id": "M2#5264",
+  "en": "What'll I play, you ask?",
+  "variants": [
+   {
+    "msg": 213956,
+    "en": "What'll I play, you ask? "
+   }
+  ]
+ },
+ {
+  "id": "M2#5265",
+  "en": "That's a secret!"
+ },
+ {
+  "id": "M2#5266",
+  "en": "I always play in the empty lot."
+ },
+ {
+  "id": "M2#5267",
+  "en": "I'm on my way home now."
+ },
+ {
+  "id": "M2#5268",
+  "en": "I'm always starving after I play."
+ },
+ {
+  "id": "M2#5269",
+  "en": "Aw, I hope there's food at home."
+ },
+ {
+  "id": "M2#5270",
+  "en": "Aw, I'm so hungry."
+ },
+ {
+  "id": "M2#5271",
+  "en": "Hi, I'm Tim."
+ },
+ {
+  "id": "M2#5272",
+  "en": "My dad and mum both go to work at the"
+ },
+ {
+  "id": "M2#5273",
+  "en": "factory, and they get home late every day."
+ },
+ {
+  "id": "M2#5274",
+  "en": "Hey, come play with me in the empty lot sometime!"
+ },
+ {
+  "id": "M2#5275",
+  "en": "My dad and mum don't spend much time"
+ },
+ {
+  "id": "M2#5276",
+  "en": "at home."
+ },
+ {
+  "id": "M2#5277",
+  "en": "But sometimes, my dad and mum"
+ },
+ {
+  "id": "M2#5278",
+  "en": "get to play with me!"
+ },
+ {
+  "id": "M2#5279",
+  "en": "I love my dad and my mum."
+ }
+]

@@ -1,0 +1,343 @@
+[
+ {
+  "id": "M1#6800",
+  "en": "So for marrying into the Stanberg family,"
+ },
+ {
+  "id": "M1#6801",
+  "en": "my standing was more than enough."
+ },
+ {
+  "id": "M1#6802",
+  "en": "must be a lady of high standing, of course.",
+  "note": "After 084 #6791 'Stuart's bride, too,'."
+ },
+ {
+  "id": "M1#6803",
+  "en": "You wouldn't happen to have"
+ },
+ {
+  "id": "M1#6804",
+  "en": "a younger sister, would you?"
+ },
+ {
+  "id": "M1#6805",
+  "en": "If she's your sister,"
+ },
+ {
+  "id": "M1#6806",
+  "en": "she must be a lovely young lady."
+ },
+ {
+  "id": "M1#6807",
+  "en": "Oh, so it's you. You must be the brother"
+ },
+ {
+  "id": "M1#6808",
+  "en": "of Stuart's next prospective bride."
+ },
+ {
+  "id": "M1#6809",
+  "en": "Our Stuart is honest and a very good boy,"
+ },
+ {
+  "id": "M1#6810",
+  "en": "yet for some reason, at any talk of a match,"
+ },
+ {
+  "id": "M1#6811",
+  "en": "he just clams up.",
+  "note": "Subject (Stuart) restored."
+ },
+ {
+  "id": "M1#6812",
+  "en": "I suppose only a lovely young lady of equal"
+ },
+ {
+  "id": "M1#6813",
+  "en": "standing will do for him."
+ },
+ {
+  "id": "M1#6814",
+  "en": "But now that I've seen you, I'm relieved."
+ },
+ {
+  "id": "M1#6815",
+  "en": "If she has someone like you for a brother,"
+ },
+ {
+  "id": "M1#6816",
+  "en": "she's bound to be a lovely young lady."
+ },
+ {
+  "id": "M1#6817",
+  "en": "I fear you have mistaken me for someone else."
+ },
+ {
+  "id": "M1#6818",
+  "en": "Oh my, do forgive me."
+ },
+ {
+  "id": "M1#6819",
+  "en": "You're so well dressed, not like the locals,"
+ },
+ {
+  "id": "M1#6820",
+  "en": "so I was sure the prospective bride's brother"
+ },
+ {
+  "id": "M1#6821",
+  "en": "had come to call on us."
+ },
+ {
+  "id": "M1#6822",
+  "en": "I should have said so at once. My apologies."
+ },
+ {
+  "id": "M1#6823",
+  "en": "you, calling at an hour like this?",
+  "note": "Lower-case: continues #5094 variant 'Oh my,' across the line break."
+ },
+ {
+  "id": "M1#6824",
+  "en": "Whatever do you want with me?"
+ },
+ {
+  "id": "M1#6825",
+  "en": "I longed to see your sleeping face, madam."
+ },
+ {
+  "id": "M1#6826",
+  "en": "Wh-what? Mine?"
+ },
+ {
+  "id": "M1#6827",
+  "en": "I hardly know what to say to that..."
+ },
+ {
+  "id": "M1#6828",
+  "en": "In the presence of a noble lady, I find",
+  "note": "No used_in; read as PLAYER continuing msg 279771 (it ends with an open [PLAYER] tag)."
+ },
+ {
+  "id": "M1#6829",
+  "en": "I can no longer hold back my feelings."
+ },
+ {
+  "id": "M1#6830",
+  "en": "No. No, you mustn't.",
+  "note": "No used_in; read as Mrs. Stanberg."
+ },
+ {
+  "id": "M1#6831",
+  "en": "I have a husband."
+ },
+ {
+  "id": "M1#6832",
+  "en": "Ah, God, forgive me",
+  "note": "No used_in; source has no final punctuation, kept without."
+ },
+ {
+  "id": "M1#6833",
+  "en": "Gya",
+  "note": "Msg 279847: + #1942 'a' x4 + #414 '!' = 'Gyaaaaa!' (as slice 024 requires)."
+ },
+ {
+  "id": "M1#6834",
+  "en": "Not very tasty, for someone so noble.",
+  "note": "PLAYER after biting Mrs. Stanberg."
+ },
+ {
+  "id": "M1#6835",
+  "en": "Is she really of Prussian royal"
+ },
+ {
+  "id": "M1#6836",
+  "en": "blood, I wonder?"
+ },
+ {
+  "id": "M1#6837",
+  "en": "I believe you have the wrong person."
+ },
+ {
+  "id": "M1#6838",
+  "en": "I should have said something sooner.",
+  "note": "Followed by #2187 'Please excuse me.' on the next line."
+ },
+ {
+  "id": "M1#6839",
+  "en": "Hello. Lovely weather, isn't it?"
+ },
+ {
+  "id": "M1#6840",
+  "en": "My husband is a doctor, and I assist him",
+  "note": "Shared #6841 'as a nurse.' also follows #6893 (slice 086)."
+ },
+ {
+  "id": "M1#6841",
+  "en": "as a nurse.",
+  "note": "Shared: must follow #6840 and #6893 (086) ending 'and I assist him'."
+ },
+ {
+  "id": "M1#6842",
+  "en": "I have a little errand to run outside",
+  "note": "Followed by #2 '...'."
+ },
+ {
+  "id": "M1#6843",
+  "en": "Lovely weather, isn't it?"
+ },
+ {
+  "id": "M1#6844",
+  "en": "Are you out for a walk too?"
+ },
+ {
+  "id": "M1#6845",
+  "en": "I'm visiting my daughter's grave again today."
+ },
+ {
+  "id": "M1#6846",
+  "en": "I'm just on my way back to the clinic."
+ },
+ {
+  "id": "M1#6847",
+  "en": "I'm heading back to the clinic now."
+ },
+ {
+  "id": "M1#6848",
+  "en": "As evening draws near, the cold really bites."
+ },
+ {
+  "id": "M1#6849",
+  "en": "you haven't caught a cold, have you?",
+  "note": "Lower-case: follows NAME + #223 ',' on the line above."
+ },
+ {
+  "id": "M1#6850",
+  "en": "It's getting colder, so take care of yourself,",
+  "note": "Followed by #6034 'won't you?' on the next line (slice 075 note)."
+ },
+ {
+  "id": "M1#6851",
+  "en": "Hello. This is the clinic."
+ },
+ {
+  "id": "M1#6852",
+  "en": "As my husband's assistant,"
+ },
+ {
+  "id": "M1#6853",
+  "en": "I work as a nurse."
+ },
+ {
+  "id": "M1#6854",
+  "en": "Oh my, look at you."
+ },
+ {
+  "id": "M1#6855",
+  "en": "You don't look well at all."
+ },
+ {
+  "id": "M1#6856",
+  "en": "If you're ever ill, do consult my husband."
+ },
+ {
+  "id": "M1#6857",
+  "en": "I'm sure he can help you."
+ },
+ {
+  "id": "M1#6858",
+  "en": "How are you feeling?",
+  "note": "After NAME + #98 '' + line break: first line is the bare name."
+ },
+ {
+  "id": "M1#6859",
+  "en": "look so pale, it worries me.",
+  "note": "After NAME + #3121 ', you always' (slice 039 note)."
+ },
+ {
+  "id": "M1#6860",
+  "en": "It's such a relief to see you looking well."
+ },
+ {
+  "id": "M1#6861",
+  "en": "Do take care of yourself."
+ },
+ {
+  "id": "M1#6862",
+  "en": "Oh, it's been ages since I met anyone here."
+ },
+ {
+  "id": "M1#6863",
+  "en": "At the Schneider Clinic,"
+ },
+ {
+  "id": "M1#6864",
+  "en": "I work as a nurse, helping my husband."
+ },
+ {
+  "id": "M1#6865",
+  "en": "I come here every day whenever I have time."
+ },
+ {
+  "id": "M1#6866",
+  "en": "I have some business with this monument",
+  "note": "Followed by #2 '...'."
+ },
+ {
+  "id": "M1#6867",
+  "en": "I never imagined I'd meet you again"
+ },
+ {
+  "id": "M1#6868",
+  "en": "in this place",
+  "note": "Followed by #2 '...' and #25 '.' (prints four dots; see report)."
+ },
+ {
+  "id": "M1#6869",
+  "en": "I make a point of coming here every day"
+ },
+ {
+  "id": "M1#6870",
+  "en": "whenever I have the time.",
+  "note": "Content of the two rows reordered for English word order."
+ },
+ {
+  "id": "M1#6871",
+  "en": "Are you out for a walk?"
+ },
+ {
+  "id": "M1#6872",
+  "en": "Calstatt is a lovely town,"
+ },
+ {
+  "id": "M1#6873",
+  "en": "so there's lots to see, isn't there?"
+ },
+ {
+  "id": "M1#6874",
+  "en": "People from town hardly ever come"
+ },
+ {
+  "id": "M1#6875",
+  "en": "to this place, you know."
+ },
+ {
+  "id": "M1#6876",
+  "en": "Do you know the story of this monument?"
+ },
+ {
+  "id": "M1#6877",
+  "en": "Ten years ago, a terrible disease spread",
+  "note": "Followed by #2 '...'."
+ },
+ {
+  "id": "M1#6878",
+  "en": "So many people in this town died, too."
+ },
+ {
+  "id": "M1#6879",
+  "en": "This monument was built in the hope they",
+  "note": "Matches 086 #6880 'might rest in peace, you see.'"
+ }
+]

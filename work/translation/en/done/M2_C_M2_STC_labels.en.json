@@ -1,0 +1,802 @@
+[
+ {
+  "id": "M2/name0",
+  "en": "Jeremy"
+ },
+ {
+  "id": "M2/job0",
+  "en": "street performer"
+ },
+ {
+  "id": "M2/name1",
+  "en": "Wally"
+ },
+ {
+  "id": "M2/job1",
+  "en": "vagrant"
+ },
+ {
+  "id": "M2/name2",
+  "en": "Oliver"
+ },
+ {
+  "id": "M2/job2",
+  "en": "pub patron"
+ },
+ {
+  "id": "M2/name3",
+  "en": "Matthew"
+ },
+ {
+  "id": "M2/job3",
+  "en": "teacher"
+ },
+ {
+  "id": "M2/name4",
+  "en": "Stanley"
+ },
+ {
+  "id": "M2/job4",
+  "en": "museum director"
+ },
+ {
+  "id": "M2/name5",
+  "en": "Wayne"
+ },
+ {
+  "id": "M2/job5",
+  "en": "child"
+ },
+ {
+  "id": "M2/name6",
+  "en": "Gilbert"
+ },
+ {
+  "id": "M2/job6",
+  "en": "London mayor"
+ },
+ {
+  "id": "M2/name7",
+  "en": "Colin"
+ },
+ {
+  "id": "M2/job7",
+  "en": "policeman"
+ },
+ {
+  "id": "M2/name8",
+  "en": "Patrick"
+ },
+ {
+  "id": "M2/job8",
+  "en": "prisoner"
+ },
+ {
+  "id": "M2/name9",
+  "en": "Darrell"
+ },
+ {
+  "id": "M2/job9",
+  "en": "tailor"
+ },
+ {
+  "id": "M2/name10",
+  "en": "Tom"
+ },
+ {
+  "id": "M2/job10",
+  "en": "omnibus driver"
+ },
+ {
+  "id": "M2/name11",
+  "en": "Graham"
+ },
+ {
+  "id": "M2/job11",
+  "en": "art appraiser"
+ },
+ {
+  "id": "M2/name12",
+  "en": "Lance"
+ },
+ {
+  "id": "M2/job12",
+  "en": "army commander"
+ },
+ {
+  "id": "M2/name13",
+  "en": "Luke"
+ },
+ {
+  "id": "M2/job13",
+  "en": "employment agent"
+ },
+ {
+  "id": "M2/name14",
+  "en": "Bradford"
+ },
+ {
+  "id": "M2/job14",
+  "en": "marriage broker"
+ },
+ {
+  "id": "M2/name15",
+  "en": "Peter"
+ },
+ {
+  "id": "M2/job15",
+  "en": "carpenter"
+ },
+ {
+  "id": "M2/name16",
+  "en": "Dean"
+ },
+ {
+  "id": "M2/job16",
+  "en": "clockmaker"
+ },
+ {
+  "id": "M2/name17",
+  "en": "Claude"
+ },
+ {
+  "id": "M2/job17",
+  "en": "neurologist"
+ },
+ {
+  "id": "M2/name18",
+  "en": "Lenny"
+ },
+ {
+  "id": "M2/job18",
+  "en": "tanner"
+ },
+ {
+  "id": "M2/name19",
+  "en": "Gerald"
+ },
+ {
+  "id": "M2/job19",
+  "en": "china designer"
+ },
+ {
+  "id": "M2/name20",
+  "en": "Tony"
+ },
+ {
+  "id": "M2/job20",
+  "en": "ironmonger"
+ },
+ {
+  "id": "M2/name21",
+  "en": "Kurt"
+ },
+ {
+  "id": "M2/job21",
+  "en": "tobacconist"
+ },
+ {
+  "id": "M2/name22",
+  "en": "Clement"
+ },
+ {
+  "id": "M2/job22",
+  "en": "men's hatter"
+ },
+ {
+  "id": "M2/name23",
+  "en": "Percy"
+ },
+ {
+  "id": "M2/job23",
+  "en": "tailor"
+ },
+ {
+  "id": "M2/name24",
+  "en": "Mark"
+ },
+ {
+  "id": "M2/job24",
+  "en": "shoemaker"
+ },
+ {
+  "id": "M2/name25",
+  "en": "Craig"
+ },
+ {
+  "id": "M2/job25",
+  "en": "clock shop owner"
+ },
+ {
+  "id": "M2/name26",
+  "en": "Warren"
+ },
+ {
+  "id": "M2/job26",
+  "en": "optician"
+ },
+ {
+  "id": "M2/name27",
+  "en": "Robin"
+ },
+ {
+  "id": "M2/job27",
+  "en": "barber"
+ },
+ {
+  "id": "M2/name28",
+  "en": "Cecil"
+ },
+ {
+  "id": "M2/job28",
+  "en": "soap seller"
+ },
+ {
+  "id": "M2/name29",
+  "en": "Brian"
+ },
+ {
+  "id": "M2/job29",
+  "en": "tea seller"
+ },
+ {
+  "id": "M2/name30",
+  "en": "Lewis"
+ },
+ {
+  "id": "M2/job30",
+  "en": "writer"
+ },
+ {
+  "id": "M2/name31",
+  "en": "Robert"
+ },
+ {
+  "id": "M2/job31",
+  "en": "bookseller"
+ },
+ {
+  "id": "M2/name32",
+  "en": "Scott"
+ },
+ {
+  "id": "M2/job32",
+  "en": "liquor seller"
+ },
+ {
+  "id": "M2/name33",
+  "en": "Ernest"
+ },
+ {
+  "id": "M2/job33",
+  "en": "waiter"
+ },
+ {
+  "id": "M2/name34",
+  "en": "Dudley"
+ },
+ {
+  "id": "M2/job34",
+  "en": "innkeeper"
+ },
+ {
+  "id": "M2/name35",
+  "en": "Epstein"
+ },
+ {
+  "id": "M2/job35",
+  "en": "count"
+ },
+ {
+  "id": "M2/name36",
+  "en": "Philip"
+ },
+ {
+  "id": "M2/job36",
+  "en": "casino dealer"
+ },
+ {
+  "id": "M2/name37",
+  "en": "Frank"
+ },
+ {
+  "id": "M2/job37",
+  "en": "landscape painter"
+ },
+ {
+  "id": "M2/name38",
+  "en": "Sean"
+ },
+ {
+  "id": "M2/job38",
+  "en": "avant-garde artist"
+ },
+ {
+  "id": "M2/name39",
+  "en": "Justin"
+ },
+ {
+  "id": "M2/job39",
+  "en": "bank clerk"
+ },
+ {
+  "id": "M2/name40",
+  "en": "Ralph"
+ },
+ {
+  "id": "M2/job40",
+  "en": "librarian"
+ },
+ {
+  "id": "M2/name41",
+  "en": "Abraham"
+ },
+ {
+  "id": "M2/job41",
+  "en": "boat-hire man"
+ },
+ {
+  "id": "M2/name42",
+  "en": "Quentin"
+ },
+ {
+  "id": "M2/job42",
+  "en": "doctor"
+ },
+ {
+  "id": "M2/name43",
+  "en": "Wilfred"
+ },
+ {
+  "id": "M2/job43",
+  "en": "pawnbroker"
+ },
+ {
+  "id": "M2/name44",
+  "en": "Francis"
+ },
+ {
+  "id": "M2/job44",
+  "en": "antique dealer"
+ },
+ {
+  "id": "M2/name45",
+  "en": "Anthony"
+ },
+ {
+  "id": "M2/job45",
+  "en": "jeweler"
+ },
+ {
+  "id": "M2/name46",
+  "en": "Nick"
+ },
+ {
+  "id": "M2/job46",
+  "en": "laborer"
+ },
+ {
+  "id": "M2/name47",
+  "en": "Arthur"
+ },
+ {
+  "id": "M2/job47",
+  "en": "salon hairdresser"
+ },
+ {
+  "id": "M2/name48",
+  "en": "Daniel"
+ },
+ {
+  "id": "M2/job48",
+  "en": "glue works hand"
+ },
+ {
+  "id": "M2/name49",
+  "en": "Malcolm"
+ },
+ {
+  "id": "M2/job49",
+  "en": "meatworks hand"
+ },
+ {
+  "id": "M2/name50",
+  "en": "Ted"
+ },
+ {
+  "id": "M2/job50",
+  "en": "match works hand"
+ },
+ {
+  "id": "M2/name51",
+  "en": "Max"
+ },
+ {
+  "id": "M2/job51",
+  "en": "???"
+ },
+ {
+  "id": "M2/name52",
+  "en": "Tim"
+ },
+ {
+  "id": "M2/job52",
+  "en": "child"
+ },
+ {
+  "id": "M2/name53",
+  "en": "Finn"
+ },
+ {
+  "id": "M2/job53",
+  "en": "detective"
+ },
+ {
+  "id": "M2/name54",
+  "en": "Bruce"
+ },
+ {
+  "id": "M2/job54",
+  "en": "charity director"
+ },
+ {
+  "id": "M2/name55",
+  "en": "Norman"
+ },
+ {
+  "id": "M2/job55",
+  "en": "parliamentarian"
+ },
+ {
+  "id": "M2/name56",
+  "en": "Isaac"
+ },
+ {
+  "id": "M2/job56",
+  "en": "philosopher"
+ },
+ {
+  "id": "M2/name57",
+  "en": "Felix"
+ },
+ {
+  "id": "M2/job57",
+  "en": "scientist"
+ },
+ {
+  "id": "M2/name58",
+  "en": "Rex"
+ },
+ {
+  "id": "M2/job58",
+  "en": "actor"
+ },
+ {
+  "id": "M2/name59",
+  "en": "Marvin"
+ },
+ {
+  "id": "M2/job59",
+  "en": "baron"
+ },
+ {
+  "id": "M2/name60",
+  "en": "Maurice"
+ },
+ {
+  "id": "M2/job60",
+  "en": "railway president"
+ },
+ {
+  "id": "M2/name61",
+  "en": "Gregory"
+ },
+ {
+  "id": "M2/job61",
+  "en": "reporter"
+ },
+ {
+  "id": "M2/name62",
+  "en": "Angela"
+ },
+ {
+  "id": "M2/job62",
+  "en": "shopkeeper"
+ },
+ {
+  "id": "M2/name63",
+  "en": "Agnes"
+ },
+ {
+  "id": "M2/job63",
+  "en": "charwoman"
+ },
+ {
+  "id": "M2/name64",
+  "en": "Claudia"
+ },
+ {
+  "id": "M2/job64",
+  "en": "laundress"
+ },
+ {
+  "id": "M2/name65",
+  "en": "Maud"
+ },
+ {
+  "id": "M2/job65",
+  "en": "nanny"
+ },
+ {
+  "id": "M2/name66",
+  "en": "Sonia"
+ },
+ {
+  "id": "M2/job66",
+  "en": "streetwalker"
+ },
+ {
+  "id": "M2/name67",
+  "en": "Winifred"
+ },
+ {
+  "id": "M2/job67",
+  "en": "phone operator"
+ },
+ {
+  "id": "M2/name68",
+  "en": "Sylvia"
+ },
+ {
+  "id": "M2/job68",
+  "en": "office clerk"
+ },
+ {
+  "id": "M2/name69",
+  "en": "Patty"
+ },
+ {
+  "id": "M2/job69",
+  "en": "cup shop owner"
+ },
+ {
+  "id": "M2/name70",
+  "en": "Vivian"
+ },
+ {
+  "id": "M2/job70",
+  "en": "socialite"
+ },
+ {
+  "id": "M2/name71",
+  "en": "Bridget"
+ },
+ {
+  "id": "M2/job71",
+  "en": "benefactor's wife"
+ },
+ {
+  "id": "M2/name72",
+  "en": "Charlotte"
+ },
+ {
+  "id": "M2/job72",
+  "en": "middle-class wife"
+ },
+ {
+  "id": "M2/name73",
+  "en": "Mary"
+ },
+ {
+  "id": "M2/job73",
+  "en": "student"
+ },
+ {
+  "id": "M2/name74",
+  "en": "Mike"
+ },
+ {
+  "id": "M2/job74",
+  "en": "schoolboy"
+ },
+ {
+  "id": "M2/name75",
+  "en": "Roberta"
+ },
+ {
+  "id": "M2/job75",
+  "en": "textile designer"
+ },
+ {
+  "id": "M2/name76",
+  "en": "Stella"
+ },
+ {
+  "id": "M2/job76",
+  "en": "nun"
+ },
+ {
+  "id": "M2/name77",
+  "en": "Belinda"
+ },
+ {
+  "id": "M2/job77",
+  "en": "painter"
+ },
+ {
+  "id": "M2/name78",
+  "en": "Samantha"
+ },
+ {
+  "id": "M2/job78",
+  "en": "nurse"
+ },
+ {
+  "id": "M2/name79",
+  "en": "Virginia"
+ },
+ {
+  "id": "M2/job79",
+  "en": "madame"
+ },
+ {
+  "id": "M2/name80",
+  "en": "Jill"
+ },
+ {
+  "id": "M2/job80",
+  "en": "child"
+ },
+ {
+  "id": "M2/name81",
+  "en": "Henrietta"
+ },
+ {
+  "id": "M2/job81",
+  "en": "baroness"
+ },
+ {
+  "id": "M2/name82",
+  "en": "Rose"
+ },
+ {
+  "id": "M2/job82",
+  "en": "count's daughter"
+ },
+ {
+  "id": "M2/name83",
+  "en": "Clotilde"
+ },
+ {
+  "id": "M2/job83",
+  "en": "French traveler"
+ },
+ {
+  "id": "M2/name84",
+  "en": "Nicole"
+ },
+ {
+  "id": "M2/job84",
+  "en": "waitress"
+ },
+ {
+  "id": "M2/name85",
+  "en": "Janis"
+ },
+ {
+  "id": "M2/job85",
+  "en": "pub patron"
+ },
+ {
+  "id": "M2/name86",
+  "en": "Agatha"
+ },
+ {
+  "id": "M2/job86",
+  "en": "cook"
+ },
+ {
+  "id": "M2/name87",
+  "en": "Martha"
+ },
+ {
+  "id": "M2/job87",
+  "en": "factory worker"
+ },
+ {
+  "id": "M2/name88",
+  "en": "Rhoda"
+ },
+ {
+  "id": "M2/job88",
+  "en": "factory worker"
+ },
+ {
+  "id": "M2/name89",
+  "en": "Becky"
+ },
+ {
+  "id": "M2/job89",
+  "en": "soap seller"
+ },
+ {
+  "id": "M2/name90",
+  "en": "Lorna"
+ },
+ {
+  "id": "M2/job90",
+  "en": "old woman"
+ },
+ {
+  "id": "M2/name91",
+  "en": "Pauline"
+ },
+ {
+  "id": "M2/job91",
+  "en": "child"
+ },
+ {
+  "id": "M2/name92",
+  "en": "Nellie"
+ },
+ {
+  "id": "M2/job92",
+  "en": "barmaid"
+ },
+ {
+  "id": "M2/name93",
+  "en": "Sarah"
+ },
+ {
+  "id": "M2/job93",
+  "en": "shoemaker"
+ },
+ {
+  "id": "M2/name94",
+  "en": "Anna"
+ },
+ {
+  "id": "M2/job94",
+  "en": "tourist"
+ },
+ {
+  "id": "M2/name95",
+  "en": "Vanessa"
+ },
+ {
+  "id": "M2/job95",
+  "en": "innkeeper"
+ },
+ {
+  "id": "M2/name96",
+  "en": "Beth"
+ },
+ {
+  "id": "M2/job96",
+  "en": "country girl"
+ },
+ {
+  "id": "M2/name97",
+  "en": "Madeline"
+ },
+ {
+  "id": "M2/job97",
+  "en": "old landlady"
+ },
+ {
+  "id": "M2/name98",
+  "en": "Clio"
+ },
+ {
+  "id": "M2/job98",
+  "en": "milliner"
+ },
+ {
+  "id": "M2/name99",
+  "en": "Anita"
+ },
+ {
+  "id": "M2/job99",
+  "en": "liquor seller's wife"
+ }
+]

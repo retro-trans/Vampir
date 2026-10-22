@@ -1,0 +1,336 @@
+[
+ {
+  "id": "M1#3440",
+  "en": "How is my son getting along?"
+ },
+ {
+  "id": "M1#3441",
+  "en": "Thanks to you, my son has grown into such a"
+ },
+ {
+  "id": "M1#3442",
+  "en": "gentle boy."
+ },
+ {
+  "id": "M1#3443",
+  "en": "It's all your doing, you know."
+ },
+ {
+  "id": "M1#3444",
+  "en": "It's all your doing."
+ },
+ {
+  "id": "M1#3445",
+  "en": "Thanks to you, my son has turned into"
+ },
+ {
+  "id": "M1#3446",
+  "en": "such a gentle boy."
+ },
+ {
+  "id": "M1#3447",
+  "en": "I owe it all to you."
+ },
+ {
+  "id": "M1#3448",
+  "en": "I'm very grateful to you."
+ },
+ {
+  "id": "M1#3449",
+  "en": "Order whatever you like..."
+ },
+ {
+  "id": "M1#3450",
+  "en": "This is the Invos diner."
+ },
+ {
+  "id": "M1#3451",
+  "en": "We're not open yet, though."
+ },
+ {
+  "id": "M1#3452",
+  "en": "What are your hours?"
+ },
+ {
+  "id": "M1#3453",
+  "en": "From about 11:00 till around 16:00.",
+  "note": "Times kept as 11:00/16:00 (source digits, 24h); no precedent in done slices."
+ },
+ {
+  "id": "M1#3454",
+  "en": "It varies a bit, depending on how busy we are."
+ },
+ {
+  "id": "M1#3455",
+  "en": "We'll be expecting you, sir."
+ },
+ {
+  "id": "M1#3456",
+  "en": "Sorry to turn you away again, sir."
+ },
+ {
+  "id": "M1#3457",
+  "en": "We're open from 11:00 till about 16:00, so"
+ },
+ {
+  "id": "M1#3458",
+  "en": "try coming around lunchtime."
+ },
+ {
+  "id": "M1#3459",
+  "en": "The place isn't open yet."
+ },
+ {
+  "id": "M1#3460",
+  "en": "Come by at lunchtime, OK?"
+ },
+ {
+  "id": "M1#3461",
+  "en": "We're open from 11:00 till about 16:00."
+ },
+ {
+  "id": "M1#3462",
+  "en": "Have a meal with us again today, won't you?"
+ },
+ {
+  "id": "M1#3463",
+  "en": "(I'm sick of the food at the Invos.)"
+ },
+ {
+  "id": "M1#3464",
+  "en": "You're tired of the food at the Invos?"
+ },
+ {
+  "id": "M1#3465",
+  "en": "Aw, don't say that."
+ },
+ {
+  "id": "M1#3466",
+  "en": "Come on in! Welcome to the Invos"
+ },
+ {
+  "id": "M1#3467",
+  "en": "diner. You can eat here at a fair price."
+ },
+ {
+  "id": "M1#3468",
+  "en": "Will the lunch special do?"
+ },
+ {
+  "id": "M1#3469",
+  "en": "Yes, that will do."
+ },
+ {
+  "id": "M1#3470",
+  "en": "Here you go!"
+ },
+ {
+  "id": "M1#3471",
+  "en": "(That was fast...)"
+ },
+ {
+  "id": "M1#3472",
+  "en": "Thanks for the meal."
+ },
+ {
+  "id": "M1#3473",
+  "en": "Come again, OK?"
+ },
+ {
+  "id": "M1#3474",
+  "en": "Come on in! Welcome to the Invos diner."
+ },
+ {
+  "id": "M1#3475",
+  "en": "Oh, you came during opening hours!"
+ },
+ {
+  "id": "M1#3476",
+  "en": "You can eat here at a fair price."
+ },
+ {
+  "id": "M1#3477",
+  "en": "Lunch and a beer all right?"
+ },
+ {
+  "id": "M1#3478",
+  "en": "Come again."
+ },
+ {
+  "id": "M1#3479",
+  "en": "(Not food I'd eat twice in a row.)"
+ },
+ {
+  "id": "M1#3480",
+  "en": "Welcome. Is the set meal all right?"
+ },
+ {
+  "id": "M1#3481",
+  "en": "By the way..."
+ },
+ {
+  "id": "M1#3482",
+  "en": "Just what line of work are you in, sir?"
+ },
+ {
+  "id": "M1#3483",
+  "en": "Well, see, the factory workers out west"
+ },
+ {
+  "id": "M1#3484",
+  "en": "often come here for lunch, but..."
+ },
+ {
+  "id": "M1#3485",
+  "en": "customers dressed as finely as you, sir,"
+ },
+ {
+  "id": "M1#3486",
+  "en": "are a rare sight around here.",
+  "note": "Shared with #3534 (slice 044): that row must end in a plural noun phrase (customers ... like you)."
+ },
+ {
+  "id": "M1#3487",
+  "en": "(A \"quantity over quality\" eatery, then...)"
+ },
+ {
+  "id": "M1#3488",
+  "en": "Come back again."
+ },
+ {
+  "id": "M1#3489",
+  "en": "Welcome",
+  "note": "Base 'Welcome' for Margarete + #414 '!'; Leopold uses insert the name: variants.",
+  "variants": [
+   {
+    "msg": 136271,
+    "en": "Welcome, "
+   },
+   {
+    "msg": 136909,
+    "en": "Welcome, "
+   }
+  ]
+ },
+ {
+  "id": "M1#3490",
+  "en": ", sir."
+ },
+ {
+  "id": "M1#3491",
+  "en": "Will it be the usual?"
+ },
+ {
+  "id": "M1#3492",
+  "en": "Oh, right. When I was strolling in Alster Park,"
+ },
+ {
+  "id": "M1#3493",
+  "en": "I saw a real beauty."
+ },
+ {
+  "id": "M1#3494",
+  "en": "She looked kind of lonely, somehow."
+ },
+ {
+  "id": "M1#3495",
+  "en": "A beauty, hm."
+ },
+ {
+  "id": "M1#3496",
+  "en": "Ah, you can clear the dishes now."
+ },
+ {
+  "id": "M1#3497",
+  "en": "Thanks as always. Come again, OK?"
+ },
+ {
+  "id": "M1#3498",
+  "en": "Here's your usual."
+ },
+ {
+  "id": "M1#3499",
+  "en": "We've been getting more customers lately."
+ },
+ {
+  "id": "M1#3500",
+  "en": "It's been nearly 10 years since I opened, but"
+ },
+ {
+  "id": "M1#3501",
+  "en": "we never used to get this many customers."
+ },
+ {
+  "id": "M1#3502",
+  "en": "Well, I guess it means Calstatt has grown"
+ },
+ {
+  "id": "M1#3503",
+  "en": "that much. That, and..."
+ },
+ {
+  "id": "M1#3504",
+  "en": "maybe it's handsome gents like you dropping by."
+ },
+ {
+  "id": "M1#3505",
+  "en": "(What clumsy flattery.)"
+ },
+ {
+  "id": "M1#3506",
+  "en": "If we had a pretty waitress here too,"
+ },
+ {
+  "id": "M1#3507",
+  "en": "maybe we'd get even more customers."
+ },
+ {
+  "id": "M1#3508",
+  "en": "(Perhaps I should tell him that's"
+ },
+ {
+  "id": "M1#3509",
+  "en": "not the problem.)"
+ },
+ {
+  "id": "M1#3510",
+  "en": "Look at him, sleeping like a log.",
+  "note": "[PLAYER] tag in Leopold's script: night visit, Leopold asleep (he = Leopold)."
+ },
+ {
+  "id": "M1#3511",
+  "en": "Better enjoy your sweet dreams while you can."
+ },
+ {
+  "id": "M1#3512",
+  "en": "About what time do you open?"
+ },
+ {
+  "id": "M1#3513",
+  "en": "It might change a bit, depending on the crowd."
+ },
+ {
+  "id": "M1#3514",
+  "en": "I'll come back later, then."
+ },
+ {
+  "id": "M1#3515",
+  "en": "Sorry, pal. We're not open yet."
+ },
+ {
+  "id": "M1#3516",
+  "en": "We're open from 11:00 till about 16:00."
+ },
+ {
+  "id": "M1#3517",
+  "en": "Come by at lunchtime."
+ },
+ {
+  "id": "M1#3518",
+  "en": "(I may be getting a little tired"
+ },
+ {
+  "id": "M1#3519",
+  "en": "of the food at the Invos.)"
+ }
+]

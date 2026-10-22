@@ -1,0 +1,344 @@
+[
+ {
+  "id": "M1#640",
+  "en": "What's wrong with me?"
+ },
+ {
+  "id": "M1#641",
+  "en": "Hans, a woman? No, there's no way"
+ },
+ {
+  "id": "M1#642",
+  "en": "that's possible."
+ },
+ {
+  "id": "M1#643",
+  "en": "Aaah! ",
+  "note": "trailing space: always followed on the same line by #644 or #650"
+ },
+ {
+  "id": "M1#644",
+  "en": "I've been out of it since this morning!"
+ },
+ {
+  "id": "M1#645",
+  "en": "I'm Heinrich, a navy soldier.",
+  "note": "same wording as M1#635 (slice 007)"
+ },
+ {
+  "id": "M1#646",
+  "en": "I'm heading back to the barracks from warehouse watch."
+ },
+ {
+  "id": "M1#647",
+  "en": "Looking to enlist, are you?"
+ },
+ {
+  "id": "M1#648",
+  "en": "Then you'd better speak with Commander"
+ },
+ {
+  "id": "M1#649",
+  "en": "Thomas about it."
+ },
+ {
+  "id": "M1#650",
+  "en": "I'm losing my mind!"
+ },
+ {
+  "id": "M1#651",
+  "en": "This is the navy barracks."
+ },
+ {
+  "id": "M1#652",
+  "en": "Need something?",
+  "note": "shared with Hans (msgs 230117, 230303, 230943): reads fine for both"
+ },
+ {
+  "id": "M1#653",
+  "en": "I can't let a civilian in without"
+ },
+ {
+  "id": "M1#654",
+  "en": "the commander's permission."
+ },
+ {
+  "id": "M1#655",
+  "en": "We keep running into each other, you and me."
+ },
+ {
+  "id": "M1#656",
+  "en": "Still, that Hans..."
+ },
+ {
+  "id": "M1#657",
+  "en": "Argh, it's bugging me."
+ },
+ {
+  "id": "M1#658",
+  "en": "You're not looking to enlist, so why"
+ },
+ {
+  "id": "M1#659",
+  "en": "are you here?"
+ },
+ {
+  "id": "M1#660",
+  "en": "Don't tell me you're also curious",
+  "note": "'Hans' moved to #661/#728 so the shared row works with both"
+ },
+ {
+  "id": "M1#661",
+  "en": "about Hans?"
+ },
+ {
+  "id": "M1#662",
+  "en": "Argh, I'm dying to know!"
+ },
+ {
+  "id": "M1#663",
+  "en": "Hey, civilians can't just walk in here."
+ },
+ {
+  "id": "M1#664",
+  "en": "This is the navy armory.",
+  "note": "shared with Hans (msg 230303)"
+ },
+ {
+  "id": "M1#665",
+  "en": "My job right now is to watch the armory."
+ },
+ {
+  "id": "M1#666",
+  "en": "If you want to enlist,"
+ },
+ {
+  "id": "M1#667",
+  "en": "you have to go to headquarters."
+ },
+ {
+  "id": "M1#668",
+  "en": "You shouldn't hang around here too long."
+ },
+ {
+  "id": "M1#669",
+  "en": "They might mistake you for a spy."
+ },
+ {
+  "id": "M1#670",
+  "en": "I share this post with a mercenary",
+  "note": "'a guy called Hans' recast as 'a mercenary named Hans' to avoid a gendered pronoun later"
+ },
+ {
+  "id": "M1#671",
+  "en": "named Hans, who takes the other shifts."
+ },
+ {
+  "id": "M1#672",
+  "en": "Have you ever met Hans?"
+ },
+ {
+  "id": "M1#673",
+  "en": "<I've met Hans>",
+  "note": "choice (token 13), not in any used_in"
+ },
+ {
+  "id": "M1#674",
+  "en": "<I haven't met Hans>",
+  "note": "choice"
+ },
+ {
+  "id": "M1#675",
+  "en": "What do you think of Hans?"
+ },
+ {
+  "id": "M1#676",
+  "en": "Hans is a crack mercenary with war merits,"
+ },
+ {
+  "id": "M1#677",
+  "en": "but with that look,"
+ },
+ {
+  "id": "M1#678",
+  "en": "and so slender, on top of that..."
+ },
+ {
+  "id": "M1#679",
+  "en": "I've never seen Hans out of uniform,"
+ },
+ {
+  "id": "M1#680",
+  "en": "not once. Could it be..."
+ },
+ {
+  "id": "M1#681",
+  "en": "No, surely not."
+ },
+ {
+  "id": "M1#682",
+  "en": "I see. If you don't know, never mind."
+ },
+ {
+  "id": "M1#683",
+  "en": "Oh, it's you."
+ },
+ {
+  "id": "M1#684",
+  "en": "Come to think of it, I found a ring here."
+ },
+ {
+  "id": "M1#685",
+  "en": "Lately, the only people around here"
+ },
+ {
+  "id": "M1#686",
+  "en": "have been me, Hans, and you. Just us three."
+ },
+ {
+  "id": "M1#687",
+  "en": "Any idea whose it is?"
+ },
+ {
+  "id": "M1#688",
+  "en": "As a matter of fact,",
+  "note": "player's reply; #688 + pause + #689 on one line"
+ },
+ {
+  "id": "M1#689",
+  "en": " I do.",
+  "note": "leading space: joins #688 on the same line after a pause token (1A 05). Christopher version #730 should also be ' I do.'"
+ },
+ {
+  "id": "M1#690",
+  "en": "Allow me to hold on to it."
+ },
+ {
+  "id": "M1#691",
+  "en": "So it was yours after all?"
+ },
+ {
+  "id": "M1#692",
+  "en": "Well, well, you handsome rascal."
+ },
+ {
+  "id": "M1#693",
+  "en": "I asked Hans too, just in case,"
+ },
+ {
+  "id": "M1#694",
+  "en": "but all I got was a 'no idea'..."
+ },
+ {
+  "id": "M1#695",
+  "en": "(Received the 'Jade Ring'.)"
+ },
+ {
+  "id": "M1#696",
+  "en": "Standing guard all day is boring,"
+ },
+ {
+  "id": "M1#697",
+  "en": "but it's a proper duty, too."
+ },
+ {
+  "id": "M1#698",
+  "en": "The other day, near the barracks, I saw a"
+ },
+ {
+  "id": "M1#699",
+  "en": "tall beauty."
+ },
+ {
+  "id": "M1#700",
+  "en": "And she looked like Hans, I swear."
+ },
+ {
+  "id": "M1#701",
+  "en": "I've got to shake off these distractions..."
+ },
+ {
+  "id": "M1#702",
+  "en": "Work, work... Right."
+ },
+ {
+  "id": "M1#703",
+  "en": "You",
+  "note": "variants lowercase it after 'Besides, '",
+  "variants": [
+   {
+    "msg": 25852,
+    "en": "you"
+   },
+   {
+    "msg": 25929,
+    "en": "you"
+   }
+  ]
+ },
+ {
+  "id": "M1#704",
+  "en": " What are you doing in a place like this?",
+  "note": "leading space: follows #2 '...' on the same line"
+ },
+ {
+  "id": "M1#705",
+  "en": "Am I half asleep...?"
+ },
+ {
+  "id": "M1#706",
+  "en": "I'll tell you something good."
+ },
+ {
+  "id": "M1#707",
+  "en": "You've wondered about Hans, haven't you?"
+ },
+ {
+  "id": "M1#708",
+  "en": "Just as you suspected, that one is a woman."
+ },
+ {
+  "id": "M1#709",
+  "en": "What! Surely..."
+ },
+ {
+  "id": "M1#710",
+  "en": "No, I knew it..."
+ },
+ {
+  "id": "M1#711",
+  "en": "This is nuts! If it's a dream, wake me up!"
+ },
+ {
+  "id": "M1#712",
+  "en": "Besides, "
+ },
+ {
+  "id": "M1#713",
+  "en": "Hey, what are you doing?"
+ },
+ {
+  "id": "M1#714",
+  "en": "Since you're at it, why not propose to her?"
+ },
+ {
+  "id": "M1#715",
+  "en": "Though that woman is already in my hands."
+ },
+ {
+  "id": "M1#716",
+  "en": "Ha ha ha, what a shame."
+ },
+ {
+  "id": "M1#717",
+  "en": "It's no dream."
+ },
+ {
+  "id": "M1#718",
+  "en": "But from today you'll be a sleepwalker,"
+ },
+ {
+  "id": "M1#719",
+  "en": "roaming the streets at night."
+ }
+]

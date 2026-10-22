@@ -1,0 +1,160 @@
+[
+ {
+  "id": "M0#2720",
+  "en": "  Subordinates obey direct Nosferatu."
+ },
+ {
+  "id": "M0#2721",
+  "en": "· Direct Nosferatu can recruit; subordinates can't."
+ },
+ {
+  "id": "M0#2722",
+  "en": "<Transformation>"
+ },
+ {
+  "id": "M0#2723",
+  "en": "· Use transformation to become a wolf, a bat,"
+ },
+ {
+  "id": "M0#2724",
+  "en": "  or mist."
+ },
+ {
+  "id": "M0#2725",
+  "en": "You can't transform when Blood Flow is low."
+ },
+ {
+  "id": "M0#2726",
+  "en": "Transforming can help when you travel."
+ },
+ {
+  "id": "M0#2727",
+  "en": "<Vampire Hunters>"
+ },
+ {
+  "id": "M0#2728",
+  "en": "By day, vampire hunters question the residents,",
+  "note": "Page of msg 147825 is exactly 12 lines, so every row must stay on one 264 px line."
+ },
+ {
+  "id": "M0#2729",
+  "en": "and at the same time, at the residences,"
+ },
+ {
+  "id": "M0#2730",
+  "en": "they set up \"garlic\", \"altar\" and \"holly\"."
+ },
+ {
+  "id": "M0#2731",
+  "en": "At night, a door fitted with \"garlic\" or \"altar\"",
+  "note": "'garlic' or 'altar': Japanese lists both without a conjunction; 'or' chosen since each is a separate trap."
+ },
+ {
+  "id": "M0#2732",
+  "en": "will damage you if you try to open it."
+ },
+ {
+  "id": "M0#2733",
+  "en": "· On a daytime turn, if you find \"garlic\", \"altar\","
+ },
+ {
+  "id": "M0#2734",
+  "en": "  or \"holly\", you can remove them."
+ },
+ {
+  "id": "M0#2735",
+  "en": "· A Nosferatu who touches an \"altar\" is \"purified\""
+ },
+ {
+  "id": "M0#2736",
+  "en": "  and turns back into a human."
+ },
+ {
+  "id": "M0#2737",
+  "en": "· Some hunters find a Vampir's residence and"
+ },
+ {
+  "id": "M0#2738",
+  "en": "  carry out a \"coffin raid\"."
+ },
+ {
+  "id": "M0#2739",
+  "en": "If left as is, a Vampir, from night into day,"
+ },
+ {
+  "id": "M0#2740",
+  "en": "cannot recover their stats."
+ },
+ {
+  "id": "M0#2741",
+  "en": "In that case, wait at your residence and the coffin"
+ },
+ {
+  "id": "M0#2742",
+  "en": "can be repaired."
+ },
+ {
+  "id": "M0#2743",
+  "en": "· By day, a rumor among hunters and residents",
+  "note": "'vampire hunters' shortened to 'hunters' (width); #2744 repeats 'the hunters'."
+ },
+ {
+  "id": "M0#2744",
+  "en": "  that you spread can disrupt the hunters' actions."
+ },
+ {
+  "id": "M0#2745",
+  "en": "doesn't the sunlight harm your body?",
+  "note": "Continues #438 ', my master,' (name + ', my master,' then new line): lowercase start."
+ },
+ {
+  "id": "M0#2746",
+  "en": "After all, for so long, in the tower of Eisen"
+ },
+ {
+  "id": "M0#2747",
+  "en": "you were sealed away."
+ },
+ {
+  "id": "M0#2748",
+  "en": "Fear not. By such things,"
+ },
+ {
+  "id": "M0#2749",
+  "en": "I am not one to be daunted..."
+ },
+ {
+  "id": "M0#2750",
+  "en": "To think that patent agent, Jonathan Harker,"
+ },
+ {
+  "id": "M0#2751",
+  "en": "would become a vampire hunter and"
+ },
+ {
+  "id": "M0#2752",
+  "en": "come back to this land..."
+ },
+ {
+  "id": "M0#2753",
+  "en": "Left alone, he's set to become a troublesome",
+  "note": "Referent 'he' = Jonathan Harker (male per glossary); subject restored."
+ },
+ {
+  "id": "M0#2754",
+  "en": "presence."
+ },
+ {
+  "id": "M0#2755",
+  "en": "I, Orgo, will accompany "
+ },
+ {
+  "id": "M0#2756",
+  "en": ", my master,"
+ },
+ {
+  "id": "M0#2757",
+  "en": "wherever he goes, wherever it may be.",
+  "note": "'he' = the player character addressed in #2756 (both players male)."
+ }
+]

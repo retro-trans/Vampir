@@ -1,0 +1,2483 @@
+{
+ "note": "Spellings marked editorial have no official English source (no English release exists). Villager gender/age: STC record stats byte 0 (1 = male) and byte 1.",
+ "main_characters": [
+  {
+   "jp": "クリストファ",
+   "en": "Christopher",
+   "gender": "male",
+   "role": "Protagonist (player 1): young Vampir of the Eisen clan sent to defeat Duran. Default in-game name \"Chris\" (the name entry holds 8 letters); others call him クリス \"Chris\".",
+   "personality": "Gentle, calm, kind, handsome; liked by young and old. Modelled on Louis (Brad Pitt) in Interview with the Vampire.",
+   "source": "https://w.atwiki.jp/aniwotawiki/pages/30693.html"
+  },
+  {
+   "jp": "デュラン",
+   "en": "Duran",
+   "gender": "male",
+   "role": "Main antagonist and second playable protagonist (player 2): evil vampire sealed in a tower by the whole clan 150 years ago, now free; hates humans; heads for London.",
+   "personality": "Contemptuous, immensely powerful.",
+   "source": "https://w.atwiki.jp/aniwotawiki/pages/30693.html"
+  },
+  {
+   "jp": "ラガシュ",
+   "en": "Ragash",
+   "gender": "male",
+   "role": "Elder of the Eisen vampire clan; orders Christopher to defeat Duran.",
+   "personality": "Grave and commanding (calls Christopher お前).",
+   "source": "https://w.atwiki.jp/aniwotawiki/pages/30693.html"
+  },
+  {
+   "jp": "ルサリィ",
+   "en": "Rusalie",
+   "gender": "female",
+   "role": "Female Vampir of the clan; escorts Christopher to Medovekia and explains the systems (tutorial). Spelling editorial.",
+   "personality": "Feminine casual speech (～わ, ～のよ).",
+   "source": "game script"
+  },
+  {
+   "jp": "システィーナ",
+   "en": "Sistina",
+   "gender": "female",
+   "role": "Christopher's wolf familiar, raised with the clan in Eisen. STC job バウバウ！ = \"Woof woof!\"",
+   "personality": "Polite (以後、お見知りおきを).",
+   "source": "game script"
+  },
+  {
+   "jp": "オルゴ",
+   "en": "Orgo",
+   "gender": "unknown",
+   "role": "Bat familiar (STC job コウモリ \"Bat\"). Gender not established: use they/it.",
+   "personality": "",
+   "source": "STC record"
+  },
+  {
+   "jp": "ローゼ",
+   "en": "Rose",
+   "gender": "female",
+   "role": "Count's daughter in London (伯爵令嬢), called London's greatest beauty (ロンドン一の美人); Harker refers to her as ローゼ嬢 \"Miss Rose\". Affinity 80 with her unlocks the Duran scenario; save files are titled ローゼといっしょ \"Together with Rose\".",
+   "personality": "",
+   "source": "https://w.atwiki.jp/aniwotawiki/pages/30693.html"
+  },
+  {
+   "jp": "ヴァラウール伯爵",
+   "en": "Count Valaur",
+   "gender": "male",
+   "role": "Count who commissioned Harker to buy a London mansion (prologue diary). Spelling editorial.",
+   "personality": "",
+   "source": "OPN.BIN"
+  },
+  {
+   "jp": "ジョナサン・ハーカー",
+   "en": "Jonathan Harker",
+   "gender": "male",
+   "role": "Hunter; patent agent (弁理士) whose visit freed Duran; Medovekia and London. Sets garlic and holly; blessed sword, holy water, gun at night.",
+   "personality": "",
+   "source": "https://w.atwiki.jp/aniwotawiki/pages/30693.html"
+  },
+  {
+   "jp": "ジャック・セワード",
+   "en": "Jack Seward",
+   "gender": "male",
+   "role": "Hunter; English physician (医師, 博士), called by Harker; asks around, sets altars and purifies servants by day.",
+   "personality": "",
+   "source": "https://w.atwiki.jp/aniwotawiki/pages/30693.html"
+  },
+  {
+   "jp": "アーサー・ホルムウッド",
+   "en": "Arthur Holmwood",
+   "gender": "male",
+   "role": "Hunter; nobleman and Harker's close friend, master of the blessed sword; his blessed mirror exposes transformations.",
+   "personality": "",
+   "source": "https://w.atwiki.jp/aniwotawiki/pages/30693.html"
+  },
+  {
+   "jp": "クィンシー・モリス",
+   "en": "Quincey Morris",
+   "gender": "male",
+   "role": "Hunter from Texas, former student of Van Helsing in England; sets garlic, shoots.",
+   "personality": "",
+   "source": "https://w.atwiki.jp/aniwotawiki/pages/30693.html"
+  },
+  {
+   "jp": "ヴァン・ヘルシング",
+   "en": "Van Helsing",
+   "gender": "male",
+   "role": "Hunter; professor emeritus at the University of Amsterdam, doctor of psychiatry (教授); expert in psychology and the supernatural.",
+   "personality": "",
+   "source": "https://w.atwiki.jp/aniwotawiki/pages/30693.html"
+  }
+ ],
+ "places": [
+  {
+   "jp": "メドヴェキア",
+   "en": "Medoekia",
+   "note": "Rural village, stage 1; Duran was sealed in the castle there. Official spelling from the own map graphic of the game (CM.TH4 \"Go to the Medoekia\"); psxdatacenter writes Medovekia.",
+   "source": "CM/CM.TH4"
+  },
+  {
+   "jp": "カルシュタット",
+   "en": "Calstatt",
+   "note": "Port town, stage 2; rich north, poor south. Official spelling from the map graphic of the game (CM.TH4).",
+   "source": "CM/CM.TH4"
+  },
+  {
+   "jp": "ロンドン",
+   "en": "London",
+   "note": "Stage 3, 100 residents; \"the city of mist\".",
+   "source": "https://psxdatacenter.com/games/J/V/SLPS-01932.html"
+  },
+  {
+   "jp": "アイゼン",
+   "en": "Eisen",
+   "note": "Home of the vampire clan (アイゼンの吸血鬼一族 = the Eisen vampire clan).",
+   "source": "game script"
+  },
+  {
+   "jp": "大英帝国",
+   "en": "the British Empire",
+   "note": "",
+   "source": ""
+  },
+  {
+   "jp": "ラコヴァ",
+   "en": "Rakova",
+   "note": "Neighbouring country whose army borders Medoekia (PR1).",
+   "source": "game script"
+  },
+  {
+   "jp": "ピカデリィ",
+   "en": "Piccadilly",
+   "note": "London street (PR2).",
+   "source": "game script"
+  },
+  {
+   "jp": "アムステルダム大学",
+   "en": "the University of Amsterdam",
+   "note": "",
+   "source": "https://w.atwiki.jp/aniwotawiki/pages/30693.html"
+  }
+ ],
+ "terms": [
+  {
+   "jp": "ヴァンピール",
+   "en": "Vampir",
+   "note": "The clan's own name for their race (game title). Keep distinct from 吸血鬼 / ヴァンパイア."
+  },
+  {
+   "jp": "吸血鬼",
+   "en": "vampire",
+   "note": ""
+  },
+  {
+   "jp": "ヴァンパイア",
+   "en": "vampire",
+   "note": ""
+  },
+  {
+   "jp": "ヴァンパイア・ハンター",
+   "en": "vampire hunter",
+   "note": "also ハンター \"hunter\""
+  },
+  {
+   "jp": "ノスフェラトゥ",
+   "en": "Nosferatu",
+   "note": "Christopher's servants (people he has drained); plural Nosferatu."
+  },
+  {
+   "jp": "直系ノスフェラトゥ",
+   "en": "direct Nosferatu",
+   "note": "drained by Christopher himself"
+  },
+  {
+   "jp": "従属ノスフェラトゥ",
+   "en": "subordinate Nosferatu",
+   "note": "made by one of his servants"
+  },
+  {
+   "jp": "ダンピール",
+   "en": "Dhampir",
+   "note": "Duran's servants."
+  },
+  {
+   "jp": "配下",
+   "en": "servant",
+   "note": "a vampire's minion; 手下 = \"lackey\""
+  },
+  {
+   "jp": "使い魔",
+   "en": "familiar",
+   "note": ""
+  },
+  {
+   "jp": "臨界体力",
+   "en": "Critical Vitality",
+   "note": "energy gathered to oppose Duran; 臨界体力値 = Critical Vitality"
+  },
+  {
+   "jp": "血流量",
+   "en": "Blood Flow",
+   "note": "stamina spent at night"
+  },
+  {
+   "jp": "ND進行度",
+   "en": "N/D Progress",
+   "note": "N = Nosferatu, D = Dhampir conversion"
+  },
+  {
+   "jp": "親密度",
+   "en": "Affinity",
+   "note": "closeness with a resident (max 80)"
+  },
+  {
+   "jp": "筋力",
+   "en": "Strength",
+   "note": ""
+  },
+  {
+   "jp": "知力",
+   "en": "Intellect",
+   "note": ""
+  },
+  {
+   "jp": "魅力",
+   "en": "Charm",
+   "note": ""
+  },
+  {
+   "jp": "モラル",
+   "en": "Morality",
+   "note": ""
+  },
+  {
+   "jp": "柊",
+   "en": "holly",
+   "note": "trap: blocks entry at night"
+  },
+  {
+   "jp": "にんにく",
+   "en": "garlic",
+   "note": "trap"
+  },
+  {
+   "jp": "祭壇",
+   "en": "altar",
+   "note": "trap: purifies servants"
+  },
+  {
+   "jp": "祝剣",
+   "en": "blessed sword",
+   "note": ""
+  },
+  {
+   "jp": "聖水",
+   "en": "holy water",
+   "note": ""
+  },
+  {
+   "jp": "祝鏡",
+   "en": "blessed mirror",
+   "note": ""
+  },
+  {
+   "jp": "聖杭",
+   "en": "holy stake",
+   "note": ""
+  },
+  {
+   "jp": "棺",
+   "en": "coffin",
+   "note": ""
+  },
+  {
+   "jp": "浄化",
+   "en": "purify / purification",
+   "note": ""
+  },
+  {
+   "jp": "吸血",
+   "en": "drink blood",
+   "note": "吸血する = to drink (someone's) blood"
+  },
+  {
+   "jp": "召喚",
+   "en": "summon",
+   "note": ""
+  },
+  {
+   "jp": "命令",
+   "en": "command",
+   "note": ""
+  },
+  {
+   "jp": "コウモリ",
+   "en": "bat",
+   "note": ""
+  },
+  {
+   "jp": "オオカミ",
+   "en": "wolf",
+   "note": ""
+  },
+  {
+   "jp": "体力",
+   "en": "Vitality",
+   "note": "HP of a character; UI abbreviation \"VIT\""
+  },
+  {
+   "jp": "伝令",
+   "en": "message",
+   "note": "sending a message (order) to a servant; 伝令を送る = send a message"
+  },
+  {
+   "jp": "待機",
+   "en": "Wait",
+   "note": "command name; 待機中 = \"Waiting\""
+  },
+  {
+   "jp": "居住地",
+   "en": "residence",
+   "note": ""
+  },
+  {
+   "jp": "変身",
+   "en": "transform",
+   "note": "変身力 = Transform Power"
+  },
+  {
+   "jp": "棺桶暴き",
+   "en": "coffin raid",
+   "note": "Van Helsing's daytime action"
+  },
+  {
+   "jp": "ロウィーナ",
+   "en": "Rowena",
+   "note": "Lady Rowena (ロウィーナ様), dead wife of the sealed lord (EP1)"
+  },
+  {
+   "jp": "ジュリエータ",
+   "en": "Julieta",
+   "note": "A doll in Medoekia, treated as \"our child\" (M0 villager talk)."
+  },
+  {
+   "jp": "ベッケル",
+   "en": "Bekel",
+   "note": "Bakery in Calstatt (パン屋「ベッケル」 = Bekel bakery)."
+  },
+  {
+   "jp": "インヴォス",
+   "en": "Invos",
+   "note": "Diner in Calstatt (食堂「インヴォス」 = Invos diner)."
+  },
+  {
+   "jp": "ジャック・ザ・リパー",
+   "en": "Jack the Ripper",
+   "note": "London murderer rumoured in PR2."
+  },
+  {
+   "jp": "エプスタイン家",
+   "en": "the Epstein family",
+   "note": "London noble house (PR2)."
+  },
+  {
+   "jp": "ジョセフ",
+   "en": "Joseph",
+   "note": "Lily's sweetheart in Calstatt (M1); keep distinct from the villager ヨーゼフ = Josef."
+  },
+  {
+   "jp": "霧",
+   "en": "mist",
+   "note": ""
+  },
+  {
+   "jp": "支配図",
+   "en": "Domination Map",
+   "note": "screen showing who serves whom"
+  },
+  {
+   "jp": "噂",
+   "en": "rumor",
+   "note": ""
+  }
+ ],
+ "villagers": [
+  {
+   "jp": "オルグ",
+   "en": "Olg",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 0,
+   "gender": "male",
+   "age": 8,
+   "job_jp": "畑番"
+  },
+  {
+   "jp": "エルヴィン",
+   "en": "Erwin",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 1,
+   "gender": "male",
+   "age": 11,
+   "job_jp": "まきひろい"
+  },
+  {
+   "jp": "ヒムラー",
+   "en": "Himmler",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 2,
+   "gender": "male",
+   "age": 18,
+   "job_jp": "木くつ作り"
+  },
+  {
+   "jp": "テオドール",
+   "en": "Theodor",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 3,
+   "gender": "male",
+   "age": 20,
+   "job_jp": "狩人"
+  },
+  {
+   "jp": "サイラス",
+   "en": "Silas",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 4,
+   "gender": "male",
+   "age": 28,
+   "job_jp": "牧人"
+  },
+  {
+   "jp": "アルダス",
+   "en": "Aldous",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 5,
+   "gender": "male",
+   "age": 35,
+   "job_jp": "車大工"
+  },
+  {
+   "jp": "ラモン",
+   "en": "Ramon",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 6,
+   "gender": "male",
+   "age": 52,
+   "job_jp": "神父"
+  },
+  {
+   "jp": "ハルク",
+   "en": "Halk",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 7,
+   "gender": "male",
+   "age": 42,
+   "job_jp": "かじ屋"
+  },
+  {
+   "jp": "オサイダ",
+   "en": "Osaida",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 8,
+   "gender": "male",
+   "age": 45,
+   "job_jp": "猟場の番人"
+  },
+  {
+   "jp": "ジュス",
+   "en": "Jus",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 9,
+   "gender": "male",
+   "age": 32,
+   "job_jp": "木工大工"
+  },
+  {
+   "jp": "ヴェント",
+   "en": "Vent",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 10,
+   "gender": "male",
+   "age": 26,
+   "job_jp": "きこり"
+  },
+  {
+   "jp": "クウェーグ",
+   "en": "Queeg",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 11,
+   "gender": "male",
+   "age": 38,
+   "job_jp": "陶器作り"
+  },
+  {
+   "jp": "ランケ",
+   "en": "Ranke",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 12,
+   "gender": "male",
+   "age": 40,
+   "job_jp": "馬の世話"
+  },
+  {
+   "jp": "オッティ",
+   "en": "Otti",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 13,
+   "gender": "male",
+   "age": 60,
+   "job_jp": "釣り"
+  },
+  {
+   "jp": "カトゥーサ",
+   "en": "Katusa",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 14,
+   "gender": "male",
+   "age": 29,
+   "job_jp": "畑仕事"
+  },
+  {
+   "jp": "レーン",
+   "en": "Lehn",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 15,
+   "gender": "male",
+   "age": 56,
+   "job_jp": "はたごや"
+  },
+  {
+   "jp": "イオス",
+   "en": "Ios",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 16,
+   "gender": "male",
+   "age": 36,
+   "job_jp": "牛飼い"
+  },
+  {
+   "jp": "サザーク",
+   "en": "Southwark",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 17,
+   "gender": "male",
+   "age": 44,
+   "job_jp": "酒造り"
+  },
+  {
+   "jp": "ダイダロス",
+   "en": "Daedalus",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 18,
+   "gender": "male",
+   "age": 55,
+   "job_jp": "地主"
+  },
+  {
+   "jp": "メイ",
+   "en": "May",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 19,
+   "gender": "female",
+   "age": 9,
+   "job_jp": "人形あそび"
+  },
+  {
+   "jp": "サティ",
+   "en": "Sati",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 20,
+   "gender": "female",
+   "age": 16,
+   "job_jp": "木の実あつめ"
+  },
+  {
+   "jp": "ライザ",
+   "en": "Liza",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 21,
+   "gender": "female",
+   "age": 22,
+   "job_jp": "ハーブ摘み"
+  },
+  {
+   "jp": "ミルティア",
+   "en": "Miltia",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 22,
+   "gender": "female",
+   "age": 28,
+   "job_jp": "はちみつ"
+  },
+  {
+   "jp": "アズーシャ",
+   "en": "Azusha",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 23,
+   "gender": "female",
+   "age": 27,
+   "job_jp": "機織り"
+  },
+  {
+   "jp": "セリア",
+   "en": "Celia",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 24,
+   "gender": "female",
+   "age": 32,
+   "job_jp": "ジャム作り"
+  },
+  {
+   "jp": "ウェンディ",
+   "en": "Wendy",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 25,
+   "gender": "female",
+   "age": 35,
+   "job_jp": "洗濯女"
+  },
+  {
+   "jp": "ヨハンナ",
+   "en": "Johanna",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 26,
+   "gender": "female",
+   "age": 18,
+   "job_jp": "草刈り"
+  },
+  {
+   "jp": "ヴェータ",
+   "en": "Veta",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 27,
+   "gender": "female",
+   "age": 19,
+   "job_jp": "さいほう"
+  },
+  {
+   "jp": "エミー",
+   "en": "Emmy",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 28,
+   "gender": "female",
+   "age": 26,
+   "job_jp": "畑仕事"
+  },
+  {
+   "jp": "ルイザ",
+   "en": "Luisa",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 29,
+   "gender": "female",
+   "age": 50,
+   "job_jp": "雑貨売り"
+  },
+  {
+   "jp": "ルサリィ",
+   "en": "Rusalie",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 30,
+   "gender": "female",
+   "age": 25,
+   "job_jp": "ヴァンピール"
+  },
+  {
+   "jp": "ルサリィ",
+   "en": "Rusalie",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 31,
+   "gender": "female",
+   "age": 25,
+   "job_jp": "ヴァンピール"
+  },
+  {
+   "jp": "ルサリィ",
+   "en": "Rusalie",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 32,
+   "gender": "female",
+   "age": 25,
+   "job_jp": "ヴァンピール"
+  },
+  {
+   "jp": "ルサリィ",
+   "en": "Rusalie",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 33,
+   "gender": "female",
+   "age": 25,
+   "job_jp": "ヴァンピール"
+  },
+  {
+   "jp": "ルサリィ",
+   "en": "Rusalie",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 34,
+   "gender": "female",
+   "age": 25,
+   "job_jp": "ヴァンピール"
+  },
+  {
+   "jp": "ルサリィ",
+   "en": "Rusalie",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 35,
+   "gender": "female",
+   "age": 25,
+   "job_jp": "ヴァンピール"
+  },
+  {
+   "jp": "システィーナ",
+   "en": "Sistina",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 36,
+   "gender": "female",
+   "age": 225,
+   "job_jp": "バウバウ！"
+  },
+  {
+   "jp": "オルゴ",
+   "en": "Orgo",
+   "chapter": "M0",
+   "stage": "Medoekia",
+   "index": 37,
+   "gender": "male",
+   "age": 21,
+   "job_jp": "コウモリ"
+  },
+  {
+   "jp": "ヨハン",
+   "en": "Johann",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 0,
+   "gender": "male",
+   "age": 8,
+   "job_jp": "農家の子供"
+  },
+  {
+   "jp": "リヒャルド",
+   "en": "Richard",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 1,
+   "gender": "male",
+   "age": 12,
+   "job_jp": "ガラス工場の工員"
+  },
+  {
+   "jp": "クルト",
+   "en": "Kurt",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 2,
+   "gender": "male",
+   "age": 13,
+   "job_jp": "市場の売り子"
+  },
+  {
+   "jp": "ローベルト",
+   "en": "Robert",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 3,
+   "gender": "male",
+   "age": 17,
+   "job_jp": "航海士見習い"
+  },
+  {
+   "jp": "ルードヴィヒ",
+   "en": "Ludwig",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 4,
+   "gender": "male",
+   "age": 16,
+   "job_jp": "市長の息子"
+  },
+  {
+   "jp": "アントン",
+   "en": "Anton",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 5,
+   "gender": "male",
+   "age": 18,
+   "job_jp": "職探しの青年"
+  },
+  {
+   "jp": "ハインリヒ",
+   "en": "Heinrich",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 6,
+   "gender": "male",
+   "age": 19,
+   "job_jp": "見張り兵士"
+  },
+  {
+   "jp": "ウェルテル",
+   "en": "Werther",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 7,
+   "gender": "male",
+   "age": 22,
+   "job_jp": "兵士"
+  },
+  {
+   "jp": "ベルンハルト",
+   "en": "Bernhard",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 8,
+   "gender": "male",
+   "age": 24,
+   "job_jp": "宝石店用心棒"
+  },
+  {
+   "jp": "ミヒャエル",
+   "en": "Michael",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 9,
+   "gender": "male",
+   "age": 25,
+   "job_jp": "パン屋「ベッケル」主人"
+  },
+  {
+   "jp": "パウル",
+   "en": "Paul",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 10,
+   "gender": "male",
+   "age": 25,
+   "job_jp": "郵便局員"
+  },
+  {
+   "jp": "ブロメ",
+   "en": "Brome",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 11,
+   "gender": "male",
+   "age": 26,
+   "job_jp": "旅行者"
+  },
+  {
+   "jp": "カール",
+   "en": "Karl",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 12,
+   "gender": "male",
+   "age": 47,
+   "job_jp": "税関勤務"
+  },
+  {
+   "jp": "フリードリヒ",
+   "en": "Friedrich",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 13,
+   "gender": "male",
+   "age": 28,
+   "job_jp": "海軍傭兵"
+  },
+  {
+   "jp": "ヤーン",
+   "en": "Jahn",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 14,
+   "gender": "male",
+   "age": 29,
+   "job_jp": "カフェ「ヤーン」主人"
+  },
+  {
+   "jp": "クラウス",
+   "en": "Klaus",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 15,
+   "gender": "male",
+   "age": 29,
+   "job_jp": "海上保安庁勤務"
+  },
+  {
+   "jp": "エルンスト",
+   "en": "Ernst",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 16,
+   "gender": "male",
+   "age": 30,
+   "job_jp": "刃物屋主人"
+  },
+  {
+   "jp": "ツィレ",
+   "en": "Zille",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 17,
+   "gender": "male",
+   "age": 30,
+   "job_jp": "農場主"
+  },
+  {
+   "jp": "スチュアート",
+   "en": "Stuart",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 18,
+   "gender": "male",
+   "age": 31,
+   "job_jp": "スタンバーグ家若旦那"
+  },
+  {
+   "jp": "エミール",
+   "en": "Emil",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 19,
+   "gender": "male",
+   "age": 32,
+   "job_jp": "市場の商人"
+  },
+  {
+   "jp": "エデュアルド",
+   "en": "Eduard",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 20,
+   "gender": "male",
+   "age": 32,
+   "job_jp": "飲んだくれ"
+  },
+  {
+   "jp": "マイツ",
+   "en": "Maitz",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 21,
+   "gender": "male",
+   "age": 33,
+   "job_jp": "「サンスーシィ」主人"
+  },
+  {
+   "jp": "トーマス",
+   "en": "Thomas",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 22,
+   "gender": "male",
+   "age": 33,
+   "job_jp": "海軍司令"
+  },
+  {
+   "jp": "マルティン",
+   "en": "Martin",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 23,
+   "gender": "male",
+   "age": 43,
+   "job_jp": "市庁舎役人"
+  },
+  {
+   "jp": "キュルテン",
+   "en": "Kürten",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 24,
+   "gender": "male",
+   "age": 34,
+   "job_jp": "染料工場の工員"
+  },
+  {
+   "jp": "ヘルマン",
+   "en": "Hermann",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 25,
+   "gender": "male",
+   "age": 34,
+   "job_jp": "海軍傭兵"
+  },
+  {
+   "jp": "オスカー",
+   "en": "Oskar",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 26,
+   "gender": "male",
+   "age": 35,
+   "job_jp": "レストランのオーナー"
+  },
+  {
+   "jp": "ハリー",
+   "en": "Harry",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 27,
+   "gender": "male",
+   "age": 36,
+   "job_jp": "倉庫見張り"
+  },
+  {
+   "jp": "アンリ",
+   "en": "Henri",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 28,
+   "gender": "male",
+   "age": 55,
+   "job_jp": "森の番人"
+  },
+  {
+   "jp": "ジェイド",
+   "en": "Jade",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 29,
+   "gender": "male",
+   "age": 38,
+   "job_jp": "海軍パブマスター"
+  },
+  {
+   "jp": "シュナイダー",
+   "en": "Schneider",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 30,
+   "gender": "male",
+   "age": 39,
+   "job_jp": "医者"
+  },
+  {
+   "jp": "ロッソ",
+   "en": "Rosso",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 31,
+   "gender": "male",
+   "age": 40,
+   "job_jp": "船乗り宿屋主人"
+  },
+  {
+   "jp": "クレーガー",
+   "en": "Kröger",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 32,
+   "gender": "male",
+   "age": 42,
+   "job_jp": "カルシュタット市長"
+  },
+  {
+   "jp": "レオポルド",
+   "en": "Leopold",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 33,
+   "gender": "male",
+   "age": 43,
+   "job_jp": "食堂「インヴォス」店長"
+  },
+  {
+   "jp": "ヨーゼフ",
+   "en": "Josef",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 34,
+   "gender": "male",
+   "age": 27,
+   "job_jp": "公会堂業務員"
+  },
+  {
+   "jp": "ヴェッセリ",
+   "en": "Wesseli",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 35,
+   "gender": "male",
+   "age": 45,
+   "job_jp": "ヴェッセリ商館支配人"
+  },
+  {
+   "jp": "シュテラン",
+   "en": "Stelan",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 36,
+   "gender": "male",
+   "age": 48,
+   "job_jp": "輸送船船長"
+  },
+  {
+   "jp": "マイヤー",
+   "en": "Meyer",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 37,
+   "gender": "male",
+   "age": 49,
+   "job_jp": "劇場支配人"
+  },
+  {
+   "jp": "ヘルムート",
+   "en": "Helmut",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 38,
+   "gender": "male",
+   "age": 33,
+   "job_jp": "家具屋"
+  },
+  {
+   "jp": "ニコラウス",
+   "en": "Nikolaus",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 39,
+   "gender": "male",
+   "age": 52,
+   "job_jp": "高級パン屋"
+  },
+  {
+   "jp": "ヴォルフ",
+   "en": "Wolf",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 40,
+   "gender": "male",
+   "age": 53,
+   "job_jp": "退役軍人"
+  },
+  {
+   "jp": "ディートリヒ",
+   "en": "Dietrich",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 41,
+   "gender": "male",
+   "age": 55,
+   "job_jp": "墓守"
+  },
+  {
+   "jp": "ロスナー",
+   "en": "Rosner",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 42,
+   "gender": "male",
+   "age": 43,
+   "job_jp": "貿易商"
+  },
+  {
+   "jp": "デルヴァルト",
+   "en": "Dellwald",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 43,
+   "gender": "male",
+   "age": 42,
+   "job_jp": "宝石商"
+  },
+  {
+   "jp": "エヴァンス",
+   "en": "Evans",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 44,
+   "gender": "male",
+   "age": 60,
+   "job_jp": "牧師"
+  },
+  {
+   "jp": "スタンバーグ公",
+   "en": "Lord Stanberg",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 45,
+   "gender": "male",
+   "age": 70,
+   "job_jp": "スタンバーグ家当主"
+  },
+  {
+   "jp": "フーゴー",
+   "en": "Hugo",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 46,
+   "gender": "male",
+   "age": 80,
+   "job_jp": "灯台守"
+  },
+  {
+   "jp": "マリー",
+   "en": "Marie",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 47,
+   "gender": "female",
+   "age": 13,
+   "job_jp": "子供"
+  },
+  {
+   "jp": "ヘレーネ",
+   "en": "Helene",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 48,
+   "gender": "female",
+   "age": 42,
+   "job_jp": "服屋"
+  },
+  {
+   "jp": "シェリル",
+   "en": "Cheryl",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 49,
+   "gender": "female",
+   "age": 15,
+   "job_jp": "パン屋のまご娘"
+  },
+  {
+   "jp": "テレーゼ",
+   "en": "Therese",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 50,
+   "gender": "female",
+   "age": 20,
+   "job_jp": "病弱な女性"
+  },
+  {
+   "jp": "ルイーザ",
+   "en": "Luisa",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 51,
+   "gender": "female",
+   "age": 17,
+   "job_jp": "メイドの少女"
+  },
+  {
+   "jp": "マルガレーテ",
+   "en": "Margarete",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 52,
+   "gender": "female",
+   "age": 44,
+   "job_jp": "市場の売り子"
+  },
+  {
+   "jp": "ロミー",
+   "en": "Romy",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 53,
+   "gender": "female",
+   "age": 19,
+   "job_jp": "花屋の娘"
+  },
+  {
+   "jp": "アンナ",
+   "en": "Anna",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 54,
+   "gender": "female",
+   "age": 38,
+   "job_jp": "雑貨屋の女主人"
+  },
+  {
+   "jp": "アリサ",
+   "en": "Alisa",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 55,
+   "gender": "female",
+   "age": 21,
+   "job_jp": "ウェイトレス"
+  },
+  {
+   "jp": "ハンス",
+   "en": "Hans",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 56,
+   "gender": "male",
+   "age": 22,
+   "job_jp": "海軍傭兵"
+  },
+  {
+   "jp": "マレーネ",
+   "en": "Marlene",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 57,
+   "gender": "female",
+   "age": 25,
+   "job_jp": "高級ブティック店員"
+  },
+  {
+   "jp": "クリスティーネ",
+   "en": "Christine",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 58,
+   "gender": "female",
+   "age": 29,
+   "job_jp": "香水店店員"
+  },
+  {
+   "jp": "クラウス夫人",
+   "en": "Mrs. Klaus",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 59,
+   "gender": "female",
+   "age": 33,
+   "job_jp": "役人の妻"
+  },
+  {
+   "jp": "リリー",
+   "en": "Lily",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 60,
+   "gender": "female",
+   "age": 25,
+   "job_jp": "恋人を待つ女性"
+  },
+  {
+   "jp": "ツィレ夫人",
+   "en": "Mrs. Zille",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 61,
+   "gender": "female",
+   "age": 29,
+   "job_jp": "農場主の妻"
+  },
+  {
+   "jp": "ロッテ",
+   "en": "Lotte",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 62,
+   "gender": "female",
+   "age": 33,
+   "job_jp": "お針子"
+  },
+  {
+   "jp": "デーメル",
+   "en": "Dehmel",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 63,
+   "gender": "female",
+   "age": 22,
+   "job_jp": "オペラ歌手"
+  },
+  {
+   "jp": "エマ",
+   "en": "Emma",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 64,
+   "gender": "female",
+   "age": 25,
+   "job_jp": "学校教師"
+  },
+  {
+   "jp": "ヴェッセリ夫人",
+   "en": "Mrs. Wesseli",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 65,
+   "gender": "female",
+   "age": 29,
+   "job_jp": "貿易商夫人"
+  },
+  {
+   "jp": "レンヤ夫人",
+   "en": "Mrs. Lenya",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 66,
+   "gender": "female",
+   "age": 65,
+   "job_jp": "夫の帰りを待つ妻"
+  },
+  {
+   "jp": "ヴィーネ夫人",
+   "en": "Mrs. Wiene",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 67,
+   "gender": "female",
+   "age": 45,
+   "job_jp": "宿屋のおかみ"
+  },
+  {
+   "jp": "スタンバーグ夫人",
+   "en": "Mrs. Stanberg",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 68,
+   "gender": "female",
+   "age": 62,
+   "job_jp": "スタンバーグ老婦人"
+  },
+  {
+   "jp": "シュナイダー夫人",
+   "en": "Mrs. Schneider",
+   "chapter": "M1",
+   "stage": "Calstatt",
+   "index": 69,
+   "gender": "female",
+   "age": 38,
+   "job_jp": "医者の妻"
+  },
+  {
+   "jp": "ジェレミー",
+   "en": "Jeremy",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 0,
+   "gender": "male",
+   "age": 23,
+   "job_jp": "大道芸人"
+  },
+  {
+   "jp": "ウォーリー",
+   "en": "Wally",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 1,
+   "gender": "male",
+   "age": 33,
+   "job_jp": "放浪者"
+  },
+  {
+   "jp": "オリバー",
+   "en": "Oliver",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 2,
+   "gender": "male",
+   "age": 34,
+   "job_jp": "パブの客"
+  },
+  {
+   "jp": "マシュー",
+   "en": "Matthew",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 3,
+   "gender": "male",
+   "age": 32,
+   "job_jp": "教師"
+  },
+  {
+   "jp": "スタンリー",
+   "en": "Stanley",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 4,
+   "gender": "male",
+   "age": 42,
+   "job_jp": "博物館館長"
+  },
+  {
+   "jp": "ウェイン",
+   "en": "Wayne",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 5,
+   "gender": "male",
+   "age": 14,
+   "job_jp": "子供"
+  },
+  {
+   "jp": "ギルバート",
+   "en": "Gilbert",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 6,
+   "gender": "male",
+   "age": 54,
+   "job_jp": "ロンドン市長"
+  },
+  {
+   "jp": "コリン",
+   "en": "Colin",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 7,
+   "gender": "male",
+   "age": 36,
+   "job_jp": "警察官"
+  },
+  {
+   "jp": "パトリック",
+   "en": "Patrick",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 8,
+   "gender": "male",
+   "age": 40,
+   "job_jp": "監獄の囚人"
+  },
+  {
+   "jp": "ダレル",
+   "en": "Darrell",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 9,
+   "gender": "male",
+   "age": 31,
+   "job_jp": "仕立て屋"
+  },
+  {
+   "jp": "トム",
+   "en": "Tom",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 10,
+   "gender": "male",
+   "age": 46,
+   "job_jp": "乗り合い馬車の御者"
+  },
+  {
+   "jp": "グレアム",
+   "en": "Graham",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 11,
+   "gender": "male",
+   "age": 40,
+   "job_jp": "美術品鑑定士"
+  },
+  {
+   "jp": "ランス",
+   "en": "Lance",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 12,
+   "gender": "male",
+   "age": 52,
+   "job_jp": "陸軍作戦司令"
+  },
+  {
+   "jp": "ルーク",
+   "en": "Luke",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 13,
+   "gender": "male",
+   "age": 44,
+   "job_jp": "職業斡旋業"
+  },
+  {
+   "jp": "ブラッドフォード",
+   "en": "Bradford",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 14,
+   "gender": "male",
+   "age": 38,
+   "job_jp": "結婚相談士"
+  },
+  {
+   "jp": "ピーター",
+   "en": "Peter",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 15,
+   "gender": "male",
+   "age": 36,
+   "job_jp": "大工"
+  },
+  {
+   "jp": "ディーン",
+   "en": "Dean",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 16,
+   "gender": "male",
+   "age": 20,
+   "job_jp": "時計工"
+  },
+  {
+   "jp": "クロード",
+   "en": "Claude",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 17,
+   "gender": "male",
+   "age": 36,
+   "job_jp": "神経科医"
+  },
+  {
+   "jp": "レニー",
+   "en": "Lenny",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 18,
+   "gender": "male",
+   "age": 26,
+   "job_jp": "皮なめし職人"
+  },
+  {
+   "jp": "ジェラルド",
+   "en": "Gerald",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 19,
+   "gender": "male",
+   "age": 24,
+   "job_jp": "食器デザイナー"
+  },
+  {
+   "jp": "トニー",
+   "en": "Tony",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 20,
+   "gender": "male",
+   "age": 25,
+   "job_jp": "金具屋"
+  },
+  {
+   "jp": "カート",
+   "en": "Kurt",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 21,
+   "gender": "male",
+   "age": 37,
+   "job_jp": "煙草商"
+  },
+  {
+   "jp": "クレメント",
+   "en": "Clement",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 22,
+   "gender": "male",
+   "age": 27,
+   "job_jp": "紳士帽子屋"
+  },
+  {
+   "jp": "パーシー",
+   "en": "Percy",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 23,
+   "gender": "male",
+   "age": 45,
+   "job_jp": "仕立て屋"
+  },
+  {
+   "jp": "マーク",
+   "en": "Mark",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 24,
+   "gender": "male",
+   "age": 32,
+   "job_jp": "靴屋"
+  },
+  {
+   "jp": "クレイグ",
+   "en": "Craig",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 25,
+   "gender": "male",
+   "age": 51,
+   "job_jp": "時計屋"
+  },
+  {
+   "jp": "ウォーレン",
+   "en": "Warren",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 26,
+   "gender": "male",
+   "age": 63,
+   "job_jp": "眼鏡屋"
+  },
+  {
+   "jp": "ロビン",
+   "en": "Robin",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 27,
+   "gender": "male",
+   "age": 33,
+   "job_jp": "理髪師"
+  },
+  {
+   "jp": "セシル",
+   "en": "Cecil",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 28,
+   "gender": "male",
+   "age": 27,
+   "job_jp": "石けん屋"
+  },
+  {
+   "jp": "ブライアン",
+   "en": "Brian",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 29,
+   "gender": "male",
+   "age": 21,
+   "job_jp": "お茶売り"
+  },
+  {
+   "jp": "ルイス",
+   "en": "Lewis",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 30,
+   "gender": "male",
+   "age": 39,
+   "job_jp": "作家"
+  },
+  {
+   "jp": "ロバート",
+   "en": "Robert",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 31,
+   "gender": "male",
+   "age": 27,
+   "job_jp": "本屋"
+  },
+  {
+   "jp": "スコット",
+   "en": "Scott",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 32,
+   "gender": "male",
+   "age": 61,
+   "job_jp": "酒屋"
+  },
+  {
+   "jp": "アーネスト",
+   "en": "Ernest",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 33,
+   "gender": "male",
+   "age": 22,
+   "job_jp": "ウェイター"
+  },
+  {
+   "jp": "ダドリー",
+   "en": "Dudley",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 34,
+   "gender": "male",
+   "age": 48,
+   "job_jp": "宿屋"
+  },
+  {
+   "jp": "エプスタイン",
+   "en": "Epstein",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 35,
+   "gender": "male",
+   "age": 31,
+   "job_jp": "伯爵"
+  },
+  {
+   "jp": "フィリップ",
+   "en": "Philip",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 36,
+   "gender": "male",
+   "age": 42,
+   "job_jp": "ディーラー"
+  },
+  {
+   "jp": "フランク",
+   "en": "Frank",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 37,
+   "gender": "male",
+   "age": 59,
+   "job_jp": "風景画家"
+  },
+  {
+   "jp": "ショーン",
+   "en": "Sean",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 38,
+   "gender": "male",
+   "age": 22,
+   "job_jp": "前衛芸術家"
+  },
+  {
+   "jp": "ジャスティン",
+   "en": "Justin",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 39,
+   "gender": "male",
+   "age": 49,
+   "job_jp": "銀行員"
+  },
+  {
+   "jp": "ラルフ",
+   "en": "Ralph",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 40,
+   "gender": "male",
+   "age": 28,
+   "job_jp": "図書館司書"
+  },
+  {
+   "jp": "エイブラハム",
+   "en": "Abraham",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 41,
+   "gender": "male",
+   "age": 19,
+   "job_jp": "貸しボート屋"
+  },
+  {
+   "jp": "クエンティン",
+   "en": "Quentin",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 42,
+   "gender": "male",
+   "age": 35,
+   "job_jp": "医者"
+  },
+  {
+   "jp": "ウィルフレッド",
+   "en": "Wilfred",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 43,
+   "gender": "male",
+   "age": 39,
+   "job_jp": "質屋"
+  },
+  {
+   "jp": "フランシス",
+   "en": "Francis",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 44,
+   "gender": "male",
+   "age": 70,
+   "job_jp": "骨董屋"
+  },
+  {
+   "jp": "アンソニー",
+   "en": "Anthony",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 45,
+   "gender": "male",
+   "age": 45,
+   "job_jp": "宝飾店"
+  },
+  {
+   "jp": "ニック",
+   "en": "Nick",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 46,
+   "gender": "male",
+   "age": 43,
+   "job_jp": "労働者"
+  },
+  {
+   "jp": "アーサー",
+   "en": "Arthur",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 47,
+   "gender": "male",
+   "age": 29,
+   "job_jp": "サロン美容師"
+  },
+  {
+   "jp": "ダニエル",
+   "en": "Daniel",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 48,
+   "gender": "male",
+   "age": 15,
+   "job_jp": "接着剤工場の工員"
+  },
+  {
+   "jp": "マルコム",
+   "en": "Malcolm",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 49,
+   "gender": "male",
+   "age": 21,
+   "job_jp": "食肉加工場の工員"
+  },
+  {
+   "jp": "テッド",
+   "en": "Ted",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 50,
+   "gender": "male",
+   "age": 26,
+   "job_jp": "マッチ工場の工員"
+  },
+  {
+   "jp": "マックス",
+   "en": "Max",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 51,
+   "gender": "male",
+   "age": 30,
+   "job_jp": "？？？"
+  },
+  {
+   "jp": "ティム",
+   "en": "Tim",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 52,
+   "gender": "male",
+   "age": 7,
+   "job_jp": "子供"
+  },
+  {
+   "jp": "フィン",
+   "en": "Finn",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 53,
+   "gender": "male",
+   "age": 29,
+   "job_jp": "探偵"
+  },
+  {
+   "jp": "ブルース",
+   "en": "Bruce",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 54,
+   "gender": "male",
+   "age": 57,
+   "job_jp": "慈善協会理事"
+  },
+  {
+   "jp": "ノーマン",
+   "en": "Norman",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 55,
+   "gender": "male",
+   "age": 56,
+   "job_jp": "国会議員"
+  },
+  {
+   "jp": "アイザック",
+   "en": "Isaac",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 56,
+   "gender": "male",
+   "age": 58,
+   "job_jp": "思想家"
+  },
+  {
+   "jp": "フェリックス",
+   "en": "Felix",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 57,
+   "gender": "male",
+   "age": 45,
+   "job_jp": "科学者"
+  },
+  {
+   "jp": "レックス",
+   "en": "Rex",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 58,
+   "gender": "male",
+   "age": 14,
+   "job_jp": "役者"
+  },
+  {
+   "jp": "マーヴィン",
+   "en": "Marvin",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 59,
+   "gender": "male",
+   "age": 70,
+   "job_jp": "男爵"
+  },
+  {
+   "jp": "モーリス",
+   "en": "Maurice",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 60,
+   "gender": "male",
+   "age": 50,
+   "job_jp": "鉄道会社社長"
+  },
+  {
+   "jp": "グレゴリー",
+   "en": "Gregory",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 61,
+   "gender": "male",
+   "age": 23,
+   "job_jp": "新聞記者"
+  },
+  {
+   "jp": "アンジェラ",
+   "en": "Angela",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 62,
+   "gender": "female",
+   "age": 19,
+   "job_jp": "雑貨屋"
+  },
+  {
+   "jp": "アグネス",
+   "en": "Agnes",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 63,
+   "gender": "female",
+   "age": 36,
+   "job_jp": "掃除女"
+  },
+  {
+   "jp": "クローディア",
+   "en": "Claudia",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 64,
+   "gender": "female",
+   "age": 42,
+   "job_jp": "洗濯女"
+  },
+  {
+   "jp": "モード",
+   "en": "Maud",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 65,
+   "gender": "female",
+   "age": 26,
+   "job_jp": "乳母"
+  },
+  {
+   "jp": "ソニア",
+   "en": "Sonia",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 66,
+   "gender": "female",
+   "age": 22,
+   "job_jp": "街頭の女"
+  },
+  {
+   "jp": "ウィニフレッド",
+   "en": "Winifred",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 67,
+   "gender": "female",
+   "age": 21,
+   "job_jp": "電話交換士"
+  },
+  {
+   "jp": "シルヴィア",
+   "en": "Sylvia",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 68,
+   "gender": "female",
+   "age": 23,
+   "job_jp": "事務員"
+  },
+  {
+   "jp": "パティ",
+   "en": "Patty",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 69,
+   "gender": "female",
+   "age": 32,
+   "job_jp": "カップ店"
+  },
+  {
+   "jp": "ヴィヴィアン",
+   "en": "Vivian",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 70,
+   "gender": "female",
+   "age": 27,
+   "job_jp": "社交界の女"
+  },
+  {
+   "jp": "ブリジット",
+   "en": "Bridget",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 71,
+   "gender": "female",
+   "age": 35,
+   "job_jp": "慈善家夫人"
+  },
+  {
+   "jp": "シャーロット",
+   "en": "Charlotte",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 72,
+   "gender": "female",
+   "age": 41,
+   "job_jp": "中流家庭の夫人"
+  },
+  {
+   "jp": "メアリ",
+   "en": "Mary",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 73,
+   "gender": "female",
+   "age": 17,
+   "job_jp": "学生"
+  },
+  {
+   "jp": "マイク",
+   "en": "Mike",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 74,
+   "gender": "male",
+   "age": 10,
+   "job_jp": "学生"
+  },
+  {
+   "jp": "ロバータ",
+   "en": "Roberta",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 75,
+   "gender": "female",
+   "age": 27,
+   "job_jp": "布地デザイナー"
+  },
+  {
+   "jp": "ステラ",
+   "en": "Stella",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 76,
+   "gender": "female",
+   "age": 25,
+   "job_jp": "シスター"
+  },
+  {
+   "jp": "ベリンダ",
+   "en": "Belinda",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 77,
+   "gender": "female",
+   "age": 28,
+   "job_jp": "画家"
+  },
+  {
+   "jp": "サマンサ",
+   "en": "Samantha",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 78,
+   "gender": "female",
+   "age": 19,
+   "job_jp": "看護婦"
+  },
+  {
+   "jp": "ヴァージニア",
+   "en": "Virginia",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 79,
+   "gender": "female",
+   "age": 43,
+   "job_jp": "マダム"
+  },
+  {
+   "jp": "ジル",
+   "en": "Jill",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 80,
+   "gender": "female",
+   "age": 8,
+   "job_jp": "子供"
+  },
+  {
+   "jp": "ヘンリエッタ",
+   "en": "Henrietta",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 81,
+   "gender": "female",
+   "age": 29,
+   "job_jp": "男爵夫人"
+  },
+  {
+   "jp": "ローゼ",
+   "en": "Rose",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 82,
+   "gender": "female",
+   "age": 16,
+   "job_jp": "伯爵令嬢"
+  },
+  {
+   "jp": "クロチルド",
+   "en": "Clotilde",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 83,
+   "gender": "female",
+   "age": 50,
+   "job_jp": "フランス人旅行者"
+  },
+  {
+   "jp": "ニコール",
+   "en": "Nicole",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 84,
+   "gender": "female",
+   "age": 18,
+   "job_jp": "ウェイトレス"
+  },
+  {
+   "jp": "ジャニス",
+   "en": "Janis",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 85,
+   "gender": "female",
+   "age": 34,
+   "job_jp": "パブの客"
+  },
+  {
+   "jp": "アガサ",
+   "en": "Agatha",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 86,
+   "gender": "female",
+   "age": 17,
+   "job_jp": "料理女"
+  },
+  {
+   "jp": "マーサ",
+   "en": "Martha",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 87,
+   "gender": "female",
+   "age": 30,
+   "job_jp": "工場労働者"
+  },
+  {
+   "jp": "ローダ",
+   "en": "Rhoda",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 88,
+   "gender": "female",
+   "age": 46,
+   "job_jp": "工場労働者"
+  },
+  {
+   "jp": "ベッキー",
+   "en": "Becky",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 89,
+   "gender": "female",
+   "age": 31,
+   "job_jp": "石けん屋"
+  },
+  {
+   "jp": "ローナ",
+   "en": "Lorna",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 90,
+   "gender": "female",
+   "age": 60,
+   "job_jp": "老婆"
+  },
+  {
+   "jp": "ポーリーン",
+   "en": "Pauline",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 91,
+   "gender": "female",
+   "age": 9,
+   "job_jp": "子供"
+  },
+  {
+   "jp": "ネリー",
+   "en": "Nellie",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 92,
+   "gender": "female",
+   "age": 35,
+   "job_jp": "ホステス"
+  },
+  {
+   "jp": "セーラ",
+   "en": "Sarah",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 93,
+   "gender": "female",
+   "age": 22,
+   "job_jp": "靴屋"
+  },
+  {
+   "jp": "アンナ",
+   "en": "Anna",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 94,
+   "gender": "female",
+   "age": 23,
+   "job_jp": "観光客"
+  },
+  {
+   "jp": "ヴァネッサ",
+   "en": "Vanessa",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 95,
+   "gender": "female",
+   "age": 37,
+   "job_jp": "宿屋の女主人"
+  },
+  {
+   "jp": "ベス",
+   "en": "Beth",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 96,
+   "gender": "female",
+   "age": 18,
+   "job_jp": "田舎少女"
+  },
+  {
+   "jp": "マデリーン",
+   "en": "Madeline",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 97,
+   "gender": "female",
+   "age": 72,
+   "job_jp": "下宿屋老婆"
+  },
+  {
+   "jp": "クリオ",
+   "en": "Clio",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 98,
+   "gender": "female",
+   "age": 20,
+   "job_jp": "婦人帽子屋"
+  },
+  {
+   "jp": "アニタ",
+   "en": "Anita",
+   "chapter": "M2",
+   "stage": "London",
+   "index": 99,
+   "gender": "female",
+   "age": 55,
+   "job_jp": "酒屋の女房"
+  }
+ ]
+}

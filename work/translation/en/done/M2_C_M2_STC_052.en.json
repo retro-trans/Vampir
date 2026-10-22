@@ -1,0 +1,336 @@
+[
+ {
+  "id": "M2#4160",
+  "en": "(Jack the Ripper ought to go after"
+ },
+ {
+  "id": "M2#4161",
+  "en": "dozy fellows like this one first.)"
+ },
+ {
+  "id": "M2#4162",
+  "en": "Well, well, good evening."
+ },
+ {
+  "id": "M2#4163",
+  "en": "What a thrill to meet you here."
+ },
+ {
+  "id": "M2#4164",
+  "en": "How about the library? Do come again."
+ },
+ {
+  "id": "M2#4165",
+  "en": "It feels like few people borrow books lately."
+ },
+ {
+  "id": "M2#4166",
+  "en": "You're an intelligent person, so you must"
+ },
+ {
+  "id": "M2#4167",
+  "en": "know how fun books are. Please do come."
+ },
+ {
+  "id": "M2#4168",
+  "en": "Hello. Here to read?"
+ },
+ {
+  "id": "M2#4169",
+  "en": "If you'd like to borrow one, I'll need you"
+ },
+ {
+  "id": "M2#4170",
+  "en": "to fill in the paperwork here."
+ },
+ {
+  "id": "M2#4171",
+  "en": "Hmm... Quite a collection.",
+  "note": "Stern player; followed by a pause and #4172/#4187 on the same line."
+ },
+ {
+  "id": "M2#4172",
+  "en": "Then I'll take this book.",
+  "note": "No used_in (decoder loses it after the branch op); msg.py shows it after #4171 <p> in msg 164977."
+ },
+ {
+  "id": "M2#4173",
+  "en": "Yes, certainly. One moment, please."
+ },
+ {
+  "id": "M2#4174",
+  "en": "Oh, \"Vampire Legends and History\""
+ },
+ {
+  "id": "M2#4175",
+  "en": "You're interested in a curious field."
+ },
+ {
+  "id": "M2#4176",
+  "en": "Are we done?",
+  "note": "Stern; follows #3777 '...' + pause: '... Are we done?'"
+ },
+ {
+  "id": "M2#4177",
+  "en": "Oh, lastly, please write your name here."
+ },
+ {
+  "id": "M2#4178",
+  "en": "If anything comes up, ask for me, Ralph."
+ },
+ {
+  "id": "M2#4179",
+  "en": "The loan period is two weeks."
+ },
+ {
+  "id": "M2#4180",
+  "en": ", is it? Nice to meet you."
+ },
+ {
+  "id": "M2#4181",
+  "en": "Hello. We meet again."
+ },
+ {
+  "id": "M2#4182",
+  "en": "I'm Ralph. Do you remember me?"
+ },
+ {
+  "id": "M2#4183",
+  "en": "I work here, you see."
+ },
+ {
+  "id": "M2#4184",
+  "en": "You can read books here or borrow them."
+ },
+ {
+  "id": "M2#4185",
+  "en": "If you want to borrow one, I'll need you"
+ },
+ {
+  "id": "M2#4186",
+  "en": "to fill in the paperwork here."
+ },
+ {
+  "id": "M2#4187",
+  "en": "I suppose I'll take this one...",
+  "note": "No used_in; msg.py shows it after #4171 <p> in msg 165059."
+ },
+ {
+  "id": "M2#4188",
+  "en": "If anything comes up, just ask for me."
+ },
+ {
+  "id": "M2#4189",
+  "en": "There are limits on borrowing books, so"
+ },
+ {
+  "id": "M2#4190",
+  "en": "please keep that in mind."
+ },
+ {
+  "id": "M2#4191",
+  "en": "Oh, hello there."
+ },
+ {
+  "id": "M2#4192",
+  "en": "Just as I thought, you love books."
+ },
+ {
+  "id": "M2#4193",
+  "en": "Feel free to look around."
+ },
+ {
+  "id": "M2#4194",
+  "en": "If you're returning a book, please put it"
+ },
+ {
+  "id": "M2#4195",
+  "en": "right here. Returning is that easy!"
+ },
+ {
+  "id": "M2#4196",
+  "en": "Don't you find it calming here?"
+ },
+ {
+  "id": "M2#4197",
+  "en": "Me, I feel at ease surrounded by books."
+ },
+ {
+  "id": "M2#4198",
+  "en": "Books share their wisdom, yet they're never"
+ },
+ {
+  "id": "M2#4199",
+  "en": "noisy, and they never act like know-it-alls."
+ },
+ {
+  "id": "M2#4200",
+  "en": "I'm bad with people, so books are my friends."
+ },
+ {
+  "id": "M2#4201",
+  "en": "The neighbors say I'm an oddball."
+ },
+ {
+  "id": "M2#4202",
+  "en": "I don't think I'm that odd, though."
+ },
+ {
+  "id": "M2#4203",
+  "en": "Am I odd, do you think?",
+  "note": "follows #152 '...': '...Am I odd, do you think?'"
+ },
+ {
+  "id": "M2#4204",
+  "en": "I just love books, that's all",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#4205",
+  "en": "Yes, sitting here among the bookshelves"
+ },
+ {
+  "id": "M2#4206",
+  "en": "is what relaxes me most",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#4207",
+  "en": "Oh! You just gave me a cold look!"
+ },
+ {
+  "id": "M2#4208",
+  "en": "That's mean!"
+ },
+ {
+  "id": "M2#4209",
+  "en": "? Who is it?",
+  "note": "follows #152 '...': '...? Who is it?'"
+ },
+ {
+  "id": "M2#4210",
+  "en": "Um, I'm a bit busy at the moment."
+ },
+ {
+  "id": "M2#4211",
+  "en": "I'm in the middle of a fascinating book."
+ },
+ {
+  "id": "M2#4212",
+  "en": "You want to read it too? This book?"
+ },
+ {
+  "id": "M2#4213",
+  "en": "Then I'll put it in the library."
+ },
+ {
+  "id": "M2#4214",
+  "en": "I'm the librarian, after all."
+ },
+ {
+  "id": "M2#4215",
+  "en": "I just can't relax at home."
+ },
+ {
+  "id": "M2#4216",
+  "en": "Hardly any books... Let's meet at the library."
+ },
+ {
+  "id": "M2#4217",
+  "en": "Oh, it's you again."
+ },
+ {
+  "id": "M2#4218",
+  "en": "Sorry, I'm no good at talking standing up."
+ },
+ {
+  "id": "M2#4219",
+  "en": "Welcome. Thank you for coming."
+ },
+ {
+  "id": "M2#4220",
+  "en": "But it's still hard to talk at home.",
+  "note": "follows #152 '...'."
+ },
+ {
+  "id": "M2#4221",
+  "en": "The library is more of a home to me."
+ },
+ {
+  "id": "M2#4222",
+  "en": "Really, let's meet at the library, okay?"
+ },
+ {
+  "id": "M2#4223",
+  "en": "Whoa... Careful there."
+ },
+ {
+  "id": "M2#4224",
+  "en": "You shouldn't walk while reading."
+ },
+ {
+  "id": "M2#4225",
+  "en": "No, I'm fine."
+ },
+ {
+  "id": "M2#4226",
+  "en": "Here you are. You dropped your other book."
+ },
+ {
+  "id": "M2#4227",
+  "en": "Nice to meet you, Ralph."
+ },
+ {
+  "id": "M2#4228",
+  "en": "Do watch your step. Goodbye."
+ },
+ {
+  "id": "M2#4229",
+  "en": "bump into anything. I know it better than",
+  "note": "Continues M2#4127 'And in the library, I never ever' (slice 051)."
+ },
+ {
+  "id": "M2#4230",
+  "en": "my own house, you see."
+ },
+ {
+  "id": "M2#4231",
+  "en": "I'll let you borrow extra books."
+ },
+ {
+  "id": "M2#4232",
+  "en": "Excuse me?",
+  "note": "follows #152 '...': '...Excuse me?'; matches #4137 'Excuse me'."
+ },
+ {
+  "id": "M2#4233",
+  "en": "You dropped your wallet",
+  "note": "#122 '!' follows."
+ },
+ {
+  "id": "M2#4234",
+  "en": "Walking while reading is dangerous, you know."
+ },
+ {
+  "id": "M2#4235",
+  "en": "Hmm, you're absolutely right",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#4236",
+  "en": "Sorry. You've saved me."
+ },
+ {
+  "id": "M2#4237",
+  "en": "There's no need to thank me."
+ },
+ {
+  "id": "M2#4238",
+  "en": "Please do be careful."
+ },
+ {
+  "id": "M2#4239",
+  "en": "Terrible crimes have been happening, so",
+  "note": "#4240 (slice 053) continues on the next line."
+ }
+]

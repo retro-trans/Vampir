@@ -1,0 +1,335 @@
+[
+ {
+  "id": "M1#3520",
+  "en": "Yes, that will be fine."
+ },
+ {
+  "id": "M1#3521",
+  "en": "Order up!"
+ },
+ {
+  "id": "M1#3522",
+  "en": "My, that was quick."
+ },
+ {
+  "id": "M1#3523",
+  "en": "And our food isn't just fast."
+ },
+ {
+  "id": "M1#3524",
+  "en": "It's tasty and cheap to boot!"
+ },
+ {
+  "id": "M1#3525",
+  "en": "(The \"tasty\" part is debatable.)"
+ },
+ {
+  "id": "M1#3526",
+  "en": "Thanks for the meal."
+ },
+ {
+  "id": "M1#3527",
+  "en": "It's tasty and cheap, to boot!"
+ },
+ {
+  "id": "M1#3528",
+  "en": "(Not a meal I'd want twice in a row.)"
+ },
+ {
+  "id": "M1#3529",
+  "en": " sir, what line of work",
+  "note": "Continues Leopold's 'By the way...' (#3481) at the end of msg 136833; leading space for the join"
+ },
+ {
+  "id": "M1#3530",
+  "en": "are you in?"
+ },
+ {
+  "id": "M1#3531",
+  "en": "I'm... just traveling."
+ },
+ {
+  "id": "M1#3532",
+  "en": "Aha, I see."
+ },
+ {
+  "id": "M1#3533",
+  "en": "Well, the factory workers out west",
+  "note": "Followed by shared #3484 (slice 043): needs a predicate like 'often come here for lunch, but...'"
+ },
+ {
+  "id": "M1#3534",
+  "en": "a customer as nobly dressed as you",
+  "note": "Followed by shared #3486 (slice 043): needs a singular predicate like 'is a rare sight.'"
+ },
+ {
+  "id": "M1#3535",
+  "en": "(So that's why it's \"quantity over quality\"...)"
+ },
+ {
+  "id": "M1#3536",
+  "en": "Yes, that's fine. (As long as it's edible.)",
+  "note": "JP puts the aside mid-sentence; moved to the end"
+ },
+ {
+  "id": "M1#3537",
+  "en": "Oh, is that so?"
+ },
+ {
+  "id": "M1#3538",
+  "en": ", maybe it's because",
+  "note": "Name precedes: '{NAME}, maybe it's because / handsome fellows like you...'"
+ },
+ {
+  "id": "M1#3539",
+  "en": "handsome fellows like you visit my shop."
+ },
+ {
+  "id": "M1#3540",
+  "en": "(He may have a point.)"
+ },
+ {
+  "id": "M1#3541",
+  "en": "(If there were a pretty waitress,"
+ },
+ {
+  "id": "M1#3542",
+  "en": "I might come here more often.)"
+ },
+ {
+  "id": "M1#3543",
+  "en": "The factory workers out west,"
+ },
+ {
+  "id": "M1#3544",
+  "en": "I shall bring them under my control..."
+ },
+ {
+  "id": "M1#3545",
+  "en": "!",
+  "note": "Unused row; assumed to follow {PLAYER_NAME} (Leopold startled at night)"
+ },
+ {
+  "id": "M1#3546",
+  "en": "What are you doing here at this hour?!",
+  "note": "Unused row (no used_in); night scene with Leopold"
+ },
+ {
+  "id": "M1#3547",
+  "en": "Well, this is rather sudden, but I'd like"
+ },
+ {
+  "id": "M1#3548",
+  "en": "you to lend me your strength, Leopold."
+ },
+ {
+  "id": "M1#3549",
+  "en": "Want a hearty meal to get your strength up?"
+ },
+ {
+  "id": "M1#3550",
+  "en": "Ha, just kidding, just kidding."
+ },
+ {
+  "id": "M1#3551",
+  "en": "But showing up out of the blue"
+ },
+ {
+  "id": "M1#3552",
+  "en": "this late at night is a bit much."
+ },
+ {
+  "id": "M1#3553",
+  "en": "Lately there have been rumors of a vampire"
+ },
+ {
+  "id": "M1#3554",
+  "en": "going around town, haven't there?"
+ },
+ {
+  "id": "M1#3555",
+  "en": "Well, that vampire..."
+ },
+ {
+  "id": "M1#3556",
+  "en": "is me."
+ },
+ {
+  "id": "M1#3557",
+  "en": ", ",
+  "note": "Unused row; assumed {PLAYER_NAME} + ', ' + #3558 'a vampire?'"
+ },
+ {
+  "id": "M1#3558",
+  "en": "a vampire?"
+ },
+ {
+  "id": "M1#3559",
+  "en": "Ha ha ha! Now that's a good one."
+ },
+ {
+  "id": "M1#3560",
+  "en": "Vampires are supposed to have much scarier"
+ },
+ {
+  "id": "M1#3561",
+  "en": "faces than that."
+ },
+ {
+  "id": "M1#3562",
+  "en": "Kind of like, let's see,"
+ },
+ {
+  "id": "M1#3563",
+  "en": "like that regular of mine, ",
+  "note": "Unused row; a name is inserted before #3564 (player or partner unknown); 'like' moved here"
+ },
+ {
+  "id": "M1#3564",
+  "en": "..."
+ },
+ {
+  "id": "M1#3565",
+  "en": "Even if you, ",
+  "note": "Unused row; assumed {PLAYER_NAME} follows, then #3566"
+ },
+ {
+  "id": "M1#3566",
+  "en": ", were"
+ },
+ {
+  "id": "M1#3567",
+  "en": "a vampire,"
+ },
+ {
+  "id": "M1#3568",
+  "en": "you'd mostly drink from beautiful women,"
+ },
+ {
+  "id": "M1#3569",
+  "en": "and a little diner owner like me"
+ },
+ {
+  "id": "M1#3570",
+  "en": "isn't the sort you'd go after."
+ },
+ {
+  "id": "M1#3571",
+  "en": "You're very well informed."
+ },
+ {
+  "id": "M1#3572",
+  "en": "It's true that I mostly drink"
+ },
+ {
+  "id": "M1#3573",
+  "en": "the blood of beautiful women, but"
+ },
+ {
+  "id": "M1#3574",
+  "en": "if need be, I'll drink from a diner owner"
+ },
+ {
+  "id": "M1#3575",
+  "en": "as well."
+ },
+ {
+  "id": "M1#3576",
+  "en": "Hey, "
+ },
+ {
+  "id": "M1#3577",
+  "en": "you're joking, right?"
+ },
+ {
+  "id": "M1#3578",
+  "en": "I'll trouble you as little as possible,"
+ },
+ {
+  "id": "M1#3579",
+  "en": "so please forgive me."
+ },
+ {
+  "id": "M1#3580",
+  "en": "To the Public Hall",
+  "note": "Servant line after '..., my master...'; left neutral (could be 'please go' or 'let me move')"
+ },
+ {
+  "id": "M1#3581",
+  "en": "I work in the office at the Public Hall."
+ },
+ {
+  "id": "M1#3582",
+  "en": "My name is Josef."
+ },
+ {
+  "id": "M1#3583",
+  "en": "If you'd like to book an event,"
+ },
+ {
+  "id": "M1#3584",
+  "en": "please come to the Public Hall."
+ },
+ {
+  "id": "M1#3585",
+  "en": "Do you know where the Public Hall is?"
+ },
+ {
+  "id": "M1#3586",
+  "en": "I'm just on my way to the Public Hall now."
+ },
+ {
+  "id": "M1#3587",
+  "en": "I'd be happy to show you the way."
+ },
+ {
+  "id": "M1#3588",
+  "en": "I'm heading there right now myself."
+ },
+ {
+  "id": "M1#3589",
+  "en": "Unfortunately,"
+ },
+ {
+  "id": "M1#3590",
+  "en": "the Public Hall has no events again today."
+ },
+ {
+  "id": "M1#3591",
+  "en": "No progress yet on buying the artworks."
+ },
+ {
+  "id": "M1#3592",
+  "en": "Rebuilding the Public Hall"
+ },
+ {
+  "id": "M1#3593",
+  "en": "will take a little more time, it seems."
+ },
+ {
+  "id": "M1#3594",
+  "en": "You don't know where the Public Hall is?"
+ },
+ {
+  "id": "M1#3595",
+  "en": "<That's right>",
+  "note": "choice, answer to #3594"
+ },
+ {
+  "id": "M1#3596",
+  "en": "<No, I know where it is>",
+  "note": "choice"
+ },
+ {
+  "id": "M1#3597",
+  "en": "In that case, tomorrow morning,"
+ },
+ {
+  "id": "M1#3598",
+  "en": "let's go there together."
+ },
+ {
+  "id": "M1#3599",
+  "en": "No, I know where it is."
+ }
+]

@@ -1,0 +1,338 @@
+[
+ {
+  "id": "M1#4000",
+  "en": "Thank you",
+  "note": "No final period: followed by '...' (#180 x6 / #2) in both uses."
+ },
+ {
+  "id": "M1#4001",
+  "en": "I'm Meyer. I manage the theater."
+ },
+ {
+  "id": "M1#4002",
+  "en": "We've only just finished building this,"
+ },
+ {
+  "id": "M1#4003",
+  "en": "you see. Built with the latest technology,"
+ },
+ {
+  "id": "M1#4004",
+  "en": "it's a fine, well-equipped theater."
+ },
+ {
+  "id": "M1#4005",
+  "en": "Oh, I'm so busy, so busy!"
+ },
+ {
+  "id": "M1#4006",
+  "en": "Hey, you there! Carry that more carefully!",
+  "note": "No used_in; Meyer ordering workers (next to #4005/#4007)."
+ },
+ {
+  "id": "M1#4007",
+  "en": "No, no, no! You can't dawdle on the job!"
+ },
+ {
+  "id": "M1#4008",
+  "en": "Well? Isn't it a splendid theater?"
+ },
+ {
+  "id": "M1#4009",
+  "en": "For the opening, I'll bring in top actors"
+ },
+ {
+  "id": "M1#4010",
+  "en": "and put on some Shakespeare, perhaps."
+ },
+ {
+  "id": "M1#4011",
+  "en": "We'll pack the house and make a fortune!"
+ },
+ {
+  "id": "M1#4012",
+  "en": "It's no good.",
+  "note": "No used_in; Meyer."
+ },
+ {
+  "id": "M1#4013",
+  "en": "I still haven't found a replacement show.",
+  "note": "No used_in; Meyer."
+ },
+ {
+  "id": "M1#4014",
+  "en": "Good grief. The troupe booked for the opening"
+ },
+ {
+  "id": "M1#4015",
+  "en": "suddenly backed out on me."
+ },
+ {
+  "id": "M1#4016",
+  "en": "What am I going to do",
+  "note": "No final punctuation: followed by '...'."
+ },
+ {
+  "id": "M1#4017",
+  "en": "At this rate,"
+ },
+ {
+  "id": "M1#4018",
+  "en": "we won't be ready for the grand opening."
+ },
+ {
+  "id": "M1#4019",
+  "en": "I've got to find a replacement show fast,"
+ },
+ {
+  "id": "M1#4020",
+  "en": "but",
+  "note": "Followed by '...': 'but...'."
+ },
+ {
+  "id": "M1#4021",
+  "en": "if you know anyone good, please tell me.",
+  "note": "Lower case: follows NAME + ',' (#223/#1062)."
+ },
+ {
+  "id": "M1#4022",
+  "en": "What? You know someone who could perform?"
+ },
+ {
+  "id": "M1#4023",
+  "en": "Yes. An opera singer, a woman called Dehmel."
+ },
+ {
+  "id": "M1#4024",
+  "en": "Her singing is quite something."
+ },
+ {
+  "id": "M1#4025",
+  "en": "She's staying at the Lion Inn now."
+ },
+ {
+  "id": "M1#4026",
+  "en": "Wonderful! I'll go and talk to her at once"
+ },
+ {
+  "id": "M1#4027",
+  "en": "and get her to perform for us."
+ },
+ {
+  "id": "M1#4028",
+  "en": "what a splendid performance that was!",
+  "note": "Lower case: follows NAME + ',' (#223/#1062)."
+ },
+ {
+  "id": "M1#4029",
+  "en": "Today was a huge success."
+ },
+ {
+  "id": "M1#4030",
+  "en": "Thanks to you, the theater's doing well."
+ },
+ {
+  "id": "M1#4031",
+  "en": "Hm? Who is it, at this hour",
+  "note": "Followed by '...' (#2)."
+ },
+ {
+  "id": "M1#4032",
+  "en": "I'm glad your theater is a success."
+ },
+ {
+  "id": "M1#4033",
+  "en": "? Oh, it's you.",
+  "note": "Follows {PLAYER_NAME}: 'Chris? Oh, it's you.'"
+ },
+ {
+  "id": "M1#4034",
+  "en": "It's all thanks to you."
+ },
+ {
+  "id": "M1#4035",
+  "en": "I can't thank you enough."
+ },
+ {
+  "id": "M1#4036",
+  "en": "I need no thanks."
+ },
+ {
+  "id": "M1#4037",
+  "en": "I'll take a reward instead."
+ },
+ {
+  "id": "M1#4038",
+  "en": "A reward?"
+ },
+ {
+  "id": "M1#4039",
+  "en": "You can't just spring that on me!"
+ },
+ {
+  "id": "M1#4040",
+  "en": "The theater's only just getting started,"
+ },
+ {
+  "id": "M1#4041",
+  "en": "there's no way I can pay you!"
+ },
+ {
+  "id": "M1#4042",
+  "en": "I don't want money."
+ },
+ {
+  "id": "M1#4043",
+  "en": "I want only what you are able to give.",
+  "note": "Sinister: he wants something Meyer can give (his service), not money."
+ },
+ {
+  "id": "M1#4044",
+  "en": "Oh, forgive me, I misunderstood."
+ },
+ {
+  "id": "M1#4045",
+  "en": "I'll do anything within my power."
+ },
+ {
+  "id": "M1#4046",
+  "en": "Waaagh!",
+  "note": "No used_in; scream (likely Meyer being bitten)."
+ },
+ {
+  "id": "M1#4047",
+  "en": "How quickly he changes his tune.",
+  "note": "PLAYER aside about Meyer; JP has no final 。, period added."
+ },
+ {
+  "id": "M1#4048",
+  "en": "Yes, there's a Miss Dehmel,"
+ },
+ {
+  "id": "M1#4049",
+  "en": "who's an opera singer."
+ },
+ {
+  "id": "M1#4050",
+  "en": "She has such a beautiful voice",
+  "note": "Followed by '...' (#2)."
+ },
+ {
+  "id": "M1#4051",
+  "en": "She's staying at the Lion Inn."
+ },
+ {
+  "id": "M1#4052",
+  "en": "Thanks to you, today was a huge success."
+ },
+ {
+  "id": "M1#4053",
+  "en": ", thanks to you,",
+  "note": "Follows {PLAYER_NAME}: 'Chris, thanks to you, / the theater is doing well.'"
+ },
+ {
+  "id": "M1#4054",
+  "en": "the theater is doing well."
+ },
+ {
+  "id": "M1#4055",
+  "en": "Master, your orders......"
+ },
+ {
+  "id": "M1#4056",
+  "en": "Welcome to \"Helmut's Furniture\".",
+  "note": "Shop name in quotes kept (「」 -> ASCII quotes)."
+ },
+ {
+  "id": "M1#4057",
+  "en": "Every piece here is fine handmade work."
+ },
+ {
+  "id": "M1#4058",
+  "en": "The shop's closed right now."
+ },
+ {
+  "id": "M1#4059",
+  "en": "We're open from 13:00 to 16:00."
+ },
+ {
+  "id": "M1#4060",
+  "en": "Sorry, but could you come back later?"
+ },
+ {
+  "id": "M1#4061",
+  "en": "This is \"Helmut's Furniture\"."
+ },
+ {
+  "id": "M1#4062",
+  "en": "It's all handmade, so I really need time"
+ },
+ {
+  "id": "M1#4063",
+  "en": "with the shop shut to make the furniture."
+ },
+ {
+  "id": "M1#4064",
+  "en": "Come back during opening hours."
+ },
+ {
+  "id": "M1#4065",
+  "en": "How's your custom furniture working out?"
+ },
+ {
+  "id": "M1#4066",
+  "en": "Just say the word,"
+ },
+ {
+  "id": "M1#4067",
+  "en": "and I'll build you any furniture you like!"
+ },
+ {
+  "id": "M1#4068",
+  "en": "This is \"Helmut's Furniture\"."
+ },
+ {
+  "id": "M1#4069",
+  "en": "What kind of furniture are you after?"
+ },
+ {
+  "id": "M1#4070",
+  "en": "Wardrobes, cupboards, beds..."
+ },
+ {
+  "id": "M1#4071",
+  "en": "We've got anything you need!"
+ },
+ {
+  "id": "M1#4072",
+  "en": "Yep, and if there's anything you don't like,"
+ },
+ {
+  "id": "M1#4073",
+  "en": "I'll even make it over again!"
+ },
+ {
+  "id": "M1#4074",
+  "en": "Take your time and look around."
+ },
+ {
+  "id": "M1#4075",
+  "en": "Even when you place an order, I can't"
+ },
+ {
+  "id": "M1#4076",
+  "en": "make it right away."
+ },
+ {
+  "id": "M1#4077",
+  "en": "So just bear with me a little."
+ },
+ {
+  "id": "M1#4078",
+  "en": "At my shop, it's usually newlywed women"
+ },
+ {
+  "id": "M1#4079",
+  "en": "who do the buying."
+ }
+]

@@ -1,0 +1,328 @@
+[
+ {
+  "id": "M2#2880",
+  "en": "What do you think of the work on these shoes?"
+ },
+ {
+  "id": "M2#2881",
+  "en": "Wouldn't you like to wear shoes like these?"
+ },
+ {
+  "id": "M2#2882",
+  "en": "Oh, right, come by our place sometime."
+ },
+ {
+  "id": "M2#2883",
+  "en": "I've got things I could show you there,"
+ },
+ {
+  "id": "M2#2884",
+  "en": "all sorts of them."
+ },
+ {
+  "id": "M2#2885",
+  "en": "Shoes are only shoes when they're worn."
+ },
+ {
+  "id": "M2#2886",
+  "en": "Just sitting on display like works of art..."
+ },
+ {
+  "id": "M2#2887",
+  "en": "that's not what they're for."
+ },
+ {
+  "id": "M2#2888",
+  "en": "Hwaah... Huh?"
+ },
+ {
+  "id": "M2#2889",
+  "en": "This presence"
+ },
+ {
+  "id": "M2#2890",
+  "en": "Could it be"
+ },
+ {
+  "id": "M2#2891",
+  "en": "the elves are doing my work again?"
+ },
+ {
+  "id": "M2#2892",
+  "en": "I'm afraid not"
+ },
+ {
+  "id": "M2#2893",
+  "en": "But don't be sad. From now on, you won't"
+ },
+ {
+  "id": "M2#2894",
+  "en": "have to make shoes anymore"
+ },
+ {
+  "id": "M2#2895",
+  "en": "Waagh"
+ },
+ {
+  "id": "M2#2896",
+  "en": "What are you doing"
+ },
+ {
+  "id": "M2#2897",
+  "en": "Stop it!"
+ },
+ {
+  "id": "M2#2898",
+  "en": "Guhh"
+ },
+ {
+  "id": "M2#2899",
+  "en": "I'll put your skills to good use."
+ },
+ {
+  "id": "M2#2900",
+  "en": "You never did make me any shoes, though."
+ },
+ {
+  "id": "M2#2901",
+  "en": "Now, whatever you wish"
+ },
+ {
+  "id": "M2#2902",
+  "en": "Now what's this wound?"
+ },
+ {
+  "id": "M2#2903",
+  "en": "Medicine costs money. What a waste."
+ },
+ {
+  "id": "M2#2904",
+  "en": "Master, what is your bidding"
+ },
+ {
+  "id": "M2#2905",
+  "en": "I just can't seem to shake this tiredness."
+ },
+ {
+  "id": "M2#2906",
+  "en": "Am I sick? Ugh, I hate it, I hate it."
+ },
+ {
+  "id": "M2#2907",
+  "en": "Hm? Who are you?"
+ },
+ {
+  "id": "M2#2908",
+  "en": "Have you been in my shop before or something?"
+ },
+ {
+  "id": "M2#2909",
+  "en": "No, this is my first visit."
+ },
+ {
+  "id": "M2#2910",
+  "en": "You keep a shop here, do you?"
+ },
+ {
+  "id": "M2#2911",
+  "en": "Can't you tell by looking? What a dozy fellow."
+ },
+ {
+  "id": "M2#2912",
+  "en": "It's a clock shop. You want to buy a clock?"
+ },
+ {
+  "id": "M2#2913",
+  "en": "I've got fine timepieces just right for you."
+ },
+ {
+  "id": "M2#2914",
+  "en": "Ah, I see... Some other time, then."
+ },
+ {
+  "id": "M2#2915",
+  "en": "I have no money with me at present."
+ },
+ {
+  "id": "M2#2916",
+  "en": "What, you've got no money?"
+ },
+ {
+  "id": "M2#2917",
+  "en": "I've no time for window-shoppers."
+ },
+ {
+  "id": "M2#2918",
+  "en": "Come back when you're ready to buy."
+ },
+ {
+  "id": "M2#2919",
+  "en": ".",
+  "variants": [
+   {
+    "msg": 398002,
+    "en": " is my name."
+   }
+  ]
+ },
+ {
+  "id": "M2#2920",
+  "en": "Do you remember me?"
+ },
+ {
+  "id": "M2#2921",
+  "en": "I've forgotten. Sorry about that."
+ },
+ {
+  "id": "M2#2922",
+  "en": "You didn't buy a clock off me, did you?"
+ },
+ {
+  "id": "M2#2923",
+  "en": "Folks who buy from me, I remember."
+ },
+ {
+  "id": "M2#2924",
+  "en": "Window-shoppers aren't welcome here."
+ },
+ {
+  "id": "M2#2925",
+  "en": "What, you again?"
+ },
+ {
+  "id": "M2#2926",
+  "en": "Don't go hanging around here so much."
+ },
+ {
+  "id": "M2#2927",
+  "en": "Speaking of hanging around, that young pup at the clock workshop!"
+ },
+ {
+  "id": "M2#2928",
+  "en": "He picks fights with me at every turn,"
+ },
+ {
+  "id": "M2#2929",
+  "en": "the cheeky upstart. What's his problem?"
+ },
+ {
+  "id": "M2#2930",
+  "en": "He's full of himself, that's what."
+ },
+ {
+  "id": "M2#2931",
+  "en": "Don't you buy any clock he made."
+ },
+ {
+  "id": "M2#2932",
+  "en": "He'd put the hands on backwards, that one."
+ },
+ {
+  "id": "M2#2933",
+  "en": "Yes, welcome."
+ },
+ {
+  "id": "M2#2934",
+  "en": "What brings you here today?"
+ },
+ {
+  "id": "M2#2935",
+  "en": "Show me your clocks."
+ },
+ {
+  "id": "M2#2936",
+  "en": "It is poor form to only ever browse."
+ },
+ {
+  "id": "M2#2937",
+  "en": "Oh? Is that so? Well, is that so, sir!"
+ },
+ {
+  "id": "M2#2938",
+  "en": "Please, please, we have all sorts."
+ },
+ {
+  "id": "M2#2939",
+  "en": "Our selection is our pride, you see."
+ },
+ {
+  "id": "M2#2940",
+  "en": "Plenty of high-class clocks, too."
+ },
+ {
+  "id": "M2#2941",
+  "en": "Why, for a customer who pays well,"
+ },
+ {
+  "id": "M2#2942",
+  "en": "I'll bring out goods as fine as you please."
+ },
+ {
+  "id": "M2#2943",
+  "en": "(Hmph, so this human's head is full of"
+ },
+ {
+  "id": "M2#2944",
+  "en": "nothing but money...)"
+ },
+ {
+  "id": "M2#2945",
+  "en": "Why, welcome."
+ },
+ {
+  "id": "M2#2946",
+  "en": "Thank you kindly for last time."
+ },
+ {
+  "id": "M2#2947",
+  "en": "Do keep coming back, heh heh heh"
+ },
+ {
+  "id": "M2#2948",
+  "en": "You made a good buy, friend."
+ },
+ {
+  "id": "M2#2949",
+  "en": "Buying a clock here is always the better deal."
+ },
+ {
+  "id": "M2#2950",
+  "en": "What is it? Who are you?"
+ },
+ {
+  "id": "M2#2951",
+  "en": "You're hardly here to shop at this hour."
+ },
+ {
+  "id": "M2#2952",
+  "en": "Come back later."
+ },
+ {
+  "id": "M2#2953",
+  "en": "It's my mealtime. Come back later."
+ },
+ {
+  "id": "M2#2954",
+  "en": "Come by my clock shop later, eh."
+ },
+ {
+  "id": "M2#2955",
+  "en": "Don't go running off to that clock workshop."
+ },
+ {
+  "id": "M2#2956",
+  "en": "They might sell you a broken clock."
+ },
+ {
+  "id": "M2#2957",
+  "en": "I said later. Didn't you hear me?"
+ },
+ {
+  "id": "M2#2958",
+  "en": "Ah, what is it? How's your clock running?"
+ },
+ {
+  "id": "M2#2959",
+  "en": "If you want a new one, I'll help you out."
+ }
+]

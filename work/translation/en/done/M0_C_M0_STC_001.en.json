@@ -1,0 +1,342 @@
+[
+ {
+  "id": "M0#80",
+  "en": "Want to go play together?"
+ },
+ {
+  "id": "M0#81",
+  "en": ", let's go play in the woods."
+ },
+ {
+  "id": "M0#82",
+  "en": "Child, what are you doing?",
+  "note": "Player = Duran-style speech (stiff)"
+ },
+ {
+  "id": "M0#83",
+  "en": "I'm gathering firewood!"
+ },
+ {
+  "id": "M0#84",
+  "en": "...I seem to be disliked.",
+  "note": "Self-talk after Erwin's silence; kept neutral about who dislikes"
+ },
+ {
+  "id": "M0#85",
+  "en": "...I'm gathering firewood."
+ },
+ {
+  "id": "M0#86",
+  "en": "...Do you gather firewood too, mister?"
+ },
+ {
+  "id": "M0#87",
+  "en": "No, I do not."
+ },
+ {
+  "id": "M0#88",
+  "en": "I knew it..."
+ },
+ {
+  "id": "M0#89",
+  "en": "...Who are you, mister?"
+ },
+ {
+  "id": "M0#90",
+  "en": "I am ",
+  "note": "Pairs with #8 '.'; also Jus msg 37714"
+ },
+ {
+  "id": "M0#91",
+  "en": "Really?",
+  "note": "Followed by '{NAME}, {NAME}...' via #21 variants"
+ },
+ {
+  "id": "M0#92",
+  "en": "What is your name?"
+ },
+ {
+  "id": "M0#93",
+  "en": "What am I to do..."
+ },
+ {
+  "id": "M0#94",
+  "en": "Mister, my name is Erwin."
+ },
+ {
+  "id": "M0#95",
+  "en": "Hm, I see."
+ },
+ {
+  "id": "M0#96",
+  "en": "I'm gathering firewood here."
+ },
+ {
+  "id": "M0#97",
+  "en": "Not just stuff to burn, you know.",
+  "note": "Fragment ends a sentence; #98/#99 start a new one"
+ },
+ {
+  "id": "M0#98",
+  "en": "Look, I take home willow branches like these,"
+ },
+ {
+  "id": "M0#99",
+  "en": "and use them to make brooms and stuff."
+ },
+ {
+  "id": "M0#100",
+  "en": "(He's suddenly become quite talkative,",
+  "note": "'He' = Erwin (male in glossary)"
+ },
+ {
+  "id": "M0#101",
+  "en": "has something happened...?)"
+ },
+ {
+  "id": "M0#102",
+  "en": "Look, little branches like these"
+ },
+ {
+  "id": "M0#103",
+  "en": "are used as supports when growing beans."
+ },
+ {
+  "id": "M0#104",
+  "en": "Are you really "
+ },
+ {
+  "id": "M0#105",
+  "en": "?",
+  "note": "Standalone '?' in Otti/Katusa uses; follows name in Sati/Erwin uses"
+ },
+ {
+  "id": "M0#106",
+  "en": "That's right, I am ",
+  "note": "Pairs with #8 '.'"
+ },
+ {
+  "id": "M0#107",
+  "en": "You do not appear to be afraid?"
+ },
+ {
+  "id": "M0#108",
+  "en": "Because "
+ },
+ {
+  "id": "M0#109",
+  "en": " is",
+  "note": "Literal: 'Because X is / X, after all.' meaning of the name repetition unclear (see report)"
+ },
+ {
+  "id": "M0#110",
+  "en": ", after all."
+ },
+ {
+  "id": "M0#111",
+  "en": "True, I am "
+ },
+ {
+  "id": "M0#112",
+  "en": ", but",
+  "note": "Message 5317 ends after this with an empty line"
+ },
+ {
+  "id": "M0#113",
+  "en": "I'm also called by another name,"
+ },
+ {
+  "id": "M0#114",
+  "en": "after all."
+ },
+ {
+  "id": "M0#115",
+  "en": "Even a child will make up the numbers...",
+  "note": "Player thought; recruiting-style; subject kept impersonal"
+ },
+ {
+  "id": "M0#116",
+  "en": "What's wrong, little one?",
+  "note": "Christopher to a child; warm"
+ },
+ {
+  "id": "M0#117",
+  "en": "...I wonder what's wrong...?"
+ },
+ {
+  "id": "M0#118",
+  "en": "Oh..."
+ },
+ {
+  "id": "M0#119",
+  "en": "...Huh?"
+ },
+ {
+  "id": "M0#120",
+  "en": "What's wrong...?"
+ },
+ {
+  "id": "M0#121",
+  "en": "Oh? What's wrong?"
+ },
+ {
+  "id": "M0#122",
+  "en": "What are you doing, little one?"
+ },
+ {
+  "id": "M0#123",
+  "en": "Hey, what are you doing?"
+ },
+ {
+  "id": "M0#124",
+  "en": "...Does he not like me, I wonder?",
+  "note": "'He' = Erwin (male in glossary)"
+ },
+ {
+  "id": "M0#125",
+  "en": "...Do you gather firewood too, mister?",
+  "note": "Child's 'onii-san' to Christopher rendered 'mister'"
+ },
+ {
+  "id": "M0#126",
+  "en": "No, I don't."
+ },
+ {
+  "id": "M0#127",
+  "en": "...Who are you, mister?"
+ },
+ {
+  "id": "M0#128",
+  "en": "My name is ",
+  "note": "Christopher-style; works with #13/#432 '.' and Osaida/Jus/Azusha uses; #345 'to iimasu' (other slice) should be '.'-like"
+ },
+ {
+  "id": "M0#129",
+  "en": "What's your name?"
+ },
+ {
+  "id": "M0#130",
+  "en": "I wonder what's wrong..."
+ },
+ {
+  "id": "M0#131",
+  "en": "Oh, is that right?"
+ },
+ {
+  "id": "M0#132",
+  "en": "(All of a sudden he's talking so much,",
+  "note": "'he' = Erwin"
+ },
+ {
+  "id": "M0#133",
+  "en": "I wonder if something happened...?)"
+ },
+ {
+  "id": "M0#134",
+  "en": "That bean stew is really delicious."
+ },
+ {
+  "id": "M0#135",
+  "en": ", my master.",
+  "note": "Follows name; matches #0 of slice 000"
+ },
+ {
+  "id": "M0#136",
+  "en": "I am your eternal servant."
+ },
+ {
+  "id": "M0#137",
+  "en": "Please give me your orders."
+ },
+ {
+  "id": "M0#138",
+  "en": "Good morning."
+ },
+ {
+  "id": "M0#139",
+  "en": "I'm just on my way to work."
+ },
+ {
+  "id": "M0#140",
+  "en": "Good morning, mister."
+ },
+ {
+  "id": "M0#141",
+  "en": "Hey, where are you headed?"
+ },
+ {
+  "id": "M0#142",
+  "en": "Good morning, "
+ },
+ {
+  "id": "M0#143",
+  "en": ".",
+  "note": "Honorific dropped; '.' works for all listed uses"
+ },
+ {
+  "id": "M0#144",
+  "en": "Whoa, you startled me."
+ },
+ {
+  "id": "M0#145",
+  "en": "I thought I was the only one out this late,",
+  "note": "Moved to fit 3 lines"
+ },
+ {
+  "id": "M0#146",
+  "en": "but you're here too.",
+  "note": "Pairs with #145 in msg 8941; msg 9418 pairs it with #205 (other slice) - must read as continuation"
+ },
+ {
+  "id": "M0#147",
+  "en": "Hey there, mister."
+ },
+ {
+  "id": "M0#148",
+  "en": "Good evening, "
+ },
+ {
+  "id": "M0#149",
+  "en": "What? Looking for my dad?"
+ },
+ {
+  "id": "M0#150",
+  "en": "Dad's up early, so isn't he at his workshop?"
+ },
+ {
+  "id": "M0#151",
+  "en": "If you've got business with Dad,"
+ },
+ {
+  "id": "M0#152",
+  "en": "talk to him yourself."
+ },
+ {
+  "id": "M0#153",
+  "en": "Isn't it Dad you want?"
+ },
+ {
+  "id": "M0#154",
+  "en": "Then what, you want clogs?"
+ },
+ {
+  "id": "M0#155",
+  "en": "Bring that up at the workshop, okay?"
+ },
+ {
+  "id": "M0#156",
+  "en": "Mister, you're pretty persistent."
+ },
+ {
+  "id": "M0#157",
+  "en": "Huh, "
+ },
+ {
+  "id": "M0#158",
+  "en": ", what is it?"
+ },
+ {
+  "id": "M0#159",
+  "en": "Let's talk about clogs at the workshop."
+ }
+]

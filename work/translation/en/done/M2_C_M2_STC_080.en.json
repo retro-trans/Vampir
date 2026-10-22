@@ -1,0 +1,331 @@
+[
+ {
+  "id": "M2#6400",
+  "en": "Bet you don't want to hear that, either.",
+  "note": "Wording suggested by slice 079 report (follows #6399)."
+ },
+ {
+  "id": "M2#6401",
+  "en": "Are you keeping well?"
+ },
+ {
+  "id": "M2#6402",
+  "en": "Doing your cleaning?"
+ },
+ {
+  "id": "M2#6403",
+  "en": "...Write your family a letter now and then."
+ },
+ {
+  "id": "M2#6404",
+  "en": "My work's nothing special."
+ },
+ {
+  "id": "M2#6405",
+  "en": "But it's work the world needs, all the same."
+ },
+ {
+  "id": "M2#6406",
+  "en": "Nothing in this world is unneeded, you know."
+ },
+ {
+  "id": "M2#6407",
+  "en": "What, a peddler? Not interested."
+ },
+ {
+  "id": "M2#6408",
+  "en": "Let me put my feet up at home, at least."
+ },
+ {
+  "id": "M2#6409",
+  "en": "Pardon me, I wished to introduce myself..."
+ },
+ {
+  "id": "M2#6410",
+  "en": "I moved to London just recently, you see."
+ },
+ {
+  "id": "M2#6411",
+  "en": "I see. I'm Agnes, pleased to meet you."
+ },
+ {
+  "id": "M2#6412",
+  "en": "You picked a bad time. I'm busy now."
+ },
+ {
+  "id": "M2#6413",
+  "en": "Sorry, if it's business, come another day."
+ },
+ {
+  "id": "M2#6414",
+  "en": "Oh, you're the one from the other day..."
+ },
+ {
+  "id": "M2#6415",
+  "en": "What do you want with an old girl like me?"
+ },
+ {
+  "id": "M2#6416",
+  "en": "Oh, ",
+  "note": "Before the name (Agnes, Winifred, Sarah, Vanessa, villager 98): 'Oh, ' + name."
+ },
+ {
+  "id": "M2#6417",
+  "en": ", is it?",
+  "note": "After the name: 'Oh, Chris, is it?' (Agnes), 'Chris, is it?' (Madeline, name at line start), after #6578 (Claudia). Matches #6350."
+ },
+ {
+  "id": "M2#6418",
+  "en": "Want to hire me to do some cleaning?"
+ },
+ {
+  "id": "M2#6419",
+  "en": "I don't work for free, mind. Hahahaha!"
+ },
+ {
+  "id": "M2#6420",
+  "en": ", back again, are you?",
+  "note": "After the name at line start: 'Chris, back again, are you?'"
+ },
+ {
+  "id": "M2#6421",
+  "en": "You don't know anybody here, so you're lonely, eh?"
+ },
+ {
+  "id": "M2#6422",
+  "en": "Good to see you. Stay for a cup of tea?"
+ },
+ {
+  "id": "M2#6423",
+  "en": "Say, aren't you looking a bit tired?"
+ },
+ {
+  "id": "M2#6424",
+  "en": "I don't know what it's about, but ",
+  "note": "Joined on the same line with #6425 (trailing space)."
+ },
+ {
+  "id": "M2#6425",
+  "en": "don't rush things."
+ },
+ {
+  "id": "M2#6426",
+  "en": "Why is this human so meddlesome?"
+ },
+ {
+  "id": "M2#6427",
+  "en": "What does she gain by caring for others?",
+  "note": "Player thought about Agnes (female)."
+ },
+ {
+  "id": "M2#6428",
+  "en": "Humans have the most unfathomable notions..."
+ },
+ {
+  "id": "M2#6429",
+  "en": "Sigh... What am I going to do with you?"
+ },
+ {
+  "id": "M2#6430",
+  "en": "A grown man, loafing about like this."
+ },
+ {
+  "id": "M2#6431",
+  "en": "But I expect you've got your reasons."
+ },
+ {
+  "id": "M2#6432",
+  "en": "Whenever you feel like talking, just say so."
+ },
+ {
+  "id": "M2#6433",
+  "en": "A life of nothing but toiling like an insect."
+ },
+ {
+  "id": "M2#6434",
+  "en": "Surely this is better than such a life"
+ },
+ {
+  "id": "M2#6435",
+  "en": "Become my servant, and live in the night",
+  "note": "No used_in; reads after #6434 + '...' (servant-making line)."
+ },
+ {
+  "id": "M2#6436",
+  "en": "The day I strike down the one in my way draws near"
+ },
+ {
+  "id": "M2#6437",
+  "en": "Morning, you handsome young man!"
+ },
+ {
+  "id": "M2#6438",
+  "en": "Good morning. And you are...?"
+ },
+ {
+  "id": "M2#6439",
+  "en": "I'm Agnes. I'm a charwoman."
+ },
+ {
+  "id": "M2#6440",
+  "en": "I'm just about to head off to work."
+ },
+ {
+  "id": "M2#6441",
+  "en": "Up early too, good for you. Your work?"
+ },
+ {
+  "id": "M2#6442",
+  "en": "Oh, well, um..."
+ },
+ {
+  "id": "M2#6443",
+  "en": "I've only just come to London."
+ },
+ {
+  "id": "M2#6444",
+  "en": "No wonder I didn't know your face."
+ },
+ {
+  "id": "M2#6445",
+  "en": "There's a job agency to the southeast."
+ },
+ {
+  "id": "M2#6446",
+  "en": "People have got to work, you know."
+ },
+ {
+  "id": "M2#6447",
+  "en": "Thank you, I'll do that."
+ },
+ {
+  "id": "M2#6448",
+  "en": "A morning walk? Good habit. It's good for you."
+ },
+ {
+  "id": "M2#6449",
+  "en": "What's your name? I've forgotten."
+ },
+ {
+  "id": "M2#6450",
+  "en": "You remembered me?"
+ },
+ {
+  "id": "M2#6451",
+  "en": "My name is ",
+  "note": "'My name is ' + name + #473 '.'; Mike msg 304478/304629 uses #7830 (other slice)."
+ },
+ {
+  "id": "M2#6452",
+  "en": "I'd never forget a handsome man once I've seen him."
+ },
+ {
+  "id": "M2#6453",
+  "en": "Up early again today. Good for you."
+ },
+ {
+  "id": "M2#6454",
+  "en": "I don't know what you do for work, but"
+ },
+ {
+  "id": "M2#6455",
+  "en": "make sure you eat and sleep properly."
+ },
+ {
+  "id": "M2#6456",
+  "en": "Thank you, Agnes."
+ },
+ {
+  "id": "M2#6457",
+  "en": "I'll keep that in mind."
+ },
+ {
+  "id": "M2#6458",
+  "en": "Good evening, madam."
+ },
+ {
+  "id": "M2#6459",
+  "en": "\"Madam,\" eh... You mean me?"
+ },
+ {
+  "id": "M2#6460",
+  "en": "You talk all fancy, like some nobleman."
+ },
+ {
+  "id": "M2#6461",
+  "en": "But somehow it doesn't get my back up."
+ },
+ {
+  "id": "M2#6462",
+  "en": "Evening. I'm Agnes."
+ },
+ {
+  "id": "M2#6463",
+  "en": "Haven't seen your face before. From abroad?"
+ },
+ {
+  "id": "M2#6464",
+  "en": "Yes, something like that."
+ },
+ {
+  "id": "M2#6465",
+  "en": "I moved to London just recently."
+ },
+ {
+  "id": "M2#6466",
+  "en": "Yes, yes, pleased to meet you."
+ },
+ {
+  "id": "M2#6467",
+  "en": "Nights are dangerous. Stop fooling about and go home."
+ },
+ {
+  "id": "M2#6468",
+  "en": "A night owl, are you? Don't stay up too late."
+ },
+ {
+  "id": "M2#6469",
+  "en": "Are you a student or something?"
+ },
+ {
+  "id": "M2#6470",
+  "en": "I hear you wander the town all day long."
+ },
+ {
+  "id": "M2#6471",
+  "en": "You're young. That's no way to carry on."
+ },
+ {
+  "id": "M2#6472",
+  "en": "Thank you for your concern."
+ },
+ {
+  "id": "M2#6473",
+  "en": "But there is something I must do."
+ },
+ {
+  "id": "M2#6474",
+  "en": "I see. Then I won't say any more."
+ },
+ {
+  "id": "M2#6475",
+  "en": "Just don't overdo it. This town's dangerous."
+ },
+ {
+  "id": "M2#6476",
+  "en": "Watch yourself, especially at night."
+ },
+ {
+  "id": "M2#6477",
+  "en": "Understood, I will."
+ },
+ {
+  "id": "M2#6478",
+  "en": "Young master, is it fun, watching me clean?"
+ },
+ {
+  "id": "M2#6479",
+  "en": "Care to join me? Cleaning. Ahahahaha!",
+  "note": "Same wording as #6381."
+ }
+]

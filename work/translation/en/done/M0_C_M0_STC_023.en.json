@@ -1,0 +1,335 @@
+[
+ {
+  "id": "M0#1840",
+  "en": "Good morning. I'm Liza."
+ },
+ {
+  "id": "M0#1841",
+  "en": "Hmm, ",
+  "note": "'Hmm, ' + name + '.' (#143 = '.')"
+ },
+ {
+  "id": "M0#1842",
+  "en": "Say, I'll just call you \"",
+  "note": "Opens the quote: 'Say, I'll just call you \"' + name + ',\"' (#1843) / 'if that's all right?' (#1844)"
+ },
+ {
+  "id": "M0#1843",
+  "en": ",\"",
+  "note": "closes the quote, comma inside the quotes"
+ },
+ {
+  "id": "M0#1844",
+  "en": "if that's all right?"
+ },
+ {
+  "id": "M0#1845",
+  "en": "I'm off to the forest now."
+ },
+ {
+  "id": "M0#1846",
+  "en": "I'm heading to the forest. Want to come along?"
+ },
+ {
+  "id": "M0#1847",
+  "en": "I'm on my way home."
+ },
+ {
+  "id": "M0#1848",
+  "en": "I got some nice herbs."
+ },
+ {
+  "id": "M0#1849",
+  "en": "Oh, what's this about?"
+ },
+ {
+  "id": "M0#1850",
+  "en": "I'm Liza. And you?"
+ },
+ {
+  "id": "M0#1851",
+  "en": "Why don't you try some herb tea?"
+ },
+ {
+  "id": "M0#1852",
+  "en": "It's good for your health."
+ },
+ {
+  "id": "M0#1853",
+  "en": "Won't you stay for some of my homemade sweets?"
+ },
+ {
+  "id": "M0#1854",
+  "en": "Made with herbs, of course."
+ },
+ {
+  "id": "M0#1855",
+  "en": "I use herbs in ordinary cooking, too."
+ },
+ {
+  "id": "M0#1856",
+  "en": "Next time, stay and eat that, too."
+ },
+ {
+  "id": "M0#1857",
+  "en": "Do you have business in the forest, too?"
+ },
+ {
+  "id": "M0#1858",
+  "en": "I'm gathering herbs, you see."
+ },
+ {
+  "id": "M0#1859",
+  "en": "has been drunk since long, long ago.",
+  "note": "Expects #1827 to be 'Herbal tea, you see,' (noun phrase + comma)"
+ },
+ {
+  "id": "M0#1860",
+  "en": "People have known for ages that it's good for you."
+ },
+ {
+  "id": "M0#1861",
+  "en": "All kinds of herbs grow around here",
+  "note": "Row cut at 'many | grow': English cut after 'herbs ... around here' | 'in great numbers, so' | '... gathering them'"
+ },
+ {
+  "id": "M0#1862",
+  "en": "in great numbers, so"
+ },
+ {
+  "id": "M0#1863",
+  "en": "I never have trouble gathering them."
+ },
+ {
+  "id": "M0#1864",
+  "en": "All that's left is finding good uses for them."
+ },
+ {
+  "id": "M0#1865",
+  "en": "There are all sorts of ways to use them."
+ },
+ {
+  "id": "M0#1866",
+  "en": "but sadly, good medicinal herbs",
+  "note": "Expects #1835 to end with a complete clause + comma ('...help the landlord's illness,')"
+ },
+ {
+  "id": "M0#1867",
+  "en": "are hard to come by around here."
+ },
+ {
+  "id": "M0#1868",
+  "en": "What a lovely scent, Liza."
+ },
+ {
+  "id": "M0#1869",
+  "en": "But to be honest, I don't care for this scent."
+ },
+ {
+  "id": "M0#1870",
+  "en": "So, for the time being,"
+ },
+ {
+  "id": "M0#1871",
+  "en": "please leave the herbs alone."
+ },
+ {
+  "id": "M0#1872",
+  "en": "Yes, ",
+  "note": "Name + #135 ', my master.' follows"
+ },
+ {
+  "id": "M0#1873",
+  "en": "I have no need for such things anymore."
+ },
+ {
+  "id": "M0#1874",
+  "en": "Thank you."
+ },
+ {
+  "id": "M0#1875",
+  "en": "When this battle is over,"
+ },
+ {
+  "id": "M0#1876",
+  "en": "I hope you'll be surrounded by lovely scents again."
+ },
+ {
+  "id": "M0#1877",
+  "en": "Please leave it to me."
+ },
+ {
+  "id": "M0#1878",
+  "en": "Funny, but the bees seem to have stopped taking to me."
+ },
+ {
+  "id": "M0#1879",
+  "en": "Mornin' to ya.",
+  "note": "Playful variant of the greeting rendered 'Mornin' to ya.'"
+ },
+ {
+  "id": "M0#1880",
+  "en": "Hm, I don't recognize you, do I?"
+ },
+ {
+  "id": "M0#1881",
+  "en": "Well now, you're not just some traveler"
+ },
+ {
+  "id": "M0#1882",
+  "en": "who wandered in by chance, then."
+ },
+ {
+  "id": "M0#1883",
+  "en": "In that case, nice to meet ya."
+ },
+ {
+  "id": "M0#1884",
+  "en": "The name's Miltia."
+ },
+ {
+  "id": "M0#1885",
+  "en": "! Well, look who it is.",
+  "note": "After 'Hey, ' + name: 'Hey, Name! Well, look who it is.'"
+ },
+ {
+  "id": "M0#1886",
+  "en": "Nice morning, isn't it?"
+ },
+ {
+  "id": "M0#1887",
+  "en": "I was hoping I'd run into you."
+ },
+ {
+  "id": "M0#1888",
+  "en": "Evenin' to ya.",
+  "note": "Playful evening greeting, pairs with #1879"
+ },
+ {
+  "id": "M0#1889",
+  "en": "Keeping well and working hard, are you?"
+ },
+ {
+  "id": "M0#1890",
+  "en": "I was just hoping I'd get to see you,"
+ },
+ {
+  "id": "M0#1891",
+  "en": "right this very minute."
+ },
+ {
+  "id": "M0#1892",
+  "en": "Now, you're ",
+  "note": "Word order moved: 'Now, you're ' + name + ', was it?'"
+ },
+ {
+  "id": "M0#1893",
+  "en": ", was it?"
+ },
+ {
+  "id": "M0#1894",
+  "en": "Did you want something at my house?"
+ },
+ {
+  "id": "M0#1895",
+  "en": "My husband, you see,"
+ },
+ {
+  "id": "M0#1896",
+  "en": "makes pottery."
+ },
+ {
+  "id": "M0#1897",
+  "en": "And I'm the one who makes the honey"
+ },
+ {
+  "id": "M0#1898",
+  "en": "that goes into those pots."
+ },
+ {
+  "id": "M0#1899",
+  "en": "If it's my husband you want, he's around here somewhere."
+ },
+ {
+  "id": "M0#1900",
+  "en": "Oh my, all the way out here!"
+ },
+ {
+  "id": "M0#1901",
+  "en": "You're welcome to come by anytime."
+ },
+ {
+  "id": "M0#1902",
+  "en": "I usually work here."
+ },
+ {
+  "id": "M0#1903",
+  "en": "Well now, "
+ },
+ {
+  "id": "M0#1904",
+  "en": "It's me, Miltia."
+ },
+ {
+  "id": "M0#1905",
+  "en": "I usually work here, you see."
+ },
+ {
+  "id": "M0#1906",
+  "en": "Collecting the honey here"
+ },
+ {
+  "id": "M0#1907",
+  "en": "is my job."
+ },
+ {
+  "id": "M0#1908",
+  "en": "Oh my, "
+ },
+ {
+  "id": "M0#1909",
+  "en": "Around here, so the bees don't sting you,"
+ },
+ {
+  "id": "M0#1910",
+  "en": "you'd better be careful."
+ },
+ {
+  "id": "M0#1911",
+  "en": "Fancy you coming to a place like this.",
+  "note": "Expects #1921 (slice 024) to read like 'Not that there's anything here at all.'"
+ },
+ {
+  "id": "M0#1912",
+  "en": "But nothing much ever changes"
+ },
+ {
+  "id": "M0#1913",
+  "en": "around here."
+ },
+ {
+  "id": "M0#1914",
+  "en": "Heat the honey and simmer fruit in it,"
+ },
+ {
+  "id": "M0#1915",
+  "en": "then put it in a jar or some such,"
+ },
+ {
+  "id": "M0#1916",
+  "en": "and it'll keep for a good long while."
+ },
+ {
+  "id": "M0#1917",
+  "en": "Food gets scarce in winter, so"
+ },
+ {
+  "id": "M0#1918",
+  "en": "I do that as much as I can.",
+  "note": "Subject kept as 'I' (Miltia herself); could be generic 'you'"
+ },
+ {
+  "id": "M0#1919",
+  "en": "Do you know what honey is made of?"
+ }
+]

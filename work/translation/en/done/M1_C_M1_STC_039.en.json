@@ -1,0 +1,334 @@
+[
+ {
+  "id": "M1#3120",
+  "en": "Please wait a little until consultations begin."
+ },
+ {
+  "id": "M1#3121",
+  "en": ", you always",
+  "note": "NAME + ', you always' / 'look ...' (Schneider and Mrs. Schneider, 4 msgs)"
+ },
+ {
+  "id": "M1#3122",
+  "en": "look rather pale"
+ },
+ {
+  "id": "M1#3123",
+  "en": "How have you been feeling since then?"
+ },
+ {
+  "id": "M1#3124",
+  "en": "You have a constitution unlike that of"
+ },
+ {
+  "id": "M1#3125",
+  "en": "ordinary people, it seems."
+ },
+ {
+  "id": "M1#3126",
+  "en": "I'd very much like to examine you sometime,"
+ },
+ {
+  "id": "M1#3127",
+  "en": "if you would allow me"
+ },
+ {
+  "id": "M1#3128",
+  "en": "I refuse."
+ },
+ {
+  "id": "M1#3129",
+  "en": "There is nothing wrong with me."
+ },
+ {
+  "id": "M1#3130",
+  "en": " That's a shame.",
+  "note": "leading space: follows 'I see' + '...' + '.'"
+ },
+ {
+  "id": "M1#3131",
+  "en": "So you've decided to let me examine you after all"
+ },
+ {
+  "id": "M1#3132",
+  "en": "That's not it, is it? No, I thought not.",
+  "note": "msg 123756 continues 123746 (no speaker tag): the negation of #3131"
+ },
+ {
+  "id": "M1#3133",
+  "en": "This is the hospital."
+ },
+ {
+  "id": "M1#3134",
+  "en": "I'm Schneider, the doctor."
+ },
+ {
+  "id": "M1#3135",
+  "en": "What's troubling you?"
+ },
+ {
+  "id": "M1#3136",
+  "en": "Perhaps the sun got to me. I feel dizzy"
+ },
+ {
+  "id": "M1#3137",
+  "en": "That won't do."
+ },
+ {
+  "id": "M1#3138",
+  "en": "Why don't you rest here for a while?"
+ },
+ {
+  "id": "M1#3139",
+  "en": "Take good care of yourself."
+ },
+ {
+  "id": "M1#3140",
+  "en": "how are you feeling?",
+  "note": "lower case: follows NAME + ','"
+ },
+ {
+  "id": "M1#3141",
+  "en": "I'm fine now. You have my thanks."
+ },
+ {
+  "id": "M1#3142",
+  "en": "I see. I'm glad to hear it"
+ },
+ {
+  "id": "M1#3143",
+  "en": "Lots of people in this town fall ill from"
+ },
+ {
+  "id": "M1#3144",
+  "en": "hard labor in the factories and the like."
+ },
+ {
+  "id": "M1#3145",
+  "en": ", you",
+  "note": "Schneider: NAME + ', you' / 'take care, too.' Marie msg 193631: 'Then, ' + NAME + ', you' / #4941 must continue it (e.g. 'should study with me too...')"
+ },
+ {
+  "id": "M1#3146",
+  "en": "take care, too."
+ },
+ {
+  "id": "M1#3147",
+  "en": "Lately, a great many children in this town"
+ },
+ {
+  "id": "M1#3148",
+  "en": "have been dying."
+ },
+ {
+  "id": "M1#3149",
+  "en": "In dim, dusty factories, children are"
+ },
+ {
+  "id": "M1#3150",
+  "en": "left lying for days. Their mothers are busy"
+ },
+ {
+  "id": "M1#3151",
+  "en": "working and can barely look after them."
+ },
+ {
+  "id": "M1#3152",
+  "en": "I wish I could do something for them,"
+ },
+ {
+  "id": "M1#3153",
+  "en": "but when I go to treat them, it's already"
+ },
+ {
+  "id": "M1#3154",
+  "en": "too late, more often than not."
+ },
+ {
+  "id": "M1#3155",
+  "en": "You know, I had a daughter. She was five."
+ },
+ {
+  "id": "M1#3156",
+  "en": "But an epidemic took her from me."
+ },
+ {
+  "id": "M1#3157",
+  "en": "I'm a doctor, and yet I couldn't save"
+ },
+ {
+  "id": "M1#3158",
+  "en": "my own daughter's life"
+ },
+ {
+  "id": "M1#3159",
+  "en": "What on earth did I become"
+ },
+ {
+  "id": "M1#3160",
+  "en": "a doctor for"
+ },
+ {
+  "id": "M1#3161",
+  "en": "To save as many lives as I can... Since losing"
+ },
+ {
+  "id": "M1#3162",
+  "en": "my daughter, I've come to truly want that."
+ },
+ {
+  "id": "M1#3163",
+  "en": "I intend to devote the rest of my life"
+ },
+ {
+  "id": "M1#3164",
+  "en": "entirely to curing disease"
+ },
+ {
+  "id": "M1#3165",
+  "en": "look so healthy."
+ },
+ {
+  "id": "M1#3166",
+  "en": "A little too pale in the face, though."
+ },
+ {
+  "id": "M1#3167",
+  "en": "How are you feeling?"
+ },
+ {
+  "id": "M1#3168",
+  "en": "good health is the greatest treasure of all.",
+  "note": "lower case: follows NAME + ','"
+ },
+ {
+  "id": "M1#3169",
+  "en": "To keep from falling ill, it's good to build"
+ },
+ {
+  "id": "M1#3170",
+  "en": "up your body in your daily life."
+ },
+ {
+  "id": "M1#3171",
+  "en": "Especially while you're young."
+ },
+ {
+  "id": "M1#3172",
+  "en": "I've just been feeling a little worn out"
+ },
+ {
+  "id": "M1#3173",
+  "en": "Oh, you poor thing."
+ },
+ {
+  "id": "M1#3174",
+  "en": "What can I do for you?",
+  "note": "also Luisa msg 211856 after NAME + '.'"
+ },
+ {
+  "id": "M1#3175",
+  "en": "From the look of you, you're fully recovered."
+ },
+ {
+  "id": "M1#3176",
+  "en": "I'm fine now. Thank you for everything."
+ },
+ {
+  "id": "M1#3177",
+  "en": "The children"
+ },
+ {
+  "id": "M1#3178",
+  "en": " The poor things.",
+  "note": "leading space: follows '...'"
+ },
+ {
+  "id": "M1#3179",
+  "en": "What's wrong? At this hour?"
+ },
+ {
+  "id": "M1#3180",
+  "en": "Doctor, I'm not feeling well."
+ },
+ {
+  "id": "M1#3181",
+  "en": "I feel like I'm about to collapse"
+ },
+ {
+  "id": "M1#3182",
+  "en": "That won't do"
+ },
+ {
+  "id": "M1#3183",
+  "en": "Here, let me examine you."
+ },
+ {
+  "id": "M1#3184",
+  "en": "First, your pulse"
+ },
+ {
+  "id": "M1#3185",
+  "en": "Huh? ",
+  "note": "trailing space: Helmut msg 157279 'Huh? ' + NAME + '.'; also likely precedes #3186 in the doctor's (unlisted) night scene"
+ },
+ {
+  "id": "M1#3186",
+  "en": "I can't find a pulse!",
+  "note": "no used_in: inferred from #3184/#3188 (doctor taking the vampire's pulse)"
+ },
+ {
+  "id": "M1#3187",
+  "en": "Sorry, Doctor.",
+  "note": "no used_in: inferred, the player before #3188"
+ },
+ {
+  "id": "M1#3188",
+  "en": "I'll be taking YOUR pulse instead, Doctor"
+ },
+ {
+  "id": "M1#3189",
+  "en": "Bad leg or not, I'm counting on that strength of yours."
+ },
+ {
+  "id": "M1#3190",
+  "en": "Command me as you will..."
+ },
+ {
+  "id": "M1#3191",
+  "en": "You were a rough sea dog once."
+ },
+ {
+  "id": "M1#3192",
+  "en": "Even with that bad leg, you must still be strong."
+ },
+ {
+  "id": "M1#3193",
+  "en": "Whatever you command..."
+ },
+ {
+  "id": "M1#3194",
+  "en": "I'm a bit busy right now and can't get away."
+ },
+ {
+  "id": "M1#3195",
+  "en": "Come back later, would you?"
+ },
+ {
+  "id": "M1#3196",
+  "en": "Welcome. Well, now,"
+ },
+ {
+  "id": "M1#3197",
+  "en": "you're a new customer, aren't you?"
+ },
+ {
+  "id": "M1#3198",
+  "en": "This is the port town of Calstatt's sailors-only",
+  "note": "shared with msgs 127933/128533 where #3212 follows: #3212 must be 'inn.'"
+ },
+ {
+  "id": "M1#3199",
+  "en": "inn, you know."
+ }
+]

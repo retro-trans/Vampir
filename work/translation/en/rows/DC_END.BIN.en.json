@@ -1,0 +1,563 @@
+[
+ {
+  "id": "END.BIN@244",
+  "off": 580,
+  "size": 24,
+  "slot": 24,
+  "refs": [
+   [
+    "ptr",
+    2148327516
+   ]
+  ],
+  "idx": 0,
+  "en": "Rusalie, for you,",
+  "done": true
+ },
+ {
+  "id": "END.BIN@224",
+  "off": 548,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148327520
+   ]
+  ],
+  "idx": 1,
+  "en": "this has been an especially painful battle.",
+  "done": true
+ },
+ {
+  "id": "END.BIN@21C",
+  "off": 540,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148327524
+   ]
+  ],
+  "idx": 2,
+  "en": "After all, Lord ",
+  "done": true
+ },
+ {
+  "id": "END.BIN@210",
+  "off": 528,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148327528
+   ]
+  ],
+  "idx": 3,
+  "en": " was the one",
+  "done": true
+ },
+ {
+  "id": "END.BIN@1F4",
+  "off": 500,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148327532
+   ]
+  ],
+  "idx": 4,
+  "en": "you had loved all this time",
+  "done": true
+ },
+ {
+  "id": "END.BIN@1EC",
+  "off": 492,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148327536
+   ]
+  ],
+  "idx": 5,
+  "en": "...",
+  "note": "Used once, after @1F4.",
+  "done": true
+ },
+ {
+  "id": "END.BIN@1E8",
+  "off": 488,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327540
+   ]
+  ],
+  "idx": 6,
+  "en": "",
+  "done": true
+ },
+ {
+  "id": "END.BIN@1D0",
+  "off": 464,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148327544
+   ]
+  ],
+  "idx": 7,
+  "en": "He was so very pure",
+  "done": true
+ },
+ {
+  "id": "END.BIN@1CC",
+  "off": 460,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327548
+   ]
+  ],
+  "idx": 8,
+  "en": ".",
+  "done": true
+ },
+ {
+  "id": "END.BIN@1A4",
+  "off": 420,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148327552
+   ]
+  ],
+  "idx": 9,
+  "en": "He was too pure, just like a child.",
+  "note": "Subject and verb restored (Japanese has none).",
+  "done": true
+ },
+ {
+  "id": "END.BIN@198",
+  "off": 408,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148327556
+   ]
+  ],
+  "idx": 10,
+  "en": "And that is why",
+  "done": true
+ },
+ {
+  "id": "END.BIN@174",
+  "off": 372,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148327560
+   ]
+  ],
+  "idx": 11,
+  "en": "it all came to such a sorrowful end",
+  "note": "Followed by @1CC x4 + @1E8: 'end....'.",
+  "done": true
+ },
+ {
+  "id": "END.BIN@14C",
+  "off": 332,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148327564
+   ]
+  ],
+  "idx": 12,
+  "en": "I never want to feel like this again.",
+  "done": true
+ },
+ {
+  "id": "END.BIN@12C",
+  "off": 300,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148327568
+   ]
+  ],
+  "idx": 13,
+  "en": "And yet, will this nightmarish time",
+  "done": true
+ },
+ {
+  "id": "END.BIN@108",
+  "off": 264,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148327572
+   ]
+  ],
+  "idx": 14,
+  "en": "come around once more?",
+  "done": true
+ },
+ {
+  "id": "END.BIN@E0",
+  "off": 224,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148327576
+   ]
+  ],
+  "idx": 15,
+  "en": "For humans, both love and life have an end.",
+  "note": "Speaker: Ragash again (script 11).",
+  "done": true
+ },
+ {
+  "id": "END.BIN@B8",
+  "off": 184,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148327580
+   ]
+  ],
+  "idx": 16,
+  "en": "But we Vampir have no such end.",
+  "done": true
+ },
+ {
+  "id": "END.BIN@8C",
+  "off": 140,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148327584
+   ]
+  ],
+  "idx": 17,
+  "en": "Bearing the faces of those we loved, we must",
+  "done": true
+ },
+ {
+  "id": "END.BIN@74",
+  "off": 116,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148327588
+   ]
+  ],
+  "idx": 18,
+  "en": "wander through time.",
+  "done": true
+ },
+ {
+  "id": "END.BIN@68",
+  "off": 104,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148327592
+   ]
+  ],
+  "idx": 19,
+  "en": " Forever.",
+  "note": "Printed on the same line as @74 (no newline): leading space.",
+  "done": true
+ },
+ {
+  "id": "END.BIN@64",
+  "off": 100,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327596
+   ]
+  ],
+  "idx": 20,
+  "en": "  ",
+  "note": "Full-width space printed twice as the indent of the closing title line.",
+  "done": true
+ },
+ {
+  "id": "END.BIN@60",
+  "off": 96,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327600
+   ]
+  ],
+  "idx": 21,
+  "en": "Th",
+  "note": "Closing title, one row per glyph with a 5-frame delay: @60..@28 join to 'The hour of the Vampir never ends', then @1CC x3 = '...'. Assumes the rows print on one line.",
+  "done": true
+ },
+ {
+  "id": "END.BIN@5C",
+  "off": 92,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327604
+   ]
+  ],
+  "idx": 22,
+  "en": "e ",
+  "done": true
+ },
+ {
+  "id": "END.BIN@58",
+  "off": 88,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327608
+   ]
+  ],
+  "idx": 23,
+  "en": "hou",
+  "done": true
+ },
+ {
+  "id": "END.BIN@54",
+  "off": 84,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327612
+   ]
+  ],
+  "idx": 24,
+  "en": "r o",
+  "done": true
+ },
+ {
+  "id": "END.BIN@50",
+  "off": 80,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327616
+   ]
+  ],
+  "idx": 25,
+  "en": "f t",
+  "done": true
+ },
+ {
+  "id": "END.BIN@4C",
+  "off": 76,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327620
+   ]
+  ],
+  "idx": 26,
+  "en": "he ",
+  "done": true
+ },
+ {
+  "id": "END.BIN@48",
+  "off": 72,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327624
+   ]
+  ],
+  "idx": 27,
+  "en": "Va",
+  "done": true
+ },
+ {
+  "id": "END.BIN@44",
+  "off": 68,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327628
+   ]
+  ],
+  "idx": 28,
+  "en": "mp",
+  "done": true
+ },
+ {
+  "id": "END.BIN@40",
+  "off": 64,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327632
+   ]
+  ],
+  "idx": 29,
+  "en": "ir",
+  "done": true
+ },
+ {
+  "id": "END.BIN@3C",
+  "off": 60,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327636
+   ]
+  ],
+  "idx": 30,
+  "en": " ne",
+  "done": true
+ },
+ {
+  "id": "END.BIN@38",
+  "off": 56,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327640
+   ]
+  ],
+  "idx": 31,
+  "en": "ve",
+  "done": true
+ },
+ {
+  "id": "END.BIN@34",
+  "off": 52,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327644
+   ]
+  ],
+  "idx": 32,
+  "en": "r ",
+  "done": true
+ },
+ {
+  "id": "END.BIN@30",
+  "off": 48,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327648
+   ]
+  ],
+  "idx": 33,
+  "en": "en",
+  "done": true
+ },
+ {
+  "id": "END.BIN@2C",
+  "off": 44,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327652
+   ]
+  ],
+  "idx": 34,
+  "en": "d",
+  "done": true
+ },
+ {
+  "id": "END.BIN@28",
+  "off": 40,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327656
+   ]
+  ],
+  "idx": 35,
+  "en": "s",
+  "done": true
+ },
+ {
+  "id": "END.BIN@24",
+  "off": 36,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148327660
+   ]
+  ],
+  "idx": 36,
+  "en": ""
+ }
+]

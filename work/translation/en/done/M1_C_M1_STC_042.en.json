@@ -1,0 +1,340 @@
+[
+ {
+  "id": "M1#3360",
+  "en": "He's stopped running off to play, it seems,"
+ },
+ {
+  "id": "M1#3361",
+  "en": "and he reads books all day long instead."
+ },
+ {
+  "id": "M1#3362",
+  "en": "Books on politics and philosophy, at that."
+ },
+ {
+  "id": "M1#3363",
+  "en": "Perhaps he means to follow in my footsteps"
+ },
+ {
+  "id": "M1#3364",
+  "en": "and become a politician."
+ },
+ {
+  "id": "M1#3365",
+  "en": "It's all thanks to your teaching."
+ },
+ {
+  "id": "M1#3366",
+  "en": "How is my son doing?"
+ },
+ {
+  "id": "M1#3367",
+  "en": "He can't change overnight, so",
+  "note": "PLAYER (polite tutor) answering Kröger's 'How is my son doing?'; subject 'he' = Ludwig"
+ },
+ {
+  "id": "M1#3368",
+  "en": "please be patient and watch over him."
+ },
+ {
+  "id": "M1#3369",
+  "en": "There's something I must tell you..."
+ },
+ {
+  "id": "M1#3370",
+  "en": "What on earth has become of my son?"
+ },
+ {
+  "id": "M1#3371",
+  "en": "And the books he reads! It's all dictators"
+ },
+ {
+  "id": "M1#3372",
+  "en": "and reigns of terror. ",
+  "note": "trailing space: #3373 follows on the same line (no line break in the script)"
+ },
+ {
+  "id": "M1#3373",
+  "en": "He won't listen to a single word I say."
+ },
+ {
+  "id": "M1#3374",
+  "en": "He's even started saying, \"I answer only to ",
+  "note": "Kröger quoting Ludwig; + NAME + #2595 '.' (fixed by slice 032); the quote closes at the end of #3375"
+ },
+ {
+  "id": "M1#3375",
+  "en": "I take orders from no one else!\""
+ },
+ {
+  "id": "M1#3376",
+  "en": "I beg you. Please, make my son"
+ },
+ {
+  "id": "M1#3377",
+  "en": "himself again..."
+ },
+ {
+  "id": "M1#3378",
+  "en": "I'm relaxing at home right now, so"
+ },
+ {
+  "id": "M1#3379",
+  "en": "let's discuss your business at City Hall."
+ },
+ {
+  "id": "M1#3380",
+  "en": "Is my son making progress with his studies?"
+ },
+ {
+  "id": "M1#3381",
+  "en": "Please take good care of my son."
+ },
+ {
+  "id": "M1#3382",
+  "en": "Please, I beg you. Make my son himself again."
+ },
+ {
+  "id": "M1#3383",
+  "en": "He won't listen to anyone"
+ },
+ {
+  "id": "M1#3384",
+  "en": "but you..."
+ },
+ {
+  "id": "M1#3385",
+  "en": "What's all this racket?",
+  "note": "cutscene (SQC 0x2067E), no speaker token; read as Kröger at home disturbed at night, since #3386 and the following 'NAME! Why are you here at this hour...' are his"
+ },
+ {
+  "id": "M1#3386",
+  "en": "What's going on at this hour?"
+ },
+ {
+  "id": "M1#3387",
+  "en": "Never mind that!",
+  "note": "Kröger brushing aside his own question; cutscene rows 3387-3399 not in used_in, speakers from SQC tokens 11/12"
+ },
+ {
+  "id": "M1#3388",
+  "en": "My son...",
+  "note": "followed by a pause and a line break"
+ },
+ {
+  "id": "M1#3389",
+  "en": "Make my son himself again!"
+ },
+ {
+  "id": "M1#3390",
+  "en": "You mean that worthless son of yours?",
+  "note": "PLAYER (stern night register), after #1367 'Huh?'"
+ },
+ {
+  "id": "M1#3391",
+  "en": "I made a fine young man of him, didn't I?"
+ },
+ {
+  "id": "M1#3392",
+  "en": "Before long, he'll make a far better"
+ },
+ {
+  "id": "M1#3393",
+  "en": "politician than you."
+ },
+ {
+  "id": "M1#3394",
+  "en": "Don't be absurd!",
+  "note": "Kröger"
+ },
+ {
+  "id": "M1#3395",
+  "en": "As he is now, he'll never be a mayor like me,"
+ },
+ {
+  "id": "M1#3396",
+  "en": "one the citizens can accept!"
+ },
+ {
+  "id": "M1#3397",
+  "en": "Fool!",
+  "note": "PLAYER"
+ },
+ {
+  "id": "M1#3398",
+  "en": "You can't even manage your own son,"
+ },
+ {
+  "id": "M1#3399",
+  "en": "so how could you ever rule a whole town?!"
+ },
+ {
+  "id": "M1#3400",
+  "en": "I have no time to stand here talking"
+ },
+ {
+  "id": "M1#3401",
+  "en": "politics with you."
+ },
+ {
+  "id": "M1#3402",
+  "en": "Let's get back to the matter at hand."
+ },
+ {
+  "id": "M1#3403",
+  "en": "The matter... at hand?"
+ },
+ {
+  "id": "M1#3404",
+  "en": "Yes, indeed."
+ },
+ {
+  "id": "M1#3405",
+  "en": "This very night,"
+ },
+ {
+  "id": "M1#3406",
+  "en": "Calstatt becomes my town."
+ },
+ {
+  "id": "M1#3407",
+  "en": "Behold the birth of \"Dhampir Mayor Kröger.\""
+ },
+ {
+  "id": "M1#3408",
+  "en": "\"Dhampir\"...?"
+ },
+ {
+  "id": "M1#3409",
+  "en": "You bastard",
+  "note": "+ #1488 ',' + pause + #3410 on the same line"
+ },
+ {
+  "id": "M1#3410",
+  "en": "not content with my son,"
+ },
+ {
+  "id": "M1#3411",
+  "en": "you'd put this town under your control too?!"
+ },
+ {
+  "id": "M1#3412",
+  "en": "Under my control?",
+  "note": "PLAYER echoing #3411"
+ },
+ {
+  "id": "M1#3413",
+  "en": "Ridiculous."
+ },
+ {
+  "id": "M1#3414",
+  "en": "I have no interest in a town like this."
+ },
+ {
+  "id": "M1#3415",
+  "en": "Now, a city as big as London..."
+ },
+ {
+  "id": "M1#3416",
+  "en": "that I might be willing to try."
+ },
+ {
+  "id": "M1#3417",
+  "en": "Hm...",
+  "note": "no speaker token (after PLAYER's lines, before Kröger's attack); read as PLAYER noticing the attack; could be Kröger"
+ },
+ {
+  "id": "M1#3418",
+  "en": "Die!",
+  "note": "Kröger"
+ },
+ {
+  "id": "M1#3419",
+  "en": "You devil!"
+ },
+ {
+  "id": "M1#3420",
+  "en": "Whoa, that was close.",
+  "note": "PLAYER"
+ },
+ {
+  "id": "M1#3421",
+  "en": "So you'd turn your blade on me."
+ },
+ {
+  "id": "M1#3422",
+  "en": "You've got nerve, I'll give you that."
+ },
+ {
+  "id": "M1#3423",
+  "en": "Playtime is over."
+ },
+ {
+  "id": "M1#3424",
+  "en": "From tomorrow on, as my servant,"
+ },
+ {
+  "id": "M1#3425",
+  "en": "you'll put those political talents to work."
+ },
+ {
+  "id": "M1#3426",
+  "en": "Stop!"
+ },
+ {
+  "id": "M1#3427",
+  "en": "Aaagh!"
+ },
+ {
+  "id": "M1#3428",
+  "en": "I've wasted my time on such nonsense.",
+  "note": "PLAYER after biting Kröger"
+ },
+ {
+  "id": "M1#3429",
+  "en": "Yes. Would you tell me the way?",
+  "note": "PLAYER, same wording as #3302"
+ },
+ {
+  "id": "M1#3430",
+  "en": "No, that's all right. Thank you.",
+  "note": "PLAYER, polite; cf. #3306"
+ },
+ {
+  "id": "M1#3431",
+  "en": "Do keep looking after my son, won't you?"
+ },
+ {
+  "id": "M1#3432",
+  "en": "Thank you for all you did for my son."
+ },
+ {
+  "id": "M1#3433",
+  "en": "Truly, ",
+  "note": "+ NAME + #2595 '.': 'Truly, NAME.' / 'I owe it all to you.'"
+ },
+ {
+  "id": "M1#3434",
+  "en": "I owe it all to you."
+ },
+ {
+  "id": "M1#3435",
+  "en": "Say, how would you like to tutor my son?"
+ },
+ {
+  "id": "M1#3436",
+  "en": "And only poems and fairy tales, at that."
+ },
+ {
+  "id": "M1#3437",
+  "en": "Perhaps he plans to become a kindergarten"
+ },
+ {
+  "id": "M1#3438",
+  "en": "teacher or something."
+ },
+ {
+  "id": "M1#3439",
+  "en": "Well, I suppose that's not so bad either."
+ }
+]

@@ -1,0 +1,340 @@
+[
+ {
+  "id": "M1#4400",
+  "en": "So you'll start work this very day.",
+  "note": "stern player (vampire) to Dietrich; continues #4398/#4399"
+ },
+ {
+  "id": "M1#4401",
+  "en": "Aaargh!"
+ },
+ {
+  "id": "M1#4402",
+  "en": "You're a curious one, young master.",
+  "note": "young-master counterpart of #4287"
+ },
+ {
+  "id": "M1#4403",
+  "en": "Is this the undertaker's?"
+ },
+ {
+  "id": "M1#4404",
+  "en": "I took you for a customer, young master."
+ },
+ {
+  "id": "M1#4405",
+  "en": "Why, it's the young master from earlier!",
+  "note": "follows '...' (#2) on its own line"
+ },
+ {
+  "id": "M1#4406",
+  "en": "...Oh, it's you, young master."
+ },
+ {
+  "id": "M1#4407",
+  "en": "Have a heart, young master."
+ },
+ {
+  "id": "M1#4408",
+  "en": "You just love that line, don't you, young master?"
+ },
+ {
+  "id": "M1#4409",
+  "en": "Nobody has died at all!",
+  "note": "no used_in (unverified); gentle-player counterpart of #4317"
+ },
+ {
+  "id": "M1#4410",
+  "en": "I suppose it can't be helped.",
+  "note": "follows #180 '...'"
+ },
+ {
+  "id": "M1#4411",
+  "en": "(This has nothing to do with me.)"
+ },
+ {
+  "id": "M1#4412",
+  "en": "For words like that to become a habit,"
+ },
+ {
+  "id": "M1#4413",
+  "en": "are you really that busy?"
+ },
+ {
+  "id": "M1#4414",
+  "en": "Doesn't anyone make an issue of it?"
+ },
+ {
+  "id": "M1#4415",
+  "en": "You don't have to apologize anymore",
+  "note": "followed by #2 '...'"
+ },
+ {
+  "id": "M1#4416",
+  "en": "didn't look like a child, though...",
+  "note": "continues shared #4355 'The one buried a while ago'"
+ },
+ {
+  "id": "M1#4417",
+  "en": "No. I haven't.",
+  "note": "answers 'Have you heard of it?' (#4359)"
+ },
+ {
+  "id": "M1#4418",
+  "en": "You take care as well, young master."
+ },
+ {
+  "id": "M1#4419",
+  "en": "...Your orders.",
+  "note": "Rosner as a servant: '...' + name + ', my master' / this"
+ },
+ {
+  "id": "M1#4420",
+  "en": "Hello to you."
+ },
+ {
+  "id": "M1#4421",
+  "en": "I am Rosner, who is doing merchant work."
+ },
+ {
+  "id": "M1#4422",
+  "en": "Now I am going to trading house for work."
+ },
+ {
+  "id": "M1#4423",
+  "en": "Well then, good day to you."
+ },
+ {
+  "id": "M1#4424",
+  "en": "Hello to you, ",
+  "note": "name + #189 '.' follows"
+ },
+ {
+  "id": "M1#4425",
+  "en": "You also are always looking busy."
+ },
+ {
+  "id": "M1#4426",
+  "en": "Your work, is it going well?"
+ },
+ {
+  "id": "M1#4427",
+  "en": "Good evening to you."
+ },
+ {
+  "id": "M1#4428",
+  "en": "Ah, because of work, I am coming home"
+ },
+ {
+  "id": "M1#4429",
+  "en": "so very late."
+ },
+ {
+  "id": "M1#4430",
+  "en": "Me, I am doing merchant work, and Rosner"
+ },
+ {
+  "id": "M1#4431",
+  "en": "is my name, yes. Pleased to meet you."
+ },
+ {
+  "id": "M1#4432",
+  "en": "Good evening to you, ",
+  "note": "name + #189 '.' follows"
+ },
+ {
+  "id": "M1#4433",
+  "en": "Is a fine night, isn't it?"
+ },
+ {
+  "id": "M1#4434",
+  "en": "The night is dangerous, you know.",
+  "note": "preceded by name + #223 ','"
+ },
+ {
+  "id": "M1#4435",
+  "en": "Please be careful on way home",
+  "note": "followed by #2 '...'"
+ },
+ {
+  "id": "M1#4436",
+  "en": "How do you do, hello to you."
+ },
+ {
+  "id": "M1#4437",
+  "en": "I am called Rosner, the merchant."
+ },
+ {
+  "id": "M1#4438",
+  "en": "I work at trading house across the way."
+ },
+ {
+  "id": "M1#4439",
+  "en": "Pleased to meet you."
+ },
+ {
+  "id": "M1#4440",
+  "en": "Pleased to meet you, yes."
+ },
+ {
+  "id": "M1#4441",
+  "en": "Welcome to you."
+ },
+ {
+  "id": "M1#4442",
+  "en": "My house has nothing, but you are welcome."
+ },
+ {
+  "id": "M1#4443",
+  "en": "Please, have some tea",
+  "note": "no used_in (unverified); source has no full stop, kept without punctuation"
+ },
+ {
+  "id": "M1#4444",
+  "en": "Maybe some coffee, how about it?"
+ },
+ {
+  "id": "M1#4445",
+  "en": "Another cup, how about it?"
+ },
+ {
+  "id": "M1#4446",
+  "en": "You came to drink tea with me, yes?"
+ },
+ {
+  "id": "M1#4447",
+  "en": "Come, please enjoy the tea.",
+  "note": "no used_in (unverified)"
+ },
+ {
+  "id": "M1#4448",
+  "en": "Please, have coffee."
+ },
+ {
+  "id": "M1#4449",
+  "en": "Coffee and tea,"
+ },
+ {
+  "id": "M1#4450",
+  "en": "I can sell to you very cheap."
+ },
+ {
+  "id": "M1#4451",
+  "en": "Will you not buy some?"
+ },
+ {
+  "id": "M1#4452",
+  "en": "I have no need of it",
+  "note": "stern player; followed by #2 '...' and #25 '.'"
+ },
+ {
+  "id": "M1#4453",
+  "en": "Is that so? Is a shame."
+ },
+ {
+  "id": "M1#4454",
+  "en": "I am Rosner,"
+ },
+ {
+  "id": "M1#4455",
+  "en": "I am doing work as trader, yes."
+ },
+ {
+  "id": "M1#4456",
+  "en": "To buy up rare goods,"
+ },
+ {
+  "id": "M1#4457",
+  "en": "I am often coming in and out of"
+ },
+ {
+  "id": "M1#4458",
+  "en": "this trading house here, yes."
+ },
+ {
+  "id": "M1#4459",
+  "en": "From now on also,"
+ },
+ {
+  "id": "M1#4460",
+  "en": "please give me your custom, yes."
+ },
+ {
+  "id": "M1#4461",
+  "en": "I am Rosner, the trader."
+ },
+ {
+  "id": "M1#4462",
+  "en": "Once more, pleased to meet you."
+ },
+ {
+  "id": "M1#4463",
+  "en": ", what is it"
+ },
+ {
+  "id": "M1#4464",
+  "en": "you do for work, please?"
+ },
+ {
+  "id": "M1#4465",
+  "en": "Well, for now I suppose I'm a traveler, of sorts."
+ },
+ {
+  "id": "M1#4466",
+  "en": "Wonderful."
+ },
+ {
+  "id": "M1#4467",
+  "en": "You can go see the rare things"
+ },
+ {
+  "id": "M1#4468",
+  "en": "of all the world, yes."
+ },
+ {
+  "id": "M1#4469",
+  "en": "Well then, good day to you, yes."
+ },
+ {
+  "id": "M1#4470",
+  "en": "All this time, I was doing business"
+ },
+ {
+  "id": "M1#4471",
+  "en": "in London. About 3 months ago I came"
+ },
+ {
+  "id": "M1#4472",
+  "en": "here, and now I am working on this deal."
+ },
+ {
+  "id": "M1#4473",
+  "en": "This Calstatt, right now it is in middle"
+ },
+ {
+  "id": "M1#4474",
+  "en": "of growing, and people are increasing."
+ },
+ {
+  "id": "M1#4475",
+  "en": "For making money, it became good place."
+ },
+ {
+  "id": "M1#4476",
+  "en": "Is a nice town here too, but soon I am"
+ },
+ {
+  "id": "M1#4477",
+  "en": "wanting to go back to my country",
+  "note": "followed by #2 '...' and #25 '.'"
+ },
+ {
+  "id": "M1#4478",
+  "en": "The deal, it will not close at all."
+ },
+ {
+  "id": "M1#4479",
+  "en": "This Mr. Wesseli here, he is quite",
+  "note": "continues in #4480 (slice 056): needs e.g. 'a shrewd dealer, it seems' (then '...' + '.')"
+ }
+]

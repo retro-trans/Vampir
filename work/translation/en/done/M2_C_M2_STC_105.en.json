@@ -1,0 +1,326 @@
+[
+ {
+  "id": "M2#8400",
+  "en": "For you, though,"
+ },
+ {
+  "id": "M2#8401",
+  "en": "even a visit while my husband is away"
+ },
+ {
+  "id": "M2#8402",
+  "en": "would be quite all right."
+ },
+ {
+  "id": "M2#8403",
+  "en": ", my master",
+  "note": "Jill as a servant: name + ', my master' + #152 '...' (M2#0 rule)."
+ },
+ {
+  "id": "M2#8404",
+  "en": "What should I do today?"
+ },
+ {
+  "id": "M2#8405",
+  "en": "It hurts all over"
+ },
+ {
+  "id": "M2#8406",
+  "en": ", my master! Hello.",
+  "note": "Servant greeting; name + ', my master! Hello.'"
+ },
+ {
+  "id": "M2#8407",
+  "en": "Jill will do whatever you say."
+ },
+ {
+  "id": "M2#8408",
+  "en": "I'm so sleepy"
+ },
+ {
+  "id": "M2#8409",
+  "en": "Good morning, little miss."
+ },
+ {
+  "id": "M2#8410",
+  "en": "Good morning, mister."
+ },
+ {
+  "id": "M2#8411",
+  "en": "Who are you, mister?"
+ },
+ {
+  "id": "M2#8412",
+  "en": "Hmm. I'm Jill."
+ },
+ {
+  "id": "M2#8413",
+  "en": "My mama's Martha. She works at the factory."
+ },
+ {
+  "id": "M2#8414",
+  "en": "I see. Listen to your mama and be a good"
+ },
+ {
+  "id": "M2#8415",
+  "en": "girl, now."
+ },
+ {
+  "id": "M2#8416",
+  "en": "Okay. Bye-bye, mister."
+ },
+ {
+  "id": "M2#8417",
+  "en": "Oh, mister. Good morning again."
+ },
+ {
+  "id": "M2#8418",
+  "en": "Morning, mister."
+ },
+ {
+  "id": "M2#8419",
+  "en": "Mama gets up really early, you know."
+ },
+ {
+  "id": "M2#8420",
+  "en": "So Jill gets up early too. I'm sleepy..."
+ },
+ {
+  "id": "M2#8421",
+  "en": "Misteeer!"
+ },
+ {
+  "id": "M2#8422",
+  "en": "Good morning. How are you? Jill's fine!"
+ },
+ {
+  "id": "M2#8423",
+  "en": "Hey, mister, come play with Jill sometime."
+ },
+ {
+  "id": "M2#8424",
+  "en": "Mama's busy, so she can't play with me."
+ },
+ {
+  "id": "M2#8425",
+  "en": "And Auntie Rhoda, who I love, is tired too."
+ },
+ {
+  "id": "M2#8426",
+  "en": "So come play with Jill sometime!"
+ },
+ {
+  "id": "M2#8427",
+  "en": "Good evening, little miss."
+ },
+ {
+  "id": "M2#8428",
+  "en": "It's this dark. Shouldn't you go home?"
+ },
+ {
+  "id": "M2#8429",
+  "en": "Uh-huh, it's okay. Mama doesn't get home"
+ },
+ {
+  "id": "M2#8430",
+  "en": "till after dark either. Jill hates being alone."
+ },
+ {
+  "id": "M2#8431",
+  "en": "Being home all by myself is boring."
+ },
+ {
+  "id": "M2#8432",
+  "en": "Is your mama at work?"
+ },
+ {
+  "id": "M2#8433",
+  "en": "Uh-huh, that's right. She's at work."
+ },
+ {
+  "id": "M2#8434",
+  "en": "So on Sundays, Jill plays with"
+ },
+ {
+  "id": "M2#8435",
+  "en": "Auntie Rhoda."
+ },
+ {
+  "id": "M2#8436",
+  "en": "Are you going home too, mister, 'cause it's dark?"
+ },
+ {
+  "id": "M2#8437",
+  "en": "Good evening, mister."
+ },
+ {
+  "id": "M2#8438",
+  "en": "Jill's going home in a little while."
+ },
+ {
+  "id": "M2#8439",
+  "en": "'Cause Mama's coming home."
+ },
+ {
+  "id": "M2#8440",
+  "en": "So it's all right."
+ },
+ {
+  "id": "M2#8441",
+  "en": "Oh, mister!"
+ },
+ {
+  "id": "M2#8442",
+  "en": "Good evening. Are you going home now?"
+ },
+ {
+  "id": "M2#8443",
+  "en": "Hey, hey, mister, what do you do for work?"
+ },
+ {
+  "id": "M2#8444",
+  "en": "<It's a secret>",
+  "note": "Choice; branch -> #8446/#8447 (by bytecode order)."
+ },
+ {
+  "id": "M2#8445",
+  "en": "<I'm a detective>",
+  "note": "Choice; branch -> #8448-#8450 (msg 328618)."
+ },
+ {
+  "id": "M2#8446",
+  "en": "Awww, it's a secret? Meanie."
+ },
+ {
+  "id": "M2#8447",
+  "en": "Tell me next time, okay?"
+ },
+ {
+  "id": "M2#8448",
+  "en": "You're a detective? Wow, how neat!"
+ },
+ {
+  "id": "M2#8449",
+  "en": "You solve all kinds of crimes, right?"
+ },
+ {
+  "id": "M2#8450",
+  "en": "Tell Jill about your cases. Okay?"
+ },
+ {
+  "id": "M2#8451",
+  "en": "Are you playing here too, mister?"
+ },
+ {
+  "id": "M2#8452",
+  "en": "Sure, wanna play with Jill?"
+ },
+ {
+  "id": "M2#8453",
+  "en": "Mister, what's your name?"
+ },
+ {
+  "id": "M2#8454",
+  "en": "Nice to meet you, Jill."
+ },
+ {
+  "id": "M2#8455",
+  "en": "Hmmm... That's a hard name."
+ },
+ {
+  "id": "M2#8456",
+  "en": "Never mind, I'll just call you mister."
+ },
+ {
+  "id": "M2#8457",
+  "en": "Huh? Are you playing here too, mister?"
+ },
+ {
+  "id": "M2#8458",
+  "en": "Next time I'll invite Auntie Rhoda too."
+ },
+ {
+  "id": "M2#8459",
+  "en": "Auntie can only play on Sundays."
+ },
+ {
+  "id": "M2#8460",
+  "en": "That's sad, isn't it?"
+ },
+ {
+  "id": "M2#8461",
+  "en": "Let's play together!"
+ },
+ {
+  "id": "M2#8462",
+  "en": "Welcome, mister! Hello."
+ },
+ {
+  "id": "M2#8463",
+  "en": "You know, I can't let you in the house, but"
+ },
+ {
+  "id": "M2#8464",
+  "en": "let's talk out here, you and Jill. Okay?"
+ },
+ {
+  "id": "M2#8465",
+  "en": "I wish Auntie Rhoda would hurry home."
+ },
+ {
+  "id": "M2#8466",
+  "en": "She's nicer than Mama, and prettier,"
+ },
+ {
+  "id": "M2#8467",
+  "en": "and she plays with Jill."
+ },
+ {
+  "id": "M2#8468",
+  "en": "Will you play with us too sometime, mister?"
+ },
+ {
+  "id": "M2#8469",
+  "en": "Welcome! Will you talk with Jill here again?"
+ },
+ {
+  "id": "M2#8470",
+  "en": "Say, mister, do you have any friends?"
+ },
+ {
+  "id": "M2#8471",
+  "en": "Jill only has a few."
+ },
+ {
+  "id": "M2#8472",
+  "en": "But it's okay. I've got Auntie Rhoda."
+ },
+ {
+  "id": "M2#8473",
+  "en": "She's really, really nice. I love her!"
+ },
+ {
+  "id": "M2#8474",
+  "en": "I'll let you meet her too, mister."
+ },
+ {
+  "id": "M2#8475",
+  "en": "Hello, mister."
+ },
+ {
+  "id": "M2#8476",
+  "en": "Mama says she's been tired lately."
+ },
+ {
+  "id": "M2#8477",
+  "en": "So Jill's being good. Aren't I a good girl?"
+ },
+ {
+  "id": "M2#8478",
+  "en": "Let's play in the square sometime, okay?"
+ },
+ {
+  "id": "M2#8479",
+  "en": "Auntie's coming too!"
+ }
+]

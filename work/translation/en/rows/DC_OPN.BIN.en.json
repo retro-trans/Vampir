@@ -1,0 +1,2966 @@
+[
+ {
+  "id": "OPN.BIN@1290",
+  "off": 4752,
+  "size": 36,
+  "slot": 36,
+  "refs": [
+   [
+    "ptr",
+    2148361876
+   ]
+  ],
+  "idx": 0,
+  "en": "Tell me, what do you think it means to die?",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1268",
+  "off": 4712,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148361880
+   ]
+  ],
+  "idx": 1,
+  "en": "That I'm going to die very soon...",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1250",
+  "off": 4688,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148361884
+   ]
+  ],
+  "idx": 2,
+  "en": "can you imagine it?",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1238",
+  "off": 4664,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148361888
+   ]
+  ],
+  "idx": 3,
+  "en": "When I'm so full of life right now.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1230",
+  "off": 4656,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148361892
+   ]
+  ],
+  "idx": 4,
+  "en": "...",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1228",
+  "off": 4648,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148361896
+   ]
+  ],
+  "idx": 5,
+  "en": "I'm scared.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@120C",
+  "off": 4620,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148361900
+   ]
+  ],
+  "idx": 6,
+  "en": "I don't want to die yet.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1200",
+  "off": 4608,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148361904
+   ]
+  ],
+  "idx": 7,
+  "en": "Tell me,",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@11D8",
+  "off": 4568,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148361908
+   ]
+  ],
+  "idx": 8,
+  "en": "do you know the word \"Vampir\"?",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@11C4",
+  "off": 4548,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148361912
+   ]
+  ],
+  "idx": 9,
+  "en": "I'm a vampire, you see.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@11BC",
+  "off": 4540,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148361916
+   ]
+  ],
+  "idx": 10,
+  "en": "Oh my!",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1190",
+  "off": 4496,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148361920
+   ]
+  ],
+  "idx": 11,
+  "en": "Then you'll never die, will you?",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1168",
+  "off": 4456,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148361924
+   ]
+  ],
+  "idx": 12,
+  "en": "Aren't you afraid of me?",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1148",
+  "off": 4424,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148361928
+   ]
+  ],
+  "idx": 13,
+  "en": "Why would I be? You're wonderful.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@112C",
+  "off": 4396,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148361932
+   ]
+  ],
+  "idx": 14,
+  "en": "Those blue eyes and that golden hair...",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1100",
+  "off": 4352,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148361936
+   ]
+  ],
+  "idx": 15,
+  "en": "Say, what should I call you?",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@10F0",
+  "off": 4336,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148361940
+   ]
+  ],
+  "idx": 16,
+  "en": "What a lovely name.",
+  "note": "Follows name entry (player names Christopher).",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@10E0",
+  "off": 4320,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148361944
+   ]
+  ],
+  "idx": 17,
+  "en": "And what's your name?",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@10BC",
+  "off": 4284,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148361948
+   ]
+  ],
+  "idx": 18,
+  "en": "Oh, didn't I tell you?...",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@10B8",
+  "off": 4280,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148361952
+   ]
+  ],
+  "idx": 19,
+  "en": "M",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@10B4",
+  "off": 4276,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148361956
+   ]
+  ],
+  "idx": 20,
+  "en": "y",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@10B0",
+  "off": 4272,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148361960
+   ]
+  ],
+  "idx": 21,
+  "en": " na",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@10AC",
+  "off": 4268,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148361964
+   ]
+  ],
+  "idx": 22,
+  "en": "me",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@10A8",
+  "off": 4264,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148361968
+   ]
+  ],
+  "idx": 23,
+  "en": " is",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@10A4",
+  "off": 4260,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148361972
+   ]
+  ],
+  "idx": 24,
+  "en": ".",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@10A0",
+  "off": 4256,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148361976
+   ]
+  ],
+  "idx": 25,
+  "en": ".",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@109C",
+  "off": 4252,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148361980
+   ]
+  ],
+  "idx": 26,
+  "en": ".",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1098",
+  "off": 4248,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148361984
+   ]
+  ],
+  "idx": 27,
+  "en": " R",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1094",
+  "off": 4244,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148361988
+   ]
+  ],
+  "idx": 28,
+  "en": "o",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1090",
+  "off": 4240,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148361992
+   ]
+  ],
+  "idx": 29,
+  "en": "—",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1084",
+  "off": 4228,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148361996
+   ]
+  ],
+  "idx": 30,
+  "en": "Wake up.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1068",
+  "off": 4200,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148362000
+   ]
+  ],
+  "idx": 31,
+  "en": "Lord Ragash is calling for you.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@104C",
+  "off": 4172,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148362004
+   ]
+  ],
+  "idx": 32,
+  "en": "He says it's something important.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1024",
+  "off": 4132,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362008
+   ]
+  ],
+  "idx": 33,
+  "en": "Now get ready and come to the great hall.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1018",
+  "off": 4120,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148362012
+   ]
+  ],
+  "idx": 34,
+  "en": "She looks so much like...",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1000",
+  "off": 4096,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148362016
+   ]
+  ],
+  "idx": 35,
+  "en": "the girl in my dream just now.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@FD4",
+  "off": 4052,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362020
+   ]
+  ],
+  "idx": 36,
+  "en": "My mother, who died right after I was born.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@FB0",
+  "off": 4016,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148362024
+   ]
+  ],
+  "idx": 37,
+  "en": "Is that why I had a dream like that?",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@FA4",
+  "off": 4004,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148362028
+   ]
+  ],
+  "idx": 38,
+  "en": "So you've come, ",
+  "note": "Followed by {PLAYER_NAME} then FA0.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@FA0",
+  "off": 4000,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148362032
+   ]
+  ],
+  "idx": 39,
+  "en": ".",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@F80",
+  "off": 3968,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148362036
+   ]
+  ],
+  "idx": 40,
+  "en": "I have something important to tell you today.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@F70",
+  "off": 3952,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148362040
+   ]
+  ],
+  "idx": 41,
+  "en": "You are to leave this castle",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@F50",
+  "off": 3920,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148362044
+   ]
+  ],
+  "idx": 42,
+  "en": "and go down to the human world below.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@F40",
+  "off": 3904,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148362048
+   ]
+  ],
+  "idx": 43,
+  "en": "Why so suddenly?",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@F18",
+  "off": 3864,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362052
+   ]
+  ],
+  "idx": 44,
+  "en": "Our Eisen vampire clan has always lived",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@EF4",
+  "off": 3828,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148362056
+   ]
+  ],
+  "idx": 45,
+  "en": "quietly, hidden from human eyes, and yet...",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@EE0",
+  "off": 3808,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148362060
+   ]
+  ],
+  "idx": 46,
+  "en": ", listen well.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@EC4",
+  "off": 3780,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148362064
+   ]
+  ],
+  "idx": 47,
+  "en": "It was 150 years ago now,",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@E98",
+  "off": 3736,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362068
+   ]
+  ],
+  "idx": 48,
+  "en": "At Medoekia, the village below this castle,",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@E90",
+  "off": 3728,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148362072
+   ]
+  ],
+  "idx": 49,
+  "en": "our clan fought \"",
+  "note": "Followed by inserted name (Duran, player-2 name) then E80; line 2 = 'our clan fought \"Duran\",'.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@E80",
+  "off": 3712,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148362076
+   ]
+  ],
+  "idx": 50,
+  "en": "\",",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@E5C",
+  "off": 3676,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148362080
+   ]
+  ],
+  "idx": 51,
+  "en": "a lone Vampir.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@E30",
+  "off": 3632,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362084
+   ]
+  ],
+  "idx": 52,
+  "en": "His heart cursed, eaten by evil, he tried to",
+  "note": "Each Japanese row is a hand-broken 20-char line, so each English row kept within 240 px.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@E08",
+  "off": 3592,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362088
+   ]
+  ],
+  "idx": 53,
+  "en": "use his vast power to destroy humans and us.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@DEC",
+  "off": 3564,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148362092
+   ]
+  ],
+  "idx": 54,
+  "en": "With our whole clan, we at last subdued",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@DE0",
+  "off": 3552,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148362096
+   ]
+  ],
+  "idx": 55,
+  "en": ", and succeeded in sealing him",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@DC0",
+  "off": 3520,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148362100
+   ]
+  ],
+  "idx": 56,
+  "en": "away in a certain tower.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@D98",
+  "off": 3480,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362104
+   ]
+  ],
+  "idx": 57,
+  "en": "But lately, the power of the seal has been",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@D84",
+  "off": 3460,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148362108
+   ]
+  ],
+  "idx": 58,
+  "en": "weakening rapidly.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@D58",
+  "off": 3416,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362112
+   ]
+  ],
+  "idx": 59,
+  "en": "In that last battle, our clan used up nearly",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@D2C",
+  "off": 3372,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362116
+   ]
+  ],
+  "idx": 60,
+  "en": "all the power it had, and we have no means",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@D18",
+  "off": 3352,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148362120
+   ]
+  ],
+  "idx": 61,
+  "en": "left to stand against him.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@D04",
+  "off": 3332,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148362124
+   ]
+  ],
+  "idx": 62,
+  "en": " Except you.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@CD8",
+  "off": 3288,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362128
+   ]
+  ],
+  "idx": 63,
+  "en": "Of all of us, you have inherited one of the",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@CAC",
+  "off": 3244,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362132
+   ]
+  ],
+  "idx": 64,
+  "en": "greatest powers: the power, held only by the",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@C8C",
+  "off": 3212,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148362136
+   ]
+  ],
+  "idx": 65,
+  "en": "direct Eisen line, to wield \"Critical Vitality\".",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@C80",
+  "off": 3200,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148362140
+   ]
+  ],
+  "idx": 66,
+  "en": "Critical Vitality?",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@C54",
+  "off": 3156,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362144
+   ]
+  ],
+  "idx": 67,
+  "en": "For us, drinking blood means keeping our",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@C28",
+  "off": 3112,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362148
+   ]
+  ],
+  "idx": 68,
+  "en": "eternal life, but for the direct line, it means",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@C20",
+  "off": 3104,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148362152
+   ]
+  ],
+  "idx": 69,
+  "en": "more than that.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@BFC",
+  "off": 3068,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148362156
+   ]
+  ],
+  "idx": 70,
+  "en": "By using humans to nurture Critical Vitality,",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@BD0",
+  "off": 3024,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362160
+   ]
+  ],
+  "idx": 71,
+  "en": "you can gain greater fighting strength and",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@BC8",
+  "off": 3016,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148362164
+   ]
+  ],
+  "idx": 72,
+  "en": "healing power.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@B9C",
+  "off": 2972,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362168
+   ]
+  ],
+  "idx": 73,
+  "en": "Using Critical Vitality, you can do what we",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@B84",
+  "off": 2948,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148362172
+   ]
+  ],
+  "idx": 74,
+  "en": "could not 150 years ago, and erase ",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@B80",
+  "off": 2944,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148362176
+   ]
+  ],
+  "idx": 75,
+  "en": "",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@B64",
+  "off": 2916,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148362180
+   ]
+  ],
+  "idx": 76,
+  "en": "from this world.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@B38",
+  "off": 2872,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362184
+   ]
+  ],
+  "idx": 77,
+  "en": "This is urgent, so leave here at once.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@B10",
+  "off": 2832,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362188
+   ]
+  ],
+  "idx": 78,
+  "en": "I'll have Rusalie guide you",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@B04",
+  "off": 2820,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148362192
+   ]
+  ],
+  "idx": 79,
+  "en": "to Medoekia village.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@ADC",
+  "off": 2780,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362196
+   ]
+  ],
+  "idx": 80,
+  "en": "The calamity that the evil Vampir brings",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@AB4",
+  "off": 2740,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362200
+   ]
+  ],
+  "idx": 81,
+  "en": "can be stopped by your power. That is my",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@AAC",
+  "off": 2732,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148362204
+   ]
+  ],
+  "idx": 82,
+  "en": "hope",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@AA0",
+  "off": 2720,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148362208
+   ]
+  ],
+  "idx": 83,
+  "en": "I am counting on you, ",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@A9C",
+  "off": 2716,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148362212
+   ]
+  ],
+  "idx": 84,
+  "en": "\"",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@A88",
+  "off": 2696,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148362216
+   ]
+  ],
+  "idx": 85,
+  "en": "\", \"Critical Vitality\"",
+  "note": "Christopher's thought; the inserted name is player 2 (Duran).",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@A70",
+  "off": 2672,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148362220
+   ]
+  ],
+  "idx": 86,
+  "en": "There was so much I never knew",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@A50",
+  "off": 2640,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148362224
+   ]
+  ],
+  "idx": 87,
+  "en": "Lord Ragash told me everything.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@A24",
+  "off": 2596,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362228
+   ]
+  ],
+  "idx": 88,
+  "en": "I'll be your guide to Medoekia Village.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@A0C",
+  "off": 2572,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148362232
+   ]
+  ],
+  "idx": 89,
+  "en": "Come on, let's be off.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@9EC",
+  "off": 2540,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148362236
+   ]
+  ],
+  "idx": 90,
+  "en": "So you have awakened at last.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@9C4",
+  "off": 2500,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362240
+   ]
+  ],
+  "idx": 91,
+  "en": "I have waited so long for this moment.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@9B8",
+  "off": 2488,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148362244
+   ]
+  ],
+  "idx": 92,
+  "en": " Who are you?",
+  "note": "Leading space: follows the shared '...' row.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@9B0",
+  "off": 2480,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148362248
+   ]
+  ],
+  "idx": 93,
+  "en": ", my lord.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@994",
+  "off": 2452,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148362252
+   ]
+  ],
+  "idx": 94,
+  "en": "My name is Orgo.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@96C",
+  "off": 2412,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362256
+   ]
+  ],
+  "idx": 95,
+  "en": "I made this tower my roost and waited here",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@948",
+  "off": 2376,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148362260
+   ]
+  ],
+  "idx": 96,
+  "en": "for the day your seal would be broken.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@920",
+  "off": 2336,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362264
+   ]
+  ],
+  "idx": 97,
+  "en": "Please, take me as your familiar, and",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@908",
+  "off": 2312,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148362268
+   ]
+  ],
+  "idx": 98,
+  "en": "command me in anything you wish.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@8E4",
+  "off": 2276,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148362272
+   ]
+  ],
+  "idx": 99,
+  "en": " I have no memory of being sealed in this tower.",
+  "note": "Leading space: follows the shared '...' row.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@8C4",
+  "off": 2244,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148362276
+   ]
+  ],
+  "idx": 100,
+  "en": "Why can I not remember",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@89C",
+  "off": 2204,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362280
+   ]
+  ],
+  "idx": 101,
+  "en": "Master, you have been asleep for over 100",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@874",
+  "off": 2164,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362284
+   ]
+  ],
+  "idx": 102,
+  "en": "years. It is only natural if parts of your",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@858",
+  "off": 2136,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148362288
+   ]
+  ],
+  "idx": 103,
+  "en": "memory are still unclear.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@82C",
+  "off": 2092,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362292
+   ]
+  ],
+  "idx": 104,
+  "en": "It will surely come back to you in time.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@808",
+  "off": 2056,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148362296
+   ]
+  ],
+  "idx": 105,
+  "en": "You spoke of a \"seal\" just now, did you not?",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@7F8",
+  "off": 2040,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148362300
+   ]
+  ],
+  "idx": 106,
+  "en": "Yes. A barrier was laid on this tower so that you, Lord ",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@7EC",
+  "off": 2028,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148362304
+   ]
+  ],
+  "idx": 107,
+  "en": ", cannot",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@7C0",
+  "off": 1984,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362308
+   ]
+  ],
+  "idx": 108,
+  "en": "go outside.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@798",
+  "off": 1944,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362312
+   ]
+  ],
+  "idx": 109,
+  "en": "To break the barrier, a human must be made",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@778",
+  "off": 1912,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148362316
+   ]
+  ],
+  "idx": 110,
+  "en": "to open the door at this tower's entrance.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@750",
+  "off": 1872,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362320
+   ]
+  ],
+  "idx": 111,
+  "en": "The seal was made so that neither I nor any",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@728",
+  "off": 1832,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362324
+   ]
+  ],
+  "idx": 112,
+  "en": "other Vampir could ever break it.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@720",
+  "off": 1824,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148362328
+   ]
+  ],
+  "idx": 113,
+  "en": "A human",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@71C",
+  "off": 1820,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148362332
+   ]
+  ],
+  "idx": 114,
+  "en": " must be made",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@700",
+  "off": 1792,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148362336
+   ]
+  ],
+  "idx": 115,
+  "en": " to open the door? Is there no other way?",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@6D4",
+  "off": 1748,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362340
+   ]
+  ],
+  "idx": 116,
+  "en": "I can slip out through a gap in the window,",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@6AC",
+  "off": 1708,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362344
+   ]
+  ],
+  "idx": 117,
+  "en": "but I cannot break the seal.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@680",
+  "off": 1664,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362348
+   ]
+  ],
+  "idx": 118,
+  "en": "The villagers are all too frightened to even",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@670",
+  "off": 1648,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148362352
+   ]
+  ],
+  "idx": 119,
+  "en": "come near this tower.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@64C",
+  "off": 1612,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148362356
+   ]
+  ],
+  "idx": 120,
+  "en": "How shall we get the seal broken?",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@620",
+  "off": 1568,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362360
+   ]
+  ],
+  "idx": 121,
+  "en": "If the villagers won't do, then I need only",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@604",
+  "off": 1540,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148362364
+   ]
+  ],
+  "idx": 122,
+  "en": "lure someone here from elsewhere.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@5FC",
+  "off": 1532,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148362368
+   ]
+  ],
+  "idx": 123,
+  "en": "A letter",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@5F0",
+  "off": 1520,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148362372
+   ]
+  ],
+  "idx": 124,
+  "en": "?",
+  "note": "Follows the shared '...' row: 'A letter...?'",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@5E0",
+  "off": 1504,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148362376
+   ]
+  ],
+  "idx": 125,
+  "en": "Orgo, take this",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@5BC",
+  "off": 1468,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148362380
+   ]
+  ],
+  "idx": 126,
+  "en": "Have this delivered to the Association of",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@5B0",
+  "off": 1456,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148362384
+   ]
+  ],
+  "idx": 127,
+  "en": "Patent Agents in England.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@59C",
+  "off": 1436,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148362388
+   ]
+  ],
+  "idx": 128,
+  "en": "Yes, Master.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@574",
+  "off": 1396,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362392
+   ]
+  ],
+  "idx": 129,
+  "en": "...The Diary of Jonathan Harker...",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@568",
+  "off": 1384,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148362396
+   ]
+  ],
+  "idx": 130,
+  "en": "<Read>",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@558",
+  "off": 1368,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148362400
+   ]
+  ],
+  "idx": 131,
+  "en": "<Don't read>",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@548",
+  "off": 1352,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148362404
+   ]
+  ],
+  "idx": 132,
+  "en": "<August 21>",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@518",
+  "off": 1304,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148362408
+   ]
+  ],
+  "idx": 133,
+  "en": "Through the winding gorge I came at last to",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@4EC",
+  "off": 1260,
+  "size": 42,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362412
+   ]
+  ],
+  "idx": 134,
+  "en": "the Black Pass, with the tower of Eisen far off.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@4BC",
+  "off": 1212,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148362416
+   ]
+  ],
+  "idx": 135,
+  "en": "For a while I stared, as though dazed, at the",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@4A8",
+  "off": 1192,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148362420
+   ]
+  ],
+  "idx": 136,
+  "en": "shadow of the mist-shrouded tower.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@478",
+  "off": 1144,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148362424
+   ]
+  ],
+  "idx": 137,
+  "en": "Below me lay pastures, a scattering of houses,",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@450",
+  "off": 1104,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362428
+   ]
+  ],
+  "idx": 138,
+  "en": "and a small church at the center of the village.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@424",
+  "off": 1060,
+  "size": 42,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362432
+   ]
+  ],
+  "idx": 139,
+  "en": "The faint gloom I sense about this village—",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@404",
+  "off": 1028,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148362436
+   ]
+  ],
+  "idx": 140,
+  "en": "is it only the fault of the dismal weather?",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@3D4",
+  "off": 980,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148362440
+   ]
+  ],
+  "idx": 141,
+  "en": "Already I am reduced to pining for the bustle",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@3C8",
+  "off": 968,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148362444
+   ]
+  ],
+  "idx": 142,
+  "en": "of the great city of London.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@3B8",
+  "off": 952,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148362448
+   ]
+  ],
+  "idx": 143,
+  "en": "<August 22>",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@38C",
+  "off": 908,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362452
+   ]
+  ],
+  "idx": 144,
+  "en": "I have come from my native England to this",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@368",
+  "off": 872,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148362456
+   ]
+  ],
+  "idx": 145,
+  "en": "land of Medoekia, here in Eastern Europe,",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@33C",
+  "off": 828,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362460
+   ]
+  ],
+  "idx": 146,
+  "en": "at the written request of Count Valaur,",
+  "note": "Script appends this row to the 368 line after a button wait (no newline); leading space added.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@318",
+  "off": 792,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148362464
+   ]
+  ],
+  "idx": 147,
+  "en": "to finalize the contract for the purchase of",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@304",
+  "off": 772,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148362468
+   ]
+  ],
+  "idx": 148,
+  "en": "an estate in London.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@2E0",
+  "off": 736,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148362472
+   ]
+  ],
+  "idx": 149,
+  "en": "For me, as a patent agent, concluding this",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@2B8",
+  "off": 696,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362476
+   ]
+  ],
+  "idx": 150,
+  "en": "contract is a trial of sorts.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@288",
+  "off": 648,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148362480
+   ]
+  ],
+  "idx": 151,
+  "en": "When this venture succeeds, an honorable",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@25C",
+  "off": 604,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148362484
+   ]
+  ],
+  "idx": 152,
+  "en": "marriage is to be arranged for me.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@24C",
+  "off": 588,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148362488
+   ]
+  ],
+  "idx": 153,
+  "en": "<August 26>",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@224",
+  "off": 548,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362492
+   ]
+  ],
+  "idx": 154,
+  "en": "At last came my audience with the Count.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1FC",
+  "off": 508,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362496
+   ]
+  ],
+  "idx": 155,
+  "en": "Invited in, I opened the door of the old tower.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1D4",
+  "off": 468,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362500
+   ]
+  ],
+  "idx": 156,
+  "en": "I explained to the Count where his London estate",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1AC",
+  "off": 428,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362504
+   ]
+  ],
+  "idx": 157,
+  "en": "lay, and once the deed's formalities were done,",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@18C",
+  "off": 396,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148362508
+   ]
+  ],
+  "idx": 158,
+  "en": "I discovered the astonishing secret of",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@178",
+  "off": 376,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148362512
+   ]
+  ],
+  "idx": 159,
+  "en": "this man",
+  "note": "Followed by shared '...' + '.' rows: 'this man....'",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@164",
+  "off": 356,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148362516
+   ]
+  ],
+  "idx": 160,
+  "en": "<October 21>",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@14C",
+  "off": 332,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148362520
+   ]
+  ],
+  "idx": 161,
+  "en": "Several months have passed since then...",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@11C",
+  "off": 284,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148362524
+   ]
+  ],
+  "idx": 162,
+  "en": "As a vampire hunter, I have come back here",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@EC",
+  "off": 236,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148362528
+   ]
+  ],
+  "idx": 163,
+  "en": "once more. I am staying at the village church.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@C4",
+  "off": 196,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362532
+   ]
+  ],
+  "idx": 164,
+  "en": "Incredible as it is, the Count is undoubtedly",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@AC",
+  "off": 172,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148362536
+   ]
+  ],
+  "idx": 165,
+  "en": "a vampire who preys on people.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@84",
+  "off": 132,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148362540
+   ]
+  ],
+  "idx": 166,
+  "en": "Dr. Jack Seward's examination has also",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@6C",
+  "off": 108,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148362544
+   ]
+  ],
+  "idx": 167,
+  "en": "borne that out.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@64",
+  "off": 100,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148362548
+   ]
+  ],
+  "idx": 168,
+  "en": "We must stop Count ",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@4C",
+  "off": 76,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148362552
+   ]
+  ],
+  "idx": 169,
+  "en": " Valaur's",
+  "note": "Continues into the unextracted string at offset 0x1C (see @64 note).",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1C",
+  "off": 28,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148362556
+   ]
+  ],
+  "idx": 170,
+  "en": "terrible ambitions, whatever it takes.",
+  "note": "added after slice 002 report (pointer into \"--\" run)"
+ },
+ {
+  "id": "OPN.BIN@12B8",
+  "off": 4792,
+  "size": 204,
+  "slot": 207,
+  "refs": [
+   [
+    "code",
+    2148347856
+   ],
+   [
+    "code",
+    2148348508
+   ],
+   [
+    "code",
+    2148349100
+   ]
+  ],
+  "en": "",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@13A8",
+  "off": 5032,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "code",
+    2148350344
+   ]
+  ],
+  "en": "Chris",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@13B8",
+  "off": 5048,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "code",
+    2148350352
+   ]
+  ],
+  "en": "Duran",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@13C4",
+  "off": 5060,
+  "size": 8,
+  "slot": 8,
+  "refs": [
+   [
+    "code",
+    2148350644
+   ]
+  ],
+  "en": "Name Entry",
+  "note": "Name-entry screen title.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@13E0",
+  "off": 5088,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148363328
+   ]
+  ],
+  "en": "15",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@13E8",
+  "off": 5096,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148363324
+   ]
+  ],
+  "en": "14",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@13F0",
+  "off": 5104,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148363320
+   ]
+  ],
+  "en": "13",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@13F8",
+  "off": 5112,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148363316
+   ]
+  ],
+  "en": "12",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1400",
+  "off": 5120,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148363312
+   ]
+  ],
+  "en": "11",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1408",
+  "off": 5128,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148363308
+   ]
+  ],
+  "en": "10",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1410",
+  "off": 5136,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148363304
+   ]
+  ],
+  "en": "9",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1414",
+  "off": 5140,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148363300
+   ]
+  ],
+  "en": "8",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1418",
+  "off": 5144,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148363296
+   ]
+  ],
+  "en": "7",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@141C",
+  "off": 5148,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148363292
+   ]
+  ],
+  "en": "6",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1420",
+  "off": 5152,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148363288
+   ]
+  ],
+  "en": "5",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1424",
+  "off": 5156,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148363284
+   ]
+  ],
+  "en": "4",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1428",
+  "off": 5160,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148363280
+   ]
+  ],
+  "en": "3",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@142C",
+  "off": 5164,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148363276
+   ]
+  ],
+  "en": "2",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1430",
+  "off": 5168,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148363272
+   ]
+  ],
+  "en": "1",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1434",
+  "off": 5172,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148363268
+   ]
+  ],
+  "en": "0",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1438",
+  "off": 5176,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148363356
+   ]
+  ],
+  "en": "2 free blocks are required.",
+  "note": "Memory card messages: rows are stored in reverse display order; read as @145C then @1438, @14A8 then @1484.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@145C",
+  "off": 5212,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148363352
+   ]
+  ],
+  "en": "To save this game's data,",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@1484",
+  "off": 5252,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148363348
+   ]
+  ],
+  "en": "you will not be able to save your data.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@14A8",
+  "off": 5288,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148363344
+   ]
+  ],
+  "en": "You can play the game to the end, but",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@14CC",
+  "off": 5324,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148363340
+   ]
+  ],
+  "en": "Not enough free space on the memory card.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@14F4",
+  "off": 5364,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148363336
+   ]
+  ],
+  "en": "No memory card was found.",
+  "done": true
+ },
+ {
+  "id": "OPN.BIN@151C",
+  "off": 5404,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148363332
+   ]
+  ],
+  "en": "foo foo foo",
+  "done": true
+ }
+]

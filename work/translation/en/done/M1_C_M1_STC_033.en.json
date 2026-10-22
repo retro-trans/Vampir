@@ -1,0 +1,343 @@
+[
+ {
+  "id": "M1#2640",
+  "en": "Come now, there's no need to die over it."
+ },
+ {
+  "id": "M1#2641",
+  "en": "It'll be all right. I'm sure you'll find"
+ },
+ {
+  "id": "M1#2642",
+  "en": "a new love in no time."
+ },
+ {
+  "id": "M1#2643",
+  "en": "You think so?"
+ },
+ {
+  "id": "M1#2644",
+  "en": "When a handsome guy like you tells me that,"
+ },
+ {
+  "id": "M1#2645",
+  "en": "it's hard to just nod along, but somehow"
+ },
+ {
+  "id": "M1#2646",
+  "en": "I'm starting to think you're right",
+  "note": "No final punctuation: #2 '...' + #414 '!' follow -> 'right...!'"
+ },
+ {
+  "id": "M1#2647",
+  "en": ", it's all thanks to you!!"
+ },
+ {
+  "id": "M1#2648",
+  "en": "I've got a sweetheart now."
+ },
+ {
+  "id": "M1#2649",
+  "en": "the sweetest-natured girl...",
+  "note": "Continues #2590 'She works at the same factory, and she's' (slice 032); same wording as #2591."
+ },
+ {
+  "id": "M1#2650",
+  "en": "It's because you gave me advice back then"
+ },
+ {
+  "id": "M1#2651",
+  "en": "that I've been able to find such happiness.",
+  "note": "Same wording as #2593."
+ },
+ {
+  "id": "M1#2652",
+  "en": "Thank you, truly."
+ },
+ {
+  "id": "M1#2653",
+  "en": "But now I've got a new worry..."
+ },
+ {
+  "id": "M1#2654",
+  "en": "Will you hear me out?"
+ },
+ {
+  "id": "M1#2655",
+  "en": "That's my new worry.",
+  "note": "Follows #2597 'Whether or not I should marry her...'."
+ },
+ {
+  "id": "M1#2656",
+  "en": "My friend",
+  "note": "Followed by #2 '...'."
+ },
+ {
+  "id": "M1#2657",
+  "en": "What brings you here at this hour?",
+  "note": "Speaker not named in used_in (msg 100264); taken as Kurten (polite night register, cf. #2590-#2601)."
+ },
+ {
+  "id": "M1#2658",
+  "en": "Well, there's a favor I'd like to ask of you",
+  "note": "No final punctuation: msg 100287 opens with #180 '...' that continues this line."
+ },
+ {
+  "id": "M1#2659",
+  "en": "You've listened to all my troubles till now."
+ },
+ {
+  "id": "M1#2660",
+  "en": "Now it's my turn to listen to yours."
+ },
+ {
+  "id": "M1#2661",
+  "en": "So what is it?"
+ },
+ {
+  "id": "M1#2662",
+  "en": "I'd rather no one else heard this."
+ },
+ {
+  "id": "M1#2663",
+  "en": "Would you lend me your ear for a moment?"
+ },
+ {
+  "id": "M1#2664",
+  "en": "*shiver shiver*..."
+ },
+ {
+  "id": "M1#2665",
+  "en": "...Fighting's so scaaary...",
+  "note": "Shared by 103014 and 103051."
+ },
+ {
+  "id": "M1#2666",
+  "en": "Come on, just steel yourself and fight."
+ },
+ {
+  "id": "M1#2667",
+  "en": "...*shiver shiver*..."
+ },
+ {
+  "id": "M1#2668",
+  "en": "Your strength is genuine... Fear not,"
+ },
+ {
+  "id": "M1#2669",
+  "en": "and fight."
+ },
+ {
+  "id": "M1#2670",
+  "en": "W-Who's there?"
+ },
+ {
+  "id": "M1#2671",
+  "en": "Who the heck are you...",
+  "note": "Slice 034 #2720 (same line in msg 103552, followed by 3x #180) should match: 'Who the heck are you'."
+ },
+ {
+  "id": "M1#2672",
+  "en": "Don't tell me you've got battle orders from the army."
+ },
+ {
+  "id": "M1#2673",
+  "en": "I've had it with fighting, I tell ya!"
+ },
+ {
+  "id": "M1#2674",
+  "en": "You are a soldier, are you not?"
+ },
+ {
+  "id": "M1#2675",
+  "en": "Why do you fear battle?"
+ },
+ {
+  "id": "M1#2676",
+  "en": "Just leave me alone."
+ },
+ {
+  "id": "M1#2677",
+  "en": "I just ain't cut out to be a soldier."
+ },
+ {
+  "id": "M1#2678",
+  "en": "Anyway, in this world there's stuff you're"
+ },
+ {
+  "id": "M1#2679",
+  "en": "cut out for and stuff you ain't, see,"
+ },
+ {
+  "id": "M1#2680",
+  "en": "and I just ain't cut out to be a soldier."
+ },
+ {
+  "id": "M1#2681",
+  "en": "We were dirt poor, and on top of that I had"
+ },
+ {
+  "id": "M1#2682",
+  "en": "a whole slew of brothers and sisters,",
+  "note": "Siblings rendered 'brothers and sisters' (gender of siblings unknown; generic reading)."
+ },
+ {
+  "id": "M1#2683",
+  "en": "so I decided to join the army."
+ },
+ {
+  "id": "M1#2684",
+  "en": "But see, I can't stand blood."
+ },
+ {
+  "id": "M1#2685",
+  "en": "The second I see an enemy soldier's blood,"
+ },
+ {
+  "id": "M1#2686",
+  "en": "I just go clean out of my head."
+ },
+ {
+  "id": "M1#2687",
+  "en": "And in the end, I keel right over."
+ },
+ {
+  "id": "M1#2688",
+  "en": "Because you left the front lines that way,"
+ },
+ {
+  "id": "M1#2689",
+  "en": "isn't that why you're still alive today?"
+ },
+ {
+  "id": "M1#2690",
+  "en": "Yeah, that's gotta be it. Hahaha."
+ },
+ {
+  "id": "M1#2691",
+  "en": "This fine medal... is it yours?"
+ },
+ {
+  "id": "M1#2692",
+  "en": "Oh, that?",
+  "note": "Shared with msg 103790."
+ },
+ {
+  "id": "M1#2693",
+  "en": "I got it in the last battle.",
+  "note": "Shared with msg 103816 (followed by #2742, slice 034)."
+ },
+ {
+  "id": "M1#2694",
+  "en": "Next thing I knew, the enemy was all dead..."
+ },
+ {
+  "id": "M1#2695",
+  "en": "Not that I remember a thing, though."
+ },
+ {
+  "id": "M1#2696",
+  "en": "(This one",
+  "note": "Followed by 3x #180 then #2697."
+ },
+ {
+  "id": "M1#2697",
+  "en": " could be useful.)",
+  "note": "Leading space after the #180 dots: '(This one... could be useful.)'."
+ },
+ {
+  "id": "M1#2698",
+  "en": "I'm never going off to war"
+ },
+ {
+  "id": "M1#2699",
+  "en": "ever again!"
+ },
+ {
+  "id": "M1#2700",
+  "en": "I plan to slip out of these barracks someday."
+ },
+ {
+  "id": "M1#2701",
+  "en": ", I'll let you in on a secret.",
+  "note": "Name + this."
+ },
+ {
+  "id": "M1#2702",
+  "en": "I'm thinking I'll pick my moment and desert"
+ },
+ {
+  "id": "M1#2703",
+  "en": "these barracks, maybe some night."
+ },
+ {
+  "id": "M1#2704",
+  "en": "Who's there?",
+  "note": "No used_in; assumed Hermann (night escape scene, before #2705-#2707 / msg 103394), since the player answers 'It's me' (#2708)."
+ },
+ {
+  "id": "M1#2705",
+  "en": "(",
+  "note": "Shared opening parenthesis (msgs 148991, 210323, 211328, 271143)."
+ },
+ {
+  "id": "M1#2706",
+  "en": "Tch, ",
+  "note": "No used_in; assumed joined '(' + 'Tch, ' + #2707 at the start of msg 103394."
+ },
+ {
+  "id": "M1#2707",
+  "en": "I've been spotted",
+  "note": "Followed by #2 '...' and #1263 ')': '(Tch, I've been spotted...)'."
+ },
+ {
+  "id": "M1#2708",
+  "en": "It's me",
+  "note": "Followed by 3x #180 and #25 (see report on dots)."
+ },
+ {
+  "id": "M1#2709",
+  "en": "Geez, "
+ },
+ {
+  "id": "M1#2710",
+  "en": ", it's you.",
+  "note": "Shared: Hermann 103407 'Geez, ' + NAME + ', it's you.'; Wesseli 144316 NAME + ', it's you.' then #3763."
+ },
+ {
+  "id": "M1#2711",
+  "en": "Don't scare me like that."
+ },
+ {
+  "id": "M1#2712",
+  "en": "I'm just about to"
+ },
+ {
+  "id": "M1#2713",
+  "en": "sneak out of these barracks."
+ },
+ {
+  "id": "M1#2714",
+  "en": "Well then, see ya."
+ },
+ {
+  "id": "M1#2715",
+  "en": "Gyaaaaaah!"
+ },
+ {
+  "id": "M1#2716",
+  "en": "Y-You, what are you doing!?"
+ },
+ {
+  "id": "M1#2717",
+  "en": "Eeeeeek! B-Blood, it's blooood! Rrraaagh!"
+ },
+ {
+  "id": "M1#2718",
+  "en": "If not for your cowardice, you'd be a fine soldier."
+ },
+ {
+  "id": "M1#2719",
+  "en": "Now fight, and fight well."
+ }
+]

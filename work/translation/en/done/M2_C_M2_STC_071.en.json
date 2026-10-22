@@ -1,0 +1,326 @@
+[
+ {
+  "id": "M2#5680",
+  "en": "Please come back later."
+ },
+ {
+  "id": "M2#5681",
+  "en": "Welcome, ",
+  "note": "Name + #98 '.': 'Welcome, {NAME}.'"
+ },
+ {
+  "id": "M2#5682",
+  "en": "I'm glad we have time to talk."
+ },
+ {
+  "id": "M2#5683",
+  "en": "If you could come during the day,"
+ },
+ {
+  "id": "M2#5684",
+  "en": "I'd have more time for you, though."
+ },
+ {
+  "id": "M2#5685",
+  "en": "I look forward to our talk."
+ },
+ {
+  "id": "M2#5686",
+  "en": "I came because I was told this is"
+ },
+ {
+  "id": "M2#5687",
+  "en": "Isaac's house..."
+ },
+ {
+  "id": "M2#5688",
+  "en": "That sounds like difficult work."
+ },
+ {
+  "id": "M2#5689",
+  "en": "Wow... I'm learning a lot."
+ },
+ {
+  "id": "M2#5690",
+  "en": "May I drop by now and then?"
+ },
+ {
+  "id": "M2#5691",
+  "en": "Yes."
+ },
+ {
+  "id": "M2#5692",
+  "en": "I've become interested in philosophers,"
+ },
+ {
+  "id": "M2#5693",
+  "en": "so I hoped to hear you speak, Isaac..."
+ },
+ {
+  "id": "M2#5694",
+  "en": "Work? That's not quite it, I'd say."
+ },
+ {
+  "id": "M2#5695",
+  "en": "May I drop by now and then?"
+ },
+ {
+  "id": "M2#5696",
+  "en": "How good of you to come."
+ },
+ {
+  "id": "M2#5697",
+  "en": "It seems you're a bit of a rumor in town."
+ },
+ {
+  "id": "M2#5698",
+  "en": "Still, some things do reach me."
+ },
+ {
+  "id": "M2#5699",
+  "en": "Yes, that's right."
+ },
+ {
+  "id": "M2#5700",
+  "en": "This is my first time in London."
+ },
+ {
+  "id": "M2#5701",
+  "en": "London seems to be the most advanced city"
+ },
+ {
+  "id": "M2#5702",
+  "en": "in culture and civilization."
+ },
+ {
+  "id": "M2#5703",
+  "en": "Well, so people generally say."
+ },
+ {
+  "id": "M2#5704",
+  "en": "But people's minds have not matured."
+ },
+ {
+  "id": "M2#5705",
+  "en": "They must look deeper into themselves."
+ },
+ {
+  "id": "M2#5706",
+  "en": "But they're so driven by daily labor that"
+ },
+ {
+  "id": "M2#5707",
+  "en": "they have no time for that, as things are."
+ },
+ {
+  "id": "M2#5708",
+  "en": "As you see, I rarely even go outside."
+ },
+ {
+  "id": "M2#5709",
+  "en": "Nor do I care to find out..."
+ },
+ {
+  "id": "M2#5710",
+  "en": "Do tell me if you hear anything interesting."
+ },
+ {
+  "id": "M2#5711",
+  "en": "I was told this is the home of Isaac the"
+ },
+ {
+  "id": "M2#5712",
+  "en": "philosopher. I'd like to hear you speak."
+ },
+ {
+  "id": "M2#5713",
+  "en": "Indeed it is. I am Isaac."
+ },
+ {
+  "id": "M2#5714",
+  "en": "If it's not urgent, please come tomorrow."
+ },
+ {
+  "id": "M2#5715",
+  "en": "Welcome, ",
+  "note": "Same as #5681 (JP has no comma): 'Welcome, {NAME}.'"
+ },
+ {
+  "id": "M2#5716",
+  "en": "If you could come during the day, I'd have"
+ },
+ {
+  "id": "M2#5717",
+  "en": "more time for you, though."
+ },
+ {
+  "id": "M2#5718",
+  "en": "I look forward to our talk."
+ },
+ {
+  "id": "M2#5719",
+  "en": "Isaac..."
+ },
+ {
+  "id": "M2#5720",
+  "en": "Your ideas are wonderful."
+ },
+ {
+  "id": "M2#5721",
+  "en": "But thinking alone doesn't solve anything."
+ },
+ {
+  "id": "M2#5722",
+  "en": "I've already set out on my path, so"
+ },
+ {
+  "id": "M2#5723",
+  "en": "I can't stand still and contemplate."
+ },
+ {
+  "id": "M2#5724",
+  "en": "So..."
+ },
+ {
+  "id": "M2#5725",
+  "en": "So, please help me, just for a little while."
+ },
+ {
+  "id": "M2#5726",
+  "en": "Oh, my master... Your orders, please."
+ },
+ {
+  "id": "M2#5727",
+  "en": "Sleepy... or rather, mornings are hard on me."
+ },
+ {
+  "id": "M2#5728",
+  "en": "And I do get plenty of sleep."
+ },
+ {
+  "id": "M2#5729",
+  "en": ", my master, for you",
+  "note": "Servant mode, name first: '{NAME}, my master, for you / I would do anything.' Follows #0 ', my master...' wording (slice 000). Also Belinda msg 316057, then #8083."
+ },
+ {
+  "id": "M2#5730",
+  "en": "I would do anything."
+ },
+ {
+  "id": "M2#5731",
+  "en": "The sunlight is so bright..."
+ },
+ {
+  "id": "M2#5732",
+  "en": "I feel like I've turned into a mole or a bat."
+ },
+ {
+  "id": "M2#5733",
+  "en": "Oh, and who might you be?"
+ },
+ {
+  "id": "M2#5734",
+  "en": "If it's the water bill, I've already paid it."
+ },
+ {
+  "id": "M2#5735",
+  "en": "Do I look like a bill collector to you?"
+ },
+ {
+  "id": "M2#5736",
+  "en": "A pleasure to meet you, Felix."
+ },
+ {
+  "id": "M2#5737",
+  "en": "Ah... just an ordinary visitor, then."
+ },
+ {
+  "id": "M2#5738",
+  "en": "You know my name, I see."
+ },
+ {
+  "id": "M2#5739",
+  "en": "Let me say it properly: how do you do."
+ },
+ {
+  "id": "M2#5740",
+  "en": "I'm told that, as scientists go around here,"
+ },
+ {
+  "id": "M2#5741",
+  "en": "you are about the only one."
+ },
+ {
+  "id": "M2#5742",
+  "en": "What sort of research do you do?"
+ },
+ {
+  "id": "M2#5743",
+  "en": "Well, er, that is..."
+ },
+ {
+  "id": "M2#5744",
+  "en": "It's hard to explain to a layman."
+ },
+ {
+  "id": "M2#5745",
+  "en": "I also do some inventing, of sorts,"
+ },
+ {
+  "id": "M2#5746",
+  "en": "let's put it that way."
+ },
+ {
+  "id": "M2#5747",
+  "en": "Hmm. Most interesting."
+ },
+ {
+  "id": "M2#5748",
+  "en": "I shall call again."
+ },
+ {
+  "id": "M2#5749",
+  "en": "Oh my, leaving so soon?"
+ },
+ {
+  "id": "M2#5750",
+  "en": "Until next time."
+ },
+ {
+  "id": "M2#5751",
+  "en": "Sorry I took you for a reporter or such.",
+  "note": "Felix took the player for a reporter in this branch (the water-bill line belongs to the first-visit branch); kept as in JP."
+ },
+ {
+  "id": "M2#5752",
+  "en": "Er, your name was..."
+ },
+ {
+  "id": "M2#5753",
+  "en": " is the name, Felix."
+ },
+ {
+  "id": "M2#5754",
+  "en": "I neglected to ask you last time, but..."
+ },
+ {
+  "id": "M2#5755",
+  "en": "Oh, back so soon?"
+ },
+ {
+  "id": "M2#5756",
+  "en": "Are you visiting again?"
+ },
+ {
+  "id": "M2#5757",
+  "en": "Do come in. Please don't touch the"
+ },
+ {
+  "id": "M2#5758",
+  "en": "test tubes."
+ },
+ {
+  "id": "M2#5759",
+  "en": "I'm in the middle of a little experiment..."
+ }
+]

@@ -1,0 +1,337 @@
+[
+ {
+  "id": "M1#6320",
+  "en": "and lean on me all you like."
+ },
+ {
+  "id": "M1#6321",
+  "en": "Thank you...",
+  "note": "no used_in; read as the player's reply to Mrs. Zille (msg 251010 ends on [PLAYER])"
+ },
+ {
+  "id": "M1#6322",
+  "en": "I wasted no time taking you up on that offer."
+ },
+ {
+  "id": "M1#6323",
+  "en": "I will be your servant"
+ },
+ {
+  "id": "M1#6324",
+  "en": "Oh, sir"
+ },
+ {
+  "id": "M1#6325",
+  "en": " What could you want with",
+  "note": "leading space: follows #2 '...'"
+ },
+ {
+  "id": "M1#6326",
+  "en": "a poor, unfortunate woman like me?"
+ },
+ {
+  "id": "M1#6327",
+  "en": "Oh? You consider yourself unfortunate?"
+ },
+ {
+  "id": "M1#6328",
+  "en": "I take in sewing, but I have three little ones,"
+ },
+ {
+  "id": "M1#6329",
+  "en": "a babe in arms among them..."
+ },
+ {
+  "id": "M1#6330",
+  "en": "It's all I can do to get through each day."
+ },
+ {
+  "id": "M1#6331",
+  "en": "Now, I must get to my sewing..."
+ },
+ {
+  "id": "M1#6332",
+  "en": "Otherwise my children will starve to death."
+ },
+ {
+  "id": "M1#6333",
+  "en": "sir",
+  "note": "after 'Oh, ' in msgs 254816/255031; capitalised variant where it starts the line",
+  "variants": [
+   {
+    "msg": 254702,
+    "en": "Sir"
+   }
+  ]
+ },
+ {
+  "id": "M1#6334",
+  "en": ", to be spoken to by a fine man like you"
+ },
+ {
+  "id": "M1#6335",
+  "en": "is more than I deserve."
+ },
+ {
+  "id": "M1#6336",
+  "en": ", sir"
+ },
+ {
+  "id": "M1#6337",
+  "en": "Thank you for always taking the time to"
+ },
+ {
+  "id": "M1#6338",
+  "en": "speak to me"
+ },
+ {
+  "id": "M1#6339",
+  "en": "sir.",
+  "note": "follows #6070 'Oh, '"
+ },
+ {
+  "id": "M1#6340",
+  "en": " What do you want with a wretched,",
+  "note": "leading space: follows 'Oh, sir.' or 'Oh' + '...'"
+ },
+ {
+  "id": "M1#6341",
+  "en": "worn-out woman like me?"
+ },
+ {
+  "id": "M1#6342",
+  "en": "a babe in arms among them"
+ },
+ {
+  "id": "M1#6343",
+  "en": "I hardly know how we'll make it to tomorrow."
+ },
+ {
+  "id": "M1#6344",
+  "en": "My little ones are waiting at home, so I must go."
+ },
+ {
+  "id": "M1#6345",
+  "en": "You're so kind to speak to someone like me."
+ },
+ {
+  "id": "M1#6346",
+  "en": "Thank you"
+ },
+ {
+  "id": "M1#6347",
+  "en": ","
+ },
+ {
+  "id": "M1#6348",
+  "en": "talking with you is what keeps me going"
+ },
+ {
+  "id": "M1#6349",
+  "en": "these days"
+ },
+ {
+  "id": "M1#6350",
+  "en": "Hello. Pleased to meet you."
+ },
+ {
+  "id": "M1#6351",
+  "en": "My name is Lotte."
+ },
+ {
+  "id": "M1#6352",
+  "en": "This is where we do our sewing"
+ },
+ {
+  "id": "M1#6353",
+  "en": "People like me, with three children"
+ },
+ {
+  "id": "M1#6354",
+  "en": "and only just getting by each day, work"
+ },
+ {
+  "id": "M1#6355",
+  "en": "in a place like this",
+  "note": "shared ending after #6354 / #6359"
+ },
+ {
+  "id": "M1#6356",
+  "en": "You're the gentleman I met the other day."
+ },
+ {
+  "id": "M1#6357",
+  "en": "This is where we do our sewing"
+ },
+ {
+  "id": "M1#6358",
+  "en": "People like me, with three little ones"
+ },
+ {
+  "id": "M1#6359",
+  "en": "and only just getting by each day, work"
+ },
+ {
+  "id": "M1#6360",
+  "en": "That a fine gentleman like you would come"
+ },
+ {
+  "id": "M1#6361",
+  "en": "to a place like this just to talk with me"
+ },
+ {
+  "id": "M1#6362",
+  "en": "It's more than I deserve."
+ },
+ {
+  "id": "M1#6363",
+  "en": "You've come to see me again today"
+ },
+ {
+  "id": "M1#6364",
+  "en": "The tailor has sent an order, so right now"
+ },
+ {
+  "id": "M1#6365",
+  "en": "I'm sewing shirts"
+ },
+ {
+  "id": "M1#6366",
+  "en": "I sew new clothes every day for my work,"
+ },
+ {
+  "id": "M1#6367",
+  "en": "and yet all I can give my children to wear"
+ },
+ {
+  "id": "M1#6368",
+  "en": "are ragged hand-me-downs."
+ },
+ {
+  "id": "M1#6369",
+  "en": "I can't even feed them anything decent."
+ },
+ {
+  "id": "M1#6370",
+  "en": "Children with no one but a woman like me"
+ },
+ {
+  "id": "M1#6371",
+  "en": "to depend on are truly unfortunate."
+ },
+ {
+  "id": "M1#6372",
+  "en": "You've come to see me again."
+ },
+ {
+  "id": "M1#6373",
+  "en": "My last tailoring job went well, so today"
+ },
+ {
+  "id": "M1#6374",
+  "en": "I'm getting a little more pay than usual",
+  "note": "#1260 '.' follows"
+ },
+ {
+  "id": "M1#6375",
+  "en": "So today, I'll be able to give my children"
+ },
+ {
+  "id": "M1#6376",
+  "en": "some milk to drink"
+ },
+ {
+  "id": "M1#6377",
+  "en": "..."
+ },
+ {
+  "id": "M1#6378",
+  "en": " If only my husband were still alive",
+  "note": "leading space: follows #1221 + #2 '...'"
+ },
+ {
+  "id": "M1#6379",
+  "en": "My husband died of an illness a year ago,"
+ },
+ {
+  "id": "M1#6380",
+  "en": "you see"
+ },
+ {
+  "id": "M1#6381",
+  "en": "When someone's life comes to an end, it's"
+ },
+ {
+  "id": "M1#6382",
+  "en": "over so quickly, isn't it"
+ },
+ {
+  "id": "M1#6383",
+  "en": "I'm Lotte."
+ },
+ {
+  "id": "M1#6384",
+  "en": "I scrape out a living doing needlework."
+ },
+ {
+  "id": "M1#6385",
+  "en": "I'm a poor woman, struggling to get by"
+ },
+ {
+  "id": "M1#6386",
+  "en": "day to day with three little children."
+ },
+ {
+  "id": "M1#6387",
+  "en": "Even when my children cry from hunger,"
+ },
+ {
+  "id": "M1#6388",
+  "en": "there's nothing I can do for them"
+ },
+ {
+  "id": "M1#6389",
+  "en": "I wish I could feed my children all the"
+ },
+ {
+  "id": "M1#6390",
+  "en": "good food they could eat"
+ },
+ {
+  "id": "M1#6391",
+  "en": "But on my wages, it's just not possible"
+ },
+ {
+  "id": "M1#6392",
+  "en": ", whenever I see your face,"
+ },
+ {
+  "id": "M1#6393",
+  "en": "I feel a little more cheerful."
+ },
+ {
+  "id": "M1#6394",
+  "en": "To think you'd trouble to visit a house like this!"
+ },
+ {
+  "id": "M1#6395",
+  "en": "No sign of her waking at all.",
+  "note": "player's night monologue over the sleeping Lotte"
+ },
+ {
+  "id": "M1#6396",
+  "en": "Her daytime work must be grueling."
+ },
+ {
+  "id": "M1#6397",
+  "en": "Then I'll give hardworking Lotte"
+ },
+ {
+  "id": "M1#6398",
+  "en": "a night job as well."
+ },
+ {
+  "id": "M1#6399",
+  "en": "Made to toil at sewing by day,"
+ }
+]

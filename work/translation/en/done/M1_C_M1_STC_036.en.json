@@ -1,0 +1,349 @@
+[
+ {
+  "id": "M1#2880",
+  "en": "but his kind may prove surprisingly useful"
+ },
+ {
+  "id": "M1#2881",
+  "en": "as a Dhampir."
+ },
+ {
+  "id": "M1#2882",
+  "en": "Ah, you! So you've followed me even here",
+  "note": "#2 '...' follows"
+ },
+ {
+  "id": "M1#2883",
+  "en": "Just why do you keep"
+ },
+ {
+  "id": "M1#2884",
+  "en": "dogging me like this?"
+ },
+ {
+  "id": "M1#2885",
+  "en": "Heh heh heh. I'll show you right now."
+ },
+ {
+  "id": "M1#2886",
+  "en": "Why you... Let go!"
+ },
+ {
+  "id": "M1#2887",
+  "en": "Gyaaah",
+  "note": "#414 '!' follows"
+ },
+ {
+  "id": "M1#2888",
+  "en": "He can play watchman, at best.",
+  "note": "Duran"
+ },
+ {
+  "id": "M1#2889",
+  "en": "That's about all a man like him is good for."
+ },
+ {
+  "id": "M1#2890",
+  "en": "Hmph. I'm sick of seeing your face, boy."
+ },
+ {
+  "id": "M1#2891",
+  "en": "What is it, boy?"
+ },
+ {
+  "id": "M1#2892",
+  "en": "You're a persistent one, boy."
+ },
+ {
+  "id": "M1#2893",
+  "en": "You must be a real oddball, boy."
+ },
+ {
+  "id": "M1#2894",
+  "en": "Boy, what are you doing in a place like this?"
+ },
+ {
+  "id": "M1#2895",
+  "en": "Oh, nothing. I'm just taking a walk."
+ },
+ {
+  "id": "M1#2896",
+  "en": "Grr. Suspicious character."
+ },
+ {
+  "id": "M1#2897",
+  "en": "I'm the warehouse watchman here."
+ },
+ {
+  "id": "M1#2898",
+  "en": "I can't let a suspicious type like you"
+ },
+ {
+  "id": "M1#2899",
+  "en": "get anywhere near this warehouse."
+ },
+ {
+  "id": "M1#2900",
+  "en": "I'll have you leave at once."
+ },
+ {
+  "id": "M1#2901",
+  "en": "You again, boy",
+  "note": "#2 '...' follows"
+ },
+ {
+  "id": "M1#2902",
+  "en": "Oh, nothing",
+  "note": "#2 '...' then #2903 follow"
+ },
+ {
+  "id": "M1#2903",
+  "en": " I'm just taking a walk.",
+  "note": "leading space: follows #2 '...' on the same line"
+ },
+ {
+  "id": "M1#2904",
+  "en": "So that's how it is."
+ },
+ {
+  "id": "M1#2905",
+  "en": "Stop prowling around here."
+ },
+ {
+  "id": "M1#2906",
+  "en": "Though you're the most suspicious of all, boy",
+  "note": "#2 '...' follows; mirrors M1#2865"
+ },
+ {
+  "id": "M1#2907",
+  "en": "I haven't stolen anything."
+ },
+ {
+  "id": "M1#2908",
+  "en": "Is that so? Then just what reason do you have"
+ },
+ {
+  "id": "M1#2909",
+  "en": "for loitering around here",
+  "note": "#2 '...' + #461 '?' follow"
+ },
+ {
+  "id": "M1#2910",
+  "en": "You must be up to something shady",
+  "note": "#414 '!' follows"
+ },
+ {
+  "id": "M1#2911",
+  "en": "As for that shady character",
+  "note": "#2 '...' follows; JP comma dropped so it reads 'character...'"
+ },
+ {
+  "id": "M1#2912",
+  "en": "it seems he's a young man.",
+  "note": "continues #2911 after a button wait"
+ },
+ {
+  "id": "M1#2913",
+  "en": "Out with it, boy. It's you, isn't it",
+  "note": "#414 '!' + #461 '?' follow -> '!?'"
+ },
+ {
+  "id": "M1#2914",
+  "en": "I'm not interested in that sort of thing."
+ },
+ {
+  "id": "M1#2915",
+  "en": "You have the wrong person",
+  "note": "#2 '...' follows"
+ },
+ {
+  "id": "M1#2916",
+  "en": "Curses! What an infuriating brat."
+ },
+ {
+  "id": "M1#2917",
+  "en": "Don't you ever show me your face again",
+  "note": "#414 '!' follows"
+ },
+ {
+  "id": "M1#2918",
+  "en": "Just give me your orders, if you please.",
+  "note": "Henri as a Nosferatu servant; NAME + ', my master...' / '...' precede"
+ },
+ {
+  "id": "M1#2919",
+  "en": "Good morning. A fine morning, this."
+ },
+ {
+  "id": "M1#2920",
+  "en": "I'm off to work in the forest now."
+ },
+ {
+  "id": "M1#2921",
+  "en": "Will you come along to the forest with me?"
+ },
+ {
+  "id": "M1#2922",
+  "en": "It's mighty refreshing."
+ },
+ {
+  "id": "M1#2923",
+  "en": "You're ",
+  "note": "'You're ' + NAME + #2924/#2991"
+ },
+ {
+  "id": "M1#2924",
+  "en": ", if memory serves."
+ },
+ {
+  "id": "M1#2925",
+  "en": "Once you get old, your memory starts to go."
+ },
+ {
+  "id": "M1#2926",
+  "en": "I've done a spell of work in the forest,"
+ },
+ {
+  "id": "M1#2927",
+  "en": "and now I'm heading home."
+ },
+ {
+  "id": "M1#2928",
+  "en": "Working long hours at my age"
+ },
+ {
+  "id": "M1#2929",
+  "en": "is a bit much for me."
+ },
+ {
+  "id": "M1#2930",
+  "en": "I used to be able to work all day long",
+  "note": "#2 '...' follows"
+ },
+ {
+  "id": "M1#2931",
+  "en": "I'm done working for today."
+ },
+ {
+  "id": "M1#2932",
+  "en": "has worn me out a bit.",
+  "note": "follows #2928"
+ },
+ {
+  "id": "M1#2933",
+  "en": "By the way, who might you be again?"
+ },
+ {
+  "id": "M1#2934",
+  "en": " is my name, sir."
+ },
+ {
+  "id": "M1#2935",
+  "en": "Oh, that's right. That's right."
+ },
+ {
+  "id": "M1#2936",
+  "en": "My memory's gone bad, now that I'm old."
+ },
+ {
+  "id": "M1#2937",
+  "en": "But I've finally learned your name."
+ },
+ {
+  "id": "M1#2938",
+  "en": "Oh, hello there."
+ },
+ {
+  "id": "M1#2939",
+  "en": "And you are",
+  "note": "#2 '...' + #461 '?' follow"
+ },
+ {
+  "id": "M1#2940",
+  "en": "."
+ },
+ {
+  "id": "M1#2941",
+  "en": "I see, I see."
+ },
+ {
+  "id": "M1#2942",
+  "en": "Well, make yourself at home."
+ },
+ {
+  "id": "M1#2943",
+  "en": "I'm Henri, the woodcutter."
+ },
+ {
+  "id": "M1#2944",
+  "en": "I'm a woodcutter, you see,"
+ },
+ {
+  "id": "M1#2945",
+  "en": "so I head to the forest early every morning."
+ },
+ {
+  "id": "M1#2946",
+  "en": "By the way, what was your name again?"
+ },
+ {
+  "id": "M1#2947",
+  "en": "That's right, that's right.",
+  "note": "variant for msg 115808 (after #2214 'Ah, ')",
+  "variants": [
+   {
+    "msg": 115808,
+    "en": "that's right, that's right."
+   }
+  ]
+ },
+ {
+  "id": "M1#2948",
+  "en": "Well, well, how good of you to come."
+ },
+ {
+  "id": "M1#2949",
+  "en": "I'm an old man living all on my own,"
+ },
+ {
+  "id": "M1#2950",
+  "en": "so I'm always glad to have visitors."
+ },
+ {
+  "id": "M1#2951",
+  "en": "(Hmm, this fellow..."
+ },
+ {
+  "id": "M1#2952",
+  "en": "Who could he be?)",
+  "note": "separate message after #2951/#2993"
+ },
+ {
+  "id": "M1#2953",
+  "en": "Coming to visit an old man's house like this,"
+ },
+ {
+  "id": "M1#2954",
+  "en": "you're a good soul, you are."
+ },
+ {
+  "id": "M1#2955",
+  "en": "Bless you, bless you."
+ },
+ {
+  "id": "M1#2956",
+  "en": "I'm Henri. I work as a woodcutter."
+ },
+ {
+  "id": "M1#2957",
+  "en": "And you are?"
+ },
+ {
+  "id": "M1#2958",
+  "en": "Once you're getting on, woodcutting gets"
+ },
+ {
+  "id": "M1#2959",
+  "en": "to be pretty hard going."
+ }
+]

@@ -1,0 +1,354 @@
+[
+ {
+  "id": "MCX.BIN@84",
+  "en": "Empty"
+ },
+ {
+  "id": "MCX.BIN@70",
+  "en": "Other game data"
+ },
+ {
+  "id": "MCX.BIN@60",
+  "en": "Christopher"
+ },
+ {
+  "id": "MCX.BIN@54",
+  "en": "Duran"
+ },
+ {
+  "id": "MCX.BIN@48",
+  "en": "Stage ",
+  "note": "Trailing space: in the JP the stage digit (@44/@40/@3C) is printed right after it."
+ },
+ {
+  "id": "MCX.BIN@44",
+  "en": "1"
+ },
+ {
+  "id": "MCX.BIN@40",
+  "en": "2"
+ },
+ {
+  "id": "MCX.BIN@3C",
+  "en": "3"
+ },
+ {
+  "id": "MCX.BIN@38",
+  "en": "Day"
+ },
+ {
+  "id": "MCX.BIN@34",
+  "en": "Morning"
+ },
+ {
+  "id": "MCX.BIN@30",
+  "en": "Evening"
+ },
+ {
+  "id": "MCX.BIN@24",
+  "en": "Start",
+  "note": "Save title shows STAGE n + this when the stage has just begun."
+ },
+ {
+  "id": "MCX.BIN@1C",
+  "en": "End"
+ },
+ {
+  "id": "MCX.BIN@8",
+  "en": "No data"
+ },
+ {
+  "id": "MCX.BIN@4",
+  "en": ":"
+ },
+ {
+  "id": "MCX.BIN@DC",
+  "en": "0"
+ },
+ {
+  "id": "MCX.BIN@D8",
+  "en": "4"
+ },
+ {
+  "id": "MCX.BIN@D4",
+  "en": "5"
+ },
+ {
+  "id": "MCX.BIN@D0",
+  "en": "6"
+ },
+ {
+  "id": "MCX.BIN@CC",
+  "en": "7"
+ },
+ {
+  "id": "MCX.BIN@C8",
+  "en": "8"
+ },
+ {
+  "id": "MCX.BIN@C4",
+  "en": "9"
+ },
+ {
+  "id": "MCX.BIN@BC",
+  "en": "10"
+ },
+ {
+  "id": "MCX.BIN@B4",
+  "en": "11"
+ },
+ {
+  "id": "MCX.BIN@AC",
+  "en": "12"
+ },
+ {
+  "id": "MCX.BIN@A4",
+  "en": "13"
+ },
+ {
+  "id": "MCX.BIN@9C",
+  "en": "14"
+ },
+ {
+  "id": "MCX.BIN@94",
+  "en": "15"
+ },
+ {
+  "id": "MCX.BIN@8C",
+  "en": "16"
+ },
+ {
+  "id": "MCX.BIN@140",
+  "en": "Memory Card Slot 1",
+  "note": "18 chars but 104 px, narrower than the JP label (132 px)."
+ },
+ {
+  "id": "MCX.BIN@128",
+  "en": "Memory Card Slot 2",
+  "note": "18 chars but 104 px."
+ },
+ {
+  "id": "MCX.BIN@120",
+  "en": "Load"
+ },
+ {
+  "id": "MCX.BIN@118",
+  "en": "Save"
+ },
+ {
+  "id": "MCX.BIN@100",
+  "en": "\"Together with Rose\"",
+  "note": "PocketStation minigame title (glossary). 20 chars, 110 px."
+ },
+ {
+  "id": "MCX.BIN@F8",
+  "en": "Yes"
+ },
+ {
+  "id": "MCX.BIN@F0",
+  "en": "No"
+ },
+ {
+  "id": "MCX.BIN@E0",
+  "en": "Format"
+ },
+ {
+  "id": "MCX.BIN@884",
+  "en": "Is it OK to overwrite the data above?"
+ },
+ {
+  "id": "MCX.BIN@858",
+  "en": "Please select a Memory Card slot."
+ },
+ {
+  "id": "MCX.BIN@824",
+  "en": "Please select the Vampir data to load."
+ },
+ {
+  "id": "MCX.BIN@800",
+  "en": "Please select where to save."
+ },
+ {
+  "id": "MCX.BIN@158",
+  "en": "Are you sure you want to stop saving?"
+ },
+ {
+  "id": "MCX.BIN@180",
+  "en": "saved. Is it OK to overwrite it?",
+  "note": "Line 2 of msg table idx 67-68 (@1A8 then @180)."
+ },
+ {
+  "id": "MCX.BIN@1A8",
+  "en": "\"Together with Rose\" has already been",
+  "note": "Line 1; continues in @180."
+ },
+ {
+  "id": "MCX.BIN@1D4",
+  "en": "Is that OK?",
+  "note": "Line 2 after @1E8."
+ },
+ {
+  "id": "MCX.BIN@1E8",
+  "en": "\"Together with Rose\" will now be saved.",
+  "note": "Line 1; @1D4 follows."
+ },
+ {
+  "id": "MCX.BIN@210",
+  "en": "from this menu."
+ },
+ {
+  "id": "MCX.BIN@254",
+  "en": "it can't be played without a PocketStation.",
+  "note": "Line 4 of the PocketStation notice (@2E8, @2B8, @284, @254)."
+ },
+ {
+  "id": "MCX.BIN@284",
+  "en": "It can be saved to a Memory Card too, but",
+  "note": "Line 3."
+ },
+ {
+  "id": "MCX.BIN@2B8",
+  "en": "for the PocketStation. It needs 15 blocks.",
+  "note": "Line 2; the JP cut mid-word, English cut at a phrase boundary."
+ },
+ {
+  "id": "MCX.BIN@2E8",
+  "en": "Here you can save a game made especially",
+  "note": "Line 1."
+ },
+ {
+  "id": "MCX.BIN@318",
+  "en": " more free block(s).",
+  "note": "Assumed layout by analogy with @378/@35C (code confirmed there): @32C + block count digit + @318 on one line. No code reference to this pair (idx 54-55) was found."
+ },
+ {
+  "id": "MCX.BIN@32C",
+  "en": "A new save needs ",
+  "note": "Trailing space before the inserted block count."
+ },
+ {
+  "id": "MCX.BIN@348",
+  "en": "the data cannot be saved.",
+  "note": "Line 3 of: @3B0/@388 / @378+N+@35C / @348."
+ },
+ {
+  "id": "MCX.BIN@35C",
+  "en": " more free block(s), so",
+  "note": "Code: line = @378 + digit (block count) + @35C; leading space needed after the number."
+ },
+ {
+  "id": "MCX.BIN@378",
+  "en": "You need ",
+  "note": "Trailing space before the inserted number."
+ },
+ {
+  "id": "MCX.BIN@388",
+  "en": "Saving requires 15 blocks."
+ },
+ {
+  "id": "MCX.BIN@3B0",
+  "en": "Saving requires 2 blocks."
+ },
+ {
+  "id": "MCX.BIN@3D4",
+  "en": "Formatting..."
+ },
+ {
+  "id": "MCX.BIN@3EC",
+  "en": "the game will continue.",
+  "note": "Closers @400/@3EC follow openers @438/@418 (pairing not traced); each opener reads with each closer."
+ },
+ {
+  "id": "MCX.BIN@400",
+  "en": "the game will now resume."
+ },
+ {
+  "id": "MCX.BIN@418",
+  "en": "The Memory Card was removed, so"
+ },
+ {
+  "id": "MCX.BIN@438",
+  "en": "An error occurred, so"
+ },
+ {
+  "id": "MCX.BIN@450",
+  "en": "formatted. Is it OK to format it?",
+  "note": "Line 2 after @480."
+ },
+ {
+  "id": "MCX.BIN@480",
+  "en": "The selected Memory Card is not",
+  "note": "Line 1."
+ },
+ {
+  "id": "MCX.BIN@4B0",
+  "en": "Save the data. Is that OK?"
+ },
+ {
+  "id": "MCX.BIN@4D8",
+  "en": "Load the data. Is that OK?"
+ },
+ {
+  "id": "MCX.BIN@500",
+  "en": "Memory Card.",
+  "note": "Line 3 of @53C/@510/@500."
+ },
+ {
+  "id": "MCX.BIN@510",
+  "en": "press RESET, or insert or remove the",
+  "note": "Line 2."
+ },
+ {
+  "id": "MCX.BIN@53C",
+  "en": "While checking, do not turn the power OFF,",
+  "note": "Line 1."
+ },
+ {
+  "id": "MCX.BIN@568",
+  "en": "formatting will not complete correctly.",
+  "note": "Line 3 of @5B8/@58C/@568."
+ },
+ {
+  "id": "MCX.BIN@58C",
+  "en": "OFF, press RESET or remove the Memory Card,",
+  "note": "Line 2."
+ },
+ {
+  "id": "MCX.BIN@5B8",
+  "en": "If, while formatting, you turn the power",
+  "note": "Line 1."
+ },
+ {
+  "id": "MCX.BIN@5E4",
+  "en": "your data may be corrupted.",
+  "note": "Line 3 of save warning @608/@654/@5E4."
+ },
+ {
+  "id": "MCX.BIN@608",
+  "en": "If, while saving, you turn the power OFF,",
+  "note": "Line 1 of save warning."
+ },
+ {
+  "id": "MCX.BIN@634",
+  "en": "loading will not complete correctly.",
+  "note": "Line 3 of load warning @680/@654/@634."
+ },
+ {
+  "id": "MCX.BIN@654",
+  "en": "press RESET or remove the Memory Card,",
+  "note": "Shared line 2 of the load warning (idx 27) and the save warning (idx 30); reads with both."
+ },
+ {
+  "id": "MCX.BIN@680",
+  "en": "If, while loading, you turn the power OFF,",
+  "note": "Line 1 of load warning."
+ },
+ {
+  "id": "MCX.BIN@6AC",
+  "en": "Save completed successfully."
+ },
+ {
+  "id": "MCX.BIN@6CC",
+  "en": "Load completed successfully."
+ }
+]

@@ -1,0 +1,612 @@
+[
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#84",
+  "en": "!",
+  "why": "msg 1532 read \"Oh, it's big bro {N} is here!\"; the #64 variant already says \"Oh, it's big bro \" (reports 000/001)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#407",
+  "en": "Under a dictatorship, by direct rule",
+  "why": "msg 17855 printed \"rule,...\" (the dots come from #180)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#936",
+  "en": "Come back when the shop's open, okay?",
+  "why": "msg 38039: starts a new sentence after \"I've got nothing to sell.\" (only use)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2606",
+  "en": "no one could have business with me.",
+  "why": "msg 99784: continues \"I mean, \" on the line before (only use; same words as the M1_main fit text)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1285",
+  "en": "My name is Karl.",
+  "why": "msg 51203 printed \"...for about 20 years. / years. My name is Karl.\" (#1227 already ends with \"years.\")"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1286",
+  "en": "Put simply, cargo is being robbed... pilfered",
+  "why": "msg 51203: #1233 \"by scoundrels.\" follows; same wording as #1231+#1232 in the twin msgs (report 015)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1168",
+  "en": "you do as I say",
+  "why": "msg 46357 printed \"I'll use force to make / do as I say!\" (reports 013/014; matches #1110)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#728",
+  "en": "about Hans...?",
+  "why": "msg 26246 printed \"Don't tell me you're also curious / too...?\"; #660 is shared with 25481, where #661 is \"about Hans?\" (report 008)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#730",
+  "en": "I do.",
+  "why": "msg 26449 printed \"As a matter of fact, There is.\"; same answer as #689 in the twin msg 25684 (report 008). zz_auto_space adds the leading space when regenerated"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#733",
+  "en": "but the answer was \"I don't know\", so",
+  "why": "msg 26449: \"I asked Hans too, just in case, / the answer was...\" was a comma splice; #693 is shared with 25684, whose #694 already starts with \"but\""
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#279",
+  "en": "I wanna be its navigator..."
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1791",
+  "en": "The golden fields stretching out before you are",
+  "why": "msgs 70960/71045 printed \"...before you / my farm.\" with no verb; #1728 \"my farm.\" is shared (reports 021/022)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2061",
+  "en": "with you. Oh, and the price stays the same.",
+  "why": "msg 79746 printed \"Take a whole bag home / Oh, and...\" (#1983 is shared; twin #1992 starts \"with you.\")"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2494",
+  "en": "If you ever need anything, please",
+  "why": "msg 95876 printed \"...come to City Hall / come and see me at City Hall.\"; same as #2414 before the shared #2415 (reports 030/031)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#3212",
+  "en": "inn.",
+  "why": "msgs 127933/128533 printed \"...Calstatt's sailors-only / is an inn just for sailors.\" (#3198 is shared; twin #3199 is \"inn, you know.\")"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1418",
+  "en": "The coffee beans at Café Jahn",
+  "why": "name: Café Jahn, as in #1466/#1470/#1492 (was Cafe \"Jahn\")"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1422",
+  "en": "Do you know Café Jahn?",
+  "why": "name: Café Jahn"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1435",
+  "en": "This is Café Jahn.",
+  "why": "name: Café Jahn"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#887",
+  "en": "Welcome! This is Bekel Bakery."
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1381",
+  "en": "The navy's command post?"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1382",
+  "en": "If you're ever in trouble, come by the command post"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2359",
+  "en": "if I can help it.",
+  "why": "msg 91348: the row starts its own line after #2358, so the leading space showed as an indent (only use)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2706",
+  "en": "Tch",
+  "why": "msg 103361 printed \"(Tch, , I've been spotted...)\" because #1488 \",\" follows (only use)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#415",
+  "en": "Yes."
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#415",
+  "variants": [
+   {
+    "msg": 17995,
+    "en": "Yes, Master "
+   }
+  ]
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1259",
+  "en": "There's something I'd like your advice on.",
+  "why": "msgs 50579/51514: #1260 \".\" stood alone on the next line; the period moves here and #1260 is \"\" there"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2049",
+  "en": "I'm a trader at the market, a man named Emil.",
+  "why": "msg 79520: same lone \".\" (#1260 on its own line)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1260",
+  "variants": [
+   {
+    "msg": 50579,
+    "en": ""
+   },
+   {
+    "msg": 51514,
+    "en": ""
+   },
+   {
+    "msg": 79520,
+    "en": ""
+   }
+  ]
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2098",
+  "variants": [
+   {
+    "msg": 82747,
+    "en": " Hic."
+   },
+   {
+    "msg": 83401,
+    "en": " Hic."
+   },
+   {
+    "msg": 83511,
+    "en": " Hic."
+   },
+   {
+    "msg": 83547,
+    "en": " Hic."
+   },
+   {
+    "msg": 83660,
+    "en": " Hic."
+   },
+   {
+    "msg": 84001,
+    "en": " Hic."
+   }
+  ],
+  "why": "printed \"...Hic.\" with no space (report 027 for 84001; the same in the other copies of 82601/82711/82860)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1731",
+  "variants": [
+   {
+    "msg": 70693,
+    "en": "We're desperately short of hands."
+   }
+  ],
+  "why": "msg 70693: #1762 ends with a period, so this starts a sentence (reports 021/022)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1902",
+  "variants": [
+   {
+    "msg": 75448,
+    "en": "You speak of your own family as if"
+   }
+  ],
+  "why": "msg 75448 printed \"...like an outsider, / it were someone else's business\"; #1924 continues \"as if\" (report 024)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1952",
+  "variants": [
+   {
+    "msg": 79283,
+    "en": "at the market too."
+   },
+   {
+    "msg": 79421,
+    "en": "at the market too."
+   }
+  ],
+  "why": "msgs 79283/79421 printed \"do show your face / please.\"; \"please.\" stays for #1951 \"Sir, come and visit the market too,\""
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#98",
+  "variants": [
+   {
+    "msg": 58377,
+    "en": "."
+   },
+   {
+    "msg": 107995,
+    "en": "."
+   },
+   {
+    "msg": 152517,
+    "en": "."
+   },
+   {
+    "msg": 153207,
+    "en": "."
+   },
+   {
+    "msg": 283525,
+    "en": "."
+   }
+  ]
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1488",
+  "variants": [
+   {
+    "msg": 202568,
+    "en": ""
+   },
+   {
+    "msg": 234322,
+    "en": ""
+   }
+  ],
+  "why": "printed \"Hm..., Grandpa?\" and \"Of course not..., I'm sorry.\" (reports 064/069/074, Part B)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1221",
+  "variants": [
+   {
+    "msg": 206154,
+    "en": "Ah"
+   },
+   {
+    "msg": 238784,
+    "en": "Ah"
+   },
+   {
+    "msg": 255153,
+    "en": "Ah"
+   },
+   {
+    "msg": 255911,
+    "en": "Ah"
+   }
+  ],
+  "why": "printed \"Ah, ...\" before #2 (reports 076/079/080, Part B); same as the existing variant for 238619"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2460",
+  "variants": [
+   {
+    "msg": 194033,
+    "en": "Hello"
+   },
+   {
+    "msg": 246546,
+    "en": "Hello"
+   },
+   {
+    "msg": 247287,
+    "en": "Hello"
+   }
+  ],
+  "why": "printed \"Hello, ...\" before #2 (report 077, Part B)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#64",
+  "variants": [
+   {
+    "msg": 267289,
+    "en": "Ah, "
+   }
+  ]
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#223",
+  "variants": [
+   {
+    "msg": 144794,
+    "en": ""
+   }
+  ],
+  "why": "msg 144794 printed \"{N},...\" (report 047)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2704",
+  "variants": [
+   {
+    "msg": 103361,
+    "en": " Who's there"
+   }
+  ]
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#224",
+  "variants": [
+   {
+    "msg": 9217,
+    "en": "what'll it be today?"
+   },
+   {
+    "msg": 9815,
+    "en": "what'll it be today?"
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#410",
+  "variants": [
+   {
+    "msg": 17931,
+    "en": "keep teaching me all kinds of things!"
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#332",
+  "variants": [
+   {
+    "msg": 41701,
+    "en": "hello."
+   },
+   {
+    "msg": 42514,
+    "en": "hello."
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#21",
+  "variants": [
+   {
+    "msg": 41800,
+    "en": "good evening."
+   },
+   {
+    "msg": 42617,
+    "en": "good evening."
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#984",
+  "variants": [
+   {
+    "msg": 41881,
+    "en": "you always dress so flashily."
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#986",
+  "variants": [
+   {
+    "msg": 41904,
+    "en": "where do you get your clothes made?"
+   },
+   {
+    "msg": 42720,
+    "en": "where do you get your clothes made?"
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1541",
+  "variants": [
+   {
+    "msg": 59315,
+    "en": "you thought I hadn't noticed,"
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1733",
+  "variants": [
+   {
+    "msg": 70373,
+    "en": "you're hard at work early, I see."
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1740",
+  "variants": [
+   {
+    "msg": 70462,
+    "en": "a fine evening to you."
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1752",
+  "variants": [
+   {
+    "msg": 70576,
+    "en": "good of you to come by."
+   },
+   {
+    "msg": 71227,
+    "en": "good of you to come by."
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1757",
+  "variants": [
+   {
+    "msg": 71349,
+    "en": "as you see, the farm is in harvest season, so"
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1850",
+  "variants": [
+   {
+    "msg": 74476,
+    "en": "thank you."
+   },
+   {
+    "msg": 75055,
+    "en": "thank you."
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2231",
+  "variants": [
+   {
+    "msg": 87437,
+    "en": "do you know what the name"
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2474",
+  "variants": [
+   {
+    "msg": 95613,
+    "en": "have you ever met our mayor?"
+   },
+   {
+    "msg": 96496,
+    "en": "have you ever met our mayor?"
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2588",
+  "variants": [
+   {
+    "msg": 99506,
+    "en": "thank you!"
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2814",
+  "variants": [
+   {
+    "msg": 108100,
+    "en": "what are you"
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#3225",
+  "variants": [
+   {
+    "msg": 128116,
+    "en": "do you like this place that much?"
+   },
+   {
+    "msg": 128716,
+    "en": "do you like this place that much?"
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#202",
+  "variants": [
+   {
+    "msg": 201793,
+    "en": "welcome!"
+   },
+   {
+    "msg": 202460,
+    "en": "welcome!"
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1434",
+  "variants": [
+   {
+    "msg": 238456,
+    "en": "welcome."
+   },
+   {
+    "msg": 239097,
+    "en": "welcome."
+   }
+  ],
+  "why": "lower case: the line before ends \"{N},\" (as Part B did for #4434/#5121/#6897)"
+ }
+]

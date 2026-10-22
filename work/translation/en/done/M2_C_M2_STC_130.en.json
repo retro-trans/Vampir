@@ -1,0 +1,334 @@
+[
+ {
+  "id": "M2#10400",
+  "en": "You'd pay your rent on time, I bet."
+ },
+ {
+  "id": "M2#10401",
+  "en": "Come chat with this old girl now and then,"
+ },
+ {
+  "id": "M2#10402",
+  "en": "why don't you? I'll stand you a drink or so."
+ },
+ {
+  "id": "M2#10403",
+  "en": "To be forced to wither into decrepitude...",
+  "note": "Player, stern register (bite scene, msg 398635)."
+ },
+ {
+  "id": "M2#10404",
+  "en": "How pitiful humans are..."
+ },
+ {
+  "id": "M2#10405",
+  "en": "But if, even so, you still wish to cling"
+ },
+ {
+  "id": "M2#10406",
+  "en": "to life, then very well."
+ },
+ {
+  "id": "M2#10407",
+  "en": "I shall grant you that wish."
+ },
+ {
+  "id": "M2#10408",
+  "en": "and live on a while longer.",
+  "note": "After #2010 'Become my servant,'; a pause follows, then #10409."
+ },
+ {
+  "id": "M2#10409",
+  "en": "In that aged body of yours."
+ },
+ {
+  "id": "M2#10410",
+  "en": "I'm not from the liquor shop.",
+  "note": "Gentle parallel of #10325."
+ },
+ {
+  "id": "M2#10411",
+  "en": "I only wanted to say hello."
+ },
+ {
+  "id": "M2#10412",
+  "en": "Good evening. Pardon me a moment.",
+  "note": "Madeline answers 'If you know it's rude, don't ask.' (#10342)."
+ },
+ {
+  "id": "M2#10413",
+  "en": "Have you seen anyone suspicious around here?",
+  "note": "Same wording as stern #10343."
+ },
+ {
+  "id": "M2#10414",
+  "en": "...I don't suppose you'd know.",
+  "note": "The slight that #10345 'Stop me, then insult me?' reacts to."
+ },
+ {
+  "id": "M2#10415",
+  "en": "...Pardon me. Until next time."
+ },
+ {
+  "id": "M2#10416",
+  "en": "Good evening, Madeline."
+ },
+ {
+  "id": "M2#10417",
+  "en": "I'm glad to see you looking so well."
+ },
+ {
+  "id": "M2#10418",
+  "en": "Oh, I'm so sorry."
+ },
+ {
+  "id": "M2#10419",
+  "en": "Are you hurt, granny?",
+  "note": "'granny' so #10366 'Who're you calling old? Call me Madeline.' answers it (slice 129 request)."
+ },
+ {
+  "id": "M2#10420",
+  "en": "I'm truly sorry."
+ },
+ {
+  "id": "M2#10421",
+  "en": "Though you seem to be drunk already...",
+  "note": "Same as stern #10370."
+ },
+ {
+  "id": "M2#10422",
+  "en": "Good afternoon. Excuse me, is anyone in?"
+ },
+ {
+  "id": "M2#10423",
+  "en": "For your sake, I would"
+ },
+ {
+  "id": "M2#10424",
+  "en": "do anything at all..."
+ },
+ {
+  "id": "M2#10425",
+  "en": "This is a hat shop for fine ladies."
+ },
+ {
+  "id": "M2#10426",
+  "en": "Are you after a gift for your sweetheart?"
+ },
+ {
+  "id": "M2#10427",
+  "en": "What sort of hats are in fashion now?"
+ },
+ {
+  "id": "M2#10428",
+  "en": "Let me see. Lace-trimmed hats"
+ },
+ {
+  "id": "M2#10429",
+  "en": "with wide brims are popular."
+ },
+ {
+  "id": "M2#10430",
+  "en": "You're looking for a gift for a lady,"
+ },
+ {
+  "id": "M2#10431",
+  "en": "aren't you..."
+ },
+ {
+  "id": "M2#10432",
+  "en": "Do take your time and look around."
+ },
+ {
+  "id": "M2#10433",
+  "en": "Ah, any lady who's given a hat by"
+ },
+ {
+  "id": "M2#10434",
+  "en": "a handsome gentleman like you..."
+ },
+ {
+  "id": "M2#10435",
+  "en": "how happy she must be!"
+ },
+ {
+  "id": "M2#10436",
+  "en": "What sort of beautiful lady could she be,",
+  "note": "#9827 'I wonder...' follows."
+ },
+ {
+  "id": "M2#10437",
+  "en": "Have you decided on a present yet?"
+ },
+ {
+  "id": "M2#10438",
+  "en": "No..."
+ },
+ {
+  "id": "M2#10439",
+  "en": "I don't have anyone in particular in mind,"
+ },
+ {
+  "id": "M2#10440",
+  "en": "so I'm in no hurry."
+ },
+ {
+  "id": "M2#10441",
+  "en": "Oh my. And yet you've been coming here"
+ },
+ {
+  "id": "M2#10442",
+  "en": "almost every day..."
+ },
+ {
+  "id": "M2#10443",
+  "en": "Could it be... you've taken a fancy to me?"
+ },
+ {
+  "id": "M2#10444",
+  "en": "I can no longer hold back"
+ },
+ {
+  "id": "M2#10445",
+  "en": "these feelings of mine..."
+ },
+ {
+  "id": "M2#10446",
+  "en": "I do believe I've fallen"
+ },
+ {
+  "id": "M2#10447",
+  "en": "in love with you..."
+ },
+ {
+  "id": "M2#10448",
+  "en": "Since I fell for you, even the wind"
+ },
+ {
+  "id": "M2#10449",
+  "en": "and the rain all sound like lovely music"
+ },
+ {
+  "id": "M2#10450",
+  "en": "to my ears..."
+ },
+ {
+  "id": "M2#10451",
+  "en": "Had I been born a dog,"
+ },
+ {
+  "id": "M2#10452",
+  "en": "I could love you more honestly than now."
+ },
+ {
+  "id": "M2#10453",
+  "en": "I have a feeling..."
+ },
+ {
+  "id": "M2#10454",
+  "en": " and I",
+  "note": "After the name at line start: '{NAME} and I'."
+ },
+ {
+  "id": "M2#10455",
+  "en": "are bound by the red thread of fate..."
+ },
+ {
+  "id": "M2#10456",
+  "en": "Relax. I'm sure the knot is a loose one."
+ },
+ {
+  "id": "M2#10457",
+  "en": "The shop is about to close..."
+ },
+ {
+  "id": "M2#10458",
+  "en": "...Oh, I understand."
+ },
+ {
+  "id": "M2#10459",
+  "en": "You've gone out of your way"
+ },
+ {
+  "id": "M2#10460",
+  "en": "to come and see me!"
+ },
+ {
+  "id": "M2#10461",
+  "en": "I'm so glad you came to see me."
+ },
+ {
+  "id": "M2#10462",
+  "en": "Hee hee."
+ },
+ {
+  "id": "M2#10463",
+  "en": "Coming here at such an hour..."
+ },
+ {
+  "id": "M2#10464",
+  "en": "Is it to ask me out on a date?"
+ },
+ {
+  "id": "M2#10465",
+  "en": "I see."
+ },
+ {
+  "id": "M2#10466",
+  "en": "Despite your looks, you're quite the shy"
+ },
+ {
+  "id": "M2#10467",
+  "en": "type, aren't you."
+ },
+ {
+  "id": "M2#10468",
+  "en": "Any time you'd like to make a date,",
+  "note": "#7075 'I'll be waiting for you.' follows."
+ },
+ {
+  "id": "M2#10469",
+  "en": "...Yes, that's right."
+ },
+ {
+  "id": "M2#10470",
+  "en": "Would you care for this lace-trimmed hat,",
+  "note": "#3891 'perhaps?' follows on the next line."
+ },
+ {
+  "id": "M2#10471",
+  "en": "Or this one, trimmed with ribbons."
+ },
+ {
+  "id": "M2#10472",
+  "en": "...Oh, sir! It suits you wonderfully."
+ },
+ {
+  "id": "M2#10473",
+  "en": "I'm not the one who'll be wearing it..."
+ },
+ {
+  "id": "M2#10474",
+  "en": "Speaking of beauty, Miss Rose of the"
+ },
+ {
+  "id": "M2#10475",
+  "en": "Epstein family also honors this shop"
+ },
+ {
+  "id": "M2#10476",
+  "en": "with her patronage."
+ },
+ {
+  "id": "M2#10477",
+  "en": "She's a truly lovely lady, you know."
+ },
+ {
+  "id": "M2#10478",
+  "en": "Some new hats came in yesterday..."
+ },
+ {
+  "id": "M2#10479",
+  "en": "I'm sure they'd suit you perfectly..."
+ }
+]

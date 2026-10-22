@@ -1,0 +1,344 @@
+[
+ {
+  "id": "M0#2320",
+  "en": "I'm his granddaughter, Veta.",
+  "note": "Continues #2318 'Hello. Daedalus is' / #2319; 'his granddaughter' (Daedalus per glossary)"
+ },
+ {
+  "id": "M0#2321",
+  "en": "Is there something you wanted of me?"
+ },
+ {
+  "id": "M0#2322",
+  "en": "Is there anything I can do for you?"
+ },
+ {
+  "id": "M0#2323",
+  "en": "I hardly ever go outside,"
+ },
+ {
+  "id": "M0#2324",
+  "en": "so I don't know much about the world..."
+ },
+ {
+  "id": "M0#2325",
+  "en": "Oh, welcome,",
+  "note": "No trailing space: the message puts a line break before the name"
+ },
+ {
+  "id": "M0#2326",
+  "en": "I've been expecting you.",
+  "note": "Follows the name + '.' (#143)"
+ },
+ {
+  "id": "M0#2327",
+  "en": "Having you visit me,",
+  "note": "'it' supplied by #2328 so that #2327 and #2344 both read correctly"
+ },
+ {
+  "id": "M0#2328",
+  "en": "it somehow takes my mind off things.",
+  "note": "Shared by #2327 and #2344; subject 'it' restored"
+ },
+ {
+  "id": "M0#2329",
+  "en": "I'm doing some sewing right now."
+ },
+ {
+  "id": "M0#2330",
+  "en": "I hardly ever go outside, you see..."
+ },
+ {
+  "id": "M0#2331",
+  "en": "Forgive me, but who might you be?"
+ },
+ {
+  "id": "M0#2332",
+  "en": "I am Veta."
+ },
+ {
+  "id": "M0#2333",
+  "en": "For Grandfather's sake,"
+ },
+ {
+  "id": "M0#2334",
+  "en": "I'd like to make him a feather pillow,"
+ },
+ {
+  "id": "M0#2335",
+  "en": "or so I keep thinking, but",
+  "note": "Cut at the same point as the Japanese; continues in #2336 after the button"
+ },
+ {
+  "id": "M0#2336",
+  "en": "I just can't seem to gather enough down..."
+ },
+ {
+  "id": "M0#2337",
+  "en": "I'm so worried about Grandfather."
+ },
+ {
+  "id": "M0#2338",
+  "en": "A doctor is attending him, but"
+ },
+ {
+  "id": "M0#2339",
+  "en": "the doctor seems distracted by other things.",
+  "note": "Subject (the doctor) restored; no pronoun because the doctor's gender is unknown"
+ },
+ {
+  "id": "M0#2340",
+  "en": "I'm good at sewing, but"
+ },
+ {
+  "id": "M0#2341",
+  "en": "that alone is no help to Grandfather,"
+ },
+ {
+  "id": "M0#2342",
+  "en": "and that makes me sad."
+ },
+ {
+  "id": "M0#2343",
+  "en": "I'm worried about Grandfather's illness..."
+ },
+ {
+  "id": "M0#2344",
+  "en": "When you come to see me,"
+ },
+ {
+  "id": "M0#2345",
+  "en": "The doctor is attending him, but"
+ },
+ {
+  "id": "M0#2346",
+  "en": "that alone is no help to Grandfather, and",
+  "note": "Variant wording of #2341/#2342 split differently; 'and' carried here so #2347 reads 'that makes me sad.'"
+ },
+ {
+  "id": "M0#2347",
+  "en": "that makes me sad."
+ },
+ {
+  "id": "M0#2348",
+  "en": "You are a kind person."
+ },
+ {
+  "id": "M0#2349",
+  "en": "That kindness of yours,",
+  "note": "Continues in #2350 (separate message, no end marker)"
+ },
+ {
+  "id": "M0#2350",
+  "en": "I'd like a share of it, too."
+ },
+ {
+  "id": "M0#2351",
+  "en": "Just during the night is enough."
+ },
+ {
+  "id": "M0#2352",
+  "en": "And only until this battle is over."
+ },
+ {
+  "id": "M0#2353",
+  "en": "Quickly... give me your orders.",
+  "note": "Follows '{PLAYER_NAME}, my master...' (#0); Emmy is entranced"
+ },
+ {
+  "id": "M0#2354",
+  "en": "Please... please, give me your orders..."
+ },
+ {
+  "id": "M0#2355",
+  "en": "Good... morning.",
+  "note": "Hesitant, broken greeting kept"
+ },
+ {
+  "id": "M0#2356",
+  "en": "Is something the matter...?",
+  "note": "Preceded by 'Um...' (#2218)"
+ },
+ {
+  "id": "M0#2357",
+  "en": "It's gotten quite cold already, hasn't it?"
+ },
+ {
+  "id": "M0#2358",
+  "en": "I'm in a hurry, I'm afraid..."
+ },
+ {
+  "id": "M0#2359",
+  "en": "I really must hurry and"
+ },
+ {
+  "id": "M0#2360",
+  "en": "finish my winter preparations...",
+  "note": "Msg 115989 uses #2418 + '...': #2418 needs 'finish my winter preparations' without the dots"
+ },
+ {
+  "id": "M0#2361",
+  "en": "It's gotten chilly, hasn't it?"
+ },
+ {
+  "id": "M0#2362",
+  "en": "It has really turned cold lately,"
+ },
+ {
+  "id": "M0#2363",
+  "en": "so please take care."
+ },
+ {
+  "id": "M0#2364",
+  "en": "Excuse me, what is it?",
+  "note": "Works for both continuations (#2365 and #2421-#2423)"
+ },
+ {
+  "id": "M0#2365",
+  "en": "I'm resting. Please go away."
+ },
+ {
+  "id": "M0#2366",
+  "en": "What on earth do you want?"
+ },
+ {
+  "id": "M0#2367",
+  "en": "Oh, it's you."
+ },
+ {
+  "id": "M0#2368",
+  "en": "If you're idle enough to visit me,"
+ },
+ {
+  "id": "M0#2369",
+  "en": "I'd like you to help me make hay.",
+  "note": "Subject 'I' restored"
+ },
+ {
+  "id": "M0#2370",
+  "en": "Coming to see me again,"
+ },
+ {
+  "id": "M0#2371",
+  "en": "you must have a lot of free time."
+ },
+ {
+  "id": "M0#2372",
+  "en": "I was just about to have tea."
+ },
+ {
+  "id": "M0#2373",
+  "en": "Would you like to join me?"
+ },
+ {
+  "id": "M0#2374",
+  "en": "You could stay and relax a while, you know.",
+  "note": "Subject 'you' restored"
+ },
+ {
+  "id": "M0#2375",
+  "en": "Um, is there something you need?"
+ },
+ {
+  "id": "M0#2376",
+  "en": "The weather's nice today, you see,"
+ },
+ {
+  "id": "M0#2377",
+  "en": "and this is when you get good hay,"
+ },
+ {
+  "id": "M0#2378",
+  "en": "so I'm very busy."
+ },
+ {
+  "id": "M0#2379",
+  "en": "You... is there something you need?"
+ },
+ {
+  "id": "M0#2380",
+  "en": "I'm very busy, you know."
+ },
+ {
+  "id": "M0#2381",
+  "en": "Anyway, it has to be put out in the sun",
+  "note": "Referent 'it' = the hay (inferred from context); sentence continues in #2382"
+ },
+ {
+  "id": "M0#2382",
+  "en": "as much as possible."
+ },
+ {
+  "id": "M0#2383",
+  "en": "If you were the sun,"
+ },
+ {
+  "id": "M0#2384",
+  "en": "I'd want you to stay here the whole time, you know."
+ },
+ {
+  "id": "M0#2385",
+  "en": "(Everything that woman says grates on me...)",
+  "note": "Inner thought of the protagonist about Emmy"
+ },
+ {
+  "id": "M0#2386",
+  "en": "Without this,"
+ },
+ {
+  "id": "M0#2387",
+  "en": "cows and horses have nothing to eat in winter."
+ },
+ {
+  "id": "M0#2388",
+  "en": "If the cows and horses suffer, people will soon suffer too."
+ },
+ {
+  "id": "M0#2389",
+  "en": "That's how it is."
+ },
+ {
+  "id": "M0#2390",
+  "en": "(And if the humans are gone,"
+ },
+ {
+  "id": "M0#2391",
+  "en": "we are in trouble too... is that it...?)",
+  "note": "Inner thought; 'we' = vampires, kept as in the source"
+ },
+ {
+  "id": "M0#2392",
+  "en": "Phew"
+ },
+ {
+  "id": "M0#2393",
+  "en": "This much should be just about enough."
+ },
+ {
+  "id": "M0#2394",
+  "en": "Oh, you",
+  "note": "With #66 '...' gives 'Oh, you...'"
+ },
+ {
+  "id": "M0#2395",
+  "en": "You stayed right to the end, didn't you?"
+ },
+ {
+  "id": "M0#2396",
+  "en": "Did this really interest you that much?",
+  "note": "Shared by msgs 115759 and 116300; works in both"
+ },
+ {
+  "id": "M0#2397",
+  "en": "Yes, I find it interesting."
+ },
+ {
+  "id": "M0#2398",
+  "en": "(Humans with strength or skill"
+ },
+ {
+  "id": "M0#2399",
+  "en": "have good blood, after all.)",
+  "note": "Closes the thought opened in #2398"
+ }
+]

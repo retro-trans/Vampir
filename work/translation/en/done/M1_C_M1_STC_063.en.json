@@ -1,0 +1,349 @@
+[
+ {
+  "id": "M1#5040",
+  "en": "(Maybe I should come back at another time again...)",
+  "note": "echoes M1#5039 (slice 062)"
+ },
+ {
+  "id": "M1#5041",
+  "en": "Do they suit me?"
+ },
+ {
+  "id": "M1#5042",
+  "en": "Oh yes, very much."
+ },
+ {
+  "id": "M1#5043",
+  "en": "On someone like you, I'd say most things"
+ },
+ {
+  "id": "M1#5044",
+  "en": "would look good."
+ },
+ {
+  "id": "M1#5045",
+  "en": "I don't believe I've seen you around here."
+ },
+ {
+  "id": "M1#5046",
+  "en": "If you don't mind, may I ask your name...?"
+ },
+ {
+  "id": "M1#5047",
+  "en": ", is it?"
+ },
+ {
+  "id": "M1#5048",
+  "en": "I do hope you'll be a regular customer."
+ },
+ {
+  "id": "M1#5049",
+  "en": "We're heading into a new age, aren't we?",
+  "note": "same wording as M1#5011 (slice 062); follows #5010 'From now on, you'll need money for everything.'"
+ },
+ {
+  "id": "M1#5050",
+  "en": "(You'll need money for everything?"
+ },
+ {
+  "id": "M1#5051",
+  "en": "Will an age like that really come?)"
+ },
+ {
+  "id": "M1#5052",
+  "en": "I'll do anything you say..."
+ },
+ {
+  "id": "M1#5053",
+  "en": "If this message appears, it's an error.",
+  "note": "developer debug message"
+ },
+ {
+  "id": "M1#5054",
+  "en": "Please tell Sato in Development H."
+ },
+ {
+  "id": "M1#5055",
+  "en": "This is Kuchen Bakery.",
+  "note": "name as in done slice 051"
+ },
+ {
+  "id": "M1#5056",
+  "en": "We have cakes as well as bread."
+ },
+ {
+  "id": "M1#5057",
+  "en": "Which would you recommend?"
+ },
+ {
+  "id": "M1#5058",
+  "en": "Let's see",
+  "note": "followed by #180 dots"
+ },
+ {
+  "id": "M1#5059",
+  "en": "This sweet bun here"
+ },
+ {
+  "id": "M1#5060",
+  "en": "went on our shelves for the first time today."
+ },
+ {
+  "id": "M1#5061",
+  "en": "Isn't it cute?"
+ },
+ {
+  "id": "M1#5062",
+  "en": "And of course, it's really yummy!"
+ },
+ {
+  "id": "M1#5063",
+  "en": "Then I'll take that one."
+ },
+ {
+  "id": "M1#5064",
+  "en": "Okay, thank you so much!",
+  "note": "shared by six Cheryl purchase scenes"
+ },
+ {
+  "id": "M1#5065",
+  "en": "Please come again!"
+ },
+ {
+  "id": "M1#5066",
+  "en": "What do you recommend today?"
+ },
+ {
+  "id": "M1#5067",
+  "en": "How about some homemade jam?"
+ },
+ {
+  "id": "M1#5068",
+  "en": "Plum, cherry, apple..."
+ },
+ {
+  "id": "M1#5069",
+  "en": "I made every one of them myself!"
+ },
+ {
+  "id": "M1#5070",
+  "en": "Well, since I'm here, I'll take one."
+ },
+ {
+  "id": "M1#5071",
+  "en": "Did you enjoy the bread and jam?"
+ },
+ {
+  "id": "M1#5072",
+  "en": "Yes, not bad."
+ },
+ {
+  "id": "M1#5073",
+  "en": "Really?"
+ },
+ {
+  "id": "M1#5074",
+  "en": "You know, my grandpa taught me"
+ },
+ {
+  "id": "M1#5075",
+  "en": "how to make the jam!"
+ },
+ {
+  "id": "M1#5076",
+  "en": "Oh, and the owner with the beard?"
+ },
+ {
+  "id": "M1#5077",
+  "en": "He's my grandpa, you know."
+ },
+ {
+  "id": "M1#5078",
+  "en": "Today, just for you,"
+ },
+ {
+  "id": "M1#5079",
+  "en": "I'll teach you how to make bread!"
+ },
+ {
+  "id": "M1#5080",
+  "en": "First you knead the dough with the starter."
+ },
+ {
+  "id": "M1#5081",
+  "en": "Once it's shaped for baking the next day,"
+ },
+ {
+  "id": "M1#5082",
+  "en": "you bake it in a nice hot oven."
+ },
+ {
+  "id": "M1#5083",
+  "en": "I want to be a baker, you see."
+ },
+ {
+  "id": "M1#5084",
+  "en": "Someday I'll take over from Grandpa!"
+ },
+ {
+  "id": "M1#5085",
+  "en": "I'll take that black bread there today."
+ },
+ {
+  "id": "M1#5086",
+  "en": "I've helped bake bread since I was little."
+ },
+ {
+  "id": "M1#5087",
+  "en": "I'm still an apprentice, but"
+ },
+ {
+  "id": "M1#5088",
+  "en": "my baking skills are the real thing!"
+ },
+ {
+  "id": "M1#5089",
+  "en": "(So it seems...)"
+ },
+ {
+  "id": "M1#5090",
+  "en": "Which one tastes the best?"
+ },
+ {
+  "id": "M1#5091",
+  "en": "Then I'll take that one.",
+  "note": "slice lists no used_in; actually used in msg 202049"
+ },
+ {
+  "id": "M1#5092",
+  "en": "Just as much as this cute bread,",
+  "note": "slice lists no used_in; actually used in msg 202049"
+ },
+ {
+  "id": "M1#5093",
+  "en": "I'm curious about a cute girl like you...",
+  "note": "used in msg 202049 (player flirting with Cheryl)"
+ },
+ {
+  "id": "M1#5094",
+  "en": "Oh, ",
+  "note": "Cheryl 202610: 'Oh, NAME,'; variants: Mrs. Stanberg 'Oh my,' (line break follows), msg 202049 'Oh my' + dots",
+  "variants": [
+   {
+    "msg": 279771,
+    "en": "Oh my,"
+   },
+   {
+    "msg": 202049,
+    "en": "Oh my"
+   }
+  ]
+ },
+ {
+  "id": "M1#5095",
+  "en": "I'm ",
+  "note": "followed by {PLAYER_NAME} then #5096/#5743/#1260, which must be '.'"
+ },
+ {
+  "id": "M1#5096",
+  "en": ".",
+  "note": "'I'm NAME.'"
+ },
+ {
+  "id": "M1#5097",
+  "en": "What's your name?"
+ },
+ {
+  "id": "M1#5098",
+  "en": "Ch...",
+  "note": "stammer before #5099 (msg 202049); a pause follows and an auto space is added, so 'Ch... Cheryl.'"
+ },
+ {
+  "id": "M1#5099",
+  "en": "Cheryl",
+  "note": "slice lists no used_in; actually used in msg 202049"
+ },
+ {
+  "id": "M1#5100",
+  "en": "It's delicious.",
+  "note": "slice lists no used_in; actually used in msg 202049"
+ },
+ {
+  "id": "M1#5101",
+  "en": "This bread, I mean.",
+  "note": "slice lists no used_in; actually used in msg 202049"
+ },
+ {
+  "id": "M1#5102",
+  "en": "I like it. I'll come again."
+ },
+ {
+  "id": "M1#5103",
+  "en": "So, what do you recommend today?"
+ },
+ {
+  "id": "M1#5104",
+  "en": "Then I'll take a plum one."
+ },
+ {
+  "id": "M1#5105",
+  "en": "Wait a moment,"
+ },
+ {
+  "id": "M1#5106",
+  "en": "I haven't bought any bread to put jam on."
+ },
+ {
+  "id": "M1#5107",
+  "en": "Oh, I'm sorry",
+  "note": "followed by #180 dots"
+ },
+ {
+  "id": "M1#5108",
+  "en": "Now I can eat it properly."
+ },
+ {
+  "id": "M1#5109",
+  "en": "Well then, I'll come again."
+ },
+ {
+  "id": "M1#5110",
+  "en": "It was delicious."
+ },
+ {
+  "id": "M1#5111",
+  "en": "Yay!"
+ },
+ {
+  "id": "M1#5112",
+  "en": "He's my grandpa."
+ },
+ {
+  "id": "M1#5113",
+  "en": "What shall I have today?"
+ },
+ {
+  "id": "M1#5114",
+  "en": "(How to make bread?)"
+ },
+ {
+  "id": "M1#5115",
+  "en": "Your bread is delicious, Cheryl, so"
+ },
+ {
+  "id": "M1#5116",
+  "en": "I'm sure you'll be able to take over."
+ },
+ {
+  "id": "M1#5117",
+  "en": "(She does bake delicious bread...)"
+ },
+ {
+  "id": "M1#5118",
+  "en": "Bread kneaded by those pale fingers,"
+ },
+ {
+  "id": "M1#5119",
+  "en": "or this girl's blood... which tastes better?"
+ }
+]

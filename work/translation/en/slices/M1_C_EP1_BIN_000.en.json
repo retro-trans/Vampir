@@ -1,0 +1,279 @@
+{
+ "slice": "M1_C_EP1_BIN_000",
+ "file": "M1_C_EP1.BIN",
+ "rows": [
+  {
+   "id": "EP1.BIN@AA8"
+  },
+  {
+   "id": "EP1.BIN@A84"
+  },
+  {
+   "id": "EP1.BIN@A74"
+  },
+  {
+   "id": "EP1.BIN@A68"
+  },
+  {
+   "id": "EP1.BIN@A40"
+  },
+  {
+   "id": "EP1.BIN@A24"
+  },
+  {
+   "id": "EP1.BIN@A00"
+  },
+  {
+   "id": "EP1.BIN@9D8"
+  },
+  {
+   "id": "EP1.BIN@9AC"
+  },
+  {
+   "id": "EP1.BIN@998"
+  },
+  {
+   "id": "EP1.BIN@988"
+  },
+  {
+   "id": "EP1.BIN@974"
+  },
+  {
+   "id": "EP1.BIN@95C"
+  },
+  {
+   "id": "EP1.BIN@938"
+  },
+  {
+   "id": "EP1.BIN@928"
+  },
+  {
+   "id": "EP1.BIN@908"
+  },
+  {
+   "id": "EP1.BIN@8E4"
+  },
+  {
+   "id": "EP1.BIN@8D0"
+  },
+  {
+   "id": "EP1.BIN@8B0"
+  },
+  {
+   "id": "EP1.BIN@898"
+  },
+  {
+   "id": "EP1.BIN@880"
+  },
+  {
+   "id": "EP1.BIN@85C"
+  },
+  {
+   "id": "EP1.BIN@83C"
+  },
+  {
+   "id": "EP1.BIN@81C"
+  },
+  {
+   "id": "EP1.BIN@7F8"
+  },
+  {
+   "id": "EP1.BIN@7D8"
+  },
+  {
+   "id": "EP1.BIN@7B4"
+  },
+  {
+   "id": "EP1.BIN@794"
+  },
+  {
+   "id": "EP1.BIN@770"
+  },
+  {
+   "id": "EP1.BIN@754"
+  },
+  {
+   "id": "EP1.BIN@72C"
+  },
+  {
+   "id": "EP1.BIN@708"
+  },
+  {
+   "id": "EP1.BIN@6E0"
+  },
+  {
+   "id": "EP1.BIN@6D0"
+  },
+  {
+   "id": "EP1.BIN@6AC"
+  },
+  {
+   "id": "EP1.BIN@698"
+  },
+  {
+   "id": "EP1.BIN@67C"
+  },
+  {
+   "id": "EP1.BIN@65C"
+  },
+  {
+   "id": "EP1.BIN@64C"
+  },
+  {
+   "id": "EP1.BIN@62C"
+  },
+  {
+   "id": "EP1.BIN@610"
+  },
+  {
+   "id": "EP1.BIN@608"
+  },
+  {
+   "id": "EP1.BIN@5F8"
+  },
+  {
+   "id": "EP1.BIN@5D0"
+  },
+  {
+   "id": "EP1.BIN@5A4"
+  },
+  {
+   "id": "EP1.BIN@578"
+  },
+  {
+   "id": "EP1.BIN@55C"
+  },
+  {
+   "id": "EP1.BIN@534"
+  },
+  {
+   "id": "EP1.BIN@528"
+  },
+  {
+   "id": "EP1.BIN@500"
+  },
+  {
+   "id": "EP1.BIN@4F0"
+  },
+  {
+   "id": "EP1.BIN@4C4"
+  },
+  {
+   "id": "EP1.BIN@4AC"
+  },
+  {
+   "id": "EP1.BIN@484"
+  },
+  {
+   "id": "EP1.BIN@464"
+  },
+  {
+   "id": "EP1.BIN@444"
+  },
+  {
+   "id": "EP1.BIN@434"
+  },
+  {
+   "id": "EP1.BIN@428"
+  },
+  {
+   "id": "EP1.BIN@418"
+  },
+  {
+   "id": "EP1.BIN@3F4"
+  },
+  {
+   "id": "EP1.BIN@3E0"
+  },
+  {
+   "id": "EP1.BIN@3B4"
+  },
+  {
+   "id": "EP1.BIN@388"
+  },
+  {
+   "id": "EP1.BIN@360"
+  },
+  {
+   "id": "EP1.BIN@340"
+  },
+  {
+   "id": "EP1.BIN@314"
+  },
+  {
+   "id": "EP1.BIN@2E8"
+  },
+  {
+   "id": "EP1.BIN@2BC"
+  },
+  {
+   "id": "EP1.BIN@294"
+  },
+  {
+   "id": "EP1.BIN@270"
+  },
+  {
+   "id": "EP1.BIN@258"
+  },
+  {
+   "id": "EP1.BIN@23C"
+  },
+  {
+   "id": "EP1.BIN@228"
+  },
+  {
+   "id": "EP1.BIN@214"
+  },
+  {
+   "id": "EP1.BIN@1FC"
+  },
+  {
+   "id": "EP1.BIN@1EC"
+  },
+  {
+   "id": "EP1.BIN@1E8"
+  },
+  {
+   "id": "EP1.BIN@1CC"
+  },
+  {
+   "id": "EP1.BIN@1A0"
+  },
+  {
+   "id": "EP1.BIN@194"
+  }
+ ],
+ "before": [],
+ "after": [
+  {
+   "id": "EP1.BIN@16C"
+  },
+  {
+   "id": "EP1.BIN@160"
+  },
+  {
+   "id": "EP1.BIN@158"
+  },
+  {
+   "id": "EP1.BIN@12C"
+  },
+  {
+   "id": "EP1.BIN@100"
+  },
+  {
+   "id": "EP1.BIN@FC"
+  },
+  {
+   "id": "EP1.BIN@EC"
+  },
+  {
+   "id": "EP1.BIN@D8"
+  },
+  {
+   "id": "EP1.BIN@B8"
+  },
+  {
+   "id": "EP1.BIN@A0"
+  }
+ ]
+}

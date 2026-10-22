@@ -1,0 +1,562 @@
+[
+ {
+  "id": "M1/name0",
+  "en": "Johann"
+ },
+ {
+  "id": "M1/job0",
+  "en": "farmer's child"
+ },
+ {
+  "id": "M1/name1",
+  "en": "Richard"
+ },
+ {
+  "id": "M1/job1",
+  "en": "glassworks hand"
+ },
+ {
+  "id": "M1/name2",
+  "en": "Kurt"
+ },
+ {
+  "id": "M1/job2",
+  "en": "market vendor"
+ },
+ {
+  "id": "M1/name3",
+  "en": "Robert"
+ },
+ {
+  "id": "M1/job3",
+  "en": "junior navigator"
+ },
+ {
+  "id": "M1/name4",
+  "en": "Ludwig"
+ },
+ {
+  "id": "M1/job4",
+  "en": "mayor's son"
+ },
+ {
+  "id": "M1/name5",
+  "en": "Anton"
+ },
+ {
+  "id": "M1/job5",
+  "en": "jobseeker"
+ },
+ {
+  "id": "M1/name6",
+  "en": "Heinrich"
+ },
+ {
+  "id": "M1/job6",
+  "en": "sentry soldier"
+ },
+ {
+  "id": "M1/name7",
+  "en": "Werther"
+ },
+ {
+  "id": "M1/job7",
+  "en": "soldier"
+ },
+ {
+  "id": "M1/name8",
+  "en": "Bernhard"
+ },
+ {
+  "id": "M1/job8",
+  "en": "jeweler's guard"
+ },
+ {
+  "id": "M1/name9",
+  "en": "Michael"
+ },
+ {
+  "id": "M1/job9",
+  "en": "Bekel baker"
+ },
+ {
+  "id": "M1/name10",
+  "en": "Paul"
+ },
+ {
+  "id": "M1/job10",
+  "en": "postal clerk"
+ },
+ {
+  "id": "M1/name11",
+  "en": "Brome"
+ },
+ {
+  "id": "M1/job11",
+  "en": "traveler"
+ },
+ {
+  "id": "M1/name12",
+  "en": "Karl"
+ },
+ {
+  "id": "M1/job12",
+  "en": "customs officer"
+ },
+ {
+  "id": "M1/name13",
+  "en": "Friedrich"
+ },
+ {
+  "id": "M1/job13",
+  "en": "naval mercenary"
+ },
+ {
+  "id": "M1/name14",
+  "en": "Jahn"
+ },
+ {
+  "id": "M1/job14",
+  "en": "Jahn cafe owner"
+ },
+ {
+  "id": "M1/name15",
+  "en": "Klaus"
+ },
+ {
+  "id": "M1/job15",
+  "en": "coast guard"
+ },
+ {
+  "id": "M1/name16",
+  "en": "Ernst"
+ },
+ {
+  "id": "M1/job16",
+  "en": "knife shop owner"
+ },
+ {
+  "id": "M1/name17",
+  "en": "Zille"
+ },
+ {
+  "id": "M1/job17",
+  "en": "farm owner"
+ },
+ {
+  "id": "M1/name18",
+  "en": "Stuart"
+ },
+ {
+  "id": "M1/job18",
+  "en": "Stanberg heir"
+ },
+ {
+  "id": "M1/name19",
+  "en": "Emil"
+ },
+ {
+  "id": "M1/job19",
+  "en": "market merchant"
+ },
+ {
+  "id": "M1/name20",
+  "en": "Eduard"
+ },
+ {
+  "id": "M1/job20",
+  "en": "drunkard"
+ },
+ {
+  "id": "M1/name21",
+  "en": "Maitz"
+ },
+ {
+  "id": "M1/job21",
+  "en": "Sanssouci owner"
+ },
+ {
+  "id": "M1/name22",
+  "en": "Thomas"
+ },
+ {
+  "id": "M1/job22",
+  "en": "naval commander"
+ },
+ {
+  "id": "M1/name23",
+  "en": "Martin"
+ },
+ {
+  "id": "M1/job23",
+  "en": "city hall clerk"
+ },
+ {
+  "id": "M1/name24",
+  "en": "Kürten"
+ },
+ {
+  "id": "M1/job24",
+  "en": "dye works hand"
+ },
+ {
+  "id": "M1/name25",
+  "en": "Hermann"
+ },
+ {
+  "id": "M1/job25",
+  "en": "naval mercenary"
+ },
+ {
+  "id": "M1/name26",
+  "en": "Oskar"
+ },
+ {
+  "id": "M1/job26",
+  "en": "restaurant owner"
+ },
+ {
+  "id": "M1/name27",
+  "en": "Harry"
+ },
+ {
+  "id": "M1/job27",
+  "en": "warehouse guard"
+ },
+ {
+  "id": "M1/name28",
+  "en": "Henri"
+ },
+ {
+  "id": "M1/job28",
+  "en": "forest warden"
+ },
+ {
+  "id": "M1/name29",
+  "en": "Jade"
+ },
+ {
+  "id": "M1/job29",
+  "en": "naval pub master"
+ },
+ {
+  "id": "M1/name30",
+  "en": "Schneider"
+ },
+ {
+  "id": "M1/job30",
+  "en": "doctor"
+ },
+ {
+  "id": "M1/name31",
+  "en": "Rosso"
+ },
+ {
+  "id": "M1/job31",
+  "en": "sailor inn owner"
+ },
+ {
+  "id": "M1/name32",
+  "en": "Kröger"
+ },
+ {
+  "id": "M1/job32",
+  "en": "Calstatt mayor"
+ },
+ {
+  "id": "M1/name33",
+  "en": "Leopold"
+ },
+ {
+  "id": "M1/job33",
+  "en": "Invos manager"
+ },
+ {
+  "id": "M1/name34",
+  "en": "Josef"
+ },
+ {
+  "id": "M1/job34",
+  "en": "hall custodian"
+ },
+ {
+  "id": "M1/name35",
+  "en": "Wesseli"
+ },
+ {
+  "id": "M1/job35",
+  "en": "Wesseli manager"
+ },
+ {
+  "id": "M1/name36",
+  "en": "Stelan"
+ },
+ {
+  "id": "M1/job36",
+  "en": "ship captain"
+ },
+ {
+  "id": "M1/name37",
+  "en": "Meyer"
+ },
+ {
+  "id": "M1/job37",
+  "en": "theater manager"
+ },
+ {
+  "id": "M1/name38",
+  "en": "Helmut"
+ },
+ {
+  "id": "M1/job38",
+  "en": "furniture maker"
+ },
+ {
+  "id": "M1/name39",
+  "en": "Nikolaus"
+ },
+ {
+  "id": "M1/job39",
+  "en": "fine baker"
+ },
+ {
+  "id": "M1/name40",
+  "en": "Wolf"
+ },
+ {
+  "id": "M1/job40",
+  "en": "retired soldier"
+ },
+ {
+  "id": "M1/name41",
+  "en": "Dietrich"
+ },
+ {
+  "id": "M1/job41",
+  "en": "gravekeeper"
+ },
+ {
+  "id": "M1/name42",
+  "en": "Rosner"
+ },
+ {
+  "id": "M1/job42",
+  "en": "trader"
+ },
+ {
+  "id": "M1/name43",
+  "en": "Dellwald"
+ },
+ {
+  "id": "M1/job43",
+  "en": "jeweler"
+ },
+ {
+  "id": "M1/name44",
+  "en": "Evans"
+ },
+ {
+  "id": "M1/job44",
+  "en": "pastor"
+ },
+ {
+  "id": "M1/name45",
+  "en": "Lord Stanberg"
+ },
+ {
+  "id": "M1/job45",
+  "en": "Stanberg head"
+ },
+ {
+  "id": "M1/name46",
+  "en": "Hugo"
+ },
+ {
+  "id": "M1/job46",
+  "en": "lighthouse guard"
+ },
+ {
+  "id": "M1/name47",
+  "en": "Marie"
+ },
+ {
+  "id": "M1/job47",
+  "en": "child"
+ },
+ {
+  "id": "M1/name48",
+  "en": "Helene"
+ },
+ {
+  "id": "M1/job48",
+  "en": "clothier"
+ },
+ {
+  "id": "M1/name49",
+  "en": "Cheryl"
+ },
+ {
+  "id": "M1/job49",
+  "en": "baker's grandkid"
+ },
+ {
+  "id": "M1/name50",
+  "en": "Therese"
+ },
+ {
+  "id": "M1/job50",
+  "en": "sickly woman"
+ },
+ {
+  "id": "M1/name51",
+  "en": "Luisa"
+ },
+ {
+  "id": "M1/job51",
+  "en": "maid girl"
+ },
+ {
+  "id": "M1/name52",
+  "en": "Margarete"
+ },
+ {
+  "id": "M1/job52",
+  "en": "market vendor"
+ },
+ {
+  "id": "M1/name53",
+  "en": "Romy"
+ },
+ {
+  "id": "M1/job53",
+  "en": "florist's girl"
+ },
+ {
+  "id": "M1/name54",
+  "en": "Anna"
+ },
+ {
+  "id": "M1/job54",
+  "en": "shopkeeper"
+ },
+ {
+  "id": "M1/name55",
+  "en": "Alisa"
+ },
+ {
+  "id": "M1/job55",
+  "en": "waitress"
+ },
+ {
+  "id": "M1/name56",
+  "en": "Hans"
+ },
+ {
+  "id": "M1/job56",
+  "en": "naval mercenary"
+ },
+ {
+  "id": "M1/name57",
+  "en": "Marlene"
+ },
+ {
+  "id": "M1/job57",
+  "en": "boutique clerk"
+ },
+ {
+  "id": "M1/name58",
+  "en": "Christine"
+ },
+ {
+  "id": "M1/job58",
+  "en": "perfumery clerk"
+ },
+ {
+  "id": "M1/name59",
+  "en": "Mrs. Klaus"
+ },
+ {
+  "id": "M1/job59",
+  "en": "official's wife"
+ },
+ {
+  "id": "M1/name60",
+  "en": "Lily"
+ },
+ {
+  "id": "M1/job60",
+  "en": "awaiting lover"
+ },
+ {
+  "id": "M1/name61",
+  "en": "Mrs. Zille"
+ },
+ {
+  "id": "M1/job61",
+  "en": "farmer's wife"
+ },
+ {
+  "id": "M1/name62",
+  "en": "Lotte"
+ },
+ {
+  "id": "M1/job62",
+  "en": "seamstress"
+ },
+ {
+  "id": "M1/name63",
+  "en": "Dehmel"
+ },
+ {
+  "id": "M1/job63",
+  "en": "opera singer"
+ },
+ {
+  "id": "M1/name64",
+  "en": "Emma"
+ },
+ {
+  "id": "M1/job64",
+  "en": "schoolteacher"
+ },
+ {
+  "id": "M1/name65",
+  "en": "Mrs. Wesseli"
+ },
+ {
+  "id": "M1/job65",
+  "en": "trader's wife"
+ },
+ {
+  "id": "M1/name66",
+  "en": "Mrs. Lenya"
+ },
+ {
+  "id": "M1/job66",
+  "en": "awaiting husband"
+ },
+ {
+  "id": "M1/name67",
+  "en": "Mrs. Wiene"
+ },
+ {
+  "id": "M1/job67",
+  "en": "innkeeper's wife"
+ },
+ {
+  "id": "M1/name68",
+  "en": "Mrs. Stanberg"
+ },
+ {
+  "id": "M1/job68",
+  "en": "Stanberg dowager"
+ },
+ {
+  "id": "M1/name69",
+  "en": "Mrs. Schneider"
+ },
+ {
+  "id": "M1/job69",
+  "en": "doctor's wife"
+ }
+]

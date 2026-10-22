@@ -1,0 +1,357 @@
+[
+ {
+  "id": "M0#0",
+  "en": ", my master...",
+  "note": "Fragment after name; 'sama' from a thrall rendered ', my master...' since the name comes first"
+ },
+ {
+  "id": "M0#1",
+  "en": "Please give me orders. I can do anything..."
+ },
+ {
+  "id": "M0#2",
+  "en": ".........",
+  "note": "9 middle dots kept as 9 periods (silence)"
+ },
+ {
+  "id": "M0#3",
+  "en": "I await your orders...",
+  "note": "'I await your orders' - subject restored"
+ },
+ {
+  "id": "M0#4",
+  "en": "What? I have to go to the field."
+ },
+ {
+  "id": "M0#5",
+  "en": "Geez, leave me alone."
+ },
+ {
+  "id": "M0#6",
+  "en": "I'm on my way to the field right now."
+ },
+ {
+  "id": "M0#7",
+  "en": "Oh, it's ",
+  "variants": [
+   {
+    "msg": 1403,
+    "en": "Oh, hi, "
+   }
+  ],
+  "note": "Pairs with #8/#13 '.'; variant for msg 1403 where nothing follows the name but a line break"
+ },
+ {
+  "id": "M0#8",
+  "en": ".",
+  "note": "'.' fits the self-introduction uses (name alone / 'I am ' + name); Olg's 'Oh, it's Name.' also reads fine"
+ },
+ {
+  "id": "M0#9",
+  "en": "Are you going to the field? Let's go!"
+ },
+ {
+  "id": "M0#10",
+  "en": "What? I'm going home."
+ },
+ {
+  "id": "M0#11",
+  "en": "Geez, what is it? I'm fine on my own."
+ },
+ {
+  "id": "M0#12",
+  "en": "I'm on my way home."
+ },
+ {
+  "id": "M0#13",
+  "en": "."
+ },
+ {
+  "id": "M0#14",
+  "en": "Are you coming to my house? Come on!"
+ },
+ {
+  "id": "M0#15",
+  "en": "What?"
+ },
+ {
+  "id": "M0#16",
+  "en": "Who are you, anyway, mister?"
+ },
+ {
+  "id": "M0#17",
+  "en": "Fine, I don't care about Mom anymore!",
+  "note": "Referent inferred: child sulking; 'I don't care about Mom anymore' - context not verifiable"
+ },
+ {
+  "id": "M0#18",
+  "en": "What? Leave me alone."
+ },
+ {
+  "id": "M0#19",
+  "en": "It's none of your business. I'm fine."
+ },
+ {
+  "id": "M0#20",
+  "en": "I've got some of Mom's pie. Let's eat it together!"
+ },
+ {
+  "id": "M0#21",
+  "en": ",",
+  "variants": [
+   {
+    "msg": 5188,
+    "en": ", "
+   },
+   {
+    "msg": 5808,
+    "en": ", "
+   }
+  ],
+  "note": "Default ',' (line break follows in most uses); variants add the space where the next fragment is the name again"
+ },
+ {
+  "id": "M0#22",
+  "en": "Let's play together!"
+ },
+ {
+  "id": "M0#23",
+  "en": "Who are you, mister? I'm working."
+ },
+ {
+  "id": "M0#24",
+  "en": "I'm working here,",
+  "note": "Opens 'and ...' continuations in #25 and #44 (both start lowercase 'and')"
+ },
+ {
+  "id": "M0#25",
+  "en": "and it's important work, so don't get in my way."
+ },
+ {
+  "id": "M0#26",
+  "en": "Look, I'm in the middle of work."
+ },
+ {
+  "id": "M0#27",
+  "en": "Just what kind of work are you doing?"
+ },
+ {
+  "id": "M0#28",
+  "en": "I'm gathering leftover grain. It's important!",
+  "note": "Shortened ('work' dropped) to fit 3 lines in msgs 929 and 1296; gleaning rendered as gathering leftover grain"
+ },
+ {
+  "id": "M0#29",
+  "en": "Only I can do it."
+ },
+ {
+  "id": "M0#30",
+  "en": "It's true! That's what I was told."
+ },
+ {
+  "id": "M0#31",
+  "en": "Before the harvest, my job was",
+  "note": "Sentence split across #31/#32 reordered: 'my job was / chasing off crows'"
+ },
+ {
+  "id": "M0#32",
+  "en": "chasing off crows. It's hard work!"
+ },
+ {
+  "id": "M0#33",
+  "en": "Even the crows are really huge!"
+ },
+ {
+  "id": "M0#34",
+  "en": "My name's Olg. What about you, mister?"
+ },
+ {
+  "id": "M0#35",
+  "en": "Hmm, never heard that name before."
+ },
+ {
+  "id": "M0#36",
+  "en": "Hey, ",
+  "note": "Name sits between #36 and #37; sentence recast as 'Hey, Name, do you think I / could be like you too?'; 'me too' folded into 'too'"
+ },
+ {
+  "id": "M0#37",
+  "en": ", do you think I"
+ },
+ {
+  "id": "M0#38",
+  "en": "could be like you too?"
+ },
+ {
+  "id": "M0#39",
+  "en": ", I want to be like you,",
+  "note": "Recast: 'Name, I want to be like you,' (name comes first)"
+ },
+ {
+  "id": "M0#40",
+  "en": "since you look like you've got free time."
+ },
+ {
+  "id": "M0#41",
+  "en": "Who are you, anyway, mister?"
+ },
+ {
+  "id": "M0#42",
+  "en": "Who are you, mister?"
+ },
+ {
+  "id": "M0#43",
+  "en": "I'm working."
+ },
+ {
+  "id": "M0#44",
+  "en": "and it's important work that nobody else can do."
+ },
+ {
+  "id": "M0#45",
+  "en": "What kind of work are you doing, exactly?"
+ },
+ {
+  "id": "M0#46",
+  "en": "The harvest was poor this year, too."
+ },
+ {
+  "id": "M0#47",
+  "en": "My name's Olg."
+ },
+ {
+  "id": "M0#48",
+  "en": "What about you, mister?"
+ },
+ {
+  "id": "M0#49",
+  "en": "."
+ },
+ {
+  "id": "M0#50",
+  "en": "You look free at night too, huh?"
+ },
+ {
+  "id": "M0#51",
+  "en": "Not at all, Olg."
+ },
+ {
+  "id": "M0#52",
+  "en": "I'm busy at night."
+ },
+ {
+  "id": "M0#53",
+  "en": "So, you see,"
+ },
+ {
+  "id": "M0#54",
+  "en": "I'd like you to help me with some work, Olg."
+ },
+ {
+  "id": "M0#55",
+  "en": "It's a bit of a hard job, but can you do it?"
+ },
+ {
+  "id": "M0#56",
+  "en": "Of course I can! I can do it all by myself."
+ },
+ {
+  "id": "M0#57",
+  "en": "I see. Then I'm counting on you."
+ },
+ {
+  "id": "M0#58",
+  "en": "Will he be all right, surrounded by all those big grown-ups?",
+  "note": "Inferred speaker Christopher (gentle style) and referent Olg (male, glossary); 'he' ok"
+ },
+ {
+  "id": "M0#59",
+  "en": "If it comes to that, I'll help him..."
+ },
+ {
+  "id": "M0#60",
+  "en": "I'll do anything you tell me..."
+ },
+ {
+  "id": "M0#61",
+  "en": "Maybe I hurt myself in the forest,",
+  "note": "Mystery wounds (possibly vampire bites); kept generic 'scratches'"
+ },
+ {
+  "id": "M0#62",
+  "en": "but lately I keep finding scratches I don't remember getting."
+ },
+ {
+  "id": "M0#63",
+  "en": "......"
+ },
+ {
+  "id": "M0#64",
+  "en": "What is it, child?",
+  "note": "Duran-style (Child)"
+ },
+ {
+  "id": "M0#65",
+  "en": "Good morning."
+ },
+ {
+  "id": "M0#66",
+  "en": "..."
+ },
+ {
+  "id": "M0#67",
+  "en": "How am I to take that reaction...",
+  "note": "Player is Duran by style (stiff); 'that/this' reaction = Erwin's silence"
+ },
+ {
+  "id": "M0#68",
+  "en": "...Good morning."
+ },
+ {
+  "id": "M0#69",
+  "en": "I'm on my way to the forest."
+ },
+ {
+  "id": "M0#70",
+  "en": "Goodbye."
+ },
+ {
+  "id": "M0#71",
+  "en": "...Hello."
+ },
+ {
+  "id": "M0#72",
+  "en": "I'm going home now."
+ },
+ {
+  "id": "M0#73",
+  "en": "There's nobody here!",
+  "note": "'nobody here' rather than 'nobody's home': location not verifiable"
+ },
+ {
+  "id": "M0#74",
+  "en": "How am I to take this reaction..."
+ },
+ {
+  "id": "M0#75",
+  "en": "...There's nobody here,"
+ },
+ {
+  "id": "M0#76",
+  "en": "and Dad isn't either,",
+  "note": "No used_in; inferred as continuing #75 in msg 4992: child's denial 'Nobody's here, Dad isn't either, me too...'"
+ },
+ {
+  "id": "M0#77",
+  "en": "Me too...",
+  "note": "Standalone in msg 5004; 'Me too...' kept neutral, could instead be the denial 'me neither' if it continues #76"
+ },
+ {
+  "id": "M0#78",
+  "en": "...I'm going out to play..."
+ },
+ {
+  "id": "M0#79",
+  "en": "I was just about to go out and play."
+ }
+]

@@ -1,0 +1,68 @@
+[
+ {
+  "file": "DC_OPN.BIN",
+  "id": "OPN.BIN@EE0",
+  "en": ", listen well.",
+  "why": "follows the player name directly (castle scene)"
+ },
+ {
+  "file": "DC_OPN.BIN",
+  "id": "OPN.BIN@DEC",
+  "en": "With our whole clan, we at last subdued",
+  "why": "script lines: DEC / {partner}+DE0 / DC0; rebalance so the name line is not a lone word"
+ },
+ {
+  "file": "DC_OPN.BIN",
+  "id": "OPN.BIN@DE0",
+  "en": ", and succeeded in sealing him",
+  "why": "see @DEC"
+ },
+ {
+  "file": "DC_OPN.BIN",
+  "id": "OPN.BIN@DC0",
+  "en": "away in a certain tower.",
+  "why": "see @DEC"
+ },
+ {
+  "file": "DC_OPN.BIN",
+  "id": "OPN.BIN@D04",
+  "en": " Except you.",
+  "why": "same line as @D18; fit"
+ },
+ {
+  "file": "DC_OPN.BIN",
+  "id": "OPN.BIN@33C",
+  "en": "at the written request of Count Valaur,",
+  "why": "starts a line (no leading space); fit"
+ },
+ {
+  "file": "M1_C_M1A.BIN",
+  "id": "M1A.BIN@548",
+  "en": " My other title is that of",
+  "why": "same line as @564"
+ },
+ {
+  "file": "DC_MCX.BIN",
+  "id": "MCX.BIN@228",
+  "en": "You cannot save your main game",
+  "why": "row was missing from the extraction (glyph not in the font tables); line 1 of 2 before @210 'from this menu.'"
+ },
+ {
+  "file": "M0_C_EP0.BIN",
+  "id": "EP0.BIN@30",
+  "en": "He is an expert on the mind and the occult.",
+  "why": "fit: 28-cell line limit"
+ },
+ {
+  "file": "M0_C_EP0.BIN",
+  "id": "EP0.BIN@4",
+  "en": "He is sure to have a good countermeasure.",
+  "why": "fit: 28-cell line limit"
+ },
+ {
+  "file": "DC_OPN.BIN",
+  "id": "OPN.BIN@E30",
+  "en": "His heart cursed, eaten by evil, he tried to",
+  "why": "fit: the line ran over the 28 grid cells and left 'to' alone on a line"
+ }
+]

@@ -1,0 +1,351 @@
+[
+ {
+  "id": "M2#720",
+  "en": "I'm Wayne. I'm 14."
+ },
+ {
+  "id": "M2#721",
+  "en": "Do you live near here? Nice to meet you, mister."
+ },
+ {
+  "id": "M2#722",
+  "en": "Oh, it's you, mister."
+ },
+ {
+  "id": "M2#723",
+  "en": "Are you still all on your own?"
+ },
+ {
+  "id": "M2#724",
+  "en": "Yep. It's just me, Wayne."
+ },
+ {
+  "id": "M2#725",
+  "en": "Papa and Mama are busy,"
+ },
+ {
+  "id": "M2#726",
+  "en": "so I'm always minding the house."
+ },
+ {
+  "id": "M2#727",
+  "en": "You came again, mister?",
+  "note": "as #679"
+ },
+ {
+  "id": "M2#728",
+  "en": "Oh! You're back again, mister?",
+  "note": "as #685"
+ },
+ {
+  "id": "M2#729",
+  "en": "What kind of work do you do, mister?",
+  "note": "as #688"
+ },
+ {
+  "id": "M2#730",
+  "en": "<That's a secret>",
+  "note": "Answer choice (no used_in), as #689."
+ },
+ {
+  "id": "M2#731",
+  "en": "<I'm looking for someone>",
+  "note": "Answer choice (no used_in), as #690; leads to msg 21699 (#732)."
+ },
+ {
+  "id": "M2#732",
+  "en": "Really? Is it someone you like, mister?",
+  "note": "as #693"
+ },
+ {
+  "id": "M2#733",
+  "en": "Keep at it, OK?"
+ },
+ {
+  "id": "M2#734",
+  "en": "Hey, take me outside sometime, mister.",
+  "note": "as #699"
+ },
+ {
+  "id": "M2#735",
+  "en": "Hello, mister.",
+  "note": "as #704"
+ },
+ {
+  "id": "M2#736",
+  "en": "Wow, come in, mister!",
+  "note": "as #709"
+ },
+ {
+  "id": "M2#737",
+  "en": "I'm glad when you come over, mister.",
+  "note": "as #713"
+ },
+ {
+  "id": "M2#738",
+  "en": "Even a young boy like this",
+  "note": "Player's thought; three #265 dots follow: 'Even a young boy like this...'"
+ },
+ {
+  "id": "M2#739",
+  "en": "Oh, it's ",
+  "variants": [
+   {
+    "msg": 21900,
+    "en": "Huh? Mister "
+   }
+  ]
+ },
+ {
+  "id": "M2#740",
+  "en": "!?",
+  "note": "'Mister' moved into the #739 variant for msg 21900: 'Huh? Mister {NAME}!?'"
+ },
+ {
+  "id": "M2#741",
+  "en": "What's the matter?"
+ },
+ {
+  "id": "M2#742",
+  "en": "Oh, no real reason."
+ },
+ {
+  "id": "M2#743",
+  "en": "I just felt like seeing you."
+ },
+ {
+  "id": "M2#744",
+  "en": "...I know how it is. Being all alone"
+ },
+ {
+  "id": "M2#745",
+  "en": "gets lonely, doesn't it?"
+ },
+ {
+  "id": "M2#746",
+  "en": "Come over here, mister."
+ },
+ {
+  "id": "M2#747",
+  "en": "I'm sorry...",
+  "note": "6 dots in the Japanese; 3 used."
+ },
+ {
+  "id": "M2#748",
+  "en": "Aaaaaaah!!"
+ },
+ {
+  "id": "M2#749",
+  "en": "I just need you to help me for a little while."
+ },
+ {
+  "id": "M2#750",
+  "en": ", you are my one true master.",
+  "note": "After the name (Gilbert as servant)."
+ },
+ {
+  "id": "M2#751",
+  "en": "Your orders",
+  "note": "#152 '...' follows: 'Your orders...'. Shared by many servants."
+ },
+ {
+  "id": "M2#752",
+  "en": "Good heavens, my joints ache."
+ },
+ {
+  "id": "M2#753",
+  "en": "And I feel as if I haven't slept enough",
+  "note": "#152 '...' follows"
+ },
+ {
+  "id": "M2#754",
+  "en": ", my master",
+  "note": "After the name; #152 '...' follows: '{NAME}, my master...' (as #0). Every use is servant mode; next row starts a sentence."
+ },
+ {
+  "id": "M2#755",
+  "en": "Come, give me any order you wish",
+  "note": "#152 '...' follows"
+ },
+ {
+  "id": "M2#756",
+  "en": "I always feel sluggish and I can't shake this fatigue."
+ },
+ {
+  "id": "M2#757",
+  "en": "And there are cuts all over me... Why?"
+ },
+ {
+  "id": "M2#758",
+  "en": "Hm? And who might you be?"
+ },
+ {
+  "id": "M2#759",
+  "en": "I can't have people just walking in like this."
+ },
+ {
+  "id": "M2#760",
+  "en": "Did someone give you an introduction?"
+ },
+ {
+  "id": "M2#761",
+  "en": "Ah, forgive me."
+ },
+ {
+  "id": "M2#762",
+  "en": "."
+ },
+ {
+  "id": "M2#763",
+  "en": "I thought I really should come and greet you."
+ },
+ {
+  "id": "M2#764",
+  "en": "You have business with me, Gilbert?"
+ },
+ {
+  "id": "M2#765",
+  "en": "I serve as Mayor of London."
+ },
+ {
+  "id": "M2#766",
+  "en": "Please take views on city policy to city hall."
+ },
+ {
+  "id": "M2#767",
+  "en": "Mayor Gilbert, it's me,",
+  "note": "Name follows on the next line: 'Mayor Gilbert, it's me, / {NAME}. Have you forgotten?'"
+ },
+ {
+  "id": "M2#768",
+  "en": ". Have you forgotten?"
+ },
+ {
+  "id": "M2#769",
+  "en": "My apologies for the other day."
+ },
+ {
+  "id": "M2#770",
+  "en": "Hm? ...Ah, you're the fellow from before."
+ },
+ {
+  "id": "M2#771",
+  "en": "And what business might you have with me?"
+ },
+ {
+  "id": "M2#772",
+  "en": "I've no time for idle callers. Good day."
+ },
+ {
+  "id": "M2#773",
+  "en": "I'd rather you didn't wander in here for no reason."
+ },
+ {
+  "id": "M2#774",
+  "en": "I strive every day to improve the city's affairs."
+ },
+ {
+  "id": "M2#775",
+  "en": "Naturally, I respect the citizens' opinions too."
+ },
+ {
+  "id": "M2#776",
+  "en": "If you're not an idle caller, you're welcome."
+ },
+ {
+  "id": "M2#777",
+  "en": "Oh, hello, ",
+  "note": "Before the name; #98 '.' follows."
+ },
+ {
+  "id": "M2#778",
+  "en": "I hear you've been making inquiries around"
+ },
+ {
+  "id": "M2#779",
+  "en": "the city. Is it for your work?"
+ },
+ {
+  "id": "M2#780",
+  "en": "<Yes, it is>",
+  "note": "Answer choice (no used_in); stern register."
+ },
+ {
+  "id": "M2#781",
+  "en": "<I have my reasons>",
+  "note": "Answer choice (no used_in); stern register."
+ },
+ {
+  "id": "M2#782",
+  "en": "Oh... I see."
+ },
+ {
+  "id": "M2#783",
+  "en": "I don't know what your work may be, but do"
+ },
+ {
+  "id": "M2#784",
+  "en": "take care not to make the citizens uneasy."
+ },
+ {
+  "id": "M2#785",
+  "en": "I see. Are you looking for someone?",
+  "note": "No used_in: the decoder shows #3331 at the start of msgs 25485/26032 (a branch-op misread, as noted in the slice-000 report); #785 is the first line there, then #786/#787."
+ },
+ {
+  "id": "M2#786",
+  "en": "London has its detectives too, so why not"
+ },
+ {
+  "id": "M2#787",
+  "en": "try hiring one?"
+ },
+ {
+  "id": "M2#788",
+  "en": "Good grief, you again?"
+ },
+ {
+  "id": "M2#789",
+  "en": "Well, I'm used to your sudden visits by now."
+ },
+ {
+  "id": "M2#790",
+  "en": "For once, perhaps I'll talk about myself."
+ },
+ {
+  "id": "M2#791",
+  "en": "You must think me an unsociable man."
+ },
+ {
+  "id": "M2#792",
+  "en": "My work is the only way I can express myself."
+ },
+ {
+  "id": "M2#793",
+  "en": "Perhaps I can't claim my politics are all"
+ },
+ {
+  "id": "M2#794",
+  "en": "clean. But this city needs me."
+ },
+ {
+  "id": "M2#795",
+  "en": "I believe that, and so I work on as mayor."
+ },
+ {
+  "id": "M2#796",
+  "en": "You again?"
+ },
+ {
+  "id": "M2#797",
+  "en": "I can't fathom why you're so eager to come"
+ },
+ {
+  "id": "M2#798",
+  "en": "here. Do you have an interest in politics?"
+ },
+ {
+  "id": "M2#799",
+  "en": "Yes? Who is it?"
+ }
+]

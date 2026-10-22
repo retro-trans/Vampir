@@ -1,0 +1,340 @@
+[
+ {
+  "id": "M1#3200",
+  "en": "Are you a sailor, too?"
+ },
+ {
+  "id": "M1#3201",
+  "en": "<I'm not a sailor>",
+  "note": "choice (SQC 127845/127955, token 13), not in any used_in; option 0 -> 3203 branch"
+ },
+ {
+  "id": "M1#3202",
+  "en": "<I'm a melancholy mariner, you know>"
+ },
+ {
+  "id": "M1#3203",
+  "en": "I figured. I was only asking."
+ },
+ {
+  "id": "M1#3204",
+  "en": "(Well, dressed like this...)",
+  "note": "PLAYER thought"
+ },
+ {
+  "id": "M1#3205",
+  "en": "Well, even if you're not a sailor, if you've"
+ },
+ {
+  "id": "M1#3206",
+  "en": "got nowhere else to stay, come to my place."
+ },
+ {
+  "id": "M1#3207",
+  "en": "Well, I'll be!",
+  "note": "SQC: 3207 / 3208 / <p30> 3209 share one box (3 lines)"
+ },
+ {
+  "id": "M1#3208",
+  "en": "So you're a sailor!"
+ },
+ {
+  "id": "M1#3209",
+  "en": "Just kidding... You're a funny one."
+ },
+ {
+  "id": "M1#3210",
+  "en": "Whether a man's a sailor or not, I can"
+ },
+ {
+  "id": "M1#3211",
+  "en": "tell that right off the bat."
+ },
+ {
+  "id": "M1#3212",
+  "en": "is an inn just for sailors.",
+  "note": "needs #3198 (slice 039) to end as a subject: e.g. 'This place, in the port town of Calstatt,'"
+ },
+ {
+  "id": "M1#3213",
+  "en": "If you've got nowhere else to stay,"
+ },
+ {
+  "id": "M1#3214",
+  "en": "you're welcome here anytime."
+ },
+ {
+  "id": "M1#3215",
+  "en": "Listen, the reason I can say for sure that"
+ },
+ {
+  "id": "M1#3216",
+  "en": "you're no sailor has nothing to do with"
+ },
+ {
+  "id": "M1#3217",
+  "en": "the way you're dressed."
+ },
+ {
+  "id": "M1#3218",
+  "en": "It's the air a person carries."
+ },
+ {
+  "id": "M1#3219",
+  "en": "And you've got an air about you that's"
+ },
+ {
+  "id": "M1#3220",
+  "en": "a bit different from your average folk."
+ },
+ {
+  "id": "M1#3221",
+  "en": "And another thing: I sailed for decades."
+ },
+ {
+  "id": "M1#3222",
+  "en": "I'm retired now, mind you."
+ },
+ {
+  "id": "M1#3223",
+  "en": "So telling a sailor from a landlubber"
+ },
+ {
+  "id": "M1#3224",
+  "en": "is no trouble at all for me."
+ },
+ {
+  "id": "M1#3225",
+  "en": "Do you like this place that much?"
+ },
+ {
+  "id": "M1#3226",
+  "en": "Some of these rough men of the sea can't"
+ },
+ {
+  "id": "M1#3227",
+  "en": "be trusted... I was a sailor myself."
+ },
+ {
+  "id": "M1#3228",
+  "en": "You'd do well to heed my warning."
+ },
+ {
+  "id": "M1#3229",
+  "en": "I got dragged into a stupid brawl between"
+ },
+ {
+  "id": "M1#3230",
+  "en": "sailors myself, and I ended up losing my"
+ },
+ {
+  "id": "M1#3231",
+  "en": "right leg."
+ },
+ {
+  "id": "M1#3232",
+  "en": "This leg I've got now is a fake... Well,"
+ },
+ {
+  "id": "M1#3233",
+  "en": "that sort of thing's nothing unusual."
+ },
+ {
+  "id": "M1#3234",
+  "en": "It's been over 10 years since I quit sailing."
+ },
+ {
+  "id": "M1#3235",
+  "en": "Even so, I still want to go back to sea."
+ },
+ {
+  "id": "M1#3236",
+  "en": "I feel like I can hear the sea calling me,"
+ },
+ {
+  "id": "M1#3237",
+  "en": "so even now that I've quit, I still run"
+ },
+ {
+  "id": "M1#3238",
+  "en": "a business that caters to sailors..."
+ },
+ {
+  "id": "M1#3239",
+  "en": "I just can't let go, I guess."
+ },
+ {
+  "id": "M1#3240",
+  "en": "Doing business with sailors like this,"
+ },
+ {
+  "id": "M1#3241",
+  "en": "I'll spend the rest of my life by the sea."
+ },
+ {
+  "id": "M1#3242",
+  "en": "A human leg is a mere part, after all."
+ },
+ {
+  "id": "M1#3243",
+  "en": "But I like that tough spirit of his."
+ },
+ {
+  "id": "M1#3244",
+  "en": "He should prove useful enough."
+ },
+ {
+  "id": "M1#3245",
+  "en": "<No, I am not a sailor>",
+  "note": "choice (SQC 128445/128555), polite player; not in any used_in"
+ },
+ {
+  "id": "M1#3246",
+  "en": "<I may not look it, but I'm a seaman>"
+ },
+ {
+  "id": "M1#3247",
+  "en": "Just kidding... You're a funny customer."
+ },
+ {
+  "id": "M1#3248",
+  "en": "In the end, I just can't let go, I guess."
+ },
+ {
+  "id": "M1#3249",
+  "en": "You there, ",
+  "note": "+ NAME + #3250 ', was it?'; Mrs. Lenya (271258) variant without trailing space before the line break",
+  "variants": [
+   {
+    "msg": 271258,
+    "en": "You there,"
+   }
+  ]
+ },
+ {
+  "id": "M1#3250",
+  "en": ", was it?"
+ },
+ {
+  "id": "M1#3251",
+  "en": "What are you after, coming to my inn every night?"
+ },
+ {
+  "id": "M1#3252",
+  "en": "Sailors are used to sleeping while rocking"
+ },
+ {
+  "id": "M1#3253",
+  "en": "in cramped cabins, so they don't wake easily,"
+ },
+ {
+  "id": "M1#3254",
+  "en": "even when the town gets noisy."
+ },
+ {
+  "id": "M1#3255",
+  "en": "But lately, maybe it's the vampire rumors,"
+ },
+ {
+  "id": "M1#3256",
+  "en": "my sailors sleep poorly, and the slightest"
+ },
+ {
+  "id": "M1#3257",
+  "en": "noise wakes them right up."
+ },
+ {
+  "id": "M1#3258",
+  "en": "I can't bear to watch it anymore."
+ },
+ {
+  "id": "M1#3259",
+  "en": "It was right around the time you"
+ },
+ {
+  "id": "M1#3260",
+  "en": "showed up in this town, wasn't it,"
+ },
+ {
+  "id": "M1#3261",
+  "en": "that the vampire rumors started spreading."
+ },
+ {
+  "id": "M1#3262",
+  "en": "Suppose you tell me what's going on."
+ },
+ {
+  "id": "M1#3263",
+  "en": "You've got something to do with it, right?"
+ },
+ {
+  "id": "M1#3264",
+  "en": "(What should I do...?)",
+  "note": "PLAYER thought"
+ },
+ {
+  "id": "M1#3265",
+  "en": "<Drink his blood by force>",
+  "note": "choice (SQC 128926, with #171 <Explain the situation>); same wording as #1814"
+ },
+ {
+  "id": "M1#3266",
+  "en": "I don't get the complicated stuff,",
+  "note": "SQC 128960ff, not parsed by talk.py: [VIL] 3266 <p15> / 3267 ▼ CLR 3268 / ▼ 3269 / ▼ 3270 ▼"
+ },
+ {
+  "id": "M1#3267",
+  "en": "but basically..."
+ },
+ {
+  "id": "M1#3268",
+  "en": "You want to take down a bad vampire.",
+  "note": "3268-3270 share one box (waits without clear)"
+ },
+ {
+  "id": "M1#3269",
+  "en": "He's strong, so you need some help."
+ },
+ {
+  "id": "M1#3270",
+  "en": "And you won't cause your helpers trouble."
+ },
+ {
+  "id": "M1#3271",
+  "en": "That's what you're getting at, huh?"
+ },
+ {
+  "id": "M1#3272",
+  "en": "What you said before,"
+ },
+ {
+  "id": "M1#3273",
+  "en": "\"You can come back to yourself after a bite.\""
+ },
+ {
+  "id": "M1#3274",
+  "en": "That's really true, is it?"
+ },
+ {
+  "id": "M1#3275",
+  "en": "Without a doubt.",
+  "note": "PLAYER (polite)"
+ },
+ {
+  "id": "M1#3276",
+  "en": "I used to be pretty handy with my fists,",
+  "note": "3276/3277/3278 / ▼ 3279 : four lines with a wait before the 4th, as in the source"
+ },
+ {
+  "id": "M1#3277",
+  "en": "but look at me now."
+ },
+ {
+  "id": "M1#3278",
+  "en": "Can't say how much use I'll be."
+ },
+ {
+  "id": "M1#3279",
+  "en": "If that's fine by you, do as you like."
+ }
+]

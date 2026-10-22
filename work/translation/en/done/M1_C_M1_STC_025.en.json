@@ -1,0 +1,363 @@
+[
+ {
+  "id": "M1#2000",
+  "en": "lined up, after all.",
+  "note": "continues #1999 (slice 024), which must end 'with such fine goods right in front of you,'"
+ },
+ {
+  "id": "M1#2001",
+  "en": "Honestly, the world's gotten so convenient"
+ },
+ {
+  "id": "M1#2002",
+  "en": "these days, hasn't it!"
+ },
+ {
+  "id": "M1#2003",
+  "en": "After all, as long as you've got money,"
+ },
+ {
+  "id": "M1#2004",
+  "en": "you can get anything you need these days."
+ },
+ {
+  "id": "M1#2005",
+  "en": "Even in this country, not long ago, folks tilled"
+ },
+ {
+  "id": "M1#2006",
+  "en": "their own fields and made butter from their"
+ },
+ {
+  "id": "M1#2007",
+  "en": "own cows. Totally self-sufficient, I tell ya!"
+ },
+ {
+  "id": "M1#2008",
+  "en": "Thanks a lot! Sir, you've been such a loyal"
+ },
+ {
+  "id": "M1#2009",
+  "en": "customer, and it really helps me out."
+ },
+ {
+  "id": "M1#2010",
+  "en": "After all, this market sells all kinds of"
+ },
+ {
+  "id": "M1#2011",
+  "en": "things. And compared to other shops,"
+ },
+ {
+  "id": "M1#2012",
+  "en": "we hold our own on quality and price."
+ },
+ {
+  "id": "M1#2013",
+  "en": "Quality, low prices, selection... To make a"
+ },
+ {
+  "id": "M1#2014",
+  "en": "business thrive, the things I value most"
+ },
+ {
+  "id": "M1#2015",
+  "en": "are those three."
+ },
+ {
+  "id": "M1#2016",
+  "en": "In the days ahead, the number of folks who"
+ },
+ {
+  "id": "M1#2017",
+  "en": "buy things with money is sure to grow."
+ },
+ {
+  "id": "M1#2018",
+  "en": "And when it does, I'll be raking it in!"
+ },
+ {
+  "id": "M1#2019",
+  "en": "Thanks a lot!!"
+ },
+ {
+  "id": "M1#2020",
+  "en": ", sir",
+  "note": "danna = 'sir' (shared with Margarete, msg 213715); variant for msg 79103 where a line break follows",
+  "variants": [
+   {
+    "msg": 79103,
+    "en": ", sir!"
+   }
+  ]
+ },
+ {
+  "id": "M1#2021",
+  "en": "Always appreciate it!"
+ },
+ {
+  "id": "M1#2022",
+  "en": "If you hear of any sweet deals, sir,"
+ },
+ {
+  "id": "M1#2023",
+  "en": "be sure to tell me about them!"
+ },
+ {
+  "id": "M1#2024",
+  "en": "I'm counting on you. Ha ha ha."
+ },
+ {
+  "id": "M1#2025",
+  "en": "Who's that, at this hour?"
+ },
+ {
+  "id": "M1#2026",
+  "en": "Oh, if it isn't"
+ },
+ {
+  "id": "M1#2027",
+  "en": "What on earth brings you here?"
+ },
+ {
+  "id": "M1#2028",
+  "en": "Huh! Don't tell me it's a sweet deal...?"
+ },
+ {
+  "id": "M1#2029",
+  "en": "That's right. I've brought you a sweet deal,"
+ },
+ {
+  "id": "M1#2030",
+  "en": "my very best one."
+ },
+ {
+  "id": "M1#2031",
+  "en": "W-Well, well"
+ },
+ {
+  "id": "M1#2032",
+  "en": "Just like you, sir! So what kind of deal is it?"
+ },
+ {
+  "id": "M1#2033",
+  "en": "It'd be a hassle if anyone overheard. I'll keep my voice down..."
+ },
+ {
+  "id": "M1#2034",
+  "en": "Gyaaaaaah!!"
+ },
+ {
+  "id": "M1#2035",
+  "en": "Every sweet deal has a catch."
+ },
+ {
+  "id": "M1#2036",
+  "en": "Well, well. Whose young master are you?"
+ },
+ {
+  "id": "M1#2037",
+  "en": "(\"Young master\" is a bit much...)"
+ },
+ {
+  "id": "M1#2038",
+  "en": "Please do stop in, young master!"
+ },
+ {
+  "id": "M1#2039",
+  "en": "(Come on. \"Young master\" is a bit much.)"
+ },
+ {
+  "id": "M1#2040",
+  "en": "Young master, if you like, do show your face",
+  "note": "#1952 (slice 024) must read 'at the market too.'"
+ },
+ {
+  "id": "M1#2041",
+  "en": "You're up awfully early, aren't you?"
+ },
+ {
+  "id": "M1#2042",
+  "en": "Young master!",
+  "note": "ohbocchama = 'young master'; variants: after a name (', young master!'), and lowercase when joined to a preceding clause (79574, 79964)",
+  "variants": [
+   {
+    "msg": 79313,
+    "en": ", young master!"
+   },
+   {
+    "msg": 79343,
+    "en": ", young master!"
+   },
+   {
+    "msg": 79683,
+    "en": ", young master!"
+   },
+   {
+    "msg": 79574,
+    "en": "young master!"
+   },
+   {
+    "msg": 79964,
+    "en": "young master!"
+   }
+  ]
+ },
+ {
+  "id": "M1#2043",
+  "en": "Pleased to meet you, young master."
+ },
+ {
+  "id": "M1#2044",
+  "en": "Young master, please do show your face",
+  "note": "#1952 (slice 024) must read 'at the market too.'"
+ },
+ {
+  "id": "M1#2045",
+  "en": "Isn't there some sweet money-making deal"
+ },
+ {
+  "id": "M1#2046",
+  "en": "around somewhere, I wonder..."
+ },
+ {
+  "id": "M1#2047",
+  "en": ", young master!",
+  "note": "always follows the inserted name"
+ },
+ {
+  "id": "M1#2048",
+  "en": "Young master, welcome to this humble shack."
+ },
+ {
+  "id": "M1#2049",
+  "en": "I'm a trader at the market, a man named Emil",
+  "note": "ends without a period; #1260 supplies '.'"
+ },
+ {
+  "id": "M1#2050",
+  "en": "please, ",
+  "note": "trailing space on purpose: msg 79574 (#2042) continues on the same line"
+ },
+ {
+  "id": "M1#2051",
+  "en": "Let me say this line",
+  "note": "no used_in found; meta joke, mirrors #1966/#1967"
+ },
+ {
+  "id": "M1#2052",
+  "en": "at the market next time."
+ },
+ {
+  "id": "M1#2053",
+  "en": "So that's why,"
+ },
+ {
+  "id": "M1#2054",
+  "en": "please do come to the market!"
+ },
+ {
+  "id": "M1#2055",
+  "en": "Welcome, welcome."
+ },
+ {
+  "id": "M1#2056",
+  "en": "Thanks to you, the market is booming!"
+ },
+ {
+  "id": "M1#2057",
+  "en": "Do come show your face at the market again!"
+ },
+ {
+  "id": "M1#2058",
+  "en": "Well, well. Whose young master are you?"
+ },
+ {
+  "id": "M1#2059",
+  "en": "How about an apple?"
+ },
+ {
+  "id": "M1#2060",
+  "en": "Then I think I'll buy one."
+ },
+ {
+  "id": "M1#2061",
+  "en": "Oh, and the price stays the same.",
+  "note": "no used_in found; the leading fragment completes an unseen predecessor row ('...take a whole bag'); written as a standalone sentence"
+ },
+ {
+  "id": "M1#2062",
+  "en": "Well, young master, we've met before."
+ },
+ {
+  "id": "M1#2063",
+  "en": "How about an apple today?"
+ },
+ {
+  "id": "M1#2064",
+  "en": "Then I think I'll buy one."
+ },
+ {
+  "id": "M1#2065",
+  "en": "Thanks a lot, young master!"
+ },
+ {
+  "id": "M1#2066",
+  "en": "Welcome!!"
+ },
+ {
+  "id": "M1#2067",
+  "en": "At this market, everything you need for"
+ },
+ {
+  "id": "M1#2068",
+  "en": "daily life is available."
+ },
+ {
+  "id": "M1#2069",
+  "en": "Have a look around, ",
+  "note": "trailing space on purpose: #2042 follows directly (variant 79964 lowercases it)"
+ },
+ {
+  "id": "M1#2070",
+  "en": "Thanks a lot! Thank you for always"
+ },
+ {
+  "id": "M1#2071",
+  "en": "being such a loyal customer. Much obliged!"
+ },
+ {
+  "id": "M1#2072",
+  "en": ", young master.",
+  "note": "follows the inserted name"
+ },
+ {
+  "id": "M1#2073",
+  "en": "You're always calling me",
+  "note": "player (gentle Christopher) rehearsing anger: 2073-2076 read as one sentence across two boxes"
+ },
+ {
+  "id": "M1#2074",
+  "en": "\"young master\" like that."
+ },
+ {
+  "id": "M1#2075",
+  "en": "I'll make you see that I am not a"
+ },
+ {
+  "id": "M1#2076",
+  "en": "\"young master\"!"
+ },
+ {
+  "id": "M1#2077",
+  "en": "What's all the racket?"
+ },
+ {
+  "id": "M1#2078",
+  "en": "I wondered who it could be, and well,"
+ },
+ {
+  "id": "M1#2079",
+  "en": "if it isn't \"young master\"!"
+ }
+]

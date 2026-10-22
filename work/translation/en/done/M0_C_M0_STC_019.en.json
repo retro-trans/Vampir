@@ -1,0 +1,326 @@
+[
+ {
+  "id": "M0#1520",
+  "en": "Easy now. You'll just have to wait for the Harvest Festival."
+ },
+ {
+  "id": "M0#1521",
+  "en": "Itching for the Harvest Festival already, eh?"
+ },
+ {
+  "id": "M0#1522",
+  "en": "Heh, you're daft,"
+ },
+ {
+  "id": "M0#1523",
+  "en": "the waiting is the best part of it, isn't it?"
+ },
+ {
+  "id": "M0#1524",
+  "en": "Oh, it's you. You still can't wait for the Harvest Festival,"
+ },
+ {
+  "id": "M0#1525",
+  "en": "by the look of it."
+ },
+ {
+  "id": "M0#1526",
+  "en": "But, you know,"
+ },
+ {
+  "id": "M0#1527",
+  "en": "the landlord's laid up sick this year, isn't he?"
+ },
+ {
+  "id": "M0#1528",
+  "en": "I'm worried we won't get to hold the festival."
+ },
+ {
+  "id": "M0#1529",
+  "en": "Well, worry for the landlord is one thing,"
+ },
+ {
+  "id": "M0#1530",
+  "en": "but I'm swamped brewing for the festival."
+ },
+ {
+  "id": "M0#1531",
+  "en": "Once the landlord is back on his feet,"
+ },
+ {
+  "id": "M0#1532",
+  "en": "and the Harvest Festival is finally on,"
+ },
+ {
+  "id": "M0#1533",
+  "en": "it'd be a disgrace if we had no drink."
+ },
+ {
+  "id": "M0#1534",
+  "en": "After all, the folks in this village"
+ },
+ {
+  "id": "M0#1535",
+  "en": "are every last one of them drinkers, you see,"
+ },
+ {
+  "id": "M0#1536",
+  "en": "so it's work worth doing, I tell you."
+ },
+ {
+  "id": "M0#1537",
+  "en": "You who provide the villagers with drink."
+ },
+ {
+  "id": "M0#1538",
+  "en": "There is something I'd rather drink than liquor."
+ },
+ {
+  "id": "M0#1539",
+  "en": "As for that,",
+  "note": "'As for that,' + #1540 reads in msg 70692; #1540 also stands alone in msg 70708"
+ },
+ {
+  "id": "M0#1540",
+  "en": "I will not wait for the Harvest Festival."
+ },
+ {
+  "id": "M0#1541",
+  "en": "Restraint is not my aesthetic, you see..."
+ },
+ {
+  "id": "M0#1542",
+  "en": "I'm off to start a batch of brew now."
+ },
+ {
+  "id": "M0#1543",
+  "en": "What can I do for you?",
+  "note": "Needs M0#1516 (slice 018) to end a sentence, e.g. \"I'm Southwark, I run this place.\""
+ },
+ {
+  "id": "M0#1544",
+  "en": "I leave everything to you. Your orders..."
+ },
+ {
+  "id": "M0#1545",
+  "en": "These days, I feel so much better..."
+ },
+ {
+  "id": "M0#1546",
+  "en": "You are my master. Your orders..."
+ },
+ {
+  "id": "M0#1547",
+  "en": "Is he asleep...?",
+  "note": "Referent inferred: Daedalus (male, glossary) seen asleep; could be spoken to him ('Are you asleep...?')"
+ },
+ {
+  "id": "M0#1548",
+  "en": "I am Daedalus, the landlord here."
+ },
+ {
+  "id": "M0#1549",
+  "en": "And you?"
+ },
+ {
+  "id": "M0#1550",
+  "en": "It seems you came while I was asleep,"
+ },
+ {
+  "id": "M0#1551",
+  "en": "I am sorry."
+ },
+ {
+  "id": "M0#1552",
+  "en": "But lately even rising is a chore."
+ },
+ {
+  "id": "M0#1553",
+  "en": "Now then, who are you, exactly?"
+ },
+ {
+  "id": "M0#1554",
+  "en": "Hm..."
+ },
+ {
+  "id": "M0#1555",
+  "en": "It is a name I have heard in the old legends,"
+ },
+ {
+  "id": "M0#1556",
+  "en": "would you be surprised if I said so?"
+ },
+ {
+  "id": "M0#1557",
+  "en": "No."
+ },
+ {
+  "id": "M0#1558",
+  "en": "I thought not. Even if it's an old lord's name,"
+ },
+ {
+  "id": "M0#1559",
+  "en": "it can still be a name of today,"
+ },
+ {
+  "id": "M0#1560",
+  "en": "after all."
+ },
+ {
+  "id": "M0#1561",
+  "en": "I'm tired from talking. I'll rest a while."
+ },
+ {
+  "id": "M0#1562",
+  "en": "I'm a gravely ill man."
+ },
+ {
+  "id": "M0#1563",
+  "en": "Come again."
+ },
+ {
+  "id": "M0#1564",
+  "en": "I'm tired from talking. Let me rest a while."
+ },
+ {
+  "id": "M0#1565",
+  "en": "As for you,"
+ },
+ {
+  "id": "M0#1566",
+  "en": "you seem to be blending into the village fast."
+ },
+ {
+  "id": "M0#1567",
+  "en": "The villagers, wary of you as an outsider at first,"
+ },
+ {
+  "id": "M0#1568",
+  "en": "soon hardly mind you at all."
+ },
+ {
+  "id": "M0#1569",
+  "en": "Is it your good character,"
+ },
+ {
+  "id": "M0#1570",
+  "en": "or the way the times are changing...?"
+ },
+ {
+  "id": "M0#1571",
+  "en": "Have you met my granddaughter, Veta?"
+ },
+ {
+  "id": "M0#1572",
+  "en": "She is a pitiable child, too. Because of me, her"
+ },
+ {
+  "id": "M0#1573",
+  "en": "parents were made to part in unhappiness."
+ },
+ {
+  "id": "M0#1574",
+  "en": "Even so, now,"
+ },
+ {
+  "id": "M0#1575",
+  "en": "she looks after me in my illness."
+ },
+ {
+  "id": "M0#1576",
+  "en": "She is a kind child."
+ },
+ {
+  "id": "M0#1577",
+  "en": "That child should have a happiness of her own,"
+ },
+ {
+  "id": "M0#1578",
+  "en": "and I wish she would find it..."
+ },
+ {
+  "id": "M0#1579",
+  "en": "I'm not well today."
+ },
+ {
+  "id": "M0#1580",
+  "en": "I can't talk much, but what is it?"
+ },
+ {
+  "id": "M0#1581",
+  "en": "How much do you understand about me?"
+ },
+ {
+  "id": "M0#1582",
+  "en": "That matter, is it..."
+ },
+ {
+  "id": "M0#1583",
+  "en": "The truth is, Doctor Seward visits me,"
+ },
+ {
+  "id": "M0#1584",
+  "en": "and he claims to be a vampire hunter"
+ },
+ {
+  "id": "M0#1585",
+  "en": "as well."
+ },
+ {
+  "id": "M0#1586",
+  "en": "And a sick man hears rumors, too."
+ },
+ {
+  "id": "M0#1587",
+  "en": "A sick man has plenty of time to think."
+ },
+ {
+  "id": "M0#1588",
+  "en": "Reaching a conclusion is easy."
+ },
+ {
+  "id": "M0#1589",
+  "en": "I see. And?"
+ },
+ {
+  "id": "M0#1590",
+  "en": "What do you mean, \"and\"?"
+ },
+ {
+  "id": "M0#1591",
+  "en": "I shall do nothing."
+ },
+ {
+  "id": "M0#1592",
+  "en": "I am a sick man."
+ },
+ {
+  "id": "M0#1593",
+  "en": "I will soon be called to God's side."
+ },
+ {
+  "id": "M0#1594",
+  "en": "I merely resent this body of mine."
+ },
+ {
+  "id": "M0#1595",
+  "en": "At the very least, I want to live until Veta finds",
+  "note": "Cut at 'finds' / 'a happy partner' to match the Japanese split"
+ },
+ {
+  "id": "M0#1596",
+  "en": "a happy partner. That is my wish."
+ },
+ {
+  "id": "M0#1597",
+  "en": "As long as I remain in this state,"
+ },
+ {
+  "id": "M0#1598",
+  "en": "I suppose that girl will never think of finding a sweetheart."
+ },
+ {
+  "id": "M0#1599",
+  "en": "So, you came..."
+ }
+]

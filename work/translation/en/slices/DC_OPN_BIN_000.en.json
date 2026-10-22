@@ -1,0 +1,279 @@
+{
+ "slice": "DC_OPN_BIN_000",
+ "file": "DC_OPN.BIN",
+ "rows": [
+  {
+   "id": "OPN.BIN@1290"
+  },
+  {
+   "id": "OPN.BIN@1268"
+  },
+  {
+   "id": "OPN.BIN@1250"
+  },
+  {
+   "id": "OPN.BIN@1238"
+  },
+  {
+   "id": "OPN.BIN@1230"
+  },
+  {
+   "id": "OPN.BIN@1228"
+  },
+  {
+   "id": "OPN.BIN@120C"
+  },
+  {
+   "id": "OPN.BIN@1200"
+  },
+  {
+   "id": "OPN.BIN@11D8"
+  },
+  {
+   "id": "OPN.BIN@11C4"
+  },
+  {
+   "id": "OPN.BIN@11BC"
+  },
+  {
+   "id": "OPN.BIN@1190"
+  },
+  {
+   "id": "OPN.BIN@1168"
+  },
+  {
+   "id": "OPN.BIN@1148"
+  },
+  {
+   "id": "OPN.BIN@112C"
+  },
+  {
+   "id": "OPN.BIN@1100"
+  },
+  {
+   "id": "OPN.BIN@10F0"
+  },
+  {
+   "id": "OPN.BIN@10E0"
+  },
+  {
+   "id": "OPN.BIN@10BC"
+  },
+  {
+   "id": "OPN.BIN@10B8"
+  },
+  {
+   "id": "OPN.BIN@10B4"
+  },
+  {
+   "id": "OPN.BIN@10B0"
+  },
+  {
+   "id": "OPN.BIN@10AC"
+  },
+  {
+   "id": "OPN.BIN@10A8"
+  },
+  {
+   "id": "OPN.BIN@10A4"
+  },
+  {
+   "id": "OPN.BIN@10A0"
+  },
+  {
+   "id": "OPN.BIN@109C"
+  },
+  {
+   "id": "OPN.BIN@1098"
+  },
+  {
+   "id": "OPN.BIN@1094"
+  },
+  {
+   "id": "OPN.BIN@1090"
+  },
+  {
+   "id": "OPN.BIN@1084"
+  },
+  {
+   "id": "OPN.BIN@1068"
+  },
+  {
+   "id": "OPN.BIN@104C"
+  },
+  {
+   "id": "OPN.BIN@1024"
+  },
+  {
+   "id": "OPN.BIN@1018"
+  },
+  {
+   "id": "OPN.BIN@1000"
+  },
+  {
+   "id": "OPN.BIN@FD4"
+  },
+  {
+   "id": "OPN.BIN@FB0"
+  },
+  {
+   "id": "OPN.BIN@FA4"
+  },
+  {
+   "id": "OPN.BIN@FA0"
+  },
+  {
+   "id": "OPN.BIN@F80"
+  },
+  {
+   "id": "OPN.BIN@F70"
+  },
+  {
+   "id": "OPN.BIN@F50"
+  },
+  {
+   "id": "OPN.BIN@F40"
+  },
+  {
+   "id": "OPN.BIN@F18"
+  },
+  {
+   "id": "OPN.BIN@EF4"
+  },
+  {
+   "id": "OPN.BIN@EE0"
+  },
+  {
+   "id": "OPN.BIN@EC4"
+  },
+  {
+   "id": "OPN.BIN@E98"
+  },
+  {
+   "id": "OPN.BIN@E90"
+  },
+  {
+   "id": "OPN.BIN@E80"
+  },
+  {
+   "id": "OPN.BIN@E5C"
+  },
+  {
+   "id": "OPN.BIN@E30"
+  },
+  {
+   "id": "OPN.BIN@E08"
+  },
+  {
+   "id": "OPN.BIN@DEC"
+  },
+  {
+   "id": "OPN.BIN@DE0"
+  },
+  {
+   "id": "OPN.BIN@DC0"
+  },
+  {
+   "id": "OPN.BIN@D98"
+  },
+  {
+   "id": "OPN.BIN@D84"
+  },
+  {
+   "id": "OPN.BIN@D58"
+  },
+  {
+   "id": "OPN.BIN@D2C"
+  },
+  {
+   "id": "OPN.BIN@D18"
+  },
+  {
+   "id": "OPN.BIN@D04"
+  },
+  {
+   "id": "OPN.BIN@CD8"
+  },
+  {
+   "id": "OPN.BIN@CAC"
+  },
+  {
+   "id": "OPN.BIN@C8C"
+  },
+  {
+   "id": "OPN.BIN@C80"
+  },
+  {
+   "id": "OPN.BIN@C54"
+  },
+  {
+   "id": "OPN.BIN@C28"
+  },
+  {
+   "id": "OPN.BIN@C20"
+  },
+  {
+   "id": "OPN.BIN@BFC"
+  },
+  {
+   "id": "OPN.BIN@BD0"
+  },
+  {
+   "id": "OPN.BIN@BC8"
+  },
+  {
+   "id": "OPN.BIN@B9C"
+  },
+  {
+   "id": "OPN.BIN@B84"
+  },
+  {
+   "id": "OPN.BIN@B80"
+  },
+  {
+   "id": "OPN.BIN@B64"
+  },
+  {
+   "id": "OPN.BIN@B38"
+  },
+  {
+   "id": "OPN.BIN@B10"
+  },
+  {
+   "id": "OPN.BIN@B04"
+  }
+ ],
+ "before": [],
+ "after": [
+  {
+   "id": "OPN.BIN@ADC"
+  },
+  {
+   "id": "OPN.BIN@AB4"
+  },
+  {
+   "id": "OPN.BIN@AAC"
+  },
+  {
+   "id": "OPN.BIN@AA0"
+  },
+  {
+   "id": "OPN.BIN@A9C"
+  },
+  {
+   "id": "OPN.BIN@A88"
+  },
+  {
+   "id": "OPN.BIN@A70"
+  },
+  {
+   "id": "OPN.BIN@A50"
+  },
+  {
+   "id": "OPN.BIN@A24"
+  },
+  {
+   "id": "OPN.BIN@A0C"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "slice": "M1_C_EP1_BIN_001",
+ "file": "M1_C_EP1.BIN",
+ "rows": [
+  {
+   "id": "EP1.BIN@16C"
+  },
+  {
+   "id": "EP1.BIN@160"
+  },
+  {
+   "id": "EP1.BIN@158"
+  },
+  {
+   "id": "EP1.BIN@12C"
+  },
+  {
+   "id": "EP1.BIN@100"
+  },
+  {
+   "id": "EP1.BIN@FC"
+  },
+  {
+   "id": "EP1.BIN@EC"
+  },
+  {
+   "id": "EP1.BIN@D8"
+  },
+  {
+   "id": "EP1.BIN@B8"
+  },
+  {
+   "id": "EP1.BIN@A0"
+  },
+  {
+   "id": "EP1.BIN@90"
+  },
+  {
+   "id": "EP1.BIN@6C"
+  },
+  {
+   "id": "EP1.BIN@60"
+  },
+  {
+   "id": "EP1.BIN@5C"
+  },
+  {
+   "id": "EP1.BIN@38"
+  },
+  {
+   "id": "EP1.BIN@2C"
+  },
+  {
+   "id": "EP1.BIN@4"
+  }
+ ],
+ "before": [
+  {
+   "id": "EP1.BIN@258"
+  },
+  {
+   "id": "EP1.BIN@23C"
+  },
+  {
+   "id": "EP1.BIN@228"
+  },
+  {
+   "id": "EP1.BIN@214"
+  },
+  {
+   "id": "EP1.BIN@1FC"
+  },
+  {
+   "id": "EP1.BIN@1EC"
+  },
+  {
+   "id": "EP1.BIN@1E8"
+  },
+  {
+   "id": "EP1.BIN@1CC"
+  },
+  {
+   "id": "EP1.BIN@1A0"
+  },
+  {
+   "id": "EP1.BIN@194"
+  }
+ ],
+ "after": []
+}

@@ -1,0 +1,1558 @@
+[
+ {
+  "id": "M1A.BIN@6AC",
+  "off": 1708,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148373120
+   ]
+  ],
+  "idx": 0,
+  "en": "Do you truly intend to defeat me?",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@694",
+  "off": 1684,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148373124
+   ]
+  ],
+  "idx": 1,
+  "en": "Yes, of course.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@674",
+  "off": 1652,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148373128
+   ]
+  ],
+  "idx": 2,
+  "en": "...Don't make me laugh, you whelp!!!!",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@654",
+  "off": 1620,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148373132
+   ]
+  ],
+  "idx": 3,
+  "en": "I am Van Helsing.",
+  "note": "Van Helsing self-introduction, rows 654-430 in forward order.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@634",
+  "off": 1588,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148373136
+   ]
+  ],
+  "idx": 4,
+  "en": "I'm a university professor, and a doctor too.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@60C",
+  "off": 1548,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148373140
+   ]
+  ],
+  "idx": 5,
+  "en": "My former student, Jonathan Harker, and",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@5E8",
+  "off": 1512,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373144
+   ]
+  ],
+  "idx": 6,
+  "en": "my fellow physician, Dr. Jack Seward,",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@5D4",
+  "off": 1492,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148373148
+   ]
+  ],
+  "idx": 7,
+  "en": "both sent word to me, you see,",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@5B0",
+  "off": 1456,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373152
+   ]
+  ],
+  "idx": 8,
+  "en": "and so now, as a vampire hunter,",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@598",
+  "off": 1432,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148373156
+   ]
+  ],
+  "idx": 9,
+  "en": "I have come to this port town.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@584",
+  "off": 1412,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148373160
+   ]
+  ],
+  "idx": 10,
+  "en": "My titles, however,",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@564",
+  "off": 1380,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148373164
+   ]
+  ],
+  "idx": 11,
+  "en": "are not just professor and doctor.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@548",
+  "off": 1352,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148373168
+   ]
+  ],
+  "idx": 12,
+  "en": " My other title is that of",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@530",
+  "off": 1328,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148373172
+   ]
+  ],
+  "idx": 13,
+  "en": "a researcher of the paranormal...",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@50C",
+  "off": 1292,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373176
+   ]
+  ],
+  "idx": 14,
+  "en": "Not that the world knows much of it.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@4E8",
+  "off": 1256,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373180
+   ]
+  ],
+  "idx": 15,
+  "en": "I have read every text there is, and so I",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@4C0",
+  "off": 1216,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148373184
+   ]
+  ],
+  "idx": 16,
+  "en": "know the means to defeat a vampire.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@49C",
+  "off": 1180,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373188
+   ]
+  ],
+  "idx": 17,
+  "en": "The most effective way to defeat a vampire...",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@47C",
+  "off": 1148,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148373192
+   ]
+  ],
+  "idx": 18,
+  "en": "is to seek out its coffin.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@458",
+  "off": 1112,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373196
+   ]
+  ],
+  "idx": 19,
+  "en": "If you can find it, you should be able to deal",
+  "note": "Generic subject 'you' restored (source has none).",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@430",
+  "off": 1072,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148373200
+   ]
+  ],
+  "idx": 20,
+  "en": "the vampire a fatal wound...",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@40C",
+  "off": 1036,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373204
+   ]
+  ],
+  "idx": 21,
+  "en": "When my best friend Jonathan asks a favor,",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@3F0",
+  "off": 1008,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148373208
+   ]
+  ],
+  "idx": 22,
+  "en": "I can hardly refuse.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@3D8",
+  "off": 984,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148373212
+   ]
+  ],
+  "idx": 23,
+  "en": "So that's why I've",
+  "note": "Row cut moved: 'as a vampire hunter' moved from 3B0 to 39C so the verb row is not a lone 'came'.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@3B0",
+  "off": 944,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148373216
+   ]
+  ],
+  "idx": 24,
+  "en": "come to this town",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@39C",
+  "off": 924,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148373220
+   ]
+  ],
+  "idx": 25,
+  "en": "as a vampire hunter.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@378",
+  "off": 888,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373224
+   ]
+  ],
+  "idx": 26,
+  "en": "A vampire that preys on human beings...",
+  "note": "Vampire referred to as 'it' (gender not stated).",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@364",
+  "off": 868,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148373228
+   ]
+  ],
+  "idx": 27,
+  "en": "I won't stand for it...!",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@340",
+  "off": 832,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373232
+   ]
+  ],
+  "idx": 28,
+  "en": "I'll cut it down with this sword of mine!!",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@314",
+  "off": 788,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148373236
+   ]
+  ],
+  "idx": 29,
+  "en": "This sword I carry is called a blessed sword,",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@2FC",
+  "off": 764,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148373240
+   ]
+  ],
+  "idx": 30,
+  "en": "and it's quite something, you know...",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@2D4",
+  "off": 724,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148373244
+   ]
+  ],
+  "idx": 31,
+  "en": "Blessed by God, it has the power to sever evil.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@2B8",
+  "off": 696,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148373248
+   ]
+  ],
+  "idx": 32,
+  "en": "I'm Quincey Morris.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@298",
+  "off": 664,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148373252
+   ]
+  ],
+  "idx": 33,
+  "en": "I hail from Texas, in America.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@274",
+  "off": 628,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373256
+   ]
+  ],
+  "idx": 34,
+  "en": "Back in my student days in England,",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@258",
+  "off": 600,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148373260
+   ]
+  ],
+  "idx": 35,
+  "en": "Professor Van Helsing looked after me.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@240",
+  "off": 576,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148373264
+   ]
+  ],
+  "idx": 36,
+  "en": "I've come here as his escort.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@21C",
+  "off": 540,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373268
+   ]
+  ],
+  "idx": 37,
+  "en": "Professor Van Helsing saw promise in",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@204",
+  "off": 516,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148373272
+   ]
+  ],
+  "idx": 38,
+  "en": "my marksmanship, you see...",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@1E0",
+  "off": 480,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373276
+   ]
+  ],
+  "idx": 39,
+  "en": "Well, when I'm on the job, vampires",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@1D0",
+  "off": 464,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148373280
+   ]
+  ],
+  "idx": 40,
+  "en": "go down in one shot.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@1AC",
+  "off": 428,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373284
+   ]
+  ],
+  "idx": 41,
+  "en": "Dang... Last night I took a shot at a bat",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@190",
+  "off": 400,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148373288
+   ]
+  ],
+  "idx": 42,
+  "en": "and let it get away.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@16C",
+  "off": 364,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373292
+   ]
+  ],
+  "idx": 43,
+  "en": "This wasn't how it was supposed to go...",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@154",
+  "off": 340,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148373296
+   ]
+  ],
+  "idx": 44,
+  "en": "You won't get away from me...",
+  "note": "Player (polite) taunting an opponent; reply 124/100 knows the listener is a vampire (coffin). Speaker pair not certain; matches the M0A #85C wording 'Our showdown comes... with the night'.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@140",
+  "off": 320,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148373300
+   ]
+  ],
+  "idx": 45,
+  "en": "Our showdown comes with the night.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@124",
+  "off": 292,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148373304
+   ]
+  ],
+  "idx": 46,
+  "en": "You're the one who should strap your coffin",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@100",
+  "off": 256,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373308
+   ]
+  ],
+  "idx": 47,
+  "en": "to your back and get out of this town, fast.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@C04",
+  "off": 3076,
+  "size": 36,
+  "slot": 36,
+  "refs": [
+   [
+    "ptr",
+    2148373312
+   ]
+  ],
+  "idx": 48,
+  "en": "I hear Nosferatu and Dhampir have often",
+  "note": "Same as M0A.BIN@DAC",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@BE8",
+  "off": 3048,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148373316
+   ]
+  ],
+  "idx": 49,
+  "en": "been appearing around these parts.",
+  "note": "Same as M0A.BIN@D90",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@BC8",
+  "off": 3016,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148373320
+   ]
+  ],
+  "idx": 50,
+  "en": "Have you heard any such rumors?",
+  "note": "Same as M0A.BIN@D70",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@BB8",
+  "off": 3000,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148373324
+   ]
+  ],
+  "idx": 51,
+  "en": "<Answer>",
+  "note": "Same as M0A.BIN@D60",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@BA8",
+  "off": 2984,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148373328
+   ]
+  ],
+  "idx": 52,
+  "en": "<Don't answer>",
+  "note": "Same as M0A.BIN@D50",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@B8C",
+  "off": 2956,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148373332
+   ]
+  ],
+  "idx": 53,
+  "en": "Yes. I've heard about it.",
+  "note": "Same as M0A.BIN@D34 (Christopher (polite) branch.)",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@B74",
+  "off": 2932,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148373336
+   ]
+  ],
+  "idx": 54,
+  "en": "Yeah. I've heard.",
+  "note": "Same as M0A.BIN@D1C (Duran branch.)",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@B50",
+  "off": 2896,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373340
+   ]
+  ],
+  "idx": 55,
+  "en": "Then show me where on this map.",
+  "note": "Same as M0A.BIN@CF8",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@B38",
+  "off": 2872,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148373344
+   ]
+  ],
+  "idx": 56,
+  "en": "They're said to appear around here.",
+  "note": "Same as M0A.BIN@CE0",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@B20",
+  "off": 2848,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148373348
+   ]
+  ],
+  "idx": 57,
+  "en": "I see. Thank you.",
+  "note": "Same as M0A.BIN@CC8",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@B14",
+  "off": 2836,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148373352
+   ]
+  ],
+  "idx": 58,
+  "en": "I'm sorry. ",
+  "note": "Same as M0A.BIN@CBC (Christopher branch; printed on the same line as #C9C, hence trailing space.)",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@B08",
+  "off": 2824,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148373356
+   ]
+  ],
+  "idx": 59,
+  "en": "Sorry. ",
+  "note": "Same as M0A.BIN@CB0 (Duran branch; same line as #C9C, trailing space.)",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@AF4",
+  "off": 2804,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148373360
+   ]
+  ],
+  "idx": 60,
+  "en": "I've forgotten.",
+  "note": "Same as M0A.BIN@C9C",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@AD0",
+  "off": 2768,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373364
+   ]
+  ],
+  "idx": 61,
+  "en": "Then don't get my hopes up like that.",
+  "note": "Same as M0A.BIN@C78",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@ABC",
+  "off": 2748,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148373368
+   ]
+  ],
+  "idx": 62,
+  "en": "No, I haven't heard ",
+  "note": "Same as M0A.BIN@C64 (Same line as #C54 (Christopher) or #C48 (Duran); trailing space.)",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@AAC",
+  "off": 2732,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148373372
+   ]
+  ],
+  "idx": 63,
+  "en": "of any such thing.",
+  "note": "Same as M0A.BIN@C54 (Christopher branch.)",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@AA0",
+  "off": 2720,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148373376
+   ]
+  ],
+  "idx": 64,
+  "en": "of it.",
+  "note": "Same as M0A.BIN@C48 (Duran branch.)",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@A8C",
+  "off": 2700,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148373380
+   ]
+  ],
+  "idx": 65,
+  "en": "I see. Sorry to have bothered you.",
+  "note": "Same as M0A.BIN@C34",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@A68",
+  "off": 2664,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373384
+   ]
+  ],
+  "idx": 66,
+  "en": "Lately, at night, Nosferatu and",
+  "note": "Same as M0A.BIN@C10 (Player tells a rumor; next line is #BFC + #BF0/#BE4.)",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@A54",
+  "off": 2644,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148373388
+   ]
+  ],
+  "idx": 67,
+  "en": "Dhampir have been showing up, ",
+  "note": "Same as M0A.BIN@BFC (Same line as #BF0 (Christopher) or #BE4 (Duran); trailing space.)",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@A48",
+  "off": 2632,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148373392
+   ]
+  ],
+  "idx": 68,
+  "en": "or so I hear.",
+  "note": "Same as M0A.BIN@BF0",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@A3C",
+  "off": 2620,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148373396
+   ]
+  ],
+  "idx": 69,
+  "en": "they say.",
+  "note": "Same as M0A.BIN@BE4",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@A1C",
+  "off": 2588,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148373400
+   ]
+  ],
+  "idx": 70,
+  "en": "And they're often seen in this area...",
+  "note": "Same as M0A.BIN@BC4 (Player continues the rumor (#C10/#BFC/#BF0|#BE4, slice 000); 'this area' = the spot chosen on the map. Subject 'they' (Nosferatu and Dhampir) restored.)",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@A10",
+  "off": 2576,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148373404
+   ]
+  ],
+  "idx": 71,
+  "en": "No, uh, ",
+  "note": "Same as M0A.BIN@BB8 (Player backs out (likely after cancelling the map). Assumed to print on the same line as #B98/#B7C, hence trailing space.)",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@9F0",
+  "off": 2544,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148373408
+   ]
+  ],
+  "idx": 72,
+  "en": "I'm sorry. It's nothing.",
+  "note": "Same as M0A.BIN@B98 (Christopher (polite) branch.)",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@9D4",
+  "off": 2516,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148373412
+   ]
+  ],
+  "idx": 73,
+  "en": "It's nothing. Forget it.",
+  "note": "Same as M0A.BIN@B7C (Duran branch.)",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@9B0",
+  "off": 2480,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373416
+   ]
+  ],
+  "idx": 74,
+  "en": "Please don't bother me for no reason!",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@99C",
+  "off": 2460,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148373420
+   ]
+  ],
+  "idx": 75,
+  "en": "Really... ",
+  "note": "Same as M0A.BIN@B44 (Disbelief reply, followed by #B30 (same line assumed: trailing space).)",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@988",
+  "off": 2440,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148373424
+   ]
+  ],
+  "idx": 76,
+  "en": "I can't believe that.",
+  "note": "Same as M0A.BIN@B30",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@958",
+  "off": 2392,
+  "size": 46,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148373428
+   ]
+  ],
+  "idx": 77,
+  "en": "I see. Then I'd better not go out at night.",
+  "note": "Same as M0A.BIN@B00",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@934",
+  "off": 2356,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373432
+   ]
+  ],
+  "idx": 78,
+  "en": "Why do you keep telling me the same thing?",
+  "note": "Same as M0A.BIN@ADC",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@914",
+  "off": 2324,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148373436
+   ]
+  ],
+  "idx": 79,
+  "en": "Are you really that worried about me?",
+  "note": "Same as M0A.BIN@ABC",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@8F0",
+  "off": 2288,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373440
+   ]
+  ],
+  "idx": 80,
+  "en": "That's not what you told me before.",
+  "note": "Female/polite listener set (from #9B0, slice 000); same as M0A.BIN@A98.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@8C8",
+  "off": 2248,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148373444
+   ]
+  ],
+  "idx": 81,
+  "en": "Now I can't believe either of your stories.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@8A4",
+  "off": 2212,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373448
+   ]
+  ],
+  "idx": 82,
+  "en": "Don't talk to me if you've got no business!",
+  "note": "Male listener set (#8A4-#7C8); same as M0A.BIN@A4C.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@890",
+  "off": 2192,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148373452
+   ]
+  ],
+  "idx": 83,
+  "en": "Is that true...? ",
+  "note": "Followed by #87C (same line assumed: trailing space); same as M0A.BIN@A38.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@87C",
+  "off": 2172,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148373456
+   ]
+  ],
+  "idx": 84,
+  "en": "I can't believe it.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@854",
+  "off": 2132,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148373460
+   ]
+  ],
+  "idx": 85,
+  "en": "I see. Then I guess I'll stay in at night.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@838",
+  "off": 2104,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148373464
+   ]
+  ],
+  "idx": 86,
+  "en": "I heard that one already.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@810",
+  "off": 2064,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148373468
+   ]
+  ],
+  "idx": 87,
+  "en": "Why do you keep saying the same thing?",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@7EC",
+  "off": 2028,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373472
+   ]
+  ],
+  "idx": 88,
+  "en": "That's not what you said before.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@7C8",
+  "off": 1992,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148373476
+   ]
+  ],
+  "idx": 89,
+  "en": "Which one am I supposed to believe...?",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@7C0",
+  "off": 1984,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148373480
+   ]
+  ],
+  "idx": 90,
+  "en": "...",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@798",
+  "off": 1944,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148373484
+   ]
+  ],
+  "idx": 91,
+  "en": "You can't seriously expect me to believe that.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@780",
+  "off": 1920,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148373488
+   ]
+  ],
+  "idx": 92,
+  "en": "I'll take that into account.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@770",
+  "off": 1904,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148373492
+   ]
+  ],
+  "idx": 93,
+  "en": "You don't give up, do you?",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@750",
+  "off": 1872,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148373496
+   ]
+  ],
+  "idx": 94,
+  "en": "I understood you the first time.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@744",
+  "off": 1860,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148373500
+   ]
+  ],
+  "idx": 95,
+  "en": "Enough. You're relentless.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@728",
+  "off": 1832,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148373504
+   ]
+  ],
+  "idx": 96,
+  "en": "You've gone too far in mocking me.",
+  "note": "Object me supplied; same as M0A.BIN@8D0.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@708",
+  "off": 1800,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148373508
+   ]
+  ],
+  "idx": 97,
+  "en": "Bringing a rumor like that to me...",
+  "note": "Sentence continues in #6E8; same as M0A.BIN@8B0.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@6E8",
+  "off": 1768,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148373512
+   ]
+  ],
+  "idx": 98,
+  "en": "what on earth is the point of it!",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@6C8",
+  "off": 1736,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148373516
+   ]
+  ],
+  "idx": 99,
+  "en": "Thank you. I'll keep it in mind.",
+  "done": true
+ },
+ {
+  "id": "M1A.BIN@4",
+  "off": 4,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "code",
+    2148321388
+   ]
+  ],
+  "en": "Select a location",
+  "note": "Map UI prompt (no period); same as M0A.BIN@4.",
+  "done": true
+ }
+]

@@ -1,0 +1,343 @@
+[
+ {
+  "id": "M0#560",
+  "en": "I have a devout faith in God",
+  "note": "Verb split into #561 so each row keeps its own Japanese part"
+ },
+ {
+  "id": "M0#561",
+  "en": "that I cannot cast aside."
+ },
+ {
+  "id": "M0#562",
+  "en": "Now I have come to be loved by everyone"
+ },
+ {
+  "id": "M0#563",
+  "en": "but even so, the depths of my heart always"
+ },
+ {
+  "id": "M0#564",
+  "en": "return to that grave sin."
+ },
+ {
+  "id": "M0#565",
+  "en": "That is also the punishment that torments me."
+ },
+ {
+  "id": "M0#566",
+  "en": "The place you will return to",
+  "note": "The verb for 'return' rendered consistently as 'return' (Ramon's own heart 'returns' to his sin in #564/#586, so the contrast with this listener is kept)"
+ },
+ {
+  "id": "M0#567",
+  "en": "is not, however, steeped in sin."
+ },
+ {
+  "id": "M0#568",
+  "en": "You should be able to return."
+ },
+ {
+  "id": "M0#569",
+  "en": "Such a thing,"
+ },
+ {
+  "id": "M0#570",
+  "en": "I have already cast away."
+ },
+ {
+  "id": "M0#571",
+  "en": "I have no place to return to."
+ },
+ {
+  "id": "M0#572",
+  "en": "I see."
+ },
+ {
+  "id": "M0#573",
+  "en": "Then I shall say no more."
+ },
+ {
+  "id": "M0#574",
+  "en": "May God's blessing be upon you."
+ },
+ {
+  "id": "M0#575",
+  "en": "Welcome to our church."
+ },
+ {
+  "id": "M0#576",
+  "en": "This is a place of prayer to God."
+ },
+ {
+  "id": "M0#577",
+  "en": "Have you come to offer prayers again?",
+  "note": "Message 25437 places this before #541 ('I am Ramon, the priest.'): read literally, 'Have you come to pray again? I am Ramon.' - order kept as listed"
+ },
+ {
+  "id": "M0#578",
+  "en": "Reflected in your eyes is a deep abyss,"
+ },
+ {
+  "id": "M0#579",
+  "en": "and within it I glimpse light and darkness."
+ },
+ {
+  "id": "M0#580",
+  "en": "But you,"
+ },
+ {
+  "id": "M0#581",
+  "en": "you still seem to have a choice of paths.",
+  "note": "Source: 'seems to still have a means of choosing a path'; compressed to fit 3 lines"
+ },
+ {
+  "id": "M0#582",
+  "en": "May you not choose the path I chose...",
+  "note": "Object of the verb is 'the same path as mine'; written as 'the path I chose' (his sin)"
+ },
+ {
+  "id": "M0#583",
+  "en": "Now I have come to be loved by everyone,"
+ },
+ {
+  "id": "M0#584",
+  "en": "and they say my sin has been purified,"
+ },
+ {
+  "id": "M0#585",
+  "en": "yet even so, the depths of my heart"
+ },
+ {
+  "id": "M0#586",
+  "en": "always return to that grave sin."
+ },
+ {
+  "id": "M0#587",
+  "en": "And that, too,"
+ },
+ {
+  "id": "M0#588",
+  "en": "is the punishment that torments me."
+ },
+ {
+  "id": "M0#589",
+  "en": "You will learn to waver and to suffer."
+ },
+ {
+  "id": "M0#590",
+  "en": "In time you'll also know the path of despair.",
+  "note": "The 'yield/surrender' nuance dropped for fit: 'surrender to despair' made the 3-line message overflow"
+ },
+ {
+  "id": "M0#591",
+  "en": "But you must not choose it."
+ },
+ {
+  "id": "M0#592",
+  "en": "Even if you walk a path that defies God,"
+ },
+ {
+  "id": "M0#593",
+  "en": "you are able to return, after all.",
+  "note": "Also used in msg 25531 where the row reads the same; 'after all' carries the explanatory ending"
+ },
+ {
+  "id": "M0#594",
+  "en": "As long as you do not cast away that heart..."
+ },
+ {
+  "id": "M0#595",
+  "en": "Father."
+ },
+ {
+  "id": "M0#596",
+  "en": "You told me I have a place to return to.",
+  "note": "Referent of 'place to return to' = the 'place to return to' Ramon promised (#566-568)"
+ },
+ {
+  "id": "M0#597",
+  "en": "So you told me to believe, for now...",
+  "note": "Imperative = 'you told me to'; the subject is Ramon's command (Christopher quoting him)"
+ },
+ {
+  "id": "M0#598",
+  "en": "That is why I will do this, if you will allow it...",
+  "note": "Referent of 'this' unknown (action in the following scene), kept vague as in the source"
+ },
+ {
+  "id": "M0#599",
+  "en": "I have no other way left, as I am now..."
+ },
+ {
+  "id": "M0#600",
+  "en": "Believing that this is right..."
+ },
+ {
+  "id": "M0#601",
+  "en": ", my master, only to you",
+  "note": "The name + honorific cannot be moved before the name, so 'my master' follows the inserted name; 'only to you' carries the 'alone'"
+ },
+ {
+  "id": "M0#602",
+  "en": "will I devote myself",
+  "note": "Polite verb form, deferential tone for a gruff man; trailing ... is #66"
+ },
+ {
+  "id": "M0#603",
+  "en": "Hmm,"
+ },
+ {
+  "id": "M0#604",
+  "en": "Lately my body just won't do what I tell it."
+ },
+ {
+  "id": "M0#605",
+  "en": "Morning. I'm Halk the blacksmith."
+ },
+ {
+  "id": "M0#606",
+  "en": "And who are you?"
+ },
+ {
+  "id": "M0#607",
+  "en": "I am ",
+  "note": "With #8/#13 '.' gives 'I am Name.' (Daedalus 74348, Sati 82591 also fine)"
+ },
+ {
+  "id": "M0#608",
+  "en": "I see."
+ },
+ {
+  "id": "M0#609",
+  "en": "Nice to meet you."
+ },
+ {
+  "id": "M0#610",
+  "en": "Morning."
+ },
+ {
+  "id": "M0#611",
+  "en": "Morning, ",
+  "note": "Name + '.' via #13"
+ },
+ {
+  "id": "M0#612",
+  "en": "Heading to my workshop. Want to come watch again?",
+  "note": "'Morning, Name.' is in the previous fragment, so this row is shortened to fit in 3 lines"
+ },
+ {
+  "id": "M0#613",
+  "en": "Hey. I'm Halk the blacksmith."
+ },
+ {
+  "id": "M0#614",
+  "en": "I'm on my way home."
+ },
+ {
+  "id": "M0#615",
+  "en": "Hey, "
+ },
+ {
+  "id": "M0#616",
+  "en": "Hey, ",
+  "note": "Shared with Katusa (#143 '.'), Southwark (#13 '.'): 'Hey, Name.' as agreed in followups (#201)"
+ },
+ {
+  "id": "M0#617",
+  "en": "Tell me if you're ever in trouble."
+ },
+ {
+  "id": "M0#618",
+  "en": "I've taken a liking to you, you know."
+ },
+ {
+  "id": "M0#619",
+  "en": "I'm Halk the blacksmith. And you?"
+ },
+ {
+  "id": "M0#620",
+  "en": "This is my house."
+ },
+ {
+  "id": "M0#621",
+  "en": "I live here with my two daughters."
+ },
+ {
+  "id": "M0#622",
+  "en": "I'm Halk the blacksmith."
+ },
+ {
+  "id": "M0#623",
+  "en": "Say, those things I've made,",
+  "note": "Shares #624 with msg 30101 whose #661 (other slice) must end so that 'have you ever seen them?' reads: e.g. 'Say, those iron tools I've made,'"
+ },
+ {
+  "id": "M0#624",
+  "en": "have you ever seen them?"
+ },
+ {
+  "id": "M0#625",
+  "en": "Take a look."
+ },
+ {
+  "id": "M0#626",
+  "en": "You'll see just how skilled a smith",
+  "note": "Shares #627 with msg 30101 whose #662 (other slice) must end '...how skilled a smith' so that 'I am, I reckon.' completes it"
+ },
+ {
+  "id": "M0#627",
+  "en": "I am, I reckon."
+ },
+ {
+  "id": "M0#628",
+  "en": "Have you seen the things I make?"
+ },
+ {
+  "id": "M0#629",
+  "en": "Well, you don't get much chance to see them."
+ },
+ {
+  "id": "M0#630",
+  "en": "If there's a horse around, you could just flip it over",
+  "note": "Flipping the horse over = look at the horseshoes (cf. #645 'horseshoes'); the joke kept literal"
+ },
+ {
+  "id": "M0#631",
+  "en": "and take a look. That'd do it."
+ },
+ {
+  "id": "M0#632",
+  "en": ". Glad you came.",
+  "note": "Follows 'Hey, Name' (#616 + name)"
+ },
+ {
+  "id": "M0#633",
+  "en": "Make yourself at home."
+ },
+ {
+  "id": "M0#634",
+  "en": "Come again."
+ },
+ {
+  "id": "M0#635",
+  "en": "Hm? And who are you?"
+ },
+ {
+  "id": "M0#636",
+  "en": "Got some business with Halk's workshop here?",
+  "note": "Halk refers to himself in third person "
+ },
+ {
+  "id": "M0#637",
+  "en": "No, I am only looking."
+ },
+ {
+  "id": "M0#638",
+  "en": "I see, look all you like."
+ },
+ {
+  "id": "M0#639",
+  "en": "Just don't get too close."
+ }
+]

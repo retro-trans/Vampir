@@ -1,0 +1,341 @@
+[
+ {
+  "id": "M2#2640",
+  "en": "Most shops around here open early"
+ },
+ {
+  "id": "M2#2641",
+  "en": "in the morning and close by evening."
+ },
+ {
+  "id": "M2#2642",
+  "en": "My own hat shop is no exception."
+ },
+ {
+  "id": "M2#2643",
+  "en": "I hope to see you tomorrow morning."
+ },
+ {
+  "id": "M2#2644",
+  "en": ", sir...",
+  "variants": [
+   {
+    "msg": 402444,
+    "en": "..."
+   }
+  ]
+ },
+ {
+  "id": "M2#2645",
+  "en": "Er, the hat you bought from me suits you"
+ },
+ {
+  "id": "M2#2646",
+  "en": "very well indeed."
+ },
+ {
+  "id": "M2#2647",
+  "en": "I've worn this hat for many years."
+ },
+ {
+  "id": "M2#2648",
+  "en": "O-oh, is that so? Well, they're so alike"
+ },
+ {
+  "id": "M2#2649",
+  "en": "that I couldn't tell them apart..."
+ },
+ {
+  "id": "M2#2650",
+  "en": "Next time, do wear the hat you bought"
+ },
+ {
+  "id": "M2#2651",
+  "en": "from my shop as well, sir."
+ },
+ {
+  "id": "M2#2652",
+  "en": "And you, sir, look to me to be old enough"
+ },
+ {
+  "id": "M2#2653",
+  "en": "to be called a true gentleman."
+ },
+ {
+  "id": "M2#2654",
+  "en": "In this country, a hat marks a gentleman."
+ },
+ {
+  "id": "M2#2655",
+  "en": "By all means, do buy one before you go."
+ },
+ {
+  "id": "M2#2656",
+  "en": ""
+ },
+ {
+  "id": "M2#2657",
+  "en": "Hmm, I wonder if a hat would even suit me."
+ },
+ {
+  "id": "M2#2658",
+  "en": "Any hat at all would suit you, sir."
+ },
+ {
+  "id": "M2#2659",
+  "en": "I guarantee it."
+ },
+ {
+  "id": "M2#2660",
+  "en": "You have such striking good looks."
+ },
+ {
+  "id": "M2#2661",
+  "en": "I look forward to your next visit."
+ },
+ {
+  "id": "M2#2662",
+  "en": "No, I'm afraid a mere youngster like me"
+ },
+ {
+  "id": "M2#2663",
+  "en": "isn't ready for a silk hat yet..."
+ },
+ {
+  "id": "M2#2664",
+  "en": "I see... What a pity."
+ },
+ {
+  "id": "M2#2665",
+  "en": "When you enter society, sir, I do hope"
+ },
+ {
+  "id": "M2#2666",
+  "en": "you'll place your order with me..."
+ },
+ {
+  "id": "M2#2667",
+  "en": "It's all high-class shops.",
+  "note": "Follows #2630 'This district caters to gentlemen of rank.'"
+ },
+ {
+  "id": "M2#2668",
+  "en": "In a few years, when you need a hat,"
+ },
+ {
+  "id": "M2#2669",
+  "en": "Please come again.",
+  "note": "Variant lowercase for Clement msg 91471 after #2668.",
+  "variants": [
+   {
+    "msg": 91471,
+    "en": "please come again."
+   }
+  ]
+ },
+ {
+  "id": "M2#2670",
+  "en": "You're welcome at my shop any time."
+ },
+ {
+  "id": "M2#2671",
+  "en": "Is someone there?"
+ },
+ {
+  "id": "M2#2672",
+  "en": "Sorry to startle you."
+ },
+ {
+  "id": "M2#2673",
+  "en": "I suddenly need a hat, so I came to place"
+ },
+ {
+  "id": "M2#2674",
+  "en": "an order."
+ },
+ {
+  "id": "M2#2675",
+  "en": "I see. My, you gave me quite a fright."
+ },
+ {
+  "id": "M2#2676",
+  "en": "It's the middle of the night, after all."
+ },
+ {
+  "id": "M2#2677",
+  "en": "Your business must be very urgent indeed."
+ },
+ {
+  "id": "M2#2678",
+  "en": "Sorry to rush you, but please show me"
+ },
+ {
+  "id": "M2#2679",
+  "en": "a few of your hat designs."
+ },
+ {
+  "id": "M2#2680",
+  "en": "Certainly."
+ },
+ {
+  "id": "M2#2681",
+  "en": "I'll bring them out right away."
+ },
+ {
+  "id": "M2#2682",
+  "en": "I'm sorry..."
+ },
+ {
+  "id": "M2#2683",
+  "en": "Wah, wh-, wh-wh-wh-wh..."
+ },
+ {
+  "id": "M2#2684",
+  "en": "Whaaaaaat?!"
+ },
+ {
+  "id": "M2#2685",
+  "en": "Sorry it wasn't a hat I came to order."
+ },
+ {
+  "id": "M2#2686",
+  "en": ", my master. Welcome.",
+  "note": "After the name (servant mode, as #0/#854); #855 starts a new line."
+ },
+ {
+  "id": "M2#2687",
+  "en": "Oh dear, I've cut my finger",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#2688",
+  "en": "And I take such good care of my fingertips."
+ },
+ {
+  "id": "M2#2689",
+  "en": "I have been awaiting you."
+ },
+ {
+  "id": "M2#2690",
+  "en": "I am ready to receive your orders."
+ },
+ {
+  "id": "M2#2691",
+  "en": "Hmm, I'm short on sleep, somehow."
+ },
+ {
+  "id": "M2#2692",
+  "en": "I suppose I'm not young anymore."
+ },
+ {
+  "id": "M2#2693",
+  "en": "Good day, and welcome."
+ },
+ {
+  "id": "M2#2694",
+  "en": "Something tailored? What would you like?"
+ },
+ {
+  "id": "M2#2695",
+  "en": "Is this a tailor's?"
+ },
+ {
+  "id": "M2#2696",
+  "en": "That's right. I'm the proprietor, Percy."
+ },
+ {
+  "id": "M2#2697",
+  "en": "30 years in the trade. Pleased to meet you."
+ },
+ {
+  "id": "M2#2698",
+  "en": "Dinner jackets, silk shirts, you name it."
+ },
+ {
+  "id": "M2#2699",
+  "en": "I see.",
+  "note": "Player; shared with Justin 160815 and Abraham 168635."
+ },
+ {
+  "id": "M2#2700",
+  "en": "Then perhaps I'll have a shirt made."
+ },
+ {
+  "id": "M2#2701",
+  "en": "Why, thank you very much."
+ },
+ {
+  "id": "M2#2702",
+  "en": "Then let me take your measurements."
+ },
+ {
+  "id": "M2#2703",
+  "en": "And may I have your name, sir?"
+ },
+ {
+  "id": "M2#2704",
+  "en": "I leave it in your hands, then."
+ },
+ {
+  "id": "M2#2705",
+  "en": "We meet again. Here for some tailoring?"
+ },
+ {
+  "id": "M2#2706",
+  "en": "You look well."
+ },
+ {
+  "id": "M2#2707",
+  "en": "So you're a tailor."
+ },
+ {
+  "id": "M2#2708",
+  "en": "Yes, indeed. I'm Percy, the owner."
+ },
+ {
+  "id": "M2#2709",
+  "en": "And may I have your name once more, sir?"
+ },
+ {
+  "id": "M2#2710",
+  "en": "I'm always at your service for tailoring."
+ },
+ {
+  "id": "M2#2711",
+  "en": "Ah, ",
+  "note": "Before the name; #2545 ', sir.' follows: 'Ah, {NAME}, sir.'"
+ },
+ {
+  "id": "M2#2712",
+  "en": "Your order isn't ready yet, I'm afraid."
+ },
+ {
+  "id": "M2#2713",
+  "en": "Please wait just a little longer."
+ },
+ {
+  "id": "M2#2714",
+  "en": "Some dreadful things have been happening",
+  "note": "#152 '...' comes before on the same line."
+ },
+ {
+  "id": "M2#2715",
+  "en": "in this city lately, it seems."
+ },
+ {
+  "id": "M2#2716",
+  "en": "The folk in the poor quarters are terrified."
+ },
+ {
+  "id": "M2#2717",
+  "en": "The upper classes seem quite unconcerned."
+ },
+ {
+  "id": "M2#2718",
+  "en": "Why the difference, I wonder?"
+ },
+ {
+  "id": "M2#2719",
+  "en": "Oh, I've said too much. Forgive me."
+ }
+]

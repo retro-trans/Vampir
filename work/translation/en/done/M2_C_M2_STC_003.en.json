@@ -1,0 +1,328 @@
+[
+ {
+  "id": "M2#240",
+  "en": "Wanna come on up? Not that there's a roof."
+ },
+ {
+  "id": "M2#241",
+  "en": "Well, drop by any time you like."
+ },
+ {
+  "id": "M2#242",
+  "en": "Not like I've got anything else to do."
+ },
+ {
+  "id": "M2#243",
+  "en": "You poor man. Please, take this."
+ },
+ {
+  "id": "M2#244",
+  "en": "But do you not work at all?"
+ },
+ {
+  "id": "M2#245",
+  "en": "Lay out the mat, sit by the road... all set."
+ },
+ {
+  "id": "M2#246",
+  "en": "Right, open for business. Spare a coin, please!"
+ },
+ {
+  "id": "M2#247",
+  "en": "So there are beggars in London too."
+ },
+ {
+  "id": "M2#248",
+  "en": "It isn't much, but please take it."
+ },
+ {
+  "id": "M2#249",
+  "en": "Here, it isn't much, but take it."
+ },
+ {
+  "id": "M2#250",
+  "en": "Oh, it's you... Very well."
+ },
+ {
+  "id": "M2#251",
+  "en": "Taken that much of a shine to me, have ya?"
+ },
+ {
+  "id": "M2#252",
+  "en": "You again... Oh, very well."
+ },
+ {
+  "id": "M2#253",
+  "en": "Here, it isn't much."
+ },
+ {
+  "id": "M2#254",
+  "en": "Ah, I'd love to go somewhere far away."
+ },
+ {
+  "id": "M2#255",
+  "en": "Wouldn't it be nice to travel, eh?"
+ },
+ {
+  "id": "M2#256",
+  "en": "Spare me a little something, won't ya?"
+ },
+ {
+  "id": "M2#257",
+  "en": "Well, well, guv'nor, a home visit, is it?"
+ },
+ {
+  "id": "M2#258",
+  "en": "Mind you, there's nothing to offer you here."
+ },
+ {
+  "id": "M2#259",
+  "en": "Hey there, guv'nor. Need something?"
+ },
+ {
+  "id": "M2#260",
+  "en": "Which means you've come to spare me something, eh?"
+ },
+ {
+  "id": "M2#261",
+  "en": "Even a man like this might be of some use.",
+  "note": "Player speaking (gentle register), before draining Wally."
+ },
+ {
+  "id": "M2#262",
+  "en": "Wally, I'm sorry."
+ },
+ {
+  "id": "M2#263",
+  "en": "I must borrow your strength"
+ },
+ {
+  "id": "M2#264",
+  "en": "What the",
+  "note": "Wally: 'What the' + . . . (pauses) + '!' = 'What the...!' (msg 5880)."
+ },
+ {
+  "id": "M2#265",
+  "en": ".",
+  "note": "lone dot; three make '...'"
+ },
+ {
+  "id": "M2#266",
+  "en": "I wonder if he'll really be of any use",
+  "note": "#152 '...' follows."
+ },
+ {
+  "id": "M2#267",
+  "en": "Your orders...",
+  "note": "after #0 ', my master...': starts a new sentence."
+ },
+ {
+  "id": "M2#268",
+  "en": "..."
+ },
+ {
+  "id": "M2#269",
+  "en": "That killer folks round here keep talking about,"
+ },
+ {
+  "id": "M2#270",
+  "en": "Jack the Ripper... You heard of him?",
+  "note": "Also follows #339 (slice 004)."
+ },
+ {
+  "id": "M2#271",
+  "en": "Heh heh heh."
+ },
+ {
+  "id": "M2#272",
+  "en": "See, I know who the Ripper really is."
+ },
+ {
+  "id": "M2#273",
+  "en": "Say, you'd like to know too, wouldn't ya?"
+ },
+ {
+  "id": "M2#274",
+  "en": "Who Jack the Ripper really is..."
+ },
+ {
+  "id": "M2#275",
+  "en": "I'm an information broker, see."
+ },
+ {
+  "id": "M2#276",
+  "en": "And good info's worth good money."
+ },
+ {
+  "id": "M2#277",
+  "en": "Oh, it's you."
+ },
+ {
+  "id": "M2#278",
+  "en": "Heard anything interesting?"
+ },
+ {
+  "id": "M2#279",
+  "en": "Look, just trust what I'm telling ya."
+ },
+ {
+  "id": "M2#280",
+  "en": "Hey, this ain't really the place to talk."
+ },
+ {
+  "id": "M2#281",
+  "en": "Let's leave it for another time."
+ },
+ {
+  "id": "M2#282",
+  "en": "Ah, it's you."
+ },
+ {
+  "id": "M2#283",
+  "en": "Well, if you wanna talk, let's do it at the pub."
+ },
+ {
+  "id": "M2#284",
+  "en": "Standing around chatting in a place like this,"
+ },
+ {
+  "id": "M2#285",
+  "en": "we stick out like a sore thumb..."
+ },
+ {
+  "id": "M2#286",
+  "en": "If you want to hear the whole story,"
+ },
+ {
+  "id": "M2#287",
+  "en": "come by the pub."
+ },
+ {
+  "id": "M2#288",
+  "en": "This here's my secret hideout, No. 1."
+ },
+ {
+  "id": "M2#289",
+  "en": "I'd rather not draw attention, see,"
+ },
+ {
+  "id": "M2#290",
+  "en": "so be a pal and clear off."
+ },
+ {
+  "id": "M2#291",
+  "en": "Sorry, but I'd rather you didn't come round"
+ },
+ {
+  "id": "M2#292",
+  "en": "here looking for me so much."
+ },
+ {
+  "id": "M2#293",
+  "en": "If you wanna talk, let's do it at the pub."
+ },
+ {
+  "id": "M2#294",
+  "en": "Well, come on in."
+ },
+ {
+  "id": "M2#295",
+  "en": "I'm about ready to say goodbye to this dump"
+ },
+ {
+  "id": "M2#296",
+  "en": "and move to a new place to hole up."
+ },
+ {
+  "id": "M2#297",
+  "en": "So you've come calling at a fella's home."
+ },
+ {
+  "id": "M2#298",
+  "en": "Brought a little gift at least, I hope?"
+ },
+ {
+  "id": "M2#299",
+  "en": "I ain't lying to you, y'know."
+ },
+ {
+  "id": "M2#300",
+  "en": "I really do know where Jack"
+ },
+ {
+  "id": "M2#301",
+  "en": "is hiding out, I swear!"
+ },
+ {
+  "id": "M2#302",
+  "en": "You're interested in Jack, ain't ya?"
+ },
+ {
+  "id": "M2#303",
+  "en": "That murderer, Jack the Ripper?"
+ },
+ {
+  "id": "M2#304",
+  "en": "Do you truly know something?"
+ },
+ {
+  "id": "M2#305",
+  "en": "Course I do."
+ },
+ {
+  "id": "M2#306",
+  "en": "(Something about him smells fishy...)"
+ },
+ {
+  "id": "M2#307",
+  "en": "Whoa, you're a persistent one, ain't ya."
+ },
+ {
+  "id": "M2#308",
+  "en": "Here about Jack again today?"
+ },
+ {
+  "id": "M2#309",
+  "en": "Well, being in the information trade,"
+ },
+ {
+  "id": "M2#310",
+  "en": "as long as I get paid, I just might"
+ },
+ {
+  "id": "M2#311",
+  "en": "tell ya what I know."
+ },
+ {
+  "id": "M2#312",
+  "en": "Money, is it?"
+ },
+ {
+  "id": "M2#313",
+  "en": "I can provide as much of that as you wish."
+ },
+ {
+  "id": "M2#314",
+  "en": "Oho. Spoken like a rich man."
+ },
+ {
+  "id": "M2#315",
+  "en": "Mighty generous of ya."
+ },
+ {
+  "id": "M2#316",
+  "en": "Right, go and get 900 pounds together."
+ },
+ {
+  "id": "M2#317",
+  "en": "Then I'll tell ya."
+ },
+ {
+  "id": "M2#318",
+  "en": "Good, you've brought the money."
+ },
+ {
+  "id": "M2#319",
+  "en": "All right, I'll tell ya."
+ }
+]

@@ -1,0 +1,336 @@
+[
+ {
+  "id": "M1#5760",
+  "en": "I think I'll have a beer too."
+ },
+ {
+  "id": "M1#5761",
+  "en": "And to drink, will beer be all right?"
+ },
+ {
+  "id": "M1#5762",
+  "en": ", come back again soon.",
+  "note": "shared by msgs 227358 ('Thank you very much.' / NAME) and 227604 ('I'm glad.' / NAME): reads in both"
+ },
+ {
+  "id": "M1#5763",
+  "en": ", I'm so happy!"
+ },
+ {
+  "id": "M1#5764",
+  "en": "You came to see me again today."
+ },
+ {
+  "id": "M1#5765",
+  "en": "We got some rare venison in this morning."
+ },
+ {
+  "id": "M1#5766",
+  "en": "I'll have it cooked for you right away."
+ },
+ {
+  "id": "M1#5767",
+  "en": "Could I have something to drink, too?"
+ },
+ {
+  "id": "M1#5768",
+  "en": "I have a special wine I've been saving."
+ },
+ {
+  "id": "M1#5769",
+  "en": "Since you always come to see us, ",
+  "note": "Japanese order kept: 'Since you always come to see us, NAME,' / 'it's on the house, just for you.'"
+ },
+ {
+  "id": "M1#5770",
+  "en": ","
+ },
+ {
+  "id": "M1#5771",
+  "en": "it's on the house, just for you."
+ },
+ {
+  "id": "M1#5772",
+  "en": "Sorry to keep you waiting.",
+  "note": "no used_in: unverified"
+ },
+ {
+  "id": "M1#5773",
+  "en": ","
+ },
+ {
+  "id": "M1#5774",
+  "en": "I'll always have something delicious",
+  "note": "continues into #5694 (slice 071) 'ready for you.'; dependency"
+ },
+ {
+  "id": "M1#5775",
+  "en": "Is anyone home?"
+ },
+ {
+  "id": "M1#5776",
+  "en": "I've recently moved to this area, so"
+ },
+ {
+  "id": "M1#5777",
+  "en": "I'm going around saying hello to everyone."
+ },
+ {
+  "id": "M1#5778",
+  "en": "I see. I'm Alisa."
+ },
+ {
+  "id": "M1#5779",
+  "en": "I work at the restaurant \"Neu\""
+ },
+ {
+  "id": "M1#5780",
+  "en": "on North Alster Street."
+ },
+ {
+  "id": "M1#5781",
+  "en": "Come by if you like."
+ },
+ {
+  "id": "M1#5782",
+  "en": "Come to \"Neu\"."
+ },
+ {
+  "id": "M1#5783",
+  "en": "I guarantee you'll like the food."
+ },
+ {
+  "id": "M1#5784",
+  "en": "(Was it really \"bad\"?)"
+ },
+ {
+  "id": "M1#5785",
+  "en": "<No, it was delicious>",
+  "note": "no used_in: menu choice, unverified"
+ },
+ {
+  "id": "M1#5786",
+  "en": "<It really was bad>",
+  "note": "no used_in: menu choice, unverified"
+ },
+ {
+  "id": "M1#5787",
+  "en": "It just didn't quite suit my taste.",
+  "note": "no used_in: player line after choice, unverified"
+ },
+ {
+  "id": "M1#5788",
+  "en": "Oh, then next time, ",
+  "note": "no used_in: assumed order #5788 NAME #5789 / #5790"
+ },
+ {
+  "id": "M1#5789",
+  "en": ","
+ },
+ {
+  "id": "M1#5790",
+  "en": "I'll have something ready that you'll enjoy.",
+  "note": "no used_in, unverified"
+ },
+ {
+  "id": "M1#5791",
+  "en": "Oh... I'm sorry."
+ },
+ {
+  "id": "M1#5792",
+  "en": "But you'll come again, won't you?"
+ },
+ {
+  "id": "M1#5793",
+  "en": "Well then, see you tomorrow."
+ },
+ {
+  "id": "M1#5794",
+  "en": ", you came!"
+ },
+ {
+  "id": "M1#5795",
+  "en": "Alisa... Even her sleeping face is lovely."
+ },
+ {
+  "id": "M1#5796",
+  "en": "Mmmm..."
+ },
+ {
+  "id": "M1#5797",
+  "en": "Why, in the middle of the night..."
+ },
+ {
+  "id": "M1#5798",
+  "en": "Is this a dream...?"
+ },
+ {
+  "id": "M1#5799",
+  "en": "I couldn't help coming to see you."
+ },
+ {
+  "id": "M1#5800",
+  "en": "Was that wrong?"
+ },
+ {
+  "id": "M1#5801",
+  "en": "No, I'm happy."
+ },
+ {
+  "id": "M1#5802",
+  "en": "But it was so sudden, it startled me."
+ },
+ {
+  "id": "M1#5803",
+  "en": "Alisa, I want you to lend me your strength."
+ },
+ {
+  "id": "M1#5804",
+  "en": "Just for a little while. Lend me your"
+ },
+ {
+  "id": "M1#5805",
+  "en": "Just... for a little while?",
+  "note": "no used_in, unverified"
+ },
+ {
+  "id": "M1#5806",
+  "en": "Not... forever?"
+ },
+ {
+  "id": "M1#5807",
+  "en": "If you're willing, Alisa, then forever..."
+ },
+ {
+  "id": "M1#5808",
+  "en": "I don't want just a little while."
+ },
+ {
+  "id": "M1#5809",
+  "en": "I want to be with you forever."
+ },
+ {
+  "id": "M1#5810",
+  "en": "Alisa...",
+  "note": "source has no punctuation; trailing dots for the tender moment"
+ },
+ {
+  "id": "M1#5811",
+  "en": "I'm relieving the watch at the navy warehouse."
+ },
+ {
+  "id": "M1#5812",
+  "en": "In other words, I'm going on duty now."
+ },
+ {
+  "id": "M1#5813",
+  "en": "I'm about to go on duty..."
+ },
+ {
+  "id": "M1#5814",
+  "en": "If you can, keep that matter between us."
+ },
+ {
+  "id": "M1#5815",
+  "en": "My shift is over, so I'd like to get back"
+ },
+ {
+  "id": "M1#5816",
+  "en": "to the barracks."
+ },
+ {
+  "id": "M1#5817",
+  "en": "Would you tell me your name?"
+ },
+ {
+  "id": "M1#5818",
+  "en": "Hans. I'm a mercenary with the navy."
+ },
+ {
+  "id": "M1#5819",
+  "en": "And what do you mean to do with that?"
+ },
+ {
+  "id": "M1#5820",
+  "en": "Anything else?"
+ },
+ {
+  "id": "M1#5821",
+  "en": "We keep running into each other."
+ },
+ {
+  "id": "M1#5822",
+  "en": "I don't know your face. A new recruit?",
+  "note": "subject kept dropped in the second sentence (Hans's terse soldier speech; the listener is clear)"
+ },
+ {
+  "id": "M1#5823",
+  "en": "I have no business with you."
+ },
+ {
+  "id": "M1#5824",
+  "en": "Oh, it's you..."
+ },
+ {
+  "id": "M1#5825",
+  "en": "Thanks for your help the other day."
+ },
+ {
+  "id": "M1#5826",
+  "en": "I'll remember your name."
+ },
+ {
+  "id": "M1#5827",
+  "en": "What brings you to a place like this?"
+ },
+ {
+  "id": "M1#5828",
+  "en": "You can have no business at the armory."
+ },
+ {
+  "id": "M1#5829",
+  "en": "Now, please be on your way."
+ },
+ {
+  "id": "M1#5830",
+  "en": "I've often seen you around here lately.",
+  "note": "source ends with a comma; English split into two sentences across the row break"
+ },
+ {
+  "id": "M1#5831",
+  "en": "Just what are you up to?"
+ },
+ {
+  "id": "M1#5832",
+  "en": "Strange, I'm sure it was in my pocket..."
+ },
+ {
+  "id": "M1#5833",
+  "en": "Who's there? Who's hiding?"
+ },
+ {
+  "id": "M1#5834",
+  "en": "I wasn't exactly hiding."
+ },
+ {
+  "id": "M1#5835",
+  "en": "Are you... looking for something?"
+ },
+ {
+  "id": "M1#5836",
+  "en": "That's none of your concern."
+ },
+ {
+  "id": "M1#5837",
+  "en": "...is what I'd like to say, but",
+  "note": "shared by msgs 230391/231227 after 'That's none of your concern.' / #5919"
+ },
+ {
+  "id": "M1#5838",
+  "en": "now that you've seen me..."
+ },
+ {
+  "id": "M1#5839",
+  "en": "I'm looking for a ring."
+ }
+]

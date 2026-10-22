@@ -1,0 +1,342 @@
+[
+ {
+  "id": "M1#2400",
+  "en": "I've lost weight lately!"
+ },
+ {
+  "id": "M1#2401",
+  "en": "Strange, since I haven't been exercising."
+ },
+ {
+  "id": "M1#2402",
+  "en": "Please give this humble servant",
+  "note": "joined: NAME, my master... / Please give this humble servant / any order you wish. (#962 variant for msg 94857)"
+ },
+ {
+  "id": "M1#2403",
+  "en": "I've put on muscle lately!"
+ },
+ {
+  "id": "M1#2404",
+  "en": "Off to work again today."
+ },
+ {
+  "id": "M1#2405",
+  "en": "An official's life isn't an easy one."
+ },
+ {
+  "id": "M1#2406",
+  "en": "Twenty-odd years I've worked at City Hall."
+ },
+ {
+  "id": "M1#2407",
+  "en": "And I'm still just a lowly clerk."
+ },
+ {
+  "id": "M1#2408",
+  "en": "You're, uh...",
+  "note": "msg 94938 continues with #189 \".\"; the name is presumably inserted between 94930 and 94938"
+ },
+ {
+  "id": "M1#2409",
+  "en": "Are you coming to City Hall again today?"
+ },
+ {
+  "id": "M1#2410",
+  "en": "Lately I get lonely when I don't see you."
+ },
+ {
+  "id": "M1#2411",
+  "en": "My work's done for today."
+ },
+ {
+  "id": "M1#2412",
+  "en": "Maybe an official's job is easy after all."
+ },
+ {
+  "id": "M1#2413",
+  "en": "I'm just an official at City Hall."
+ },
+ {
+  "id": "M1#2414",
+  "en": "If you ever need anything, please",
+  "note": "City Hall moved into #2415; #2494 (next slice, msg 95876) must end like this row so #2415 follows"
+ },
+ {
+  "id": "M1#2415",
+  "en": "come and see me at City Hall."
+ },
+ {
+  "id": "M1#2416",
+  "en": "Will you come to City Hall again tomorrow?"
+ },
+ {
+  "id": "M1#2417",
+  "en": "We do keep running into each other."
+ },
+ {
+  "id": "M1#2418",
+  "en": "What is it? What do you want?"
+ },
+ {
+  "id": "M1#2419",
+  "en": "If you're selling something, no thank you."
+ },
+ {
+  "id": "M1#2420",
+  "en": "If you want to talk, come to City Hall."
+ },
+ {
+  "id": "M1#2421",
+  "en": "I'm Martin. I work there."
+ },
+ {
+  "id": "M1#2422",
+  "en": "Right now I'm building a model. My hobby."
+ },
+ {
+  "id": "M1#2423",
+  "en": "I'll gladly hear you out at City Hall."
+ },
+ {
+  "id": "M1#2424",
+  "en": "Ah, "
+ },
+ {
+  "id": "M1#2425",
+  "en": "How do you spend your free time?"
+ },
+ {
+  "id": "M1#2426",
+  "en": "I spend nearly all of mine on my hobbies."
+ },
+ {
+  "id": "M1#2427",
+  "en": "Looks like ",
+  "note": "#983 is empty for msg 95120: Looks like NAME / has more time... (third-person address to the player, he = player)"
+ },
+ {
+  "id": "M1#2428",
+  "en": "has more time than he knows what to do with."
+ },
+ {
+  "id": "M1#2429",
+  "en": "Having someone come visit me at home"
+ },
+ {
+  "id": "M1#2430",
+  "en": "isn't so bad at all."
+ },
+ {
+  "id": "M1#2431",
+  "en": "Please, stay as long as you like."
+ },
+ {
+  "id": "M1#2432",
+  "en": "My latest hobby is gardening."
+ },
+ {
+  "id": "M1#2433",
+  "en": "Growing things is a real pleasure, you know."
+ },
+ {
+  "id": "M1#2434",
+  "en": "This is the Administration Section desk."
+ },
+ {
+  "id": "M1#2435",
+  "en": "How may I help you?"
+ },
+ {
+  "id": "M1#2436",
+  "en": "<Any vacant houses?>"
+ },
+ {
+  "id": "M1#2437",
+  "en": "<Tell me the town's sights>"
+ },
+ {
+  "id": "M1#2438",
+  "en": "Let's see, the houses reported vacant"
+ },
+ {
+  "id": "M1#2439",
+  "en": "at the moment are..."
+ },
+ {
+  "id": "M1#2440",
+  "en": "Ah, there are two of them."
+ },
+ {
+  "id": "M1#2441",
+  "en": "One in the houses east of City Hall, and"
+ },
+ {
+  "id": "M1#2442",
+  "en": "one in Alster Park, north of City Hall."
+ },
+ {
+  "id": "M1#2443",
+  "en": "No others seem to have been reported."
+ },
+ {
+  "id": "M1#2444",
+  "en": "I see. Thank you."
+ },
+ {
+  "id": "M1#2445",
+  "en": "Around Alster Park, north of City Hall,"
+ },
+ {
+  "id": "M1#2446",
+  "en": "fine shops line the streets, so you won't"
+ },
+ {
+  "id": "M1#2447",
+  "en": "get bored."
+ },
+ {
+  "id": "M1#2448",
+  "en": "This is a trading town, after all."
+ },
+ {
+  "id": "M1#2449",
+  "en": "There's no shortage of rare goods."
+ },
+ {
+  "id": "M1#2450",
+  "en": "Oh, and also,"
+ },
+ {
+  "id": "M1#2451",
+  "en": "There's a monument in the northwest woods.",
+  "note": "monument location shortened to the northwest woods to fit one line (also #2461)"
+ },
+ {
+  "id": "M1#2452",
+  "en": "It's so tucked away it's hardly worth"
+ },
+ {
+  "id": "M1#2453",
+  "en": "calling a famous sight, though..."
+ },
+ {
+  "id": "M1#2454",
+  "en": "You're welcome."
+ },
+ {
+  "id": "M1#2455",
+  "en": "Oh, good of you to come all this way."
+ },
+ {
+  "id": "M1#2456",
+  "en": "Now, what can I do for you?"
+ },
+ {
+  "id": "M1#2457",
+  "en": "It's so tucked away it's hardly worth calling"
+ },
+ {
+  "id": "M1#2458",
+  "en": "a famous sight, though..."
+ },
+ {
+  "id": "M1#2459",
+  "en": "Do feel free to come by again."
+ },
+ {
+  "id": "M1#2460",
+  "en": "Hello, ",
+  "variants": [
+   {
+    "msg": 193316,
+    "en": "Hello"
+   },
+   {
+    "msg": 193338,
+    "en": " hello"
+   },
+   {
+    "msg": 194055,
+    "en": " hello"
+   }
+  ],
+  "note": "Martin: Hello, NAME. Marie variants: 193316 Hello + ...; 193338/194055 NAME, + hello + ..."
+ },
+ {
+  "id": "M1#2461",
+  "en": "There's a monument in the northwest woods."
+ },
+ {
+  "id": "M1#2462",
+  "en": "Have you heard of it?"
+ },
+ {
+  "id": "M1#2463",
+  "en": "If you have time,"
+ },
+ {
+  "id": "M1#2464",
+  "en": "why not go see it sometime?"
+ },
+ {
+  "id": "M1#2465",
+  "en": "Why, that's very kind of you."
+ },
+ {
+  "id": "M1#2466",
+  "en": "Are there any vacant houses in this town?"
+ },
+ {
+  "id": "M1#2467",
+  "en": "I hear the mayor asked you to tutor his son."
+ },
+ {
+  "id": "M1#2468",
+  "en": "Is that true?"
+ },
+ {
+  "id": "M1#2469",
+  "en": "The mayor's boy, you know..."
+ },
+ {
+  "id": "M1#2470",
+  "en": "He's caused all sorts of trouble at school,"
+ },
+ {
+  "id": "M1#2471",
+  "en": "and he's quite a handful, I hear."
+ },
+ {
+  "id": "M1#2472",
+  "en": "Oops. Enough idle chatter. I'd better"
+ },
+ {
+  "id": "M1#2473",
+  "en": "get back to work."
+ },
+ {
+  "id": "M1#2474",
+  "en": "Have you ever met our mayor?"
+ },
+ {
+  "id": "M1#2475",
+  "en": "Our mayor's motto is to stay in close touch"
+ },
+ {
+  "id": "M1#2476",
+  "en": "with the townspeople,"
+ },
+ {
+  "id": "M1#2477",
+  "en": "so you can meet him and talk directly."
+ },
+ {
+  "id": "M1#2478",
+  "en": "I took you for a traveler, but you've"
+ },
+ {
+  "id": "M1#2479",
+  "en": "been staying here quite a while."
+ }
+]

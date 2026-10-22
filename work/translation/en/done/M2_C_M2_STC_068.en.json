@@ -1,0 +1,332 @@
+[
+ {
+  "id": "M2#5440",
+  "en": "If it's about our work, do come back by day."
+ },
+ {
+  "id": "M2#5441",
+  "en": "Do come and talk to me later."
+ },
+ {
+  "id": "M2#5442",
+  "en": "I'll be at the Charity Society headquarters."
+ },
+ {
+  "id": "M2#5443",
+  "en": "Oh my, it's you again."
+ },
+ {
+  "id": "M2#5444",
+  "en": "I thought you might be busy?"
+ },
+ {
+  "id": "M2#5445",
+  "en": "Your work seems to leave you rather free."
+ },
+ {
+  "id": "M2#5446",
+  "en": "Ah, it's you."
+ },
+ {
+  "id": "M2#5447",
+  "en": "We do see each other often. Your visits are"
+ },
+ {
+  "id": "M2#5448",
+  "en": "always welcome."
+ },
+ {
+  "id": "M2#5449",
+  "en": "As one gets older, one's friends grow fewer."
+ },
+ {
+  "id": "M2#5450",
+  "en": "I'd truly like someone as fine as you to join"
+ },
+ {
+  "id": "M2#5451",
+  "en": "our Charity Society."
+ },
+ {
+  "id": "M2#5452",
+  "en": "Do come again."
+ },
+ {
+  "id": "M2#5453",
+  "en": "Oh my, what brings you here so late at night?"
+ },
+ {
+  "id": "M2#5454",
+  "en": "I was sorting the papers for our projects."
+ },
+ {
+  "id": "M2#5455",
+  "en": "I shall have you lend me a hand."
+ },
+ {
+  "id": "M2#5456",
+  "en": "It is nothing difficult. It will soon be over."
+ },
+ {
+  "id": "M2#5457",
+  "en": "Whatever do you mean?"
+ },
+ {
+  "id": "M2#5458",
+  "en": "...You are to become my servant.",
+  "note": "no used_in: bytecode after msg 222631 (stern night attack on Bruce): PLAYER #5458 / Bruce #5459 <pause> #5460, then #5461"
+ },
+ {
+  "id": "M2#5459",
+  "en": "Ngh,",
+  "note": "Bruce's cry, also after #5488 (gentle attack). Pause after it; #5460 follows on the same line"
+ },
+ {
+  "id": "M2#5460",
+  "en": "Nngaaah!"
+ },
+ {
+  "id": "M2#5461",
+  "en": "That makes one more......"
+ },
+ {
+  "id": "M2#5462",
+  "en": "A lovely morning, isn't it?"
+ },
+ {
+  "id": "M2#5463",
+  "en": "I'm afraid I'm no good in the mornings, so if"
+ },
+ {
+  "id": "M2#5464",
+  "en": "it's lovely or not, I can't really tell..."
+ },
+ {
+  "id": "M2#5465",
+  "en": "Good evening. Can I help you?"
+ },
+ {
+  "id": "M2#5466",
+  "en": "Forgive me for asking, but do you have work?"
+ },
+ {
+  "id": "M2#5467",
+  "en": "Yes, well, more or less..."
+ },
+ {
+  "id": "M2#5468",
+  "en": "Oh, I see. That's very good of you."
+ },
+ {
+  "id": "M2#5469",
+  "en": "I'm sorry, but I do have work."
+ },
+ {
+  "id": "M2#5470",
+  "en": "Good evening. We do keep meeting."
+ },
+ {
+  "id": "M2#5471",
+  "en": "<I can't say>",
+  "note": "choice after #5389 (bytecode 15 5f / 15 60); this one leads to Bruce's apology #5392/#5393/#5473"
+ },
+ {
+  "id": "M2#5472",
+  "en": "<A detective of sorts>",
+  "note": "choice; leads to #5395 'I thought as much... heard you were looking into things in town'"
+ },
+ {
+  "id": "M2#5473",
+  "en": "I meant no harm, so please forgive me.",
+  "note": "no used_in: Bruce, third line after #5392/#5393 (reply to <I can't say>)"
+ },
+ {
+  "id": "M2#5474",
+  "en": "Oh, no, that's not it. Sorry."
+ },
+ {
+  "id": "M2#5475",
+  "en": "I was just wondering what you do here,"
+ },
+ {
+  "id": "M2#5476",
+  "en": "and I got curious, that's all..."
+ },
+ {
+  "id": "M2#5477",
+  "en": ".",
+  "note": "after #633 \"I'm \" / #525 \"I am \" + name"
+ },
+ {
+  "id": "M2#5478",
+  "en": "I've only just moved to London."
+ },
+ {
+  "id": "M2#5479",
+  "en": "Right now, I'm planning to build a park."
+ },
+ {
+  "id": "M2#5480",
+  "en": "I want a park where all can relax and children"
+ },
+ {
+  "id": "M2#5481",
+  "en": "can play safely, full of trees and greenery."
+ },
+ {
+  "id": "M2#5482",
+  "en": "It's painful, turning humans into my servants"
+ },
+ {
+  "id": "M2#5483",
+  "en": "like this, just for my own purposes."
+ },
+ {
+  "id": "M2#5484",
+  "en": "Especially taking someone like you,"
+ },
+ {
+  "id": "M2#5485",
+  "en": "someone who can care for others,"
+ },
+ {
+  "id": "M2#5486",
+  "en": "away from the human world..."
+ },
+ {
+  "id": "M2#5487",
+  "en": "But I have no other choice.",
+  "note": "no used_in: gentle player, end of msg 223478; script: #5487 <pause> newline #5488, then Bruce #5459/#5460"
+ },
+ {
+  "id": "M2#5488",
+  "en": "None at all..."
+ },
+ {
+  "id": "M2#5489",
+  "en": "Because, whatever it takes,"
+ },
+ {
+  "id": "M2#5490",
+  "en": "I have to stop him..."
+ },
+ {
+  "id": "M2#5491",
+  "en": "Oh, ",
+  "note": "name + #0 ', my master...' follows (rule from report 000)"
+ },
+ {
+  "id": "M2#5492",
+  "en": "What is your wish?"
+ },
+ {
+  "id": "M2#5493",
+  "en": "I've looked pale lately, and I'm getting thin."
+ },
+ {
+  "id": "M2#5494",
+  "en": "Come, grant me your orders..."
+ },
+ {
+  "id": "M2#5495",
+  "en": "Garlic dishes, which I always used to love,"
+ },
+ {
+  "id": "M2#5496",
+  "en": "I just can't bring myself to eat anymore."
+ },
+ {
+  "id": "M2#5497",
+  "en": "Fancy my tastes changing at my age."
+ },
+ {
+  "id": "M2#5498",
+  "en": "Hmph. And who might you be?"
+ },
+ {
+  "id": "M2#5499",
+  "en": "Do you want something?"
+ },
+ {
+  "id": "M2#5500",
+  "en": "I merely thought I'd at least greet you,",
+  "note": "after #5401 (slice 067) or #396 'Ah, '"
+ },
+ {
+  "id": "M2#5501",
+  "en": "that's all."
+ },
+ {
+  "id": "M2#5502",
+  "en": "Hmph. Perhaps that's wise."
+ },
+ {
+  "id": "M2#5503",
+  "en": "If you know I'm London councillor Norman"
+ },
+ {
+  "id": "M2#5504",
+  "en": "and greet me as such, then all well and good."
+ },
+ {
+  "id": "M2#5505",
+  "en": "(Hmph. A greedy, arrogant-looking man...)"
+ },
+ {
+  "id": "M2#5506",
+  "en": "What is it? I'm in a hurry."
+ },
+ {
+  "id": "M2#5507",
+  "en": "Hmph, we meet again. Good morning."
+ },
+ {
+  "id": "M2#5508",
+  "en": "I'm pondering something important, so I've"
+ },
+ {
+  "id": "M2#5509",
+  "en": "no time to talk with you, I'm afraid."
+ },
+ {
+  "id": "M2#5510",
+  "en": "Hmm, so it's you. Good morning."
+ },
+ {
+  "id": "M2#5511",
+  "en": "You've been seen in all sorts of places lately,",
+  "note": "followed by #5512 'so I hear.' or #3405 'it seems.' (msg 226762)"
+ },
+ {
+  "id": "M2#5512",
+  "en": "so I hear."
+ },
+ {
+  "id": "M2#5513",
+  "en": "If city affairs interest you, I could put in a"
+ },
+ {
+  "id": "M2#5514",
+  "en": "word for you. You seem to come from a good"
+ },
+ {
+  "id": "M2#5515",
+  "en": "family; you'd lend the city office some class."
+ },
+ {
+  "id": "M2#5516",
+  "en": "And who might you be?"
+ },
+ {
+  "id": "M2#5517",
+  "en": "I don't recall knowing anyone like you."
+ },
+ {
+  "id": "M2#5518",
+  "en": "Hmph, you're an odd one."
+ },
+ {
+  "id": "M2#5519",
+  "en": "I've no time to bother with you, you know."
+ }
+]

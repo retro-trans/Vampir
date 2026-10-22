@@ -1,0 +1,403 @@
+[
+ {
+  "id": "M2#400",
+  "en": "<You seem interested in science>",
+  "note": "Stern-register choice; Matthew answers with #404/#405."
+ },
+ {
+  "id": "M2#401",
+  "en": "Well, now... I don't read all the time."
+ },
+ {
+  "id": "M2#402",
+  "en": "I'm very interested in modern science."
+ },
+ {
+  "id": "M2#403",
+  "en": "And teaching science to my pupils is a joy."
+ },
+ {
+  "id": "M2#404",
+  "en": "Yes, precisely."
+ },
+ {
+  "id": "M2#405",
+  "en": "Science holds tremendous possibilities."
+ },
+ {
+  "id": "M2#406",
+  "en": "Ah, if only I were a researcher, not a mere teacher!"
+ },
+ {
+  "id": "M2#407",
+  "en": "(This could go on for a while...)"
+ },
+ {
+  "id": "M2#408",
+  "en": "Oh, you seem to be in a hurry... What a pity."
+ },
+ {
+  "id": "M2#409",
+  "en": "Let's have a proper talk next time."
+ },
+ {
+  "id": "M2#410",
+  "en": "...Hm? You can't just walk in here like that."
+ },
+ {
+  "id": "M2#411",
+  "en": "The school grounds are off-limits to outsiders."
+ },
+ {
+  "id": "M2#412",
+  "en": "The truth is, I have a mind to study again."
+ },
+ {
+  "id": "M2#413",
+  "en": "If there is a good book on science, I would"
+ },
+ {
+  "id": "M2#414",
+  "en": "have you recommend it to me."
+ },
+ {
+  "id": "M2#415",
+  "en": "Is that so! Most admirable. Splendid, indeed."
+ },
+ {
+  "id": "M2#416",
+  "en": "I'm Matthew, and I'm a teacher here."
+ },
+ {
+  "id": "M2#417",
+  "en": "You're welcome to read any of the books"
+ },
+ {
+  "id": "M2#418",
+  "en": "you find here. They're all easy ones meant"
+ },
+ {
+  "id": "M2#419",
+  "en": "for students, mind you."
+ },
+ {
+  "id": "M2#420",
+  "en": "Oh, but we've met before, haven't we?"
+ },
+ {
+  "id": "M2#421",
+  "en": "Ideally, I would teach you in person.",
+  "note": "Kept as a full sentence so #422 also stands alone (msg 14178)."
+ },
+ {
+  "id": "M2#422",
+  "en": "Reading is a fine thing too, you know."
+ },
+ {
+  "id": "M2#423",
+  "en": "Good day, ",
+  "note": "Before the name (msg 13446: 'Good day, {NAME}.' with #98 '.'). Variant for Stanley's puzzled reply to the player's 'Good evening.' (+ '...?' from #265/#537).",
+  "variants": [
+   {
+    "msg": 17231,
+    "en": "Good evening"
+   },
+   {
+    "msg": 18155,
+    "en": "Good evening"
+   }
+  ]
+ },
+ {
+  "id": "M2#424",
+  "en": "Forgive me, I have lessons to prepare."
+ },
+ {
+  "id": "M2#425",
+  "en": "The truth is, I get little time to myself."
+ },
+ {
+  "id": "M2#426",
+  "en": "Hello."
+ },
+ {
+  "id": "M2#427",
+  "en": "Phew, so busy. A teacher's life isn't easy."
+ },
+ {
+  "id": "M2#428",
+  "en": "But this is the work I'm meant to do."
+ },
+ {
+  "id": "M2#429",
+  "en": "I manage to read on my way to and from work."
+ },
+ {
+  "id": "M2#430",
+  "en": "I can't neglect my pupils, after all."
+ },
+ {
+  "id": "M2#431",
+  "en": "Good day."
+ },
+ {
+  "id": "M2#432",
+  "en": "I'm too busy at school to be a proper host,"
+ },
+ {
+  "id": "M2#433",
+  "en": "so please do call on me at home."
+ },
+ {
+  "id": "M2#434",
+  "en": "I'd love to be a researcher and study science."
+ },
+ {
+  "id": "M2#435",
+  "en": "But I can't leave my pupils behind..."
+ },
+ {
+  "id": "M2#436",
+  "en": "I suppose it will stay a mere dream."
+ },
+ {
+  "id": "M2#437",
+  "en": "Yes? What can I do for you?"
+ },
+ {
+  "id": "M2#438",
+  "en": "If there's nothing, I'll be on my way."
+ },
+ {
+  "id": "M2#439",
+  "en": "What's the matter? Have you lost your way?"
+ },
+ {
+  "id": "M2#440",
+  "en": "! So it's you."
+ },
+ {
+  "id": "M2#441",
+  "en": "Are you interested in the book I was reading?"
+ },
+ {
+  "id": "M2#442",
+  "en": "I'll lend you the book once I've finished it."
+ },
+ {
+  "id": "M2#443",
+  "en": ", welcome!",
+  "note": "After the name, as M1#5684."
+ },
+ {
+  "id": "M2#444",
+  "en": "How nice of you to come again."
+ },
+ {
+  "id": "M2#445",
+  "en": "All who love learning are most welcome."
+ },
+ {
+  "id": "M2#446",
+  "en": "Is something the matter?"
+ },
+ {
+  "id": "M2#447",
+  "en": "Are you in some trouble? I'd be glad to help."
+ },
+ {
+  "id": "M2#448",
+  "en": "Good morning. How do you do?"
+ },
+ {
+  "id": "M2#449",
+  "en": "No, not at all."
+ },
+ {
+  "id": "M2#450",
+  "en": "I've just moved here, so I came to say hello."
+ },
+ {
+  "id": "M2#451",
+  "en": "I'm ",
+  "note": "Before the name; #452/#473 give the full stop."
+ },
+ {
+  "id": "M2#452",
+  "en": ".",
+  "note": "After 'I'm '/'My name is ' + name. Variant ' is my name.' where the name starts the line with nothing before it.",
+  "variants": [
+   {
+    "msg": 30032,
+    "en": " is my name."
+   },
+   {
+    "msg": 30150,
+    "en": " is my name."
+   },
+   {
+    "msg": 38752,
+    "en": " is my name."
+   },
+   {
+    "msg": 58811,
+    "en": " is my name."
+   },
+   {
+    "msg": 62842,
+    "en": " is my name."
+   },
+   {
+    "msg": 103590,
+    "en": " is my name."
+   },
+   {
+    "msg": 107670,
+    "en": " is my name."
+   },
+   {
+    "msg": 107821,
+    "en": " is my name."
+   },
+   {
+    "msg": 382036,
+    "en": " is my name."
+   }
+  ]
+ },
+ {
+  "id": "M2#453",
+  "en": "Pleased to meet you.",
+  "note": "Variant with a leading space where it follows #5477 on the same line (msg 325310).",
+  "variants": [
+   {
+    "msg": 325310,
+    "en": " Pleased to meet you."
+   }
+  ]
+ },
+ {
+  "id": "M2#454",
+  "en": "That's wonderful work."
+ },
+ {
+  "id": "M2#455",
+  "en": "(He's a strange man, though."
+ },
+ {
+  "id": "M2#456",
+  "en": "Reading as he walks along...)"
+ },
+ {
+  "id": "M2#457",
+  "en": "...Oh, I'd better be off to school soon."
+ },
+ {
+  "id": "M2#458",
+  "en": "I lose all track of time when I'm reading."
+ },
+ {
+  "id": "M2#459",
+  "en": ".",
+  "note": "After the name ('{NAME}.') as the player's reply when asked his name; Variant 'you know.' for Robert (msgs 127659/127693/128000/128034), where it sits on its own line after #3391.",
+  "variants": [
+   {
+    "msg": 127659,
+    "en": "you know."
+   },
+   {
+    "msg": 127693,
+    "en": "you know."
+   },
+   {
+    "msg": 128000,
+    "en": "you know."
+   },
+   {
+    "msg": 128034,
+    "en": "you know."
+   }
+  ]
+ },
+ {
+  "id": "M2#460",
+  "en": "You must love reading, Matthew."
+ },
+ {
+  "id": "M2#461",
+  "en": "You've always got a book in your hand."
+ },
+ {
+  "id": "M2#462",
+  "en": "Oh yes, absolutely. I adore it."
+ },
+ {
+  "id": "M2#463",
+  "en": "Science, above all, captivates my heart."
+ },
+ {
+  "id": "M2#464",
+  "en": "Without scientific progress, mankind can't..."
+ },
+ {
+  "id": "M2#465",
+  "en": "I-I'll hear about that some other time."
+ },
+ {
+  "id": "M2#466",
+  "en": "I'm terribly sorry, but I'm in a hurry..."
+ },
+ {
+  "id": "M2#467",
+  "en": "Pondering science, picturing new technology."
+ },
+ {
+  "id": "M2#468",
+  "en": "And at times, chatting with a friend like you."
+ },
+ {
+  "id": "M2#469",
+  "en": "Oh, no, I'm the one who should apologize."
+ },
+ {
+  "id": "M2#470",
+  "en": "What kind of book are you reading?"
+ },
+ {
+  "id": "M2#471",
+  "en": "Ah, good evening... Who might you be again?"
+ },
+ {
+  "id": "M2#472",
+  "en": "Ah, I remember your face, but your name..."
+ },
+ {
+  "id": "M2#473",
+  "en": ".",
+  "note": "After 'I'm '/'My name is ' + name."
+ },
+ {
+  "id": "M2#474",
+  "en": "We always seem to meet when you're busy."
+ },
+ {
+  "id": "M2#475",
+  "en": "I'm reading a most fascinating book just now."
+ },
+ {
+  "id": "M2#476",
+  "en": "(He really does love reading, doesn't he?)"
+ },
+ {
+  "id": "M2#477",
+  "en": "Good evening, Matthew."
+ },
+ {
+  "id": "M2#478",
+  "en": "I'm honored you remember. By the way..."
+ },
+ {
+  "id": "M2#479",
+  "en": "<What have you been reading lately?>"
+ }
+]

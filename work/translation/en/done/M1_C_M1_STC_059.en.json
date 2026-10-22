@@ -1,0 +1,346 @@
+[
+ {
+  "id": "M1#4720",
+  "en": "a noble girl can only pick flowers, play piano"
+ },
+ {
+  "id": "M1#4721",
+  "en": "and dress hair."
+ },
+ {
+  "id": "M1#4722",
+  "en": "I took her in knowing that, but...",
+  "note": "Trails off as in the source; msg ends here."
+ },
+ {
+  "id": "M1#4723",
+  "en": "I wonder what my wife finds so objectionable",
+  "note": "Follows #4722 on a new line in msgs 185169/185886, then a '...' fragment, so no end punctuation. Subject inferred: Mrs. Stanberg (cf. #4708, #4714)."
+ },
+ {
+  "id": "M1#4724",
+  "en": "Why does Stuart shun carrying on the house",
+  "note": "Subject inferred: Stuart (the would-be writer, cf. #4728)."
+ },
+ {
+  "id": "M1#4725",
+  "en": "so stubbornly..."
+ },
+ {
+  "id": "M1#4726",
+  "en": "I can't believe wanting to be a writer is his only reason."
+ },
+ {
+  "id": "M1#4727",
+  "en": "What is Stuart so torn about, I wonder?"
+ },
+ {
+  "id": "M1#4728",
+  "en": "It seems he wants to become a writer.",
+  "note": "Stern player register; polite counterpart #4790."
+ },
+ {
+  "id": "M1#4729",
+  "en": "He's still going on about that?!"
+ },
+ {
+  "id": "M1#4730",
+  "en": "Even without working at some job,"
+ },
+ {
+  "id": "M1#4731",
+  "en": "he can live perfectly well, can't he?"
+ },
+ {
+  "id": "M1#4732",
+  "en": "No, carrying on this house"
+ },
+ {
+  "id": "M1#4733",
+  "en": "is the most important job there is!"
+ },
+ {
+  "id": "M1#4734",
+  "en": "Now, whatever it takes,"
+ },
+ {
+  "id": "M1#4735",
+  "en": "I must have Stuart get married."
+ },
+ {
+  "id": "M1#4736",
+  "en": "To uphold the Stanberg family traditions,"
+ },
+ {
+  "id": "M1#4737",
+  "en": "I need Stuart"
+ },
+ {
+  "id": "M1#4738",
+  "en": "to get married."
+ },
+ {
+  "id": "M1#4739",
+  "en": "Unless I see Stuart wed"
+ },
+ {
+  "id": "M1#4740",
+  "en": "and blessed with a child,"
+ },
+ {
+  "id": "M1#4741",
+  "en": "my duty will remain unfulfilled."
+ },
+ {
+  "id": "M1#4742",
+  "en": "Upholding the Stanberg family traditions"
+ },
+ {
+  "id": "M1#4743",
+  "en": "and praying for its glory and prosperity:"
+ },
+ {
+  "id": "M1#4744",
+  "en": "that is my most important duty."
+ },
+ {
+  "id": "M1#4745",
+  "en": "I am the master of this house,"
+ },
+ {
+  "id": "M1#4746",
+  "en": "Stanberg, the 13th of my line."
+ },
+ {
+  "id": "M1#4747",
+  "en": "The 13th?"
+ },
+ {
+  "id": "M1#4748",
+  "en": "If you are not from Calstatt,"
+ },
+ {
+  "id": "M1#4749",
+  "en": "you can hardly be expected to know."
+ },
+ {
+  "id": "M1#4750",
+  "en": "Our family has governed Calstatt"
+ },
+ {
+  "id": "M1#4751",
+  "en": "since more than 300 years ago,"
+ },
+ {
+  "id": "M1#4752",
+  "en": "a house of distinguished lineage."
+ },
+ {
+  "id": "M1#4753",
+  "en": "Upholding the Stanberg family traditions"
+ },
+ {
+  "id": "M1#4754",
+  "en": "is my most important duty."
+ },
+ {
+  "id": "M1#4755",
+  "en": "What brings you here in the dead of night?",
+  "note": "Follows {PLAYER_NAME} + #1490 ', is that you?'."
+ },
+ {
+  "id": "M1#4756",
+  "en": "So you can finally take it easy, eh?",
+  "note": "Night scene: stern player register (the vampire protagonist)."
+ },
+ {
+  "id": "M1#4757",
+  "en": "Stuart is to be the 14th head;"
+ },
+ {
+  "id": "M1#4758",
+  "en": "when will you pass the headship on?"
+ },
+ {
+  "id": "M1#4759",
+  "en": "Probably once the wedding is over."
+ },
+ {
+  "id": "M1#4760",
+  "en": "Well, before long."
+ },
+ {
+  "id": "M1#4761",
+  "en": "Which means you'll soon be of no use."
+ },
+ {
+  "id": "M1#4762",
+  "en": "On the worthless job of guarding a house"
+ },
+ {
+  "id": "M1#4763",
+  "en": "you spent most of your life, and now even"
+ },
+ {
+  "id": "M1#4764",
+  "en": "that job is about to be taken from you."
+ },
+ {
+  "id": "M1#4765",
+  "en": "For the likes of you, I've brought a new job",
+  "note": "No used_in (4765-4783): assumed to continue msg 185454 (player vampirizes Lord Stanberg)."
+ },
+ {
+  "id": "M1#4766",
+  "en": "as a favor. Rejoice."
+ },
+ {
+  "id": "M1#4767",
+  "en": "Become a \"Dhampir,\""
+ },
+ {
+  "id": "M1#4768",
+  "en": "and guard not your house, but me."
+ },
+ {
+  "id": "M1#4769",
+  "en": "You...",
+  "note": "Lord Stanberg (no used_in)."
+ },
+ {
+  "id": "M1#4770",
+  "en": "Don't tell me...",
+  "note": "Base: Lord Stanberg after #4769 (no used_in). Margarete msg 214539 gets a variant: name is the subject, #983 is '' there.",
+  "variants": [
+   {
+    "msg": 214539,
+    "en": "Don't tell me "
+   }
+  ]
+ },
+ {
+  "id": "M1#4771",
+  "en": "...That's right."
+ },
+ {
+  "id": "M1#4772",
+  "en": "S-",
+  "note": "stutter; joins #4773"
+ },
+ {
+  "id": "M1#4773",
+  "en": "Stop it!"
+ },
+ {
+  "id": "M1#4774",
+  "en": "K-",
+  "note": "stutter; joins #4775"
+ },
+ {
+  "id": "M1#4775",
+  "en": "Keep away from me!"
+ },
+ {
+  "id": "M1#4776",
+  "en": "I'll be tainted!"
+ },
+ {
+  "id": "M1#4777",
+  "en": "Are you saying that being drained by me"
+ },
+ {
+  "id": "M1#4778",
+  "en": "is the same as having your bloodline tainted?"
+ },
+ {
+  "id": "M1#4779",
+  "en": "Now this is amusing."
+ },
+ {
+  "id": "M1#4780",
+  "en": "That makes you all the more worth draining."
+ },
+ {
+  "id": "M1#4781",
+  "en": "Don't touch me!"
+ },
+ {
+  "id": "M1#4782",
+  "en": "Let go!"
+ },
+ {
+  "id": "M1#4783",
+  "en": "Aaaaagh!"
+ },
+ {
+  "id": "M1#4784",
+  "en": "For such a noble bloodline, you don't taste good."
+ },
+ {
+  "id": "M1#4785",
+  "en": "I thought you'd be a little tastier than that."
+ },
+ {
+  "id": "M1#4786",
+  "en": "And how will your wife take it?",
+  "note": "Polite counterpart of #4705 'And what of your wife?'."
+ },
+ {
+  "id": "M1#4787",
+  "en": "What happened? Was there a quarrel?"
+ },
+ {
+  "id": "M1#4788",
+  "en": "It's quite a mess in here."
+ },
+ {
+  "id": "M1#4789",
+  "en": "You needn't tell me the rest."
+ },
+ {
+  "id": "M1#4790",
+  "en": "I believe he'd like to become a writer."
+ },
+ {
+  "id": "M1#4791",
+  "en": "let us go for a night stroll.",
+  "note": "Follows {PLAYER_NAME} + #1304 ', my master,' (Hugo as servant)."
+ },
+ {
+  "id": "M1#4792",
+  "en": "Lately, strolling at night seems to have"
+ },
+ {
+  "id": "M1#4793",
+  "en": "become a habit of mine."
+ },
+ {
+  "id": "M1#4794",
+  "en": "let us stroll the night streets together.",
+  "note": "Follows {PLAYER_NAME} + #1304 ', my master,'."
+ },
+ {
+  "id": "M1#4795",
+  "en": "Good mornin' to you.",
+  "note": "Shared by 4 Hugo msgs; in 189188 it follows {PLAYER_NAME} + #4813 (slice 060), which must end with a space or be punctuation ending in a space."
+ },
+ {
+  "id": "M1#4796",
+  "en": "Are you out for a stroll too, then?",
+  "note": "Also after #4816 'good evening' (msg 189213); no time word, so it fits both."
+ },
+ {
+  "id": "M1#4797",
+  "en": "(Something like that)",
+  "note": "Choice option; spoken answer is #4799."
+ },
+ {
+  "id": "M1#4798",
+  "en": "(No, I'm too busy for strolls)",
+  "note": "Choice option; spoken answer is #4804/#4805 (slice 060)."
+ },
+ {
+  "id": "M1#4799",
+  "en": "Yes, something like that."
+ }
+]

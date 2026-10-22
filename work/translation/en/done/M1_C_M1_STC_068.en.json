@@ -1,0 +1,332 @@
+[
+ {
+  "id": "M1#5440",
+  "en": "people will get the wrong idea."
+ },
+ {
+  "id": "M1#5441",
+  "en": "come to the market again tomorrow."
+ },
+ {
+  "id": "M1#5442",
+  "en": "I look forward to it every day."
+ },
+ {
+  "id": "M1#5443",
+  "en": "has taken a fancy to me!",
+  "note": "msg 214539: #4770 variant 'Don't tell me ' + name (#983 ''), so the name is the subject in third person: 'Don't tell me NAME / has taken a fancy to me! / Surely not, hmm?'"
+ },
+ {
+  "id": "M1#5444",
+  "en": "Surely not, hmm?"
+ },
+ {
+  "id": "M1#5445",
+  "en": "Come now, young sir, do buy something!"
+ },
+ {
+  "id": "M1#5446",
+  "en": "My, you're a handsome young man."
+ },
+ {
+  "id": "M1#5447",
+  "en": "Aren't you married?"
+ },
+ {
+  "id": "M1#5448",
+  "en": "Having a fine young man like you come to"
+ },
+ {
+  "id": "M1#5449",
+  "en": "the market really gets me fired up"
+ },
+ {
+  "id": "M1#5450",
+  "en": "for business!"
+ },
+ {
+  "id": "M1#5451",
+  "en": "Please, let me do something for you."
+ },
+ {
+  "id": "M1#5452",
+  "en": "I'm Romy. I run the flower shop."
+ },
+ {
+  "id": "M1#5453",
+  "en": "Come again when the shop is open."
+ },
+ {
+  "id": "M1#5454",
+  "en": "I'll be waiting for you to come by."
+ },
+ {
+  "id": "M1#5455",
+  "en": "Checking on the flowers every single day"
+ },
+ {
+  "id": "M1#5456",
+  "en": "is the secret to beautiful blooms."
+ },
+ {
+  "id": "M1#5457",
+  "en": "You like plants too, don't you?"
+ },
+ {
+  "id": "M1#5458",
+  "en": "I just have that feeling",
+  "note": "followed by #2 '...' and #25"
+ },
+ {
+  "id": "M1#5459",
+  "en": "I grow the flowers we sell here myself."
+ },
+ {
+  "id": "M1#5460",
+  "en": "Aren't they all blooming beautifully?"
+ },
+ {
+  "id": "M1#5461",
+  "en": "Today, ",
+  "note": "'Today, ' shared: Romy 217890/218430 (continued by the flower rows #5462/#5463/#5515/#5516, which start lowercase) and Christine 238456/239097 ('Today, ' + NAME + #6071...)."
+ },
+ {
+  "id": "M1#5462",
+  "en": "the roses are in beautiful bloom.",
+  "note": "no used_in; lowercase continuation of #5461 'Today, ' like #5463/#5516"
+ },
+ {
+  "id": "M1#5463",
+  "en": "the alpenroses are in lovely bloom."
+ },
+ {
+  "id": "M1#5464",
+  "en": "I'm Romy, the florist."
+ },
+ {
+  "id": "M1#5465",
+  "en": "If any of the flowers catch your eye,"
+ },
+ {
+  "id": "M1#5466",
+  "en": "please do take some home."
+ },
+ {
+  "id": "M1#5467",
+  "en": "Then I'll take that red flower there."
+ },
+ {
+  "id": "M1#5468",
+  "en": "The gerbera? Certainly, here you are."
+ },
+ {
+  "id": "M1#5469",
+  "en": "Oh, you've come to buy flowers!"
+ },
+ {
+  "id": "M1#5470",
+  "en": "Do any of the flowers catch your eye?"
+ },
+ {
+  "id": "M1#5471",
+  "en": "Please come again, if you like."
+ },
+ {
+  "id": "M1#5472",
+  "en": "Oh, hello."
+ },
+ {
+  "id": "M1#5473",
+  "en": "Thank you for buying flowers the other day."
+ },
+ {
+  "id": "M1#5474",
+  "en": "With all the funerals at the cemetery lately,"
+ },
+ {
+  "id": "M1#5475",
+  "en": "more customers are coming in for flowers"
+ },
+ {
+  "id": "M1#5476",
+  "en": "That so many people should die like this"
+ },
+ {
+  "id": "M1#5477",
+  "en": "is such a sad thing."
+ },
+ {
+  "id": "M1#5478",
+  "en": "What kind of flowers would you like?"
+ },
+ {
+  "id": "M1#5479",
+  "en": "We have some very lovely roses today."
+ },
+ {
+  "id": "M1#5480",
+  "en": "Roses wither whenever I touch"
+ },
+ {
+  "id": "M1#5481",
+  "en": "them, you see. I'll have a different flower."
+ },
+ {
+  "id": "M1#5482",
+  "en": "Is that some kind of joke?"
+ },
+ {
+  "id": "M1#5483",
+  "en": "Well then, how about some freesias?"
+ },
+ {
+  "id": "M1#5484",
+  "en": "They have a really lovely scent."
+ },
+ {
+  "id": "M1#5485",
+  "en": "Then I'll take those."
+ },
+ {
+  "id": "M1#5486",
+  "en": "thank you for always coming by."
+ },
+ {
+  "id": "M1#5487",
+  "en": "This shop,"
+ },
+ {
+  "id": "M1#5488",
+  "en": "do you run it all by yourself, miss?"
+ },
+ {
+  "id": "M1#5489",
+  "en": "It was originally my parents' flower shop."
+ },
+ {
+  "id": "M1#5490",
+  "en": "But two years ago, their ship was wrecked"
+ },
+ {
+  "id": "M1#5491",
+  "en": "in a storm, and they never came home."
+ },
+ {
+  "id": "M1#5492",
+  "en": "Mother loved flowers. Father was a botanist.",
+  "note": "same wording as #5533 (slice 069)"
+ },
+ {
+  "id": "M1#5493",
+  "en": "I couldn't bear to hand the shop to strangers,"
+ },
+ {
+  "id": "M1#5494",
+  "en": "so I've kept it going myself."
+ },
+ {
+  "id": "M1#5495",
+  "en": "I see. I'm sorry to make you relive that."
+ },
+ {
+  "id": "M1#5496",
+  "en": "No, it's quite all right."
+ },
+ {
+  "id": "M1#5497",
+  "en": "Please come again."
+ },
+ {
+  "id": "M1#5498",
+  "en": "In our greenhouse at home, Father was"
+ },
+ {
+  "id": "M1#5499",
+  "en": "breeding new varieties of roses."
+ },
+ {
+  "id": "M1#5500",
+  "en": "Some with tiny petals, some in rare colors,"
+ },
+ {
+  "id": "M1#5501",
+  "en": "all sorts of flowers bloomed there."
+ },
+ {
+  "id": "M1#5502",
+  "en": "Now I'm carrying on his research, and"
+ },
+ {
+  "id": "M1#5503",
+  "en": "one day I hope to grow a wonderful flower."
+ },
+ {
+  "id": "M1#5504",
+  "en": "Oh, ",
+  "note": "shared: Romy, Alisa, Marlene, Lotte; 'Oh, ' + name/#6333"
+ },
+ {
+  "id": "M1#5505",
+  "en": "How on earth did you get in",
+  "note": "+ #2 '...' + #461 '?'"
+ },
+ {
+  "id": "M1#5506",
+  "en": "Forgive me for coming at this hour"
+ },
+ {
+  "id": "M1#5507",
+  "en": "I came by a rare rose, and I simply had to"
+ },
+ {
+  "id": "M1#5508",
+  "en": "show it to you."
+ },
+ {
+  "id": "M1#5509",
+  "en": "Oh, I see. Thank you."
+ },
+ {
+  "id": "M1#5510",
+  "en": "But this flower has withered."
+ },
+ {
+  "id": "M1#5511",
+  "en": "Roses wither whenever I touch them."
+ },
+ {
+  "id": "M1#5512",
+  "en": "And the reason is that I'm a vampire",
+  "note": "+ #2 '...'"
+ },
+ {
+  "id": "M1#5513",
+  "en": "Eeeek!"
+ },
+ {
+  "id": "M1#5514",
+  "en": "I grow all the flowers I sell here myself."
+ },
+ {
+  "id": "M1#5515",
+  "en": "the marguerites are in beautiful bloom.",
+  "note": "no used_in; lowercase continuation of #5461 'Today, ' like #5463/#5516"
+ },
+ {
+  "id": "M1#5516",
+  "en": "the violets are blooming so prettily."
+ },
+ {
+  "id": "M1#5517",
+  "en": "Well then, that red rose over there",
+  "note": "+ #2 '...'; trails off"
+ },
+ {
+  "id": "M1#5518",
+  "en": "Thank you very much. Here you are."
+ },
+ {
+  "id": "M1#5519",
+  "en": "Oh my! Why has the flower suddenly wilted?"
+ }
+]

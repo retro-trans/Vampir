@@ -1,0 +1,336 @@
+[
+ {
+  "id": "M0#240",
+  "en": "If you're after talk about girls,"
+ },
+ {
+  "id": "M0#241",
+  "en": "it's no use trying to pry it out of me."
+ },
+ {
+  "id": "M0#242",
+  "en": "I'm not telling you my top-secret info."
+ },
+ {
+  "id": "M0#243",
+  "en": "I make wooden clogs here."
+ },
+ {
+  "id": "M0#244",
+  "en": "Do you have a job of some kind?"
+ },
+ {
+  "id": "M0#245",
+  "en": "No, I don't..."
+ },
+ {
+  "id": "M0#246",
+  "en": "Well, that's no good, then."
+ },
+ {
+  "id": "M0#247",
+  "en": "Even if you do nothing at all,",
+  "note": "split of one sentence over #247-249: cut at matching points, 'amazing job' carried in #248/#249; box 2 = 3 lines"
+ },
+ {
+  "id": "M0#248",
+  "en": "you need the nerve to bluff that you have"
+ },
+ {
+  "id": "M0#249",
+  "en": "some amazing job. Without that,"
+ },
+ {
+  "id": "M0#250",
+  "en": "girls won't take any interest in you."
+ },
+ {
+  "id": "M0#251",
+  "en": "Standing there watching won't do you any good."
+ },
+ {
+  "id": "M0#252",
+  "en": "I'm not letting you help with my work."
+ },
+ {
+  "id": "M0#253",
+  "en": "Looks like you're no enemy of mine after all."
+ },
+ {
+  "id": "M0#254",
+  "en": "All right, let's team up. I'm Himmler."
+ },
+ {
+  "id": "M0#255",
+  "en": "Next time, let's talk about girls at my place."
+ },
+ {
+  "id": "M0#256",
+  "en": "My dad goes to bed early, so we'll do it after that."
+ },
+ {
+  "id": "M0#257",
+  "en": "Want me to make you some clogs, too?"
+ },
+ {
+  "id": "M0#258",
+  "en": "If you wear these,"
+ },
+ {
+  "id": "M0#259",
+  "en": "a cow can step on your foot and you're fine."
+ },
+ {
+  "id": "M0#260",
+  "en": "I came, as promised, Himmler."
+ },
+ {
+  "id": "M0#261",
+  "en": "Come over here, I've got some good liquor,"
+ },
+ {
+  "id": "M0#262",
+  "en": "It's my dad's, though."
+ },
+ {
+  "id": "M0#263",
+  "en": "You'll have some, right?",
+  "note": "no used_in; assumed Himmler offering his father's liquor (continues msg 9904)"
+ },
+ {
+  "id": "M0#264",
+  "en": "No,",
+  "note": "shared: Player 'No,' in Osaida msg 33585 and Himmler's drink scene"
+ },
+ {
+  "id": "M0#265",
+  "en": "There's something I'd like to drink even more..."
+ },
+ {
+  "id": "M0#266",
+  "en": "Oh, never mind."
+ },
+ {
+  "id": "M0#267",
+  "en": "I have something to do at night."
+ },
+ {
+  "id": "M0#268",
+  "en": "Huh? What is it?"
+ },
+ {
+  "id": "M0#269",
+  "en": "Don't tell me you're going to see a girl at this hour."
+ },
+ {
+  "id": "M0#270",
+  "en": "Do you want to go?",
+  "note": "inferred Player asks Himmler; #271 Himmler denies"
+ },
+ {
+  "id": "M0#271",
+  "en": "No, of course not!"
+ },
+ {
+  "id": "M0#272",
+  "en": "Really?"
+ },
+ {
+  "id": "M0#273",
+  "en": "I'm probably going, though.",
+  "note": "inferred Player; Himmler then asks to come (#274)"
+ },
+ {
+  "id": "M0#274",
+  "en": "Wait, I'm coming, too!"
+ },
+ {
+  "id": "M0#275",
+  "en": "Well then, shall we get ready?",
+  "note": "speaker inferred (Player); leads into biting scene #276"
+ },
+ {
+  "id": "M0#276",
+  "en": "W-what are you doing, "
+ },
+ {
+  "id": "M0#277",
+  "en": "!",
+  "note": "'!' shared by 10000, 18014 (Silas) and 108496 (Johanna); works after the name in each"
+ },
+ {
+  "id": "M0#278",
+  "en": "I'm only interested in girls..."
+ },
+ {
+  "id": "M0#279",
+  "en": "Stop it."
+ },
+ {
+  "id": "M0#280",
+  "en": "Whoa.",
+  "note": "no used_in; Himmler after being bitten (inferred)"
+ },
+ {
+  "id": "M0#281",
+  "en": "Now then, let's go, Himmler.",
+  "note": "Player to Himmler, who is now his servant; calm"
+ },
+ {
+  "id": "M0#282",
+  "en": "I will obey your command,"
+ },
+ {
+  "id": "M0#283",
+  "en": "with everything I have."
+ },
+ {
+  "id": "M0#284",
+  "en": "That's odd. Did I really get hurt this badly in the forest?",
+  "note": "subject restored (I); implies thrall effect, kept ambiguous"
+ },
+ {
+  "id": "M0#285",
+  "en": "I'm Theodor, a hunter."
+ },
+ {
+  "id": "M0#286",
+  "en": "I'm just on my way to the forest."
+ },
+ {
+  "id": "M0#287",
+  "en": "Oh, hi, "
+ },
+ {
+  "id": "M0#288",
+  "en": "I'm just heading out to hunt."
+ },
+ {
+  "id": "M0#289",
+  "en": "Hello."
+ },
+ {
+  "id": "M0#290",
+  "en": "I'm just on my way back from a hunt."
+ },
+ {
+  "id": "M0#291",
+  "en": "Hello, ",
+  "note": "assumes #143/#13 = '.'"
+ },
+ {
+  "id": "M0#292",
+  "en": "The hunt went well."
+ },
+ {
+  "id": "M0#293",
+  "en": "Do you need something at this house?"
+ },
+ {
+  "id": "M0#294",
+  "en": "I'm Theodor."
+ },
+ {
+  "id": "M0#295",
+  "en": "But my father, Southwark, is the head here."
+ },
+ {
+  "id": "M0#296",
+  "en": "My sister Liza lives here with us, too."
+ },
+ {
+  "id": "M0#297",
+  "en": "I'm cleaning my gun right now."
+ },
+ {
+  "id": "M0#298",
+  "en": "It's my livelihood, and about the only thing",
+  "note": "cut across #298/#299: 'only thing / I can be proud of before others'"
+ },
+ {
+  "id": "M0#299",
+  "en": "I can be proud of before others."
+ },
+ {
+  "id": "M0#300",
+  "en": "Whoa, don't just walk in on me like that,"
+ },
+ {
+  "id": "M0#301",
+  "en": "I almost pulled the trigger without thinking."
+ },
+ {
+  "id": "M0#302",
+  "en": "Welcome, ",
+  "note": "May (msg 78659) uses it as a practised greeting - 'Welcome, Chris.' reads fine"
+ },
+ {
+  "id": "M0#303",
+  "en": "I bagged a deer on yesterday's hunt,"
+ },
+ {
+  "id": "M0#304",
+  "en": "and I'll treat you to the venison."
+ },
+ {
+  "id": "M0#305",
+  "en": "Smells nice, doesn't it?"
+ },
+ {
+  "id": "M0#306",
+  "en": "It's made with herbs my sister"
+ },
+ {
+  "id": "M0#307",
+  "en": "picked. We have my father's liquor, too."
+ },
+ {
+  "id": "M0#308",
+  "en": "You there, what's your name?"
+ },
+ {
+  "id": "M0#309",
+  "en": " is my name. Why do you ask?"
+ },
+ {
+  "id": "M0#310",
+  "en": ",",
+  "note": "',' shared with Theodor, May, Azusha - all read as 'Name, ...'"
+ },
+ {
+  "id": "M0#311",
+  "en": "this is a hunting area,"
+ },
+ {
+  "id": "M0#312",
+  "en": "so I can't have people walking in uninvited."
+ },
+ {
+  "id": "M0#313",
+  "en": "Forgive me. That was rude of me."
+ },
+ {
+  "id": "M0#314",
+  "en": "You there..."
+ },
+ {
+  "id": "M0#315",
+  "en": "Oh, it's you. What's your name?"
+ },
+ {
+  "id": "M0#316",
+  "en": "all of this land is hunting ground,"
+ },
+ {
+  "id": "M0#317",
+  "en": "Please hurry back to the village."
+ },
+ {
+  "id": "M0#318",
+  "en": "You again?"
+ },
+ {
+  "id": "M0#319",
+  "en": "Please, enough is enough."
+ }
+]

@@ -1,0 +1,328 @@
+[
+ {
+  "id": "M1#3840",
+  "en": "Did I pay far too much for the blood of the likes of you?"
+ },
+ {
+  "id": "M1#3841",
+  "en": "! It's you.",
+  "note": "after {PLAYER_NAME}; also Dellwald msg 177703"
+ },
+ {
+  "id": "M1#3842",
+  "en": "Come by the trading house again when you have time."
+ },
+ {
+  "id": "M1#3843",
+  "en": "Did you find anything you liked?"
+ },
+ {
+  "id": "M1#3844",
+  "en": "How have you been keeping?"
+ },
+ {
+  "id": "M1#3845",
+  "en": "I think I'll go home and see my wife for a change."
+ },
+ {
+  "id": "M1#3846",
+  "en": "Excuse me, but do we have an appointment?"
+ },
+ {
+  "id": "M1#3847",
+  "en": "No, I came unannounced."
+ },
+ {
+  "id": "M1#3848",
+  "en": "I see. I'm sorry, but I make it a rule"
+ },
+ {
+  "id": "M1#3849",
+  "en": "not to see anyone without an appointment."
+ },
+ {
+  "id": "M1#3850",
+  "en": "My time is precious, you see. Good day."
+ },
+ {
+  "id": "M1#3851",
+  "en": "Is that really how it is?"
+ },
+ {
+  "id": "M1#3852",
+  "en": "I was just about to have some tea."
+ },
+ {
+  "id": "M1#3853",
+  "en": "Do join me for a cup."
+ },
+ {
+  "id": "M1#3854",
+  "en": "I have some rare plates from overseas."
+ },
+ {
+  "id": "M1#3855",
+  "en": "Do have a look at them."
+ },
+ {
+  "id": "M1#3856",
+  "en": "How did you enjoy the tea"
+ },
+ {
+  "id": "M1#3857",
+  "en": "here at the Wesseli house?"
+ },
+ {
+  "id": "M1#3858",
+  "en": "My, what a young guest we have."
+ },
+ {
+  "id": "M1#3859",
+  "en": "And what brings you here today?"
+ },
+ {
+  "id": "M1#3860",
+  "en": "I'm looking for a present for my grandfather."
+ },
+ {
+  "id": "M1#3861",
+  "en": "I came to find something rare from abroad."
+ },
+ {
+  "id": "M1#3862",
+  "en": "I see. We have a great many costly,"
+ },
+ {
+  "id": "M1#3863",
+  "en": "rare goods here. I'm sure your"
+ },
+ {
+  "id": "M1#3864",
+  "en": "grandfather will find something he likes."
+ },
+ {
+  "id": "M1#3865",
+  "en": "Please, feel free to look around"
+ },
+ {
+  "id": "M1#3866",
+  "en": "the trading house as you like."
+ },
+ {
+  "id": "M1#3867",
+  "en": "And if you have time, perhaps some tea?"
+ },
+ {
+  "id": "M1#3868",
+  "en": "Thank you. I'll take a good look around."
+ },
+ {
+  "id": "M1#3869",
+  "en": "do take your time looking around"
+ },
+ {
+  "id": "M1#3870",
+  "en": "until you find your grandfather's present."
+ },
+ {
+  "id": "M1#3871",
+  "en": "When I was your age, I went to sea myself"
+ },
+ {
+  "id": "M1#3872",
+  "en": "and traveled all over the world."
+ },
+ {
+  "id": "M1#3873",
+  "en": "are what you see on display here.",
+  "note": "completes M1#3794 (slice 047), which must be a subject phrase"
+ },
+ {
+  "id": "M1#3874",
+  "en": "Any human would want beautiful things"
+ },
+ {
+  "id": "M1#3875",
+  "en": "nearby, surely? ",
+  "note": "trailing space: msg 145298 has no wait and msg 145308 (#3876) continues on the same line"
+ },
+ {
+  "id": "M1#3876",
+  "en": "If I must keep things close,"
+ },
+ {
+  "id": "M1#3877",
+  "en": "I'd rather they were beautiful",
+  "note": "followed by 3x M1#180 '.' + M1#25 '.' = four dots; needs M1#25 variant '' for msg 145308 (slice 000)"
+ },
+ {
+  "id": "M1#3878",
+  "en": "That's the way I think. Why, my wife"
+ },
+ {
+  "id": "M1#3879",
+  "en": "is already my fourth."
+ },
+ {
+  "id": "M1#3880",
+  "en": "Still,"
+ },
+ {
+  "id": "M1#3881",
+  "en": "not one woman can rival your beauty."
+ },
+ {
+  "id": "M1#3882",
+  "en": "Rest assured."
+ },
+ {
+  "id": "M1#3883",
+  "en": "I have no strange inclinations."
+ },
+ {
+  "id": "M1#3884",
+  "en": "I simply love beautiful things."
+ },
+ {
+  "id": "M1#3885",
+  "en": "An object simply sits there, beautiful,"
+ },
+ {
+  "id": "M1#3886",
+  "en": "and that alone fills my heart."
+ },
+ {
+  "id": "M1#3887",
+  "en": "Wouldn't you say that's enough?"
+ },
+ {
+  "id": "M1#3888",
+  "en": "My wife and I had a little spat this morning."
+ },
+ {
+  "id": "M1#3889",
+  "en": "She, too, is a willful woman. It's a trial."
+ },
+ {
+  "id": "M1#3890",
+  "en": "Yes, I think I'll take this incense burner."
+ },
+ {
+  "id": "M1#3891",
+  "en": "It's an import from China, isn't it?"
+ },
+ {
+  "id": "M1#3892",
+  "en": "Exactly so."
+ },
+ {
+  "id": "M1#3893",
+  "en": "You've chosen a very fine piece."
+ },
+ {
+  "id": "M1#3894",
+  "en": "Ah, yes,"
+ },
+ {
+  "id": "M1#3895",
+  "en": "let me add this Indian incense to it."
+ },
+ {
+  "id": "M1#3896",
+  "en": "Please do come again."
+ },
+ {
+  "id": "M1#3897",
+  "en": "My last voyage was to India."
+ },
+ {
+  "id": "M1#3898",
+  "en": "There, I secured a route for importing"
+ },
+ {
+  "id": "M1#3899",
+  "en": "rare spices and textiles."
+ },
+ {
+  "id": "M1#3900",
+  "en": "I also brought back a few rare plants"
+ },
+ {
+  "id": "M1#3901",
+  "en": "at the time, but"
+ },
+ {
+  "id": "M1#3902",
+  "en": "sadly, they withered and died."
+ },
+ {
+  "id": "M1#3903",
+  "en": "Sorry, but I'm worn out."
+ },
+ {
+  "id": "M1#3904",
+  "en": "Could you come back another time?"
+ },
+ {
+  "id": "M1#3905",
+  "en": "Got business with this ship?"
+ },
+ {
+  "id": "M1#3906",
+  "en": "I'm Stelan, captain of this ship."
+ },
+ {
+  "id": "M1#3907",
+  "en": "She's a small trading ship. A bit dated,"
+ },
+ {
+  "id": "M1#3908",
+  "en": "but, well, she's lovable in her own way."
+ },
+ {
+  "id": "M1#3909",
+  "en": "Say, have you been up to the ship's bow?"
+ },
+ {
+  "id": "M1#3910",
+  "en": "<I haven't>",
+  "note": "menu option; the yes option is presumably elsewhere (not in this slice)"
+ },
+ {
+  "id": "M1#3911",
+  "en": "Nice view, isn't it?"
+ },
+ {
+  "id": "M1#3912",
+  "en": "You can see the whole town of Calstatt"
+ },
+ {
+  "id": "M1#3913",
+  "en": "from up there."
+ },
+ {
+  "id": "M1#3914",
+  "en": "Well, no harm in trying. Go on up to the bow"
+ },
+ {
+  "id": "M1#3915",
+  "en": "of the ship."
+ },
+ {
+  "id": "M1#3916",
+  "en": "What a view, I tell you!"
+ },
+ {
+  "id": "M1#3917",
+  "en": "Loading and unloading the cargo takes a while."
+ },
+ {
+  "id": "M1#3918",
+  "en": "We won't be sailing for a bit yet."
+ },
+ {
+  "id": "M1#3919",
+  "en": "Calstatt",
+  "note": "subject only; M1#3920 (slice 049) must continue as the predicate ('was originally a small fishing village.')"
+ }
+]

@@ -1,0 +1,347 @@
+[
+ {
+  "id": "M0#1680",
+  "en": "call you?"
+ },
+ {
+  "id": "M0#1681",
+  "en": "My name is "
+ },
+ {
+  "id": "M0#1682",
+  "en": "So \"Mr. ",
+  "note": "Mr. is added here because the Japanese honorific sits after the name in #1683"
+ },
+ {
+  "id": "M0#1683",
+  "en": "\" is"
+ },
+ {
+  "id": "M0#1684",
+  "en": "what I am called."
+ },
+ {
+  "id": "M0#1685",
+  "en": "Hmm. Then, Mr. ",
+  "note": "Mr. placed before the name (the name follows directly); #1686 ',' also serves Sati msg 83119"
+ },
+ {
+  "id": "M0#1686",
+  "en": ",",
+  "note": "',' after the name: May 'Mr. Name, you'll be Papa' (msgs 78863/79335) and Sati msg 83119 'Name, / if you were my real grandpa,' (needs #1775/#1776 to follow)"
+ },
+ {
+  "id": "M0#1687",
+  "en": "you'll be Papa."
+ },
+ {
+  "id": "M0#1688",
+  "en": "Julieta is our child."
+ },
+ {
+  "id": "M0#1689",
+  "en": "You'll always be here, right?"
+ },
+ {
+  "id": "M0#1690",
+  "en": "We'll play together forever, right?"
+ },
+ {
+  "id": "M0#1691",
+  "en": "(Somehow, it seems she doesn't like me...)"
+ },
+ {
+  "id": "M0#1692",
+  "en": "(Just as I thought, she won't say anything to me.)"
+ },
+ {
+  "id": "M0#1693",
+  "en": "Good grief",
+  "note": "Followed by #66 \"...\""
+ },
+ {
+  "id": "M0#1694",
+  "en": "Right now I'm playing with Julieta."
+ },
+ {
+  "id": "M0#1695",
+  "en": "Also, I'm not allowed to talk too much"
+ },
+ {
+  "id": "M0#1696",
+  "en": "to that big brother.",
+  "note": "onii-chan kept as 'big brother' (May's #1660 for ojisan is 'mister')"
+ },
+ {
+  "id": "M0#1697",
+  "en": "When you say \"that big brother,\""
+ },
+ {
+  "id": "M0#1698",
+  "en": "do you mean me?"
+ },
+ {
+  "id": "M0#1699",
+  "en": "That's right."
+ },
+ {
+  "id": "M0#1700",
+  "en": "Don't you get lonely playing by yourself?"
+ },
+ {
+  "id": "M0#1701",
+  "en": "I'm not alone."
+ },
+ {
+  "id": "M0#1702",
+  "en": "Julieta is my friend, after all."
+ },
+ {
+  "id": "M0#1703",
+  "en": "I even have matching outfits, you know."
+ },
+ {
+  "id": "M0#1704",
+  "en": "'That's right'",
+  "note": "menu choice, no used_in; context unknown"
+ },
+ {
+  "id": "M0#1705",
+  "en": "'That's not it'",
+  "note": "menu choice, no used_in; context unknown"
+ },
+ {
+  "id": "M0#1706",
+  "en": "Sure. What shall we play?"
+ },
+ {
+  "id": "M0#1707",
+  "en": "All sorts of things."
+ },
+ {
+  "id": "M0#1708",
+  "en": "By the way, big brother, what should I",
+  "note": "flows into shared #1680 'call you?'"
+ },
+ {
+  "id": "M0#1709",
+  "en": "My name is "
+ },
+ {
+  "id": "M0#1710",
+  "en": ", so",
+  "note": "Name slot follows directly"
+ },
+ {
+  "id": "M0#1711",
+  "en": ", with \"Mr.\" in front,",
+  "note": "Name starts this line with no fragment before it, so 'Mr.' cannot precede it; reworded"
+ },
+ {
+  "id": "M0#1712",
+  "en": "is the usual way, I'd say."
+ },
+ {
+  "id": "M0#1713",
+  "en": "May",
+  "note": "Followed by #66 \"...\""
+ },
+ {
+  "id": "M0#1714",
+  "en": "Huh? Mr. "
+ },
+ {
+  "id": "M0#1715",
+  "en": "",
+  "note": "Honorific moved into #1714 ('Mr.' before the name); empty so the next fragment follows the name directly"
+ },
+ {
+  "id": "M0#1716",
+  "en": "What's wrong?"
+ },
+ {
+  "id": "M0#1717",
+  "en": "May, you"
+ },
+ {
+  "id": "M0#1718",
+  "en": "said you wanted to be with me forever,"
+ },
+ {
+  "id": "M0#1719",
+  "en": "didn't you?"
+ },
+ {
+  "id": "M0#1720",
+  "en": "It's no good?",
+  "note": "no used_in; speaker/referent inferred (May asking whether staying together forever is not possible)"
+ },
+ {
+  "id": "M0#1721",
+  "en": "There's one way to do that.",
+  "note": "no used_in"
+ },
+ {
+  "id": "M0#1722",
+  "en": "It might hurt a little, but",
+  "note": "no used_in"
+ },
+ {
+  "id": "M0#1723",
+  "en": "do you want to try?",
+  "note": "no used_in"
+ },
+ {
+  "id": "M0#1724",
+  "en": "Does it hurt?",
+  "note": "no used_in"
+ },
+ {
+  "id": "M0#1725",
+  "en": "But if it's only a little, I can bear it."
+ },
+ {
+  "id": "M0#1726",
+  "en": "Do it."
+ },
+ {
+  "id": "M0#1727",
+  "en": "Nn",
+  "note": "Followed by #66 \"...\""
+ },
+ {
+  "id": "M0#1728",
+  "en": "Did that hurt? Are you all right?"
+ },
+ {
+  "id": "M0#1729",
+  "en": "Yes, I am fine, ",
+  "note": "Name and #135 ', my master.' follow"
+ },
+ {
+  "id": "M0#1730",
+  "en": "I will obey your command..."
+ },
+ {
+  "id": "M0#1731",
+  "en": "I feel kind of tired..."
+ },
+ {
+  "id": "M0#1732",
+  "en": "Good morning. I'm Sati."
+ },
+ {
+  "id": "M0#1733",
+  "en": "And who are you?"
+ },
+ {
+  "id": "M0#1734",
+  "en": "Nice to meet you, ",
+  "note": "Name and #143 '.' follow"
+ },
+ {
+  "id": "M0#1735",
+  "en": "Good mornin'~."
+ },
+ {
+  "id": "M0#1736",
+  "en": "Sati's full of energy today, too."
+ },
+ {
+  "id": "M0#1737",
+  "en": "I'm off to the forest, okay?"
+ },
+ {
+  "id": "M0#1738",
+  "en": "Hey, I'm Sati. And you?"
+ },
+ {
+  "id": "M0#1739",
+  "en": "I'm Sati."
+ },
+ {
+  "id": "M0#1740",
+  "en": "Don't forget, okay?"
+ },
+ {
+  "id": "M0#1741",
+  "en": "!",
+  "note": "'Oh, it's Name!' (#7 + name); all listed uses start with #7"
+ },
+ {
+  "id": "M0#1742",
+  "en": "I'm just heading home now, you know."
+ },
+ {
+  "id": "M0#1743",
+  "en": "How are you? Working hard? Having fun?"
+ },
+ {
+  "id": "M0#1744",
+  "en": "I'm Sati. And you?"
+ },
+ {
+  "id": "M0#1745",
+  "en": ", it's you!",
+  "note": "Line starts with the name, no fragment before it"
+ },
+ {
+  "id": "M0#1746",
+  "en": ", it is you, isn't it?",
+  "note": "Line starts with the name"
+ },
+ {
+  "id": "M0#1747",
+  "en": "You are Sati, aren't you?"
+ },
+ {
+  "id": "M0#1748",
+  "en": "You remembered Sati,",
+  "note": "Sati speaks of herself in the third person; also used in msg 83354"
+ },
+ {
+  "id": "M0#1749",
+  "en": "I'm so happy."
+ },
+ {
+  "id": "M0#1750",
+  "en": "Have you talked to big sis Johanna?",
+  "note": "Shared with msg 83389 (#7 + name + #13)"
+ },
+ {
+  "id": "M0#1751",
+  "en": "What are you doing, "
+ },
+ {
+  "id": "M0#1752",
+  "en": "?"
+ },
+ {
+  "id": "M0#1753",
+  "en": "Want some bread? Bread. Come on, eat some bread."
+ },
+ {
+  "id": "M0#1754",
+  "en": "Was it good?"
+ },
+ {
+  "id": "M0#1755",
+  "en": "What are you doing here?"
+ },
+ {
+  "id": "M0#1756",
+  "en": "I'm gathering nuts."
+ },
+ {
+  "id": "M0#1757",
+  "en": "We didn't get much wheat this year, did we?"
+ },
+ {
+  "id": "M0#1758",
+  "en": "Without these,"
+ },
+ {
+  "id": "M0#1759",
+  "en": "we can't make much bread."
+ }
+]

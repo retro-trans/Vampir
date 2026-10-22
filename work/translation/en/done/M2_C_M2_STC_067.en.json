@@ -1,0 +1,340 @@
+[
+ {
+  "id": "M2#5360",
+  "en": "the best thing of all, I'd say.",
+  "note": "Finishes #5359 (slice 066), which ends with '... a pleasant morning is'."
+ },
+ {
+  "id": "M2#5361",
+  "en": "Some people have no chance to enjoy that,"
+ },
+ {
+  "id": "M2#5362",
+  "en": "forced as they are to live such poor, hard"
+ },
+ {
+  "id": "M2#5363",
+  "en": "lives, after all."
+ },
+ {
+  "id": "M2#5364",
+  "en": "It's best to rise early in the morning."
+ },
+ {
+  "id": "M2#5365",
+  "en": "It feels different from the day or night."
+ },
+ {
+  "id": "M2#5366",
+  "en": "And how are you feeling today?"
+ },
+ {
+  "id": "M2#5367",
+  "en": "Do keep well, won't you?"
+ },
+ {
+  "id": "M2#5368",
+  "en": "Running into you this early in the morning..."
+ },
+ {
+  "id": "M2#5369",
+  "en": "I feel there's some bond between us."
+ },
+ {
+  "id": "M2#5370",
+  "en": "Let's both work hard today. Good day, then."
+ },
+ {
+  "id": "M2#5371",
+  "en": "Good evening, sir."
+ },
+ {
+  "id": "M2#5372",
+  "en": "Might I have a moment?"
+ },
+ {
+  "id": "M2#5373",
+  "en": "What is it?",
+  "note": "Player (stern). Variant for Samantha 320456/320885 after 'Um' + '...'.",
+  "variants": [
+   {
+    "msg": 320456,
+    "en": " Can I help you?"
+   },
+   {
+    "msg": 320885,
+    "en": " Can I help you?"
+   }
+  ]
+ },
+ {
+  "id": "M2#5374",
+  "en": "My name is Bruce."
+ },
+ {
+  "id": "M2#5375",
+  "en": "I'm a director of the London Charity Society."
+ },
+ {
+  "id": "M2#5376",
+  "en": "Pardon my asking, but do you have a job?"
+ },
+ {
+  "id": "M2#5377",
+  "en": "I see. My apologies, then."
+ },
+ {
+  "id": "M2#5378",
+  "en": "Few young people join our charity work,"
+ },
+ {
+  "id": "M2#5379",
+  "en": "so lately I've been going around asking"
+ },
+ {
+  "id": "M2#5380",
+  "en": "people like this."
+ },
+ {
+  "id": "M2#5381",
+  "en": "Oh, I must hurry. If you'll excuse me."
+ },
+ {
+  "id": "M2#5382",
+  "en": "Forgive me, I'm in a hurry."
+ },
+ {
+  "id": "M2#5383",
+  "en": "Good evening. Good to see you again."
+ },
+ {
+  "id": "M2#5384",
+  "en": "Hmm, I see.",
+  "note": "Flag 4 = the player said he is weak in the mornings (#5357)."
+ },
+ {
+  "id": "M2#5385",
+  "en": "You do seem livelier at night."
+ },
+ {
+  "id": "M2#5386",
+  "en": "Do take good care of your health. Farewell."
+ },
+ {
+  "id": "M2#5387",
+  "en": "Please don't mind what happened last time.",
+  "note": "Flag 5 = Bruce asked whether the player had a job (msg 221992)."
+ },
+ {
+  "id": "M2#5388",
+  "en": "Well then, good evening to you."
+ },
+ {
+  "id": "M2#5389",
+  "en": "By the way... what line of work are you in?"
+ },
+ {
+  "id": "M2#5390",
+  "en": "<...>",
+  "note": "Choice; 6 dots -> 3."
+ },
+ {
+  "id": "M2#5391",
+  "en": "<Something like a detective>"
+ },
+ {
+  "id": "M2#5392",
+  "en": "Oh, do forgive me."
+ },
+ {
+  "id": "M2#5393",
+  "en": "It seems I shouldn't have asked."
+ },
+ {
+  "id": "M2#5394",
+  "en": "I meant no offense. Please pardon me."
+ },
+ {
+  "id": "M2#5395",
+  "en": "Ah, I thought as much."
+ },
+ {
+  "id": "M2#5396",
+  "en": "I'd heard talk that you were making inquiries"
+ },
+ {
+  "id": "M2#5397",
+  "en": "around town, so I wondered."
+ },
+ {
+  "id": "M2#5398",
+  "en": "Welcome to the London Charity Society."
+ },
+ {
+  "id": "M2#5399",
+  "en": "Have you come to offer to volunteer,"
+ },
+ {
+  "id": "M2#5400",
+  "en": "or some other kind of help?"
+ },
+ {
+  "id": "M2#5401",
+  "en": "No, ",
+  "note": "Also Norman msg 225974."
+ },
+ {
+  "id": "M2#5402",
+  "en": "I was curious what goes on here, so I"
+ },
+ {
+  "id": "M2#5403",
+  "en": "just dropped by... Sorry to intrude."
+ },
+ {
+  "id": "M2#5404",
+  "en": "No, no, not at all."
+ },
+ {
+  "id": "M2#5405",
+  "en": "As I said, this is the Charity Society's"
+ },
+ {
+  "id": "M2#5406",
+  "en": "headquarters."
+ },
+ {
+  "id": "M2#5407",
+  "en": "I'm Bruce, the director. A pleasure."
+ },
+ {
+  "id": "M2#5408",
+  "en": "I moved to London recently."
+ },
+ {
+  "id": "M2#5409",
+  "en": "I see. No wonder you lost your way."
+ },
+ {
+  "id": "M2#5410",
+  "en": "Think nothing of it. If you'd like to help"
+ },
+ {
+  "id": "M2#5411",
+  "en": "the less fortunate, please do come again."
+ },
+ {
+  "id": "M2#5412",
+  "en": "Oh? Why, you're the one from before..."
+ },
+ {
+  "id": "M2#5413",
+  "en": "I was curious what you do here, so I"
+ },
+ {
+  "id": "M2#5414",
+  "en": "just dropped by."
+ },
+ {
+  "id": "M2#5415",
+  "en": "Allow me to introduce myself properly."
+ },
+ {
+  "id": "M2#5416",
+  "en": "Please, have a seat."
+ },
+ {
+  "id": "M2#5417",
+  "en": "If you have time, do stay and talk."
+ },
+ {
+  "id": "M2#5418",
+  "en": "Few people offer to help, you know."
+ },
+ {
+  "id": "M2#5419",
+  "en": "I suppose they have their hands full living."
+ },
+ {
+  "id": "M2#5420",
+  "en": "Councillor Norman seems busy as well,"
+ },
+ {
+  "id": "M2#5421",
+  "en": "so we rarely get to meet and discuss things."
+ },
+ {
+  "id": "M2#5422",
+  "en": "I'm glad to see you looking well.",
+  "note": "Also Maud msg 267246."
+ },
+ {
+  "id": "M2#5423",
+  "en": "It's quiet here, isn't it?"
+ },
+ {
+  "id": "M2#5424",
+  "en": "I set out eager to devote half my life"
+ },
+ {
+  "id": "M2#5425",
+  "en": "to charity, but hardly anyone really"
+ },
+ {
+  "id": "M2#5426",
+  "en": "understands..."
+ },
+ {
+  "id": "M2#5427",
+  "en": "Hello. How are you?"
+ },
+ {
+  "id": "M2#5428",
+  "en": "I intend to keep up my charity work."
+ },
+ {
+  "id": "M2#5429",
+  "en": "I won't give up my ideals."
+ },
+ {
+  "id": "M2#5430",
+  "en": "I was born into a noble family,"
+ },
+ {
+  "id": "M2#5431",
+  "en": "and grew up arrogant..."
+ },
+ {
+  "id": "M2#5432",
+  "en": "thinking that was only natural."
+ },
+ {
+  "id": "M2#5433",
+  "en": "But when I learned of lives unlike mine,"
+ },
+ {
+  "id": "M2#5434",
+  "en": "I realized there might be something more"
+ },
+ {
+  "id": "M2#5435",
+  "en": "precious than tradition or lineage."
+ },
+ {
+  "id": "M2#5436",
+  "en": "That feeling hasn't changed, even now."
+ },
+ {
+  "id": "M2#5437",
+  "en": "You listened to me so patiently.",
+  "note": "Followed by #2522 'Thank you very much.' (own sentence), so this row is a full sentence."
+ },
+ {
+  "id": "M2#5438",
+  "en": "Yes. What can I do for you?"
+ },
+ {
+  "id": "M2#5439",
+  "en": "I don't believe I've seen you before..."
+ }
+]

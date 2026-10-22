@@ -1,0 +1,120 @@
+[
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#3534",
+  "en": "customers as nobly dressed as you",
+  "why": "join msg 136833: shared #3486 'are a rare sight around here.' is plural (#3485 is plural too); was 'a customer ... are' (043/044 reports)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4104",
+  "en": "At my shop, it's usually married women",
+  "why": "join msg 157081: shared #4079 is 'who do the buying.' (it printed '...married women who buy / who do the buying.'); now mirrors #4078 (050/051 reports)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4198",
+  "en": "I have business at the Public Hall."
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4230",
+  "en": "Public Hall useful to the townsfolk."
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4322",
+  "en": " It can't be helped.",
+  "why": "join msgs 169083/169193 (only uses): follows 'I see' + three #180 dots with no pause, printed 'I see...It can't'"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4410",
+  "en": " I suppose it can't be helped.",
+  "why": "join msgs 170274/170384 (only uses): follows 'I see' + three #180 dots with no pause, printed 'I see...I suppose'"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4434",
+  "en": "the night is dangerous, you know.",
+  "why": "join msgs 172861/173542 (only uses): follows '{NAME},' on the line before, so lower case like the other vocative continuations"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4607",
+  "variants": [
+   {
+    "msg": 180867,
+    "en": "My new lord... "
+   }
+  ],
+  "why": "join msg 180867: base #634 follows directly and printed 'My new lord...I await'; msg 180838 is already handled by #634's own variant (007 report)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4665",
+  "variants": [
+   {
+    "msg": 181644,
+    "en": "..."
+   }
+  ],
+  "why": "msg 181644: the done variant '..' expected #25 '.' to follow, but the auto variant now blanks #25 there, so the line printed '..'"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5065",
+  "variants": [
+   {
+    "msg": 202264,
+    "en": "please come again!"
+   }
+  ],
+  "why": "msg 202264: follows '{NAME},' on the line before; base stays capitalised for msg 201658 where it stands alone"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5121",
+  "en": "what are you doing here at this hour?",
+  "why": "msg 202610 (only use): follows 'Oh, {NAME},' on the line before"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5136",
+  "variants": [
+   {
+    "msg": 247529,
+    "en": "You see,"
+   }
+  ],
+  "why": "msg 247529 is the second copy of Lily's 246806 and printed 'I, / I'm waiting for someone'; same variant as 246806 (077 report)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5504",
+  "variants": [
+   {
+    "msg": 255579,
+    "en": "Oh"
+   }
+  ],
+  "why": "msg 255579: #2 '...' follows directly, printed 'Oh, ...' (079 report)"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5520",
+  "variants": [
+   {
+    "msg": 247287,
+    "en": " I'm sorry."
+   }
+  ],
+  "why": "msg 247287: follows 'Hello, ...' with no space, printed '...I'm sorry.' (077 report); works with or without a later #2460 'Hello' variant"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#6897",
+  "en": "could you be feeling unwell",
+  "why": "msg 284076 (only use): follows '{NAME},' on the line before"
+ }
+]

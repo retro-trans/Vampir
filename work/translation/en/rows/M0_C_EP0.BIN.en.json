@@ -1,0 +1,1202 @@
+[
+ {
+  "id": "EP0.BIN@900",
+  "off": 2304,
+  "size": 18,
+  "slot": 18,
+  "refs": [
+   [
+    "ptr",
+    2148372216
+   ]
+  ],
+  "idx": 0,
+  "en": "Such power is surging through me",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@8FC",
+  "off": 2300,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148372220
+   ]
+  ],
+  "idx": 1,
+  "en": ".",
+  "note": "Shared: printed three times with pauses after @900 to give '...'.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@8D8",
+  "off": 2264,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148372224
+   ]
+  ],
+  "idx": 2,
+  "en": "With this, I may be able to defeat the enemy.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@8D0",
+  "off": 2256,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148372228
+   ]
+  ],
+  "idx": 3,
+  "en": "Whelp",
+  "note": "Duran. Followed by shared @8C4 '...'.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@8C4",
+  "off": 2244,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148372232
+   ]
+  ],
+  "idx": 4,
+  "en": "...",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@89C",
+  "off": 2204,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372236
+   ]
+  ],
+  "idx": 5,
+  "en": "You think you can finish me off? Laughable.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@870",
+  "off": 2160,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148372240
+   ]
+  ],
+  "idx": 6,
+  "en": "To regain my lost power, I've been slaking",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@850",
+  "off": 2128,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148372244
+   ]
+  ],
+  "idx": 7,
+  "en": "my thirst for blood on humans here, but",
+  "note": "Followed by @8C4 '...'.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@828",
+  "off": 2088,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372248
+   ]
+  ],
+  "idx": 8,
+  "en": "In any case, I never meant to linger",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@818",
+  "off": 2072,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148372252
+   ]
+  ],
+  "idx": 9,
+  "en": "in this backwater forever",
+  "note": "Followed by @8C4 '...'.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@7F0",
+  "off": 2032,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372256
+   ]
+  ],
+  "idx": 10,
+  "en": "My purpose is to bring pain and",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@7DC",
+  "off": 2012,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148372260
+   ]
+  ],
+  "idx": 11,
+  "en": "terror to as many humans as possible.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@7B4",
+  "off": 1972,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372264
+   ]
+  ],
+  "idx": 12,
+  "en": "At last, the preparations are in place...",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@78C",
+  "off": 1932,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372268
+   ]
+  ],
+  "idx": 13,
+  "en": "We had him cornered, just one step away!",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@774",
+  "off": 1908,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148372272
+   ]
+  ],
+  "idx": 14,
+  "en": ", my lord, shall we go after him?",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@750",
+  "off": 1872,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148372276
+   ]
+  ],
+  "idx": 15,
+  "en": "No, let's head back to the castle for now",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@744",
+  "off": 1860,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148372280
+   ]
+  ],
+  "idx": 16,
+  "en": "and report to Ragash.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@71C",
+  "off": 1820,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372284
+   ]
+  ],
+  "idx": 17,
+  "en": "It's galling, but he still seems to have",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@710",
+  "off": 1808,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148372288
+   ]
+  ],
+  "idx": 18,
+  "en": "plenty of strength in reserve",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@6F8",
+  "off": 1784,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148372292
+   ]
+  ],
+  "idx": 19,
+  "en": ", I'm glad you made it back safely.",
+  "note": "Ragash; preceded by the player-name opcode.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@6D4",
+  "off": 1748,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148372296
+   ]
+  ],
+  "idx": 20,
+  "en": "I'm sorry. I let the enemy get away.",
+  "note": "Christopher; subject 'I' restored.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@6B8",
+  "off": 1720,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148372300
+   ]
+  ],
+  "idx": 21,
+  "en": "No, it was your first time in the human world.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@69C",
+  "off": 1692,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148372304
+   ]
+  ],
+  "idx": 22,
+  "en": "Much of it must have confused you",
+  "note": "Followed by @8C4 '...'.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@670",
+  "off": 1648,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148372308
+   ]
+  ],
+  "idx": 23,
+  "en": "You fought quite admirably, I must say.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@648",
+  "off": 1608,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372312
+   ]
+  ],
+  "idx": 24,
+  "en": "Actually, while you held off the enemy,",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@63C",
+  "off": 1596,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148372316
+   ]
+  ],
+  "idx": 25,
+  "en": "Rusalie found out where ",
+  "note": "Followed by the partner-name opcode (Duran), then @638, then a newline.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@638",
+  "off": 1592,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "ptr",
+    2148372320
+   ]
+  ],
+  "idx": 26,
+  "en": "",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@618",
+  "off": 1560,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148372324
+   ]
+  ],
+  "idx": 27,
+  "en": "was headed.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@5F0",
+  "off": 1520,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372328
+   ]
+  ],
+  "idx": 28,
+  "en": "It seems his final destination is",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@5DC",
+  "off": 1500,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148372332
+   ]
+  ],
+  "idx": 29,
+  "en": "London, in England.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@5B4",
+  "off": 1460,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372336
+   ]
+  ],
+  "idx": 30,
+  "en": "London is now the seat of a great empire",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@5A8",
+  "off": 1448,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148372340
+   ]
+  ],
+  "idx": 31,
+  "en": "where the whole world's wealth gathers.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@580",
+  "off": 1408,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372344
+   ]
+  ],
+  "idx": 32,
+  "en": "He must have some scheme in mind.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@568",
+  "off": 1384,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148372348
+   ]
+  ],
+  "idx": 33,
+  "en": "To get from Medoekia",
+  "note": "Script waits for a button after this row, then appends @550 on the same line. Speaker not settled (Ragash or Christopher); English needs no speaker.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@550",
+  "off": 1360,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148372352
+   ]
+  ],
+  "idx": 34,
+  "en": " to London,",
+  "note": "Leading space: appended to @568 on the same line.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@530",
+  "off": 1328,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148372356
+   ]
+  ],
+  "idx": 35,
+  "en": "he must board a ship somewhere.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@51C",
+  "off": 1308,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148372360
+   ]
+  ],
+  "idx": 36,
+  "en": "Britain is an island nation.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@4F4",
+  "off": 1268,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372364
+   ]
+  ],
+  "idx": 37,
+  "en": "That's the only way to transport a coffin.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@4D0",
+  "off": 1232,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148372368
+   ]
+  ],
+  "idx": 38,
+  "en": "I checked the ships' cargo registers",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@4C0",
+  "off": 1216,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148372372
+   ]
+  ],
+  "idx": 39,
+  "en": "and found out where it was headed.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@4A4",
+  "off": 1188,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148372376
+   ]
+  ],
+  "idx": 40,
+  "en": "That carriage is bound for...",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@48C",
+  "off": 1164,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148372380
+   ]
+  ],
+  "idx": 41,
+  "en": "the port town of Calstatt",
+  "note": "Followed by @8C4 '...'.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@464",
+  "off": 1124,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372384
+   ]
+  ],
+  "idx": 42,
+  "en": "You dare defy me? Laughable.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@43C",
+  "off": 1084,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372388
+   ]
+  ],
+  "idx": 43,
+  "en": "Yes... there is one thing I have remembered",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@434",
+  "off": 1076,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148372392
+   ]
+  ],
+  "idx": 44,
+  "en": "here in this land.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@410",
+  "off": 1040,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148372396
+   ]
+  ],
+  "idx": 45,
+  "en": "My purpose is... revenge.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@3E4",
+  "off": 996,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148372400
+   ]
+  ],
+  "idx": 46,
+  "en": "To bring pain and terror to more humans,",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@3C0",
+  "off": 960,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148372404
+   ]
+  ],
+  "idx": 47,
+  "en": "I cannot remain in this backwater",
+  "note": "@3A4 is appended on the same line.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@3A4",
+  "off": 932,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148372408
+   ]
+  ],
+  "idx": 48,
+  "en": " forever...",
+  "note": "Leading space: appended to @3C0.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@39C",
+  "off": 924,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148372412
+   ]
+  ],
+  "idx": 49,
+  "en": ", my lord,",
+  "note": "Preceded by the player-name opcode (Duran in this scene): '{PLAYER_NAME}, my lord,' then newline. Servant unidentified (likely Orgo).",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@37C",
+  "off": 892,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148372416
+   ]
+  ],
+  "idx": 50,
+  "en": "the carriage is ready...",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@364",
+  "off": 868,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148372420
+   ]
+  ],
+  "idx": 51,
+  "en": "Very well. I shall come at once.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@340",
+  "off": 832,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148372424
+   ]
+  ],
+  "idx": 52,
+  "en": "I have no time to waste Critical Vitality",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@318",
+  "off": 792,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372428
+   ]
+  ],
+  "idx": 53,
+  "en": "on the likes of you in a place like this.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@2F0",
+  "off": 752,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372432
+   ]
+  ],
+  "idx": 54,
+  "en": "The British Empire... To reach London,",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@2D4",
+  "off": 724,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148372436
+   ]
+  ],
+  "idx": 55,
+  "en": "I must go by sea.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@2AC",
+  "off": 684,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372440
+   ]
+  ],
+  "idx": 56,
+  "en": "...The Diary of Jonathan Harker...",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@2A0",
+  "off": 672,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148372444
+   ]
+  ],
+  "idx": 57,
+  "en": "<Read>",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@290",
+  "off": 656,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148372448
+   ]
+  ],
+  "idx": 58,
+  "en": "<Don't read>",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@27C",
+  "off": 636,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148372452
+   ]
+  ],
+  "idx": 59,
+  "en": "<November 12>",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@24C",
+  "off": 588,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148372456
+   ]
+  ],
+  "idx": 60,
+  "en": "The Count had vanished without a trace, and the",
+  "note": "Diary page (264 px); each row kept to one page line.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@244",
+  "off": 580,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148372460
+   ]
+  ],
+  "idx": 61,
+  "en": "tower stood utterly empty.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@214",
+  "off": 532,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148372464
+   ]
+  ],
+  "idx": 62,
+  "en": "Tracking the Count these past few days, I have",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@200",
+  "off": 512,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148372468
+   ]
+  ],
+  "idx": 63,
+  "en": "noticed one thing.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@1E0",
+  "off": 480,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148372472
+   ]
+  ],
+  "idx": 64,
+  "en": "It is this: there is not just",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@1C8",
+  "off": 456,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148372476
+   ]
+  ],
+  "idx": 65,
+  "en": "one vampire.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@1AC",
+  "off": 428,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148372480
+   ]
+  ],
+  "idx": 66,
+  "en": "Vampires other than the Count",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@194",
+  "off": 404,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148372484
+   ]
+  ],
+  "idx": 67,
+  "en": "do exist...",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@164",
+  "off": 356,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148372488
+   ]
+  ],
+  "idx": 68,
+  "en": "That Count Valaur is bound for London",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@14C",
+  "off": 332,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148372492
+   ]
+  ],
+  "idx": 69,
+  "en": "is all but certain.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@11C",
+  "off": 284,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148372496
+   ]
+  ],
+  "idx": 70,
+  "en": "In London live Miss Rose, my intended,",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@F8",
+  "off": 248,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148372500
+   ]
+  ],
+  "idx": 71,
+  "en": "and many other acquaintances of mine.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@EC",
+  "off": 236,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148372504
+   ]
+  ],
+  "idx": 72,
+  "en": "I cannot meekly stand by",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@C0",
+  "off": 192,
+  "size": 42,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148372508
+   ]
+  ],
+  "idx": 73,
+  "en": "and let them fall prey to a vampire.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@90",
+  "off": 144,
+  "size": 44,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148372512
+   ]
+  ],
+  "idx": 74,
+  "en": "To stop the Count entering the country, I wrote",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@64",
+  "off": 100,
+  "size": 42,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148372516
+   ]
+  ],
+  "idx": 75,
+  "en": "to my old mentor, Professor Van Helsing, and to",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@58",
+  "off": 88,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148372520
+   ]
+  ],
+  "idx": 76,
+  "en": "my university friends, asking for their help.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@30",
+  "off": 48,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148372524
+   ]
+  ],
+  "idx": 77,
+  "en": "He is an expert on the mind and the occult.",
+  "done": true
+ },
+ {
+  "id": "EP0.BIN@4",
+  "off": 4,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148372528
+   ]
+  ],
+  "idx": 78,
+  "en": "He is sure to have a good countermeasure.",
+  "done": true
+ }
+]

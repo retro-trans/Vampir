@@ -1,0 +1,337 @@
+[
+ {
+  "id": "M2#8160",
+  "en": "Looking closer, you have a face so expressive"
+ },
+ {
+  "id": "M2#8161",
+  "en": "I'd like to use you as a model."
+ },
+ {
+  "id": "M2#8162",
+  "en": "As long as you don't disturb my painting,",
+  "note": "Matches #8123 (slice 101)."
+ },
+ {
+  "id": "M2#8163",
+  "en": "feel free to come and go.",
+  "note": "Matches #8124 (slice 101)."
+ },
+ {
+  "id": "M2#8164",
+  "en": "You'd better leave before I call the police."
+ },
+ {
+  "id": "M2#8165",
+  "en": "Say, would you really be willing to model"
+ },
+ {
+  "id": "M2#8166",
+  "en": "for my paintings?"
+ },
+ {
+  "id": "M2#8167",
+  "en": "<Maybe I'll give it a try>",
+  "note": "Answer choice to msg 317038; no used_in."
+ },
+ {
+  "id": "M2#8168",
+  "en": "<I'll have to decline>",
+  "note": "Answer choice to msg 317038; no used_in."
+ },
+ {
+  "id": "M2#8169",
+  "en": "Oh, please do!",
+  "note": "Yes branch after #8167; no used_in."
+ },
+ {
+  "id": "M2#8170",
+  "en": "I can't pay a big modeling fee, but"
+ },
+ {
+  "id": "M2#8171",
+  "en": "I'll paint a fine picture, you'll see."
+ },
+ {
+  "id": "M2#8172",
+  "en": "I see... What a shame.",
+  "note": "No branch (#8168)."
+ },
+ {
+  "id": "M2#8173",
+  "en": "Your orders?",
+  "note": "After '{NAME}, my master. ' (#854 variant)."
+ },
+ {
+  "id": "M2#8174",
+  "en": "For you, I would do anything."
+ },
+ {
+  "id": "M2#8175",
+  "en": "Lately, I can't keep my mind on my work..."
+ },
+ {
+  "id": "M2#8176",
+  "en": "I almost feel I'm the one who needs nursing..."
+ },
+ {
+  "id": "M2#8177",
+  "en": "Give me your orders...",
+  "note": "Follows '{NAME}, my master...' (#0) on a new line."
+ },
+ {
+  "id": "M2#8178",
+  "en": "How strange..."
+ },
+ {
+  "id": "M2#8179",
+  "en": "Lately, every now and then,"
+ },
+ {
+  "id": "M2#8180",
+  "en": "I find I've forgotten all about him..."
+ },
+ {
+  "id": "M2#8181",
+  "en": "It's a lovely morning, isn't it?"
+ },
+ {
+  "id": "M2#8182",
+  "en": "How is your work going?"
+ },
+ {
+  "id": "M2#8183",
+  "en": "I hope you get good results."
+ },
+ {
+  "id": "M2#8184",
+  "en": "Um... you must be tired after a long day."
+ },
+ {
+  "id": "M2#8185",
+  "en": "How was your day?"
+ },
+ {
+  "id": "M2#8186",
+  "en": "Knowing I'll get to have dinner with Darrell"
+ },
+ {
+  "id": "M2#8187",
+  "en": "again tonight makes me all giddy."
+ },
+ {
+  "id": "M2#8188",
+  "en": "Though it's only natural, since we're married."
+ },
+ {
+  "id": "M2#8189",
+  "en": "Yes? Who might you be?"
+ },
+ {
+  "id": "M2#8190",
+  "en": "I'm Samantha."
+ },
+ {
+  "id": "M2#8191",
+  "en": "Um, are you an acquaintance of Darrell's..."
+ },
+ {
+  "id": "M2#8192",
+  "en": "my husband's?",
+  "note": "Shared with #8237; both end 'of Darrell's...'."
+ },
+ {
+  "id": "M2#8193",
+  "en": "No, I have only just arrived here, so"
+ },
+ {
+  "id": "M2#8194",
+  "en": "I thought I would pay my respects."
+ },
+ {
+  "id": "M2#8195",
+  "en": "Oh, I see. How kind of you."
+ },
+ {
+  "id": "M2#8196",
+  "en": "I work as a nurse at the hospital,"
+ },
+ {
+  "id": "M2#8197",
+  "en": "so if anything happens, please come by."
+ },
+ {
+  "id": "M2#8198",
+  "en": "Now, if you'll excuse me.",
+  "note": "Spoken by Samantha (320384/320813) and by the player (332584, 385853)."
+ },
+ {
+  "id": "M2#8199",
+  "en": "We've only just gotten married."
+ },
+ {
+  "id": "M2#8200",
+  "en": "So, um..."
+ },
+ {
+  "id": "M2#8201",
+  "en": "Heh, I see."
+ },
+ {
+  "id": "M2#8202",
+  "en": "It seems I have intruded."
+ },
+ {
+  "id": "M2#8203",
+  "en": "Do you really understand?"
+ },
+ {
+  "id": "M2#8204",
+  "en": "! Come in.",
+  "note": "After {NAME}."
+ },
+ {
+  "id": "M2#8205",
+  "en": "You're always welcome here."
+ },
+ {
+  "id": "M2#8206",
+  "en": "Why don't we have a meal together?"
+ },
+ {
+  "id": "M2#8207",
+  "en": "With Darrell too, of course."
+ },
+ {
+  "id": "M2#8208",
+  "en": "Yes? Um, are you feeling unwell?"
+ },
+ {
+  "id": "M2#8209",
+  "en": "No, nothing of the kind."
+ },
+ {
+  "id": "M2#8210",
+  "en": "I was nearby and thought to pay a brief call,"
+ },
+ {
+  "id": "M2#8211",
+  "en": "that is all.",
+  "note": "Shared by #8210 and #8218."
+ },
+ {
+  "id": "M2#8212",
+  "en": "I'm Samantha, the nurse."
+ },
+ {
+  "id": "M2#8213",
+  "en": "You should probably greet the doctor."
+ },
+ {
+  "id": "M2#8214",
+  "en": "When there are no patients, that is."
+ },
+ {
+  "id": "M2#8215",
+  "en": "Yes, ah, um... ",
+  "note": "Then {NAME} + #69 variant ','."
+ },
+ {
+  "id": "M2#8216",
+  "en": "wasn't it?",
+  "note": "Lowercase after '{NAME},' (slice 000 dependency 6)."
+ },
+ {
+  "id": "M2#8217",
+  "en": "Are you feeling unwell?"
+ },
+ {
+  "id": "M2#8218",
+  "en": "I was nearby and thought to look in briefly,"
+ },
+ {
+  "id": "M2#8219",
+  "en": "I see. This isn't really a place for healthy"
+ },
+ {
+  "id": "M2#8220",
+  "en": "people, so please don't stay long.",
+  "note": "Ends the sentence: next row #2656 is ''."
+ },
+ {
+  "id": "M2#8221",
+  "en": "Come to think of it, you do look rather pale."
+ },
+ {
+  "id": "M2#8222",
+  "en": "Would you like a checkup?"
+ },
+ {
+  "id": "M2#8223",
+  "en": "Are you feeling unwell today?"
+ },
+ {
+  "id": "M2#8224",
+  "en": "Or maybe you've come to lend us"
+ },
+ {
+  "id": "M2#8225",
+  "en": "a hand, perhaps?"
+ },
+ {
+  "id": "M2#8226",
+  "en": "You come by often, don't you?"
+ },
+ {
+  "id": "M2#8227",
+  "en": "Is there something here that you like?"
+ },
+ {
+  "id": "M2#8228",
+  "en": "Please do come to our house again."
+ },
+ {
+  "id": "M2#8229",
+  "en": "Being alone with Darrell is nice, but"
+ },
+ {
+  "id": "M2#8230",
+  "en": "talking with you would be fun too."
+ },
+ {
+  "id": "M2#8231",
+  "en": "I'm sure Darrell would like you too."
+ },
+ {
+  "id": "M2#8232",
+  "en": "I love my husband."
+ },
+ {
+  "id": "M2#8233",
+  "en": "But I have to share some of my love"
+ },
+ {
+  "id": "M2#8234",
+  "en": "with my patients too, you know."
+ },
+ {
+  "id": "M2#8235",
+  "en": "Ah, my love knows no bounds."
+ },
+ {
+  "id": "M2#8236",
+  "en": "Pleased to meet you, ma'am."
+ },
+ {
+  "id": "M2#8237",
+  "en": "Um, are you a friend of Darrell's..."
+ },
+ {
+  "id": "M2#8238",
+  "en": "No, I've only just come here, so"
+ },
+ {
+  "id": "M2#8239",
+  "en": "I thought I'd stop by to say hello."
+ }
+]

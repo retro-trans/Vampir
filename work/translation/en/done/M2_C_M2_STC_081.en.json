@@ -1,0 +1,327 @@
+[
+ {
+  "id": "M2#6480",
+  "en": "",
+  "note": "empty source row; kept empty"
+ },
+ {
+  "id": "M2#6481",
+  "en": "No, I just happened to see you, so I"
+ },
+ {
+  "id": "M2#6482",
+  "en": "thought I'd say hello"
+ },
+ {
+  "id": "M2#6483",
+  "en": "..."
+ },
+ {
+  "id": "M2#6484",
+  "en": "Cleaning takes more muscle than you'd think."
+ },
+ {
+  "id": "M2#6485",
+  "en": "Folks like you get worn out in no time."
+ },
+ {
+  "id": "M2#6486",
+  "en": "What, back again?"
+ },
+ {
+  "id": "M2#6487",
+  "en": "You're an odd one."
+ },
+ {
+  "id": "M2#6488",
+  "en": "Is there something you need from me?"
+ },
+ {
+  "id": "M2#6489",
+  "en": "<Do you follow current affairs?>",
+  "note": "choice -> msg 259914"
+ },
+ {
+  "id": "M2#6490",
+  "en": "<Please show me how to clean>",
+  "note": "choice -> msg 259926"
+ },
+ {
+  "id": "M2#6491",
+  "en": "Huh? I couldn't care less about that."
+ },
+ {
+  "id": "M2#6492",
+  "en": "All I want to know is tomorrow's weather."
+ },
+ {
+  "id": "M2#6493",
+  "en": "Ha ha ha, then you asked the right person."
+ },
+ {
+  "id": "M2#6494",
+  "en": "Put your heart into it. That goes for anything."
+ },
+ {
+  "id": "M2#6495",
+  "en": "Not that I'm old enough for that, really."
+ },
+ {
+  "id": "M2#6496",
+  "en": "I'm sorry. I've only just moved here,"
+ },
+ {
+  "id": "M2#6497",
+  "en": "so I thought I'd come and say hello"
+ },
+ {
+  "id": "M2#6498",
+  "en": "I may not look it, but I'm busy, you know."
+ },
+ {
+  "id": "M2#6499",
+  "en": "You get an awfully troubled look sometimes."
+ },
+ {
+  "id": "M2#6500",
+  "en": "Sigh... You're a worry, lad."
+ },
+ {
+  "id": "M2#6501",
+  "en": "Did you leave your family to come to London?"
+ },
+ {
+  "id": "M2#6502",
+  "en": "I know how lonely that can feel."
+ },
+ {
+  "id": "M2#6503",
+  "en": "But it's the path you chose, so hang in there."
+ },
+ {
+  "id": "M2#6504",
+  "en": "Ah, Master..."
+ },
+ {
+  "id": "M2#6505",
+  "en": "I'll gladly work for your sake, Master..."
+ },
+ {
+  "id": "M2#6506",
+  "en": "Ugh, everything just gets on my nerves."
+ },
+ {
+  "id": "M2#6507",
+  "en": "My body aches, I'm worn out, the pay's low..."
+ },
+ {
+  "id": "M2#6508",
+  "en": "Whatever you wish, just say the word..."
+ },
+ {
+  "id": "M2#6509",
+  "en": "Lately I'm worn out even after sleeping."
+ },
+ {
+  "id": "M2#6510",
+  "en": "Huh? What's with you?"
+ },
+ {
+  "id": "M2#6511",
+  "en": "Who are you? Don't get so familiar with me."
+ },
+ {
+  "id": "M2#6512",
+  "en": "Pardon me, my lady."
+ },
+ {
+  "id": "M2#6513",
+  "en": "A lady? Where d'you see a lady?"
+ },
+ {
+  "id": "M2#6514",
+  "en": "I'm just a lowly maid."
+ },
+ {
+  "id": "M2#6515",
+  "en": "The name's Claudia."
+ },
+ {
+  "id": "M2#6516",
+  "en": "By rights I'd want no part of this rotten job,"
+ },
+ {
+  "id": "M2#6517",
+  "en": "but I do the laundry at that noble's house."
+ },
+ {
+  "id": "M2#6518",
+  "en": "It's hard, the pay's poor, it's no good at all."
+ },
+ {
+  "id": "M2#6519",
+  "en": "(Hmph... a noisy woman."
+ },
+ {
+  "id": "M2#6520",
+  "en": "But she looks sturdy. She'd do as a servant.)"
+ },
+ {
+  "id": "M2#6521",
+  "en": "Ah, busy, busy"
+ },
+ {
+  "id": "M2#6522",
+  "en": " grumble, grumble",
+  "note": "follows #152 '...'; leading space so it reads 'busy, busy... grumble, grumble...'"
+ },
+ {
+  "id": "M2#6523",
+  "en": "Well, well, it's you! Mornin'."
+ },
+ {
+  "id": "M2#6524",
+  "en": "Lucky you. You look like you've nothing to do."
+ },
+ {
+  "id": "M2#6525",
+  "en": "Ugh, just thinking about work gets me down."
+ },
+ {
+  "id": "M2#6526",
+  "en": "Hey, you!"
+ },
+ {
+  "id": "M2#6527",
+  "en": "It's me, see? Claudia the laundress."
+ },
+ {
+  "id": "M2#6528",
+  "en": "Up close, you're quite a handsome man..."
+ },
+ {
+  "id": "M2#6529",
+  "en": "I had a sweetheart like you once, too."
+ },
+ {
+  "id": "M2#6530",
+  "en": "I was a beauty no man could leave alone."
+ },
+ {
+  "id": "M2#6531",
+  "en": "Good evening. Excuse me a moment."
+ },
+ {
+  "id": "M2#6532",
+  "en": "What? I'm dead tired already."
+ },
+ {
+  "id": "M2#6533",
+  "en": "If it's a stupid question, ask someone else."
+ },
+ {
+  "id": "M2#6534",
+  "en": "I'm new to London and hoped to ask the way."
+ },
+ {
+  "id": "M2#6535",
+  "en": "Would you tell me, my lady...?"
+ },
+ {
+  "id": "M2#6536",
+  "en": "Claudia."
+ },
+ {
+  "id": "M2#6537",
+  "en": "Calling me 'lady'? Spare me the cheap flattery."
+ },
+ {
+  "id": "M2#6538",
+  "en": "Want directions? See that big clock tower,"
+ },
+ {
+  "id": "M2#6539",
+  "en": "Big Ben? Walk straight on until you reach it,"
+ },
+ {
+  "id": "M2#6540",
+  "en": "and then ask someone else who's there."
+ },
+ {
+  "id": "M2#6541",
+  "en": "It's no use asking me anything."
+ },
+ {
+  "id": "M2#6542",
+  "en": "Oh, it's you. We've met before."
+ },
+ {
+  "id": "M2#6543",
+  "en": "Sigh... Must be nice, being so carefree."
+ },
+ {
+  "id": "M2#6544",
+  "en": "Just wandering about with nothing to do."
+ },
+ {
+  "id": "M2#6545",
+  "en": "Hey, you,"
+ },
+ {
+  "id": "M2#6546",
+  "en": ", wasn't it?"
+ },
+ {
+  "id": "M2#6547",
+  "en": "Are you keeping well?"
+ },
+ {
+  "id": "M2#6548",
+  "en": "And how is your work going?"
+ },
+ {
+  "id": "M2#6549",
+  "en": "Oh, just listen to this"
+ },
+ {
+  "id": "M2#6550",
+  "en": "My master gets his shirts dirty in no time,"
+ },
+ {
+  "id": "M2#6551",
+  "en": "drops his clothes wherever he takes them off,"
+ },
+ {
+  "id": "M2#6552",
+  "en": "and puts his socks on inside out,"
+ },
+ {
+  "id": "M2#6553",
+  "en": "Honestly, I'm not his nursemaid, you know."
+ },
+ {
+  "id": "M2#6554",
+  "en": "I work this hard and the pay's still poor,"
+ },
+ {
+  "id": "M2#6555",
+  "en": "and they make me do more than washing"
+ },
+ {
+  "id": "M2#6556",
+  "en": "Glad to see you're well. Good day to you.",
+  "note": "player line (stern) though used_in labels it Claudia; she protests in msg 263148"
+ },
+ {
+  "id": "M2#6557",
+  "en": "Oh, h-hey, wait, I'm not finished"
+ },
+ {
+  "id": "M2#6558",
+  "en": "Some people! Listen when someone's talking to you"
+ },
+ {
+  "id": "M2#6559",
+  "en": "Ugh, how long will I be stuck in this job?"
+ }
+]

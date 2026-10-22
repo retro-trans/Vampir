@@ -1,0 +1,373 @@
+[
+ {
+  "id": "M1#320",
+  "en": "Since you keep coming to see me every day,"
+ },
+ {
+  "id": "M1#321",
+  "en": "I thought something was odd."
+ },
+ {
+  "id": "M1#322",
+  "en": "(That saves me the trouble of explaining.)",
+  "note": "PLAYER thought; ASCII parentheses"
+ },
+ {
+  "id": "M1#323",
+  "en": "You'll help me, then?"
+ },
+ {
+  "id": "M1#324",
+  "en": "Got it. If it's a stowaway passage, I can arrange that somehow"
+ },
+ {
+  "id": "M1#325",
+  "en": "Huh? That's not it?",
+  "note": "No used_in; referent inferred: Robert reacting to the PLAYER's request (probably the stowaway passage of #324)"
+ },
+ {
+  "id": "M1#326",
+  "en": "Whoa",
+  "note": "Shared interjection. Msgs 45945/46357/46198-type uses are followed by #2 '...' and then #1114/#1171, which must begin with a space.",
+  "variants": [
+   {
+    "msg": 161322,
+    "en": "Whoa! "
+   }
+  ]
+ },
+ {
+  "id": "M1#327",
+  "en": ", my master",
+  "note": "Name precedes (same as M0#1331, M1#633)."
+ },
+ {
+  "id": "M1#328",
+  "en": "I await your orders",
+  "note": "Subject restored (same as M0#3, M1#634). Dellwald/Wolf/Ludwig uses end with dots from other rows.",
+  "variants": [
+   {
+    "msg": 152201,
+    "en": "I await your orders,"
+   }
+  ]
+ },
+ {
+  "id": "M1#329",
+  "en": "Something about this just pisses me off.",
+  "note": "Ludwig, robotic/trance speech with #330"
+ },
+ {
+  "id": "M1#330",
+  "en": "So. At night. I. Hit. People.",
+  "note": "Katakana-only robotic delivery kept as clipped words"
+ },
+ {
+  "id": "M1#331",
+  "en": "The domination of humans is proceeding smoothly."
+ },
+ {
+  "id": "M1#332",
+  "en": "Hello."
+ },
+ {
+  "id": "M1#333",
+  "en": "Look, I've got no business with you.",
+  "note": "'so ...' trail not carried"
+ },
+ {
+  "id": "M1#334",
+  "en": "Your father asked me",
+  "note": "Pairs with M1#424 'to be your tutor' (msg 18114) and #335"
+ },
+ {
+  "id": "M1#335",
+  "en": "to be your tutor, but..."
+ },
+ {
+  "id": "M1#336",
+  "en": "Yeah, I heard about it."
+ },
+ {
+  "id": "M1#337",
+  "en": "But at this hour,"
+ },
+ {
+  "id": "M1#338",
+  "en": "no way I'm studying."
+ },
+ {
+  "id": "M1#339",
+  "en": "Sorry, but come back later."
+ },
+ {
+  "id": "M1#340",
+  "en": "It's a real pain, you showing up at this hour."
+ },
+ {
+  "id": "M1#341",
+  "en": "You don't have to come at this hour."
+ },
+ {
+  "id": "M1#342",
+  "en": "You're a tutor, after all."
+ },
+ {
+  "id": "M1#343",
+  "en": "Come during the day."
+ },
+ {
+  "id": "M1#344",
+  "en": "Teach me more, about all kinds of things!",
+  "note": "After name + #184 '!'"
+ },
+ {
+  "id": "M1#345",
+  "en": "I'm definitely gonna rule this world!"
+ },
+ {
+  "id": "M1#346",
+  "en": ", you cheer me on, too."
+ },
+ {
+  "id": "M1#347",
+  "en": "What do you want?",
+  "note": "Shared with Harry (msg 111394)"
+ },
+ {
+  "id": "M1#348",
+  "en": "If you wanna talk to my old man, go to City Hall."
+ },
+ {
+  "id": "M1#349",
+  "en": "So it's you. The new tutor."
+ },
+ {
+  "id": "M1#350",
+  "en": "Just so you know,",
+  "note": "Mirrors M1#441 'Just so you know,'; 'I' moved into #351"
+ },
+ {
+  "id": "M1#351",
+  "en": "I have no intention of studying at all.",
+  "note": "Full sentence so it follows both #350 and #441"
+ },
+ {
+  "id": "M1#352",
+  "en": "I have no intention of teaching you anything, either."
+ },
+ {
+  "id": "M1#353",
+  "en": "So what are you gonna do?"
+ },
+ {
+  "id": "M1#354",
+  "en": "If I tell my old man what you just said,"
+ },
+ {
+  "id": "M1#355",
+  "en": "you'll be fired on the spot."
+ },
+ {
+  "id": "M1#356",
+  "en": "I was only given the job because of how the talk went."
+ },
+ {
+  "id": "M1#357",
+  "en": "I don't intend to keep doing this work."
+ },
+ {
+  "id": "M1#358",
+  "en": "Well, well."
+ },
+ {
+  "id": "M1#359",
+  "en": "Now this is interesting."
+ },
+ {
+  "id": "M1#360",
+  "en": "I'll tell my old man I'm"
+ },
+ {
+  "id": "M1#361",
+  "en": "getting taught properly."
+ },
+ {
+  "id": "M1#362",
+  "en": "Just drop by my place once in a while."
+ },
+ {
+  "id": "M1#363",
+  "en": "Slack off just enough not to get fired."
+ },
+ {
+  "id": "M1#364",
+  "en": "I've got no business with you!"
+ },
+ {
+  "id": "M1#365",
+  "en": "If you wanna talk to my old man, go to City Hall!"
+ },
+ {
+  "id": "M1#366",
+  "en": "I never expected you to be the new tutor."
+ },
+ {
+  "id": "M1#367",
+  "en": "Slack off just enough not to get fired,"
+ },
+ {
+  "id": "M1#368",
+  "en": "and just drop by my place."
+ },
+ {
+  "id": "M1#369",
+  "en": "Damn, every day is so boring."
+ },
+ {
+  "id": "M1#370",
+  "en": "I get nothing out of school anyway."
+ },
+ {
+  "id": "M1#371",
+  "en": "Isn't there anything fun to do?"
+ },
+ {
+  "id": "M1#372",
+  "en": "Hey, are you listening?!"
+ },
+ {
+  "id": "M1#373",
+  "en": ", man.",
+  "note": "Tag after the name; also works when a line break follows (msg 18675)"
+ },
+ {
+  "id": "M1#374",
+  "en": "Yeah.",
+  "note": "Shared affirmation",
+  "variants": [
+   {
+    "msg": 92012,
+    "en": "Yes."
+   },
+   {
+    "msg": 119708,
+    "en": "Yeah. "
+   },
+   {
+    "msg": 120187,
+    "en": "Yeah. "
+   }
+  ]
+ },
+ {
+  "id": "M1#375",
+  "en": "Why are you in Calstatt, anyway?",
+  "note": "No used_in; speaker/order of #375-#387 inferred (Ludwig asks, PLAYER answers #377)"
+ },
+ {
+  "id": "M1#376",
+  "en": "You don't seem to have any other job, either."
+ },
+ {
+  "id": "M1#377",
+  "en": "I'm on my way to London.",
+  "note": "PLAYER"
+ },
+ {
+  "id": "M1#378",
+  "en": "Really?"
+ },
+ {
+  "id": "M1#379",
+  "en": "You're going to London!"
+ },
+ {
+  "id": "M1#380",
+  "en": "Lucky you."
+ },
+ {
+  "id": "M1#381",
+  "en": "I tried to go once myself."
+ },
+ {
+  "id": "M1#382",
+  "en": "I hid in a barrel in the harbor warehouse."
+ },
+ {
+  "id": "M1#383",
+  "en": "The one in front of the London-bound ship."
+ },
+ {
+  "id": "M1#384",
+  "en": "So, when I figured I'd been loaded onto the ship,"
+ },
+ {
+  "id": "M1#385",
+  "en": "I climbed out."
+ },
+ {
+  "id": "M1#386",
+  "en": "And what do you know? I wasn't on a ship,"
+ },
+ {
+  "id": "M1#387",
+  "en": "I was at the Calstatt market!"
+ },
+ {
+  "id": "M1#388",
+  "en": "Oops, time's almost up. You can go now."
+ },
+ {
+  "id": "M1#389",
+  "en": "Isn't there, like, anything fun to do?!"
+ },
+ {
+  "id": "M1#390",
+  "en": "I'm already sick of kid stuff."
+ },
+ {
+  "id": "M1#391",
+  "en": "Something that'd give me a real thrill,"
+ },
+ {
+  "id": "M1#392",
+  "en": "that's what I'm looking for."
+ },
+ {
+  "id": "M1#393",
+  "en": "Hey, you're my tutor, right?!",
+  "note": "No used_in; #393-#395 Ludwig, #396-#397 PLAYER, #398-#399 Ludwig"
+ },
+ {
+  "id": "M1#394",
+  "en": "Why don't you teach me something once in a while!"
+ },
+ {
+  "id": "M1#395",
+  "en": "Isn't there anything thrilling and fun?!"
+ },
+ {
+  "id": "M1#396",
+  "en": "People..."
+ },
+ {
+  "id": "M1#397",
+  "en": "Ruling humans is said to be fun, you know."
+ },
+ {
+  "id": "M1#398",
+  "en": "Sure, it sounds like fun. But"
+ },
+ {
+  "id": "M1#399",
+  "en": "there's no way anyone could do that!",
+  "note": "Lowercase for the continuation of #398; msg 17810 opens with it",
+  "variants": [
+   {
+    "msg": 17810,
+    "en": "There's no way anyone could do that!"
+   }
+  ]
+ }
+]

@@ -1,0 +1,4270 @@
+[
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#77",
+  "variants": [
+   {
+    "ref": 5004,
+    "en": " Me too..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#77",
+  "variants": [
+   {
+    "ref": 5629,
+    "en": " Me too..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#280",
+  "variants": [
+   {
+    "ref": 10018,
+    "en": " Whoa."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#907",
+  "variants": [
+   {
+    "ref": 41767,
+    "en": " Is that so?"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#966",
+  "variants": [
+   {
+    "ref": 42201,
+    "en": " Here you go."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#967",
+  "variants": [
+   {
+    "ref": 42206,
+    "en": " Left and right,"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#967",
+  "variants": [
+   {
+    "ref": 42211,
+    "en": " Left and right,"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#968",
+  "variants": [
+   {
+    "ref": 42216,
+    "en": " Nnnnngh..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#1592",
+  "variants": [
+   {
+    "ref": 74574,
+    "en": " I am a sick man."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#1636",
+  "variants": [
+   {
+    "ref": 75079,
+    "en": " It is because of your eyes."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2051",
+  "variants": [
+   {
+    "ref": 96379,
+    "en": " I am already your servant."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2243",
+  "variants": [
+   {
+    "ref": 107492,
+    "en": " Just kidding."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M0_C_M0.STC",
+  "id": "M0#2243",
+  "variants": [
+   {
+    "ref": 108158,
+    "en": " Just kidding."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#165",
+  "variants": [
+   {
+    "ref": 5973,
+    "en": " W-"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#315",
+  "variants": [
+   {
+    "ref": 14117,
+    "en": " Why are you here at this hour,"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 21145,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 21181,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 21235,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 21410,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 21437,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 21464,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 21483,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 21569,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 21683,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 21749,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 21853,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 21968,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 22143,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 22170,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 22197,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 22212,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 22231,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 22317,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 22427,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 22493,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 22597,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#730",
+  "variants": [
+   {
+    "ref": 26479,
+    "en": " I do."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 30296,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#857",
+  "variants": [
+   {
+    "ref": 33944,
+    "en": " so strong..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#857",
+  "variants": [
+   {
+    "ref": 34397,
+    "en": " so strong..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1046",
+  "variants": [
+   {
+    "ref": 42374,
+    "en": " No, "
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 45951,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 45989,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 46037,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 46084,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 46110,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 46157,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 46233,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 46481,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 46533,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 46588,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 46609,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 46643,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 50316,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 50379,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 50456,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 50482,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 50546,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 50599,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 50640,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 50655,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 51244,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 51307,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 51391,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 51417,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 51481,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 51534,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 51575,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 51590,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 51630,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 51650,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 51763,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1338",
+  "variants": [
+   {
+    "ref": 54282,
+    "en": " my steering skill,"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1338",
+  "variants": [
+   {
+    "ref": 54372,
+    "en": " my steering skill,"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1373",
+  "variants": [
+   {
+    "ref": 54631,
+    "en": " H-"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1373",
+  "variants": [
+   {
+    "ref": 54636,
+    "en": " H-"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1374",
+  "variants": [
+   {
+    "ref": 54641,
+    "en": " Help me!"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1338",
+  "variants": [
+   {
+    "ref": 55041,
+    "en": " my steering skill,"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1338",
+  "variants": [
+   {
+    "ref": 55131,
+    "en": " my steering skill,"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1782",
+  "variants": [
+   {
+    "ref": 70871,
+    "en": " What, no?"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1944",
+  "variants": [
+   {
+    "ref": 75775,
+    "en": " It's too delicious."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2051",
+  "variants": [
+   {
+    "ref": 79604,
+    "en": " Let me say this line"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2087",
+  "variants": [
+   {
+    "ref": 80274,
+    "en": " M-my..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2088",
+  "variants": [
+   {
+    "ref": 80279,
+    "en": " You called me "
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#314",
+  "variants": [
+   {
+    "ref": 80336,
+    "en": " W-"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2093",
+  "variants": [
+   {
+    "ref": 80341,
+    "en": " What?!"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2098",
+  "variants": [
+   {
+    "ref": 82542,
+    "en": " Hic."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2098",
+  "variants": [
+   {
+    "ref": 82576,
+    "en": " Hic."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 83248,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 84049,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2605",
+  "variants": [
+   {
+    "ref": 99799,
+    "en": " I mean, "
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2657",
+  "variants": [
+   {
+    "ref": 100264,
+    "en": " What brings you here at this hour?"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2707",
+  "variants": [
+   {
+    "ref": 103394,
+    "en": " I've been spotted"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 103420,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 107439,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 107831,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 111723,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2952",
+  "variants": [
+   {
+    "ref": 115660,
+    "en": " Who could he be?)"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#2952",
+  "variants": [
+   {
+    "ref": 116321,
+    "en": " Who could he be?)"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1260",
+  "variants": [
+   {
+    "ref": 116770,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 119824,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 123659,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 123731,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 124040,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 124482,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 124522,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 124540,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#3185",
+  "variants": [
+   {
+    "ref": 124566,
+    "en": " Huh? "
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#3283",
+  "variants": [
+   {
+    "ref": 129085,
+    "en": " Rosso."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1818",
+  "variants": [
+   {
+    "ref": 132156,
+    "en": " Well, all right."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 132221,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1818",
+  "variants": [
+   {
+    "ref": 132294,
+    "en": " Well, all right."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#3389",
+  "variants": [
+   {
+    "ref": 132788,
+    "en": " Make my son himself again!"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#3410",
+  "variants": [
+   {
+    "ref": 132917,
+    "en": " not content with my son,"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1818",
+  "variants": [
+   {
+    "ref": 133432,
+    "en": " Well, all right."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 133497,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1818",
+  "variants": [
+   {
+    "ref": 133573,
+    "en": " Well, all right."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#3728",
+  "variants": [
+   {
+    "ref": 142155,
+    "en": " now that it's come to this"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 144009,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 144049,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 144451,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 144529,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 144599,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 145278,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 145324,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1260",
+  "variants": [
+   {
+    "ref": 165581,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4296",
+  "variants": [
+   {
+    "ref": 169098,
+    "en": " My condolences."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4296",
+  "variants": [
+   {
+    "ref": 169208,
+    "en": " My condolences."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4296",
+  "variants": [
+   {
+    "ref": 170289,
+    "en": " My condolences."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4296",
+  "variants": [
+   {
+    "ref": 170399,
+    "en": " My condolences."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 173029,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 173226,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 173245,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 173906,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 173925,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 176774,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 176790,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 176841,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 176857,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 177947,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 181672,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 181686,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4770",
+  "variants": [
+   {
+    "ref": 185558,
+    "en": " Don't tell me..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1043",
+  "variants": [
+   {
+    "ref": 189449,
+    "en": "Hm, "
+   }
+  ],
+  "why": "auto: separate the player name"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1043",
+  "variants": [
+   {
+    "ref": 189547,
+    "en": "Hm, "
+   }
+  ],
+  "why": "auto: separate the player name"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4890",
+  "variants": [
+   {
+    "ref": 189988,
+    "en": " D-"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#4891",
+  "variants": [
+   {
+    "ref": 189993,
+    "en": " Dhampir!"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1043",
+  "variants": [
+   {
+    "ref": 190449,
+    "en": "Hm, "
+   }
+  ],
+  "why": "auto: separate the player name"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#1043",
+  "variants": [
+   {
+    "ref": 190547,
+    "en": "Hm, "
+   }
+  ],
+  "why": "auto: separate the player name"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 193439,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 193483,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 193544,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 193635,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 193696,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 193780,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 194155,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 194196,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 194257,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 194361,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 194421,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 194505,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 201536,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 201617,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 202089,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5099",
+  "variants": [
+   {
+    "ref": 202176,
+    "en": " Cheryl"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5100",
+  "variants": [
+   {
+    "ref": 202218,
+    "en": " It's delicious."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5101",
+  "variants": [
+   {
+    "ref": 202223,
+    "en": " This bread, I mean."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5120",
+  "variants": [
+   {
+    "ref": 202604,
+    "en": " Grandpa?"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5125",
+  "variants": [
+   {
+    "ref": 202639,
+    "en": " I came because I want you."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5127",
+  "variants": [
+   {
+    "ref": 202650,
+    "en": " Y-you "
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5136",
+  "variants": [
+   {
+    "ref": 202709,
+    "en": " I,"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5138",
+  "variants": [
+   {
+    "ref": 202720,
+    "en": " uh,"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5140",
+  "variants": [
+   {
+    "ref": 202731,
+    "en": " I have to bake it!"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 205553,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 205758,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 205815,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 205856,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 205918,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 205997,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 206041,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 206175,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 206380,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 206438,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 206479,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 206541,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 206620,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 206665,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 206800,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#414",
+  "variants": [
+   {
+    "ref": 213719,
+    "en": "! "
+   }
+  ],
+  "why": "auto: separate the player name"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#414",
+  "variants": [
+   {
+    "ref": 214340,
+    "en": "! "
+   }
+  ],
+  "why": "auto: separate the player name"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 217861,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 218240,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 218401,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 222213,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 222249,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#5589",
+  "variants": [
+   {
+    "ref": 222287,
+    "en": " Why, how rude"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 222647,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 222703,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 222806,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 222842,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 234519,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 234643,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 234697,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 234741,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 234755,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 235128,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 235262,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 238635,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 238647,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 238806,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 238890,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 239234,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 239296,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 239325,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 242530,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 242589,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 242920,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 242976,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 246377,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 246419,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 246467,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 246516,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 246560,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 246613,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 246650,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 246682,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 246731,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 246778,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 246883,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 247257,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 247301,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 247347,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 247366,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 247389,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 247595,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 247609,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 250494,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 250537,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 250663,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 250703,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 250722,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 250884,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 250924,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 250943,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 251038,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 251052,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 254745,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 254826,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 254840,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 254868,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 254911,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 254954,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 254973,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 254992,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255015,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255060,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255166,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255192,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255262,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255285,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255295,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255508,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255586,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255600,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255628,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255671,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255690,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255720,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255739,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255758,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255781,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255811,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255826,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255924,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 255947,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 256017,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 256040,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 256050,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 258711,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 258751,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 258967,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 259038,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 259079,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 259417,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 262927,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 262950,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 262978,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 263014,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 263029,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 263195,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 263307,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 263347,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 263392,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 263423,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 263434,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 263673,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 267205,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 267621,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 271298,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 271321,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 271373,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 271388,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 271412,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 271716,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 271730,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 271745,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 271760,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 275301,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 275509,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 283647,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 283773,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 284215,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 284330,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 284462,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M1_C_M1.STC",
+  "id": "M1#25",
+  "variants": [
+   {
+    "ref": 284518,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#341",
+  "variants": [
+   {
+    "ref": 9541,
+    "en": " No. 1!"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#543",
+  "variants": [
+   {
+    "ref": 17307,
+    "en": " Still, what a curious person you are."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#578",
+  "variants": [
+   {
+    "ref": 17572,
+    "en": " mystic rites,"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#579",
+  "variants": [
+   {
+    "ref": 17577,
+    "en": " legends of hidden treasure."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#625",
+  "variants": [
+   {
+    "ref": 17932,
+    "en": " So this is"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#626",
+  "variants": [
+   {
+    "ref": 17952,
+    "en": " the mys-"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#627",
+  "variants": [
+   {
+    "ref": 17957,
+    "en": " mystery"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#543",
+  "variants": [
+   {
+    "ref": 18227,
+    "en": " Still, what a curious person you are."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#578",
+  "variants": [
+   {
+    "ref": 18625,
+    "en": " mystic rites,"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#579",
+  "variants": [
+   {
+    "ref": 18630,
+    "en": " legends of hidden treasure."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#830",
+  "variants": [
+   {
+    "ref": 25808,
+    "en": " will be mine"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#987",
+  "variants": [
+   {
+    "ref": 30776,
+    "en": " I need power."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#989",
+  "variants": [
+   {
+    "ref": 30787,
+    "en": " Power"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#1278",
+  "variants": [
+   {
+    "ref": 42584,
+    "en": " You're..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#1335",
+  "variants": [
+   {
+    "ref": 46255,
+    "en": " what are you..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#1862",
+  "variants": [
+   {
+    "ref": 62942,
+    "en": " Bwahahaha!"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#1877",
+  "variants": [
+   {
+    "ref": 63291,
+    "en": " Ha ha ha ha."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#2008",
+  "variants": [
+   {
+    "ref": 66917,
+    "en": " what's..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#2009",
+  "variants": [
+   {
+    "ref": 66922,
+    "en": " happening"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#863",
+  "variants": [
+   {
+    "ref": 70795,
+    "en": ""
+   }
+  ],
+  "why": "auto: full stop after an ellipsis"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#2281",
+  "variants": [
+   {
+    "ref": 72458,
+    "en": " and that's how it is."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#2479",
+  "variants": [
+   {
+    "ref": 83229,
+    "en": " Hahahaha."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#2777",
+  "variants": [
+   {
+    "ref": 95979,
+    "en": " quiet..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#2789",
+  "variants": [
+   {
+    "ref": 99119,
+    "en": " Mumble..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#2890",
+  "variants": [
+   {
+    "ref": 99946,
+    "en": " Could it be"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3140",
+  "variants": [
+   {
+    "ref": 111737,
+    "en": " H-"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3140",
+  "variants": [
+   {
+    "ref": 111742,
+    "en": " H-"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3141",
+  "variants": [
+   {
+    "ref": 111747,
+    "en": " help me!"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3142",
+  "variants": [
+   {
+    "ref": 111758,
+    "en": " M-"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3142",
+  "variants": [
+   {
+    "ref": 111763,
+    "en": " M-"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#3143",
+  "variants": [
+   {
+    "ref": 111768,
+    "en": " me,"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#4427",
+  "variants": [
+   {
+    "ref": 173576,
+    "en": " my servant."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#4488",
+  "variants": [
+   {
+    "ref": 177234,
+    "en": " How very amusing!"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#4552",
+  "variants": [
+   {
+    "ref": 181690,
+    "en": " unforgivable"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#5288",
+  "variants": [
+   {
+    "ref": 214484,
+    "en": " Huh?"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#2339",
+  "variants": [
+   {
+    "ref": 218000,
+    "en": " Wh-"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#5337",
+  "variants": [
+   {
+    "ref": 218005,
+    "en": " who are you?"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#6325",
+  "variants": [
+   {
+    "ref": 255821,
+    "en": " How many more people..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#6680",
+  "variants": [
+   {
+    "ref": 267032,
+    "en": " I'm a wet nurse here."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#6681",
+  "variants": [
+   {
+    "ref": 267045,
+    "en": " If you've no business here, please leave."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#6680",
+  "variants": [
+   {
+    "ref": 267727,
+    "en": " I'm a wet nurse here."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#6681",
+  "variants": [
+   {
+    "ref": 267740,
+    "en": " If you've no business here, please leave."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7011",
+  "variants": [
+   {
+    "ref": 276516,
+    "en": " Another time."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7501",
+  "variants": [
+   {
+    "ref": 293011,
+    "en": " What do you mean?"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7505",
+  "variants": [
+   {
+    "ref": 293032,
+    "en": " if it's something I can do..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7507",
+  "variants": [
+   {
+    "ref": 293045,
+    "en": " calling at such an hour..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7517",
+  "variants": [
+   {
+    "ref": 295570,
+    "en": " I'm just so worn out."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7608",
+  "variants": [
+   {
+    "ref": 296598,
+    "en": " being a vampire is, in itself,"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7610",
+  "variants": [
+   {
+    "ref": 296607,
+    "en": " a punishment"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7611",
+  "variants": [
+   {
+    "ref": 296612,
+    "en": " upon me"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7618",
+  "variants": [
+   {
+    "ref": 299707,
+    "en": " dreams of wandering around outside."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7653",
+  "variants": [
+   {
+    "ref": 299946,
+    "en": " But you didn't have to add that!"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7682",
+  "variants": [
+   {
+    "ref": 300128,
+    "en": " everyone calls me"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7697",
+  "variants": [
+   {
+    "ref": 300235,
+    "en": " Is it Lady Mary you want?"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7653",
+  "variants": [
+   {
+    "ref": 300795,
+    "en": " But you didn't have to add that!"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7697",
+  "variants": [
+   {
+    "ref": 301108,
+    "en": " Is it Lady Mary you want?"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#7815",
+  "variants": [
+   {
+    "ref": 301398,
+    "en": " Sleeping so soundly"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#8049",
+  "variants": [
+   {
+    "ref": 312613,
+    "en": " You mustn't..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#1877",
+  "variants": [
+   {
+    "ref": 316599,
+    "en": " Ha ha ha ha."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#8372",
+  "variants": [
+   {
+    "ref": 325070,
+    "en": " Come over here."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#8375",
+  "variants": [
+   {
+    "ref": 325138,
+    "en": " excellent"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#8376",
+  "variants": [
+   {
+    "ref": 325146,
+    "en": " Another servant."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#8377",
+  "variants": [
+   {
+    "ref": 325157,
+    "en": " How weak and fragile humans are."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#8673",
+  "variants": [
+   {
+    "ref": 336693,
+    "en": " I'm fine now."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#8979",
+  "variants": [
+   {
+    "ref": 345680,
+    "en": " fools..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#9314",
+  "variants": [
+   {
+    "ref": 353802,
+    "en": " Wh-"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#9315",
+  "variants": [
+   {
+    "ref": 353807,
+    "en": " What are you doing?!"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#9549",
+  "variants": [
+   {
+    "ref": 362291,
+    "en": " S-somehow I feel"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#9814",
+  "variants": [
+   {
+    "ref": 377912,
+    "en": " night..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#9819",
+  "variants": [
+   {
+    "ref": 377962,
+    "en": " Don't..."
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#9855",
+  "variants": [
+   {
+    "ref": 378452,
+    "en": " Huh?"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#9856",
+  "variants": [
+   {
+    "ref": 378457,
+    "en": " You're not the landlady?"
+   }
+  ],
+  "why": "auto: space after a pause"
+ },
+ {
+  "file": "M2_C_M2.STC",
+  "id": "M2#9932",
+  "variants": [
+   {
+    "ref": 382258,
+    "en": " I'm Sarah."
+   }
+  ],
+  "why": "auto: space after a pause"
+ }
+]

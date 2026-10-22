@@ -1,0 +1,1694 @@
+[
+ {
+  "id": "M0A.BIN@85C",
+  "off": 2140,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148370436
+   ]
+  ],
+  "idx": 0,
+  "en": "Our showdown comes... with the night.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@83C",
+  "off": 2108,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370440
+   ]
+  ],
+  "idx": 1,
+  "en": "I look forward to the sunset...",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@81C",
+  "off": 2076,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370444
+   ]
+  ],
+  "idx": 2,
+  "en": "Hmph, fool. Do you think power like yours",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@7F4",
+  "off": 2036,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370448
+   ]
+  ],
+  "idx": 3,
+  "en": "could ever match mine?",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@7CC",
+  "off": 1996,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370452
+   ]
+  ],
+  "idx": 4,
+  "en": "To treat the landowner Daedalus's illness,",
+  "note": "Seward monologue (attends Daedalus, writes to Van Helsing). Rows 7CC/7A0/780 are one page.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@7A0",
+  "off": 1952,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148370456
+   ]
+  ],
+  "idx": 5,
+  "en": "I came here to Medoekia, but...",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@780",
+  "off": 1920,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370460
+   ]
+  ],
+  "idx": 6,
+  "en": "a serious problem has come up.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@758",
+  "off": 1880,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370464
+   ]
+  ],
+  "idx": 7,
+  "en": "Jonathan Harker, a patent agent,",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@744",
+  "off": 1860,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148370468
+   ]
+  ],
+  "idx": 8,
+  "en": "came to me with a request...",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@72C",
+  "off": 1836,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148370472
+   ]
+  ],
+  "idx": 9,
+  "en": "And so I've come to hunt the vampire",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@714",
+  "off": 1812,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148370476
+   ]
+  ],
+  "idx": 10,
+  "en": "that is lurking in this village.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@6F0",
+  "off": 1776,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370480
+   ]
+  ],
+  "idx": 11,
+  "en": "It seems some in this village have already",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@6D4",
+  "off": 1748,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148370484
+   ]
+  ],
+  "idx": 12,
+  "en": "been attacked by the vampire...",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@6B4",
+  "off": 1716,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370488
+   ]
+  ],
+  "idx": 13,
+  "en": "Medically, it can't be called an illness.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@698",
+  "off": 1688,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148370492
+   ]
+  ],
+  "idx": 14,
+  "en": "Yet the loss of blood, and the marks",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@67C",
+  "off": 1660,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148370496
+   ]
+  ],
+  "idx": 15,
+  "en": "on the neck...",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@658",
+  "off": 1624,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370500
+   ]
+  ],
+  "idx": 16,
+  "en": "This is surely the work of a vampire.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@638",
+  "off": 1592,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370504
+   ]
+  ],
+  "idx": 17,
+  "en": "By day, I call at the villagers' homes,",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@614",
+  "off": 1556,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370508
+   ]
+  ],
+  "idx": 18,
+  "en": "and wherever the vampire is likely to appear,",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@5F4",
+  "off": 1524,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370512
+   ]
+  ],
+  "idx": 19,
+  "en": "I set up an altar...",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@5CC",
+  "off": 1484,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370516
+   ]
+  ],
+  "idx": 20,
+  "en": "This altar has the power to purify people",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@5AC",
+  "off": 1452,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370520
+   ]
+  ],
+  "idx": 21,
+  "en": "who have been turned into vampires.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@580",
+  "off": 1408,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148370524
+   ]
+  ],
+  "idx": 22,
+  "en": "The vampire is tougher than I'd thought.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@55C",
+  "off": 1372,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370528
+   ]
+  ],
+  "idx": 23,
+  "en": "A university professor and fellow doctor,",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@540",
+  "off": 1344,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148370532
+   ]
+  ],
+  "idx": 24,
+  "en": "Professor Van Helsing...",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@520",
+  "off": 1312,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370536
+   ]
+  ],
+  "idx": 25,
+  "en": "I've written to him, asking for his help...",
+  "note": "Subject/object restored (I / him).",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@4F4",
+  "off": 1268,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148370540
+   ]
+  ],
+  "idx": 26,
+  "en": "My letter should reach him any day now.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@4E4",
+  "off": 1252,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148370544
+   ]
+  ],
+  "idx": 27,
+  "en": "The vampire...",
+  "note": "Harker. Vampire referred to as 'it' (gender not stated by Harker).",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@4C4",
+  "off": 1220,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370548
+   ]
+  ],
+  "idx": 28,
+  "en": "I'm the one who awakened it!",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@49C",
+  "off": 1180,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370552
+   ]
+  ],
+  "idx": 29,
+  "en": "For now, I'm staying at the village church.",
+  "note": "Shared: also printed before 47C + F8 in a second Harker page.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@47C",
+  "off": 1148,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370556
+   ]
+  ],
+  "idx": 30,
+  "en": "I'll become a vampire hunter",
+  "note": "Shared line: followed by #460 in one page and by #F8 in another; both continuations start with 'and take responsibility'.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@460",
+  "off": 1120,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148370560
+   ]
+  ],
+  "idx": 31,
+  "en": "and take responsibility for this!",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@448",
+  "off": 1096,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148370564
+   ]
+  ],
+  "idx": 32,
+  "en": "I've asked the renowned physician,",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@420",
+  "off": 1056,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370568
+   ]
+  ],
+  "idx": 33,
+  "en": "Dr. Jack Seward, for his help.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@3FC",
+  "off": 1020,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370572
+   ]
+  ],
+  "idx": 34,
+  "en": "For the vampire hunt, I'm grateful to have",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@3D4",
+  "off": 980,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370576
+   ]
+  ],
+  "idx": 35,
+  "en": "a dependable ally like him.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@3AC",
+  "off": 940,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370580
+   ]
+  ],
+  "idx": 36,
+  "en": "By day, I go around like this, setting out",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@38C",
+  "off": 908,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370584
+   ]
+  ],
+  "idx": 37,
+  "en": "the garlic and holly that vampires hate.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@368",
+  "off": 872,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370588
+   ]
+  ],
+  "idx": 38,
+  "en": "At night, when the vampire reveals itself,",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@350",
+  "off": 848,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148370592
+   ]
+  ],
+  "idx": 39,
+  "en": "I'll show no mercy...",
+  "note": "Shared line: also follows #198 ('Anyone who gets in my way, whoever it is,') per the bytecode.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@324",
+  "off": 804,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148370596
+   ]
+  ],
+  "idx": 40,
+  "en": "The fiend and its lackeys, wolves and bats...",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@30C",
+  "off": 780,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148370600
+   ]
+  ],
+  "idx": 41,
+  "en": "I'll shoot them all dead.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@2E8",
+  "off": 744,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370604
+   ]
+  ],
+  "idx": 42,
+  "en": "If not for all this, by now I would",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@2C0",
+  "off": 704,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370608
+   ]
+  ],
+  "idx": 43,
+  "en": "have been engaged back in London.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@298",
+  "off": 664,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370612
+   ]
+  ],
+  "idx": 44,
+  "en": "Her name is Miss Rose, a young noblewoman",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@270",
+  "off": 624,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370616
+   ]
+  ],
+  "idx": 45,
+  "en": "hailed as the greatest beauty in London...",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@24C",
+  "off": 588,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370620
+   ]
+  ],
+  "idx": 46,
+  "en": "But... my fate has already",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@240",
+  "off": 576,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148370624
+   ]
+  ],
+  "idx": 47,
+  "en": "been sealed.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@218",
+  "off": 536,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370628
+   ]
+  ],
+  "idx": 48,
+  "en": "Until I slay the vampire as a hunter,",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@1F4",
+  "off": 500,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370632
+   ]
+  ],
+  "idx": 49,
+  "en": "I'll know no days of peace...",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@1DC",
+  "off": 476,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148370636
+   ]
+  ],
+  "idx": 50,
+  "en": "What exactly is your purpose here?",
+  "note": "Player asks the hunter (polite form, no Chris/Duran branch).",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@1C0",
+  "off": 448,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148370640
+   ]
+  ],
+  "idx": 51,
+  "en": "That's none of your business.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@198",
+  "off": 408,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370644
+   ]
+  ],
+  "idx": 52,
+  "en": "Anyone who gets in my way, whoever it is,",
+  "note": "Bytecode prints #350 'I'll show no mercy...' on the next line, completing this sentence.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@174",
+  "off": 372,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370648
+   ]
+  ],
+  "idx": 53,
+  "en": "Hard as it may be to believe...",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@154",
+  "off": 340,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370652
+   ]
+  ],
+  "idx": 54,
+  "en": "there is a vampire in this village.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@130",
+  "off": 304,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370656
+   ]
+  ],
+  "idx": 55,
+  "en": "And that vampire was awakened",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@11C",
+  "off": 284,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148370660
+   ]
+  ],
+  "idx": 56,
+  "en": "by none other than me...",
+  "note": "Row cut moved: object fronted in 130, agent in 11C.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@F8",
+  "off": 248,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370664
+   ]
+  ],
+  "idx": 57,
+  "en": "and take responsibility for what I did...",
+  "note": "Follows shared #47C 'I'll become a vampire hunter' on the previous line.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@DAC",
+  "off": 3500,
+  "size": 36,
+  "slot": 36,
+  "refs": [
+   [
+    "ptr",
+    2148370668
+   ]
+  ],
+  "idx": 58,
+  "en": "I hear Nosferatu and Dhampir have often",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@D90",
+  "off": 3472,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148370672
+   ]
+  ],
+  "idx": 59,
+  "en": "been appearing around these parts.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@D70",
+  "off": 3440,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370676
+   ]
+  ],
+  "idx": 60,
+  "en": "Have you heard any such rumors?",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@D60",
+  "off": 3424,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148370680
+   ]
+  ],
+  "idx": 61,
+  "en": "<Answer>",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@D50",
+  "off": 3408,
+  "size": 14,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148370684
+   ]
+  ],
+  "idx": 62,
+  "en": "<Don't answer>",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@D34",
+  "off": 3380,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148370688
+   ]
+  ],
+  "idx": 63,
+  "en": "Yes. I've heard about it.",
+  "note": "Christopher (polite) branch.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@D1C",
+  "off": 3356,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148370692
+   ]
+  ],
+  "idx": 64,
+  "en": "Yeah. I've heard.",
+  "note": "Duran branch.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@CF8",
+  "off": 3320,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370696
+   ]
+  ],
+  "idx": 65,
+  "en": "Then show me where on this map.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@CE0",
+  "off": 3296,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148370700
+   ]
+  ],
+  "idx": 66,
+  "en": "They're said to appear around here.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@CC8",
+  "off": 3272,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148370704
+   ]
+  ],
+  "idx": 67,
+  "en": "I see. Thank you.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@CBC",
+  "off": 3260,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148370708
+   ]
+  ],
+  "idx": 68,
+  "en": "I'm sorry. ",
+  "note": "Christopher branch; printed on the same line as #C9C, hence trailing space.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@CB0",
+  "off": 3248,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148370712
+   ]
+  ],
+  "idx": 69,
+  "en": "Sorry. ",
+  "note": "Duran branch; same line as #C9C, trailing space.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@C9C",
+  "off": 3228,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148370716
+   ]
+  ],
+  "idx": 70,
+  "en": "I've forgotten.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@C78",
+  "off": 3192,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370720
+   ]
+  ],
+  "idx": 71,
+  "en": "Then don't get my hopes up like that.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@C64",
+  "off": 3172,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148370724
+   ]
+  ],
+  "idx": 72,
+  "en": "No, I haven't heard ",
+  "note": "Same line as #C54 (Christopher) or #C48 (Duran); trailing space.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@C54",
+  "off": 3156,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148370728
+   ]
+  ],
+  "idx": 73,
+  "en": "of any such thing.",
+  "note": "Christopher branch.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@C48",
+  "off": 3144,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148370732
+   ]
+  ],
+  "idx": 74,
+  "en": "of it.",
+  "note": "Duran branch.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@C34",
+  "off": 3124,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148370736
+   ]
+  ],
+  "idx": 75,
+  "en": "I see. Sorry to have bothered you.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@C10",
+  "off": 3088,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370740
+   ]
+  ],
+  "idx": 76,
+  "en": "Lately, at night, Nosferatu and",
+  "note": "Player tells a rumor; next line is #BFC + #BF0/#BE4.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@BFC",
+  "off": 3068,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148370744
+   ]
+  ],
+  "idx": 77,
+  "en": "Dhampir have been showing up, ",
+  "note": "Same line as #BF0 (Christopher) or #BE4 (Duran); trailing space.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@BF0",
+  "off": 3056,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148370748
+   ]
+  ],
+  "idx": 78,
+  "en": "or so I hear.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@BE4",
+  "off": 3044,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148370752
+   ]
+  ],
+  "idx": 79,
+  "en": "they say.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@BC4",
+  "off": 3012,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370756
+   ]
+  ],
+  "idx": 80,
+  "en": "And they're often seen in this area...",
+  "note": "Player continues the rumor (#C10/#BFC/#BF0|#BE4, slice 000); 'this area' = the spot chosen on the map. Subject 'they' (Nosferatu and Dhampir) restored.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@BB8",
+  "off": 3000,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148370760
+   ]
+  ],
+  "idx": 81,
+  "en": "No, uh, ",
+  "note": "Player backs out (likely after cancelling the map). Assumed to print on the same line as #B98/#B7C, hence trailing space.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@B98",
+  "off": 2968,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370764
+   ]
+  ],
+  "idx": 82,
+  "en": "I'm sorry. It's nothing.",
+  "note": "Christopher (polite) branch.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@B7C",
+  "off": 2940,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148370768
+   ]
+  ],
+  "idx": 83,
+  "en": "It's nothing. Forget it.",
+  "note": "Duran branch.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@B58",
+  "off": 2904,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370772
+   ]
+  ],
+  "idx": 84,
+  "en": "Please don't bother me for no reason!",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@B44",
+  "off": 2884,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148370776
+   ]
+  ],
+  "idx": 85,
+  "en": "Really... ",
+  "note": "Disbelief reply, followed by #B30 (same line assumed: trailing space).",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@B30",
+  "off": 2864,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148370780
+   ]
+  ],
+  "idx": 86,
+  "en": "I can't believe that.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@B00",
+  "off": 2816,
+  "size": 46,
+  "slot": 47,
+  "refs": [
+   [
+    "ptr",
+    2148370784
+   ]
+  ],
+  "idx": 87,
+  "en": "I see. Then I'd better not go out at night.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@ADC",
+  "off": 2780,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370788
+   ]
+  ],
+  "idx": 88,
+  "en": "Why do you keep telling me the same thing?",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@ABC",
+  "off": 2748,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370792
+   ]
+  ],
+  "idx": 89,
+  "en": "Are you really that worried about me?",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@A98",
+  "off": 2712,
+  "size": 34,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370796
+   ]
+  ],
+  "idx": 90,
+  "en": "That's not what you told me before.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@A70",
+  "off": 2672,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370800
+   ]
+  ],
+  "idx": 91,
+  "en": "Now I can't believe either of your stories.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@A4C",
+  "off": 2636,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370804
+   ]
+  ],
+  "idx": 92,
+  "en": "Don't talk to me if you've got no business!",
+  "note": "Male listener set (#A38-#970).",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@A38",
+  "off": 2616,
+  "size": 18,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148370808
+   ]
+  ],
+  "idx": 93,
+  "en": "Is that true...? ",
+  "note": "Followed by #A24 (same line assumed: trailing space).",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@A24",
+  "off": 2596,
+  "size": 16,
+  "slot": 19,
+  "refs": [
+   [
+    "ptr",
+    2148370812
+   ]
+  ],
+  "idx": 94,
+  "en": "I can't believe it.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@9FC",
+  "off": 2556,
+  "size": 38,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370816
+   ]
+  ],
+  "idx": 95,
+  "en": "I see. Then I guess I'll stay in at night.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@9E0",
+  "off": 2528,
+  "size": 24,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148370820
+   ]
+  ],
+  "idx": 96,
+  "en": "I heard that one already.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@9B8",
+  "off": 2488,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370824
+   ]
+  ],
+  "idx": 97,
+  "en": "Why do you keep saying the same thing?",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@994",
+  "off": 2452,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370828
+   ]
+  ],
+  "idx": 98,
+  "en": "That's not what you said before.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@970",
+  "off": 2416,
+  "size": 32,
+  "slot": 35,
+  "refs": [
+   [
+    "ptr",
+    2148370832
+   ]
+  ],
+  "idx": 99,
+  "en": "Which one am I supposed to believe...?",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@968",
+  "off": 2408,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148370836
+   ]
+  ],
+  "idx": 100,
+  "en": "...",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@940",
+  "off": 2368,
+  "size": 36,
+  "slot": 39,
+  "refs": [
+   [
+    "ptr",
+    2148370840
+   ]
+  ],
+  "idx": 101,
+  "en": "You can't seriously expect me to believe that.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@928",
+  "off": 2344,
+  "size": 22,
+  "slot": 23,
+  "refs": [
+   [
+    "ptr",
+    2148370844
+   ]
+  ],
+  "idx": 102,
+  "en": "I'll take that into account.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@918",
+  "off": 2328,
+  "size": 12,
+  "slot": 15,
+  "refs": [
+   [
+    "ptr",
+    2148370848
+   ]
+  ],
+  "idx": 103,
+  "en": "You don't give up, do you?",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@8F8",
+  "off": 2296,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370852
+   ]
+  ],
+  "idx": 104,
+  "en": "I understood you the first time.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@8EC",
+  "off": 2284,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148370856
+   ]
+  ],
+  "idx": 105,
+  "en": "Enough. You're relentless.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@8D0",
+  "off": 2256,
+  "size": 26,
+  "slot": 27,
+  "refs": [
+   [
+    "ptr",
+    2148370860
+   ]
+  ],
+  "idx": 106,
+  "en": "You've gone too far in mocking me.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@8B0",
+  "off": 2224,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370864
+   ]
+  ],
+  "idx": 107,
+  "en": "Bringing a rumor like that to me...",
+  "note": "Sentence continues in #890.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@890",
+  "off": 2192,
+  "size": 28,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370868
+   ]
+  ],
+  "idx": 108,
+  "en": "what on earth is the point of it!",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@870",
+  "off": 2160,
+  "size": 30,
+  "slot": 31,
+  "refs": [
+   [
+    "ptr",
+    2148370872
+   ]
+  ],
+  "idx": 109,
+  "en": "Thank you. I'll keep it in mind.",
+  "done": true
+ },
+ {
+  "id": "M0A.BIN@4",
+  "off": 4,
+  "size": 20,
+  "slot": 23,
+  "refs": [
+   [
+    "code",
+    2148321812
+   ]
+  ],
+  "en": "Select a location",
+  "note": "UI prompt on the map (no period, like a menu prompt).",
+  "done": true
+ }
+]

@@ -1,0 +1,336 @@
+[
+ {
+  "id": "M0#1040",
+  "en": "Oh, it's you."
+ },
+ {
+  "id": "M0#1041",
+  "en": "If you want to talk, come to my workshop."
+ },
+ {
+  "id": "M0#1042",
+  "en": "I want to rest when I'm at home."
+ },
+ {
+  "id": "M0#1043",
+  "en": "When I'm at home,"
+ },
+ {
+  "id": "M0#1044",
+  "en": "I want to be alone with my wife, Miltia."
+ },
+ {
+  "id": "M0#1045",
+  "en": "Oh, it's you."
+ },
+ {
+  "id": "M0#1046",
+  "en": "Take your time."
+ },
+ {
+  "id": "M0#1047",
+  "en": "Come by again any time,"
+ },
+ {
+  "id": "M0#1048",
+  "en": "let's have a meal together."
+ },
+ {
+  "id": "M0#1049",
+  "en": "I'm Queeg."
+ },
+ {
+  "id": "M0#1050",
+  "en": "What do you want in my workshop?"
+ },
+ {
+  "id": "M0#1051",
+  "en": "I make pottery here."
+ },
+ {
+  "id": "M0#1052",
+  "en": "And you? Here to watch other people work?"
+ },
+ {
+  "id": "M0#1053",
+  "en": "If you've got no business here, get out. You're distracting me."
+ },
+ {
+  "id": "M0#1054",
+  "en": "So, you're interested in pottery?"
+ },
+ {
+  "id": "M0#1055",
+  "en": "Pottery's what people use every day, see."
+ },
+ {
+  "id": "M0#1056",
+  "en": "It's not that I don't make porcelain, but",
+  "note": "Ends with 'but' to lead into #1057/#1075"
+ },
+ {
+  "id": "M0#1057",
+  "en": "it's only used on special occasions, after all."
+ },
+ {
+  "id": "M0#1058",
+  "en": "Yeah, I'm shaping a pot right now."
+ },
+ {
+  "id": "M0#1059",
+  "en": "See, I use the wheel like this"
+ },
+ {
+  "id": "M0#1060",
+  "en": "to get the clay into just the right shape."
+ },
+ {
+  "id": "M0#1061",
+  "en": "Want to try making a bowl yourself?"
+ },
+ {
+  "id": "M0#1062",
+  "en": "Hmm."
+ },
+ {
+  "id": "M0#1063",
+  "en": "Ha ha ha,"
+ },
+ {
+  "id": "M0#1064",
+  "en": "well, nobody gets it right at first."
+ },
+ {
+  "id": "M0#1065",
+  "en": "So what's your name, anyway?"
+ },
+ {
+  "id": "M0#1066",
+  "en": "To be honest, I had my doubts, but"
+ },
+ {
+  "id": "M0#1067",
+  "en": "you really don't seem like a bad sort."
+ },
+ {
+  "id": "M0#1068",
+  "en": "Pottery is needed in every corner of the",
+  "note": "Sentence cut across #1068-#1070 as in the source"
+ },
+ {
+  "id": "M0#1069",
+  "en": "world, you know. We can't get by with only"
+ },
+ {
+  "id": "M0#1070",
+  "en": "wooden bowls, after all."
+ },
+ {
+  "id": "M0#1071",
+  "en": "(What an unfriendly man...)"
+ },
+ {
+  "id": "M0#1072",
+  "en": "Ah, it's you."
+ },
+ {
+  "id": "M0#1073",
+  "en": "When I'm at home, I want to be with my wife Miltia,"
+ },
+ {
+  "id": "M0#1074",
+  "en": "just the two of us."
+ },
+ {
+  "id": "M0#1075",
+  "en": "it only gets used on special occasions."
+ },
+ {
+  "id": "M0#1076",
+  "en": "When this gets fired, it turns into pottery."
+ },
+ {
+  "id": "M0#1077",
+  "en": "Oh, may I?"
+ },
+ {
+  "id": "M0#1078",
+  "en": "you don't seem like a bad sort."
+ },
+ {
+  "id": "M0#1079",
+  "en": "Pottery is needed in every corner of the",
+  "note": "Same wording as #1068 (source differs only by a comma)"
+ },
+ {
+  "id": "M0#1080",
+  "en": "I'm certainly not doing something like this"
+ },
+ {
+  "id": "M0#1081",
+  "en": "out of any ill will."
+ },
+ {
+  "id": "M0#1082",
+  "en": "If I don't do this, ",
+  "note": "Rewritten active so the inserted name is the subject; needs M0#1020 (ni) = '' (empty)"
+ },
+ {
+  "id": "M0#1083",
+  "en": "will utterly wreck this village.",
+  "note": "Continues name + M0#1020; verb phrase 'will utterly wreck this village'"
+ },
+ {
+  "id": "M0#1084",
+  "en": "It's only for a little while. Please bear with me."
+ },
+ {
+  "id": "M0#1085",
+  "en": "Please lend me your strength."
+ },
+ {
+  "id": "M0#1086",
+  "en": "Please put my strength to use...",
+  "note": "Follows M0#0 ', my master...'"
+ },
+ {
+  "id": "M0#1087",
+  "en": "I can't seem to get up early in the morning lately."
+ },
+ {
+  "id": "M0#1088",
+  "en": "I wonder what's wrong with me..."
+ },
+ {
+  "id": "M0#1089",
+  "en": "Come to think of it, you're a new face around here.",
+  "variants": [
+   {
+    "msg": 49904,
+    "en": "Come to think of it, you were a new face around here once."
+   }
+  ]
+ },
+ {
+  "id": "M0#1090",
+  "en": "Well, I don't really care."
+ },
+ {
+  "id": "M0#1091",
+  "en": "Morning! Nice day for it, isn't it?"
+ },
+ {
+  "id": "M0#1092",
+  "en": "I'm just heading to the stables."
+ },
+ {
+  "id": "M0#1093",
+  "en": "I've gotten used to you by now, though.",
+  "note": "Only used in msg 49904, paired with the #1089 variant"
+ },
+ {
+  "id": "M0#1094",
+  "en": "Good evening.",
+  "note": "Shared with Ios and Johanna; 'Good evening.' works for all"
+ },
+ {
+  "id": "M0#1095",
+  "en": "I'm just heading home."
+ },
+ {
+  "id": "M0#1096",
+  "en": "This is Ranke's house,"
+ },
+ {
+  "id": "M0#1097",
+  "en": "and I'm the Ranke in question."
+ },
+ {
+  "id": "M0#1098",
+  "en": "What? Got something more to say?"
+ },
+ {
+  "id": "M0#1099",
+  "en": "This is Ranke's house."
+ },
+ {
+  "id": "M0#1100",
+  "en": "It's just me and my son living here now."
+ },
+ {
+  "id": "M0#1101",
+  "en": "But to me, the horses I've raised with my own hands"
+ },
+ {
+  "id": "M0#1102",
+  "en": "are like children too."
+ },
+ {
+  "id": "M0#1103",
+  "en": "Try anything on those horses and I won't let you get away with it."
+ },
+ {
+  "id": "M0#1104",
+  "en": "Hey, "
+ },
+ {
+  "id": "M0#1105",
+  "en": "I was just about to take a break,"
+ },
+ {
+  "id": "M0#1106",
+  "en": "so how about some tea with me?"
+ },
+ {
+  "id": "M0#1107",
+  "en": "Come by again any time."
+ },
+ {
+  "id": "M0#1108",
+  "en": "I'm the one who looks after the horses here."
+ },
+ {
+  "id": "M0#1109",
+  "en": "The name's Ranke."
+ },
+ {
+  "id": "M0#1110",
+  "en": "And you? Here about the horses?"
+ },
+ {
+  "id": "M0#1111",
+  "en": "Got some business with the horses?"
+ },
+ {
+  "id": "M0#1112",
+  "en": "I'm Ranke, the one who takes care of them."
+ },
+ {
+  "id": "M0#1113",
+  "en": "I raise every horse here myself."
+ },
+ {
+  "id": "M0#1114",
+  "en": "Try anything on my horses and I won't let you get away with it."
+ },
+ {
+  "id": "M0#1115",
+  "en": "Horses do all kinds of work for us."
+ },
+ {
+  "id": "M0#1116",
+  "en": "So in return, I take a brush like this and"
+ },
+ {
+  "id": "M0#1117",
+  "en": "go over them, and look after them well."
+ },
+ {
+  "id": "M0#1118",
+  "en": "To feed the horses,"
+ },
+ {
+  "id": "M0#1119",
+  "en": "I have to get up pretty early."
+ }
+]

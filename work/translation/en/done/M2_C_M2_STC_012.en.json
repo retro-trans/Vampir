@@ -1,0 +1,347 @@
+[
+ {
+  "id": "M2#960",
+  "en": "I've just arrived in London. It's all new to me."
+ },
+ {
+  "id": "M2#961",
+  "en": "We've had nothing but nasty crimes lately."
+ },
+ {
+  "id": "M2#962",
+  "en": "Honestly, it's just more pointless legwork."
+ },
+ {
+  "id": "M2#963",
+  "en": "help out at all, it'd make my job much easier.",
+  "note": "Cut follows #891 (slice 011), which must end like 'If only the townsfolk would form a watch, or'."
+ },
+ {
+  "id": "M2#964",
+  "en": "I seem to have gotten a little lost..."
+ },
+ {
+  "id": "M2#965",
+  "en": "Hello, Constable Colin."
+ },
+ {
+  "id": "M2#966",
+  "en": "You must have it hard every day. Thank you."
+ },
+ {
+  "id": "M2#967",
+  "en": "Pickpockets, burglars, the Ripper..."
+ },
+ {
+  "id": "M2#968",
+  "en": "Whatever it is, you're certainly hardworking."
+ },
+ {
+  "id": "M2#969",
+  "en": "Honestly, I wish crime would just ",
+  "note": "joined directly with #970 on one line"
+ },
+ {
+  "id": "M2#970",
+  "en": "vanish from the face of the earth."
+ },
+ {
+  "id": "M2#971",
+  "en": "Then I wouldn't have to do any work."
+ },
+ {
+  "id": "M2#972",
+  "en": "It's a misunderstanding! I'm not suspicious."
+ },
+ {
+  "id": "M2#973",
+  "en": "It's my first time in London. I'm sorry."
+ },
+ {
+  "id": "M2#974",
+  "en": "What is it? Seen a suspicious man, have you?"
+ },
+ {
+  "id": "M2#975",
+  "en": "If you ask me, you look suspicious yourself."
+ },
+ {
+  "id": "M2#976",
+  "en": "I'm a lazy sort by nature. When it's this busy,",
+  "note": "#951 (slice 011) continues: 'I just get sick of everything.'"
+ },
+ {
+  "id": "M2#977",
+  "en": "Who's there?"
+ },
+ {
+  "id": "M2#978",
+  "en": "Out at this hour? Suspicious",
+  "note": "+ '...'"
+ },
+ {
+  "id": "M2#979",
+  "en": "It's me",
+  "note": "+ '...'"
+ },
+ {
+  "id": "M2#980",
+  "en": "Oh, ",
+  "note": "Colin: 'Oh, {NAME}, it's you.'; variant 'Oh,' for Claude msg 72382, where a line break follows.",
+  "variants": [
+   {
+    "msg": 72382,
+    "en": "Oh,"
+   }
+  ]
+ },
+ {
+  "id": "M2#981",
+  "en": "What on earth do you want with me",
+  "note": "+ '...' + '?'"
+ },
+ {
+  "id": "M2#982",
+  "en": "If you fought alongside me, couldn't you",
+  "note": "Player to Colin (stern recruiting scene, msg at 0x780a)."
+ },
+ {
+  "id": "M2#983",
+  "en": "do your duty as an officer far better?"
+ },
+ {
+  "id": "M2#984",
+  "en": "Wh-what are you talking about?"
+ },
+ {
+  "id": "M2#985",
+  "en": "Agh"
+ },
+ {
+  "id": "M2#986",
+  "en": "More",
+  "note": "+ '...' <p> #987"
+ },
+ {
+  "id": "M2#987",
+  "en": "I need power."
+ },
+ {
+  "id": "M2#988",
+  "en": "Enough to stop him..."
+ },
+ {
+  "id": "M2#989",
+  "en": "Power",
+  "note": "+ '...'"
+ },
+ {
+  "id": "M2#990",
+  "en": ", my master, I'll do",
+  "note": "name + ', my master' as M2#0"
+ },
+ {
+  "id": "M2#991",
+  "en": "anything you command",
+  "note": "+ '...'"
+ },
+ {
+  "id": "M2#992",
+  "en": "Argh, dammit, that hurts!"
+ },
+ {
+  "id": "M2#993",
+  "en": "My whole body aches. What the hell is this?"
+ },
+ {
+  "id": "M2#994",
+  "en": ", my master... Your orders...",
+  "note": "name + ', my master' as M2#0"
+ },
+ {
+  "id": "M2#995",
+  "en": "Hey, don't these bars look kinda bent to you?"
+ },
+ {
+  "id": "M2#996",
+  "en": "Maybe I open 'em at night and slip out. Haha!"
+ },
+ {
+  "id": "M2#997",
+  "en": "Hey, mate. Hey, I'm talkin' to you."
+ },
+ {
+  "id": "M2#998",
+  "en": "Oi, you there, mate! Yeah, Mr. Sharp Dresser!"
+ },
+ {
+  "id": "M2#999",
+  "en": "M-A-T-E! Hey, you handsome devil!"
+ },
+ {
+  "id": "M2#1000",
+  "en": "What is it?",
+  "note": "after '...' (stern player)"
+ },
+ {
+  "id": "M2#1001",
+  "en": "Heh heh heh, finally looked my way, eh?"
+ },
+ {
+  "id": "M2#1002",
+  "en": "So ya won't look unless somebody flatters ya?"
+ },
+ {
+  "id": "M2#1003",
+  "en": "I'm Patrick, London's top model prisoner."
+ },
+ {
+  "id": "M2#1004",
+  "en": "Ya came all this way, so tell me your name."
+ },
+ {
+  "id": "M2#1005",
+  "en": "You this rude to everybody else too?"
+ },
+ {
+  "id": "M2#1006",
+  "en": "You'll never get the ladies like that. Tsk, tsk."
+ },
+ {
+  "id": "M2#1007",
+  "en": "I'm always behind these bars, so come again."
+ },
+ {
+  "id": "M2#1008",
+  "en": "Hm? My, what a sharp-lookin' visitor."
+ },
+ {
+  "id": "M2#1009",
+  "en": "Oh, it's you. Some hour to come callin'."
+ },
+ {
+  "id": "M2#1010",
+  "en": "Hm? What's up? Wanna borrow my brains?"
+ },
+ {
+  "id": "M2#1011",
+  "en": "Well, if ya come round about this time,"
+ },
+ {
+  "id": "M2#1012",
+  "en": "it suits me fine. I got a schedule, sorta."
+ },
+ {
+  "id": "M2#1013",
+  "en": "See ya. I got nothin' to do, so come again."
+ },
+ {
+  "id": "M2#1014",
+  "en": "Hm? You're back again?"
+ },
+ {
+  "id": "M2#1015",
+  "en": "Don't tell me you've taken a likin' to the place?"
+ },
+ {
+  "id": "M2#1016",
+  "en": "London City Office, how may I help you?"
+ },
+ {
+  "id": "M2#1017",
+  "en": "We accept any and all citizen complaints."
+ },
+ {
+  "id": "M2#1018",
+  "en": "...Get it? That's me doin' the shitty mayor."
+ },
+ {
+  "id": "M2#1019",
+  "en": "Yo, it's you."
+ },
+ {
+  "id": "M2#1020",
+  "en": "As ya see, I'm on duty again. Open for biz."
+ },
+ {
+  "id": "M2#1021",
+  "en": "What can I do for ya, good customer?"
+ },
+ {
+  "id": "M2#1022",
+  "en": "<Why are you in prison?>",
+  "note": "choice; answer msg 33654 (#1024)"
+ },
+ {
+  "id": "M2#1023",
+  "en": "<How many years have you been here?>",
+  "note": "choice; answer #1027 then msg 33674 (#1028)"
+ },
+ {
+  "id": "M2#1024",
+  "en": "Theft, that's what. S-T-E-A-L-I-N-G."
+ },
+ {
+  "id": "M2#1025",
+  "en": "Pretty cute charge, huh? Just a petty thief."
+ },
+ {
+  "id": "M2#1026",
+  "en": "'For my family,' as they say. A tearjerker, huh?"
+ },
+ {
+  "id": "M2#1027",
+  "en": "5 years, I guess.",
+  "note": "no used_in; bytecode: answer to #1023 is box '#1027 / #1028 / #1029' after branch op 02 00 0d (talk.py drops #1027)."
+ },
+ {
+  "id": "M2#1028",
+  "en": "I was a fool at first, see. Broke out lotsa times."
+ },
+ {
+  "id": "M2#1029",
+  "en": "Thing is, breakin' out adds to your sentence."
+ },
+ {
+  "id": "M2#1030",
+  "en": "Gets me thinkin' about my family a bit."
+ },
+ {
+  "id": "M2#1031",
+  "en": "Wonder if they've forgotten all about me",
+  "note": "+ '...'"
+ },
+ {
+  "id": "M2#1032",
+  "en": "Yo. It's you."
+ },
+ {
+  "id": "M2#1033",
+  "en": "Y'know, I get outta here pretty soon."
+ },
+ {
+  "id": "M2#1034",
+  "en": "But I'm kinda scared. Bet my family's run off."
+ },
+ {
+  "id": "M2#1035",
+  "en": "Maybe they don't need a guy like me now",
+  "note": "+ '...'"
+ },
+ {
+  "id": "M2#1036",
+  "en": "Hard times or not, I never shoulda stolen."
+ },
+ {
+  "id": "M2#1037",
+  "en": "Maybe we shoulda just stayed poor together."
+ },
+ {
+  "id": "M2#1038",
+  "en": "I'm real worried, y'know."
+ },
+ {
+  "id": "M2#1039",
+  "en": "Even once I'm out, will I manage?"
+ }
+]

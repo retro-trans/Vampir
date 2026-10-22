@@ -1,0 +1,353 @@
+[
+ {
+  "id": "M1#6000",
+  "en": "is ready",
+  "note": "+ #2 '...' (+ #25 variant ''); shared by shirt msg 234627 (#5999) and suit msg 235246 (#6047)"
+ },
+ {
+  "id": "M1#6001",
+  "en": "Please, do try it on right away."
+ },
+ {
+  "id": "M1#6002",
+  "en": "Well then, I'll go and change into it."
+ },
+ {
+  "id": "M1#6003",
+  "en": "Oh my, it suits you wonderfully."
+ },
+ {
+  "id": "M1#6004",
+  "en": "You look just like a grand nobleman"
+ },
+ {
+  "id": "M1#6005",
+  "en": "You must be someone of very high"
+ },
+ {
+  "id": "M1#6006",
+  "en": "standing"
+ },
+ {
+  "id": "M1#6007",
+  "en": "I can tell from the way you wear your clothes.",
+  "note": "shared: shirt msg 234686 and suit msg 235299"
+ },
+ {
+  "id": "M1#6008",
+  "en": "Your new shirt looks wonderful on you."
+ },
+ {
+  "id": "M1#6009",
+  "en": "Oh my! What brings you here so late at night?"
+ },
+ {
+  "id": "M1#6010",
+  "en": "I wanted to see you."
+ },
+ {
+  "id": "M1#6011",
+  "en": "I just couldn't stay away."
+ },
+ {
+  "id": "M1#6012",
+  "en": "But to be seen like this, in my nightgown,"
+ },
+ {
+  "id": "M1#6013",
+  "en": "how embarrassing"
+ },
+ {
+  "id": "M1#6014",
+  "en": "Now, now, there's no need to mind."
+ },
+ {
+  "id": "M1#6015",
+  "en": "You're beautiful no matter what you wear",
+  "note": "no used_in; JP has no final punctuation, so none added"
+ },
+ {
+  "id": "M1#6016",
+  "en": "Ahn!"
+ },
+ {
+  "id": "M1#6017",
+  "en": "Ah!!"
+ },
+ {
+  "id": "M1#6018",
+  "en": "!!!",
+  "note": "after #5364 'Eeeek'"
+ },
+ {
+  "id": "M1#6019",
+  "en": "Shirts or women, there's nothing like a new one.",
+  "note": "vampire's line after the night scene; kept at full strength"
+ },
+ {
+  "id": "M1#6020",
+  "en": "we're still getting ready,"
+ },
+ {
+  "id": "M1#6021",
+  "en": "I'm terribly sorry, we're not open yet,"
+ },
+ {
+  "id": "M1#6022",
+  "en": "so please wait just a little longer."
+ },
+ {
+  "id": "M1#6023",
+  "en": "how does your new suit feel?",
+  "note": "follows '{NAME},' (#223)"
+ },
+ {
+  "id": "M1#6024",
+  "en": "Well, I suppose I could have one more"
+ },
+ {
+  "id": "M1#6025",
+  "en": "outfit made."
+ },
+ {
+  "id": "M1#6026",
+  "en": "I suppose I could have one more outfit made."
+ },
+ {
+  "id": "M1#6027",
+  "en": "such as Lord Stanberg and Mr. Wesseli, are",
+  "note": "same as #5974; follows #5973 'Happily, even this region's notables,'"
+ },
+ {
+  "id": "M1#6028",
+  "en": "among our clientele.",
+  "note": "same as #5975"
+ },
+ {
+  "id": "M1#6029",
+  "en": "I think I'll have a new suit made."
+ },
+ {
+  "id": "M1#6030",
+  "en": "Thank you kindly. Let me take your"
+ },
+ {
+  "id": "M1#6031",
+  "en": "measurements right away"
+ },
+ {
+  "id": "M1#6032",
+  "en": "There, all done."
+ },
+ {
+  "id": "M1#6033",
+  "en": "Next time, do come in with your sweetheart,"
+ },
+ {
+  "id": "M1#6034",
+  "en": "won't you?",
+  "note": "shared with Mrs. Schneider msg 283447: #6850 must end in a complete request + comma, e.g. 'It's getting cold, so take care of yourself,'"
+ },
+ {
+  "id": "M1#6035",
+  "en": "I don't have anyone like that."
+ },
+ {
+  "id": "M1#6036",
+  "en": "Oh, you're joking again. A man like you?"
+ },
+ {
+  "id": "M1#6037",
+  "en": "Surely some splendid young lady is your"
+ },
+ {
+  "id": "M1#6038",
+  "en": "fiancée, isn't she?"
+ },
+ {
+  "id": "M1#6039",
+  "en": "Then let us discuss the style of your suit",
+  "note": "parallel to #5986; continues in shared #5987 'from tomorrow onward.'"
+ },
+ {
+  "id": "M1#6040",
+  "en": "Without further delay, for the suit you ordered,"
+ },
+ {
+  "id": "M1#6041",
+  "en": "please let me settle on the style."
+ },
+ {
+  "id": "M1#6042",
+  "en": "How about this one here, with the long tails?"
+ },
+ {
+  "id": "M1#6043",
+  "en": "Ah, that one's nice."
+ },
+ {
+  "id": "M1#6044",
+  "en": "This style is all the rage in Paris right now."
+ },
+ {
+  "id": "M1#6045",
+  "en": "All the materials come from Paris, too.",
+  "note": "same as #5996"
+ },
+ {
+  "id": "M1#6046",
+  "en": "I'll look forward to seeing it finished."
+ },
+ {
+  "id": "M1#6047",
+  "en": "The suit you ordered"
+ },
+ {
+  "id": "M1#6048",
+  "en": "Do try it on at once, if you please."
+ },
+ {
+  "id": "M1#6049",
+  "en": "You look just like a prince"
+ },
+ {
+  "id": "M1#6050",
+  "en": "You truly must be someone"
+ },
+ {
+  "id": "M1#6051",
+  "en": "of very high standing"
+ },
+ {
+  "id": "M1#6052",
+  "en": "Your new suit looks marvelous on you."
+ },
+ {
+  "id": "M1#6053",
+  "en": "At night, Master "
+ },
+ {
+  "id": "M1#6054",
+  "en": ", I shall"
+ },
+ {
+  "id": "M1#6055",
+  "en": "work for you"
+ },
+ {
+  "id": "M1#6056",
+  "en": "I'm Christine.",
+  "variants": [
+   {
+    "msg": 238334,
+    "en": " I'm Christine."
+   },
+   {
+    "msg": 238975,
+    "en": " I'm Christine."
+   }
+  ]
+ },
+ {
+  "id": "M1#6057",
+  "en": "I run a perfume shop on South Alster Street."
+ },
+ {
+  "id": "M1#6058",
+  "en": "I'd thank you not to address me so casually."
+ },
+ {
+  "id": "M1#6059",
+  "en": "I'm Christine. I run the perfume shop."
+ },
+ {
+  "id": "M1#6060",
+  "en": "please come buy perfume again soon.",
+  "note": "follows '{NAME},' (#223)"
+ },
+ {
+  "id": "M1#6061",
+  "en": "I keep a perfume shop."
+ },
+ {
+  "id": "M1#6062",
+  "en": "I'm on my way home now."
+ },
+ {
+  "id": "M1#6063",
+  "en": "Why, good day,"
+ },
+ {
+  "id": "M1#6064",
+  "en": "what a lovely outfit you have on.",
+  "note": "follows '{NAME},' (#3619)"
+ },
+ {
+  "id": "M1#6065",
+  "en": "Welcome to my perfume shop."
+ },
+ {
+  "id": "M1#6066",
+  "en": "I'm Christine."
+ },
+ {
+  "id": "M1#6067",
+  "en": "We have many fine luxury goods"
+ },
+ {
+  "id": "M1#6068",
+  "en": "made in France."
+ },
+ {
+  "id": "M1#6069",
+  "en": "Hello, Christine."
+ },
+ {
+  "id": "M1#6070",
+  "en": "Oh, ",
+  "note": "shared: Christine, Mrs. Klaus, Mrs. Zille ('Oh, ' + name), Lotte ('Oh, ' + #6339); variant 'Oh' for Lotte msg 255520 where #2 '...' follows",
+  "variants": [
+   {
+    "msg": 255520,
+    "en": "Oh"
+   }
+  ]
+ },
+ {
+  "id": "M1#6071",
+  "en": ",",
+  "note": "shared: 'Today, {NAME},' / 'You know, {NAME},' (Christine) and Dehmel '{NAME},' + #6446; the clause moves to the next row"
+ },
+ {
+  "id": "M1#6072",
+  "en": "I've prepared something just right for you:"
+ },
+ {
+  "id": "M1#6073",
+  "en": "an item with a most noble fragrance."
+ },
+ {
+  "id": "M1#6074",
+  "en": "No, I'm afraid that isn't quite to my taste."
+ },
+ {
+  "id": "M1#6075",
+  "en": "Is that so? What a pity."
+ },
+ {
+  "id": "M1#6076",
+  "en": "It's an original, made specially by our shop."
+ },
+ {
+  "id": "M1#6077",
+  "en": "You won't find a gem like it anywhere else."
+ },
+ {
+  "id": "M1#6078",
+  "en": "I simply must create a perfume that you"
+ },
+ {
+  "id": "M1#6079",
+  "en": "will truly adore."
+ }
+]

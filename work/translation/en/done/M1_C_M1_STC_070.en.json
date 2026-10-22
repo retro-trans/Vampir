@@ -1,0 +1,364 @@
+[
+ {
+  "id": "M1#5600",
+  "en": "No wonder the shop's sales are falling."
+ },
+ {
+  "id": "M1#5601",
+  "en": "Oh, shut up. Mind your own business."
+ },
+ {
+  "id": "M1#5602",
+  "en": "I suppose I ought to be grateful that even"
+ },
+ {
+  "id": "M1#5603",
+  "en": "a nasty customer like you comes in at all.",
+  "note": "English order: grateful-clause moved up into #5602; customer + 'comes in' carried into #5603"
+ },
+ {
+  "id": "M1#5604",
+  "en": "Eeek! Th-thief",
+  "note": "+ #414 '!'"
+ },
+ {
+  "id": "M1#5605",
+  "en": "You're that customer from my shop",
+  "note": "+ #2 '...'"
+ },
+ {
+  "id": "M1#5606",
+  "en": "So you've been coming to my shop all along",
+  "note": "#5606/#5607 split: 'to my shop' kept in #5606, 'to rob this house' moved to #5607"
+ },
+ {
+  "id": "M1#5607",
+  "en": "just to rob this house",
+  "note": "+ #414 '!'"
+ },
+ {
+  "id": "M1#5608",
+  "en": "Honestly, what a rotten scoundrel",
+  "note": "+ #2 '...'"
+ },
+ {
+  "id": "M1#5609",
+  "en": "What a truly noisy old hag.",
+  "note": "player's rude register kept (cf. #5586 'What a noisy old hag.')"
+ },
+ {
+  "id": "M1#5610",
+  "en": "I came here to shut that mouth of yours.",
+  "note": "no used_in; read as the player's reply after #5609"
+ },
+ {
+  "id": "M1#5611",
+  "en": "Don't you get smart with me, you lousy thief.",
+  "note": "no used_in; read as Anna's retort"
+ },
+ {
+  "id": "M1#5612",
+  "en": "Wh-what are you doing",
+  "note": "no used_in; Anna; no end punctuation (Japanese has none)"
+ },
+ {
+  "id": "M1#5613",
+  "en": "Ee",
+  "note": "no used_in; scream fragment, no punctuation"
+ },
+ {
+  "id": "M1#5614",
+  "en": "Eeeee",
+  "note": "no used_in; scream fragment, no punctuation"
+ },
+ {
+  "id": "M1#5615",
+  "en": "That old hag ran her mouth right to the end..."
+ },
+ {
+  "id": "M1#5616",
+  "en": "The shop isn't open right now."
+ },
+ {
+  "id": "M1#5617",
+  "en": "There's nothing here for you, you know."
+ },
+ {
+  "id": "M1#5618",
+  "en": "We've got all sorts of handy things."
+ },
+ {
+  "id": "M1#5619",
+  "en": "There's nothing I particularly want",
+  "note": "+ #2 '...' / #2286 'it would seem.'"
+ },
+ {
+  "id": "M1#5620",
+  "en": "Oh, don't say that. Take some candles at least,"
+ },
+ {
+  "id": "M1#5621",
+  "en": "won't you? There, I'll bag them for you."
+ },
+ {
+  "id": "M1#5622",
+  "en": "I got talked into buying them",
+  "note": "+ #2 '...' + #25 '.'"
+ },
+ {
+  "id": "M1#5623",
+  "en": "This is the general store. We've got all"
+ },
+ {
+  "id": "M1#5624",
+  "en": "sorts of handy things."
+ },
+ {
+  "id": "M1#5625",
+  "en": "Those market folk, see, don't have the money",
+  "note": "same wording as #5573 (slice 069); #5574 'or a license to open a shop, so they just' follows"
+ },
+ {
+  "id": "M1#5626",
+  "en": "Hmm, is that really how it is?"
+ },
+ {
+  "id": "M1#5627",
+  "en": "Seems to me people can shop wherever it's"
+ },
+ {
+  "id": "M1#5628",
+  "en": "convenient, though."
+ },
+ {
+  "id": "M1#5629",
+  "en": "Oh, please. You're just a kid, that's why."
+ },
+ {
+  "id": "M1#5630",
+  "en": "You don't understand a thing."
+ },
+ {
+  "id": "M1#5631",
+  "en": "This shop never has any customers, does it?"
+ },
+ {
+  "id": "M1#5632",
+  "en": "Hmph. That's none of your business."
+ },
+ {
+  "id": "M1#5633",
+  "en": "If you're not here to buy, then hurry up",
+  "note": "#4535 variant 'and get out.' follows (msg 222895)"
+ },
+ {
+  "id": "M1#5634",
+  "en": "If you chase customers off like that,"
+ },
+ {
+  "id": "M1#5635",
+  "en": "this shop's never going to make any money."
+ },
+ {
+  "id": "M1#5636",
+  "en": "These days you're about the only customer"
+ },
+ {
+  "id": "M1#5637",
+  "en": "this shop gets."
+ },
+ {
+  "id": "M1#5638",
+  "en": "My master, ",
+  "note": "+ name + #419 '.'"
+ },
+ {
+  "id": "M1#5639",
+  "en": "I am your faithful servant",
+  "note": "+ #2 '...'"
+ },
+ {
+  "id": "M1#5640",
+  "en": "I've been so sleepy lately, somehow",
+  "note": "between #2 '...' fragments"
+ },
+ {
+  "id": "M1#5641",
+  "en": "All my strength is yours",
+  "note": "+ #2 '...'"
+ },
+ {
+  "id": "M1#5642",
+  "en": "Take that, my killer punch!",
+  "note": "after #2 '...'; Alisa talking in her sleep"
+ },
+ {
+  "id": "M1#5643",
+  "en": "Oh dear, I must have been half asleep."
+ },
+ {
+  "id": "M1#5644",
+  "en": "Hello there, miss.",
+  "note": "shared with Lily msg 246444"
+ },
+ {
+  "id": "M1#5645",
+  "en": "Hello. Over on North Alster Street,"
+ },
+ {
+  "id": "M1#5646",
+  "en": "I work at the restaurant \"Neu\"."
+ },
+ {
+  "id": "M1#5647",
+  "en": "I'm Alisa. Do come by for a meal!"
+ },
+ {
+  "id": "M1#5648",
+  "en": "I'll be sure to come by."
+ },
+ {
+  "id": "M1#5649",
+  "en": "Well, I'll be going.",
+  "note": "speaker not tagged in used_in; read as the player taking his leave"
+ },
+ {
+  "id": "M1#5650",
+  "en": "The restaurant opens soon."
+ },
+ {
+  "id": "M1#5651",
+  "en": "I'm off to work at \"Neu\" now."
+ },
+ {
+  "id": "M1#5652",
+  "en": "thanks for always coming to the restaurant.",
+  "note": "follows name + #223 ',' on a new line, so lowercase"
+ },
+ {
+  "id": "M1#5653",
+  "en": "Good evening, miss."
+ },
+ {
+  "id": "M1#5654",
+  "en": "I don't think we've met. I'm Alisa."
+ },
+ {
+  "id": "M1#5655",
+  "en": "At \"Neu\", the restaurant on N. Alster St.,",
+  "note": "shared: followed by #5656 'I work there...' (226083) and #5745 (slice 071, 226974) which must continue the sentence, e.g. 'I work as a waitress.'"
+ },
+ {
+  "id": "M1#5656",
+  "en": "I work there. Please do come by!"
+ },
+ {
+  "id": "M1#5657",
+  "en": "I'll be expecting you tomorrow."
+ },
+ {
+  "id": "M1#5658",
+  "en": "Do come to \"Neu\""
+ },
+ {
+  "id": "M1#5659",
+  "en": "sometime, won't you?"
+ },
+ {
+  "id": "M1#5660",
+  "en": "Work wears me out day after day, but",
+  "note": "shared: next line starts with #5661 (226151) or with {PLAYER_NAME} + #5749 (227033, slice 071)"
+ },
+ {
+  "id": "M1#5661",
+  "en": "so many customers come in that"
+ },
+ {
+  "id": "M1#5662",
+  "en": "I keep at it."
+ },
+ {
+  "id": "M1#5663",
+  "en": "Oh, ",
+  "note": "Alisa 226173: 'Oh, ' + name; variants 'Oh' where '...' follows",
+  "variants": [
+   {
+    "msg": 234718,
+    "en": "Oh"
+   },
+   {
+    "msg": 251010,
+    "en": "Oh"
+   },
+   {
+    "msg": 255797,
+    "en": "Oh"
+   }
+  ]
+ },
+ {
+  "id": "M1#5664",
+  "en": "we keep running into each other.",
+  "note": "lowercase: follows 'Name,' (Alisa 226173; Lily 246666 via #6209)"
+ },
+ {
+  "id": "M1#5665",
+  "en": "Come right in!"
+ },
+ {
+  "id": "M1#5666",
+  "en": "Welcome to \"Neu\"."
+ },
+ {
+  "id": "M1#5667",
+  "en": "Today's special is a veal cutlet,"
+ },
+ {
+  "id": "M1#5668",
+  "en": "our \"Schnitzel\"."
+ },
+ {
+  "id": "M1#5669",
+  "en": "I'll have some wine with it, too."
+ },
+ {
+  "id": "M1#5670",
+  "en": "Sorry to keep you waiting."
+ },
+ {
+  "id": "M1#5671",
+  "en": "Please enjoy your meal while it's hot."
+ },
+ {
+  "id": "M1#5672",
+  "en": "Please come again."
+ },
+ {
+  "id": "M1#5673",
+  "en": "Oh, you're the one I met the other day..."
+ },
+ {
+  "id": "M1#5674",
+  "en": "You came! Thank you so much."
+ },
+ {
+  "id": "M1#5675",
+  "en": "Today's special is \"Neu\"'s very own"
+ },
+ {
+  "id": "M1#5676",
+  "en": "sausage."
+ },
+ {
+  "id": "M1#5677",
+  "en": "Do try it with potatoes and cheese."
+ },
+ {
+  "id": "M1#5678",
+  "en": "And I'll have a beer with that."
+ },
+ {
+  "id": "M1#5679",
+  "en": "Please take your time."
+ }
+]

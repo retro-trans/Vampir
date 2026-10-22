@@ -1,0 +1,330 @@
+[
+ {
+  "id": "M2#4240",
+  "en": "I'd think it's risky to walk around at night..."
+ },
+ {
+  "id": "M2#4241",
+  "en": "(He's so careless. I hope he'll be all right.)"
+ },
+ {
+  "id": "M2#4242",
+  "en": "Well, well! Good evening."
+ },
+ {
+  "id": "M2#4243",
+  "en": "Wow, you have so many books."
+ },
+ {
+  "id": "M2#4244",
+  "en": "Then I'd like to borrow this book, please."
+ },
+ {
+  "id": "M2#4245",
+  "en": "Yes, I have certain ties to that sort of thing."
+ },
+ {
+  "id": "M2#4246",
+  "en": "Is that everything?"
+ },
+ {
+  "id": "M2#4247",
+  "en": "The pleasure is mine.",
+  "variants": [
+   {
+    "msg": 165931,
+    "en": "Thank you."
+   }
+  ]
+ },
+ {
+  "id": "M2#4248",
+  "en": "Well then, I'll borrow the book."
+ },
+ {
+  "id": "M2#4249",
+  "en": "Then I'd like to borrow this book, please."
+ },
+ {
+  "id": "M2#4250",
+  "en": "Ralph, please lend me your strength."
+ },
+ {
+  "id": "M2#4251",
+  "en": "You won't be able to read at night anymore,"
+ },
+ {
+  "id": "M2#4252",
+  "en": "but please bear with it."
+ },
+ {
+  "id": "M2#4253",
+  "en": "Master, I'll obey your every command."
+ },
+ {
+  "id": "M2#4254",
+  "en": "Maybe I banged into the edge of a boat."
+ },
+ {
+  "id": "M2#4255",
+  "en": "Ow, my leg hurts. And my hands hurt too."
+ },
+ {
+  "id": "M2#4256",
+  "en": "I dreamed I hit a woman."
+ },
+ {
+  "id": "M2#4257",
+  "en": "I feel rotten about it."
+ },
+ {
+  "id": "M2#4258",
+  "en": "Oh, hi there. Good morning."
+ },
+ {
+  "id": "M2#4259",
+  "en": "Lovely morning, isn't it?"
+ },
+ {
+  "id": "M2#4260",
+  "en": "...That's quite a big load you have."
+ },
+ {
+  "id": "M2#4261",
+  "en": "This? They're planks."
+ },
+ {
+  "id": "M2#4262",
+  "en": "I'm Abraham, the boat-hire man."
+ },
+ {
+  "id": "M2#4263",
+  "en": "I'm about to go repair my boats."
+ },
+ {
+  "id": "M2#4264",
+  "en": "Good luck with your work."
+ },
+ {
+  "id": "M2#4265",
+  "en": "Thanks. See you around, then."
+ },
+ {
+  "id": "M2#4266",
+  "en": "Oh, we meet again."
+ },
+ {
+  "id": "M2#4267",
+  "en": "I'm short of planks, so I have to go back for more."
+ },
+ {
+  "id": "M2#4268",
+  "en": ", wasn't it?",
+  "note": "after the name at the start of the message; next row starts a new sentence."
+ },
+ {
+  "id": "M2#4269",
+  "en": "Good morning. Are you off to work now?"
+ },
+ {
+  "id": "M2#4270",
+  "en": "Me too. I just can't keep up with the repairs"
+ },
+ {
+  "id": "M2#4271",
+  "en": "Good morning!",
+  "note": "shared with Agatha (msgs 353047/353972)."
+ },
+ {
+  "id": "M2#4272",
+  "en": "Let's do our best again today."
+ },
+ {
+  "id": "M2#4273",
+  "en": "Though I've been messing up a lot lately"
+ },
+ {
+  "id": "M2#4274",
+  "en": "I hope today's a good day."
+ },
+ {
+  "id": "M2#4275",
+  "en": "Good evening. Looks like rain."
+ },
+ {
+  "id": "M2#4276",
+  "en": "I'll have to sort the boats out tomorrow."
+ },
+ {
+  "id": "M2#4277",
+  "en": "Boats?"
+ },
+ {
+  "id": "M2#4278",
+  "en": "I run a boat-hire business."
+ },
+ {
+  "id": "M2#4279",
+  "en": "Why not take a boat out yourself sometime?"
+ },
+ {
+  "id": "M2#4280",
+  "en": "A boat trip down the river is a real treat."
+ },
+ {
+  "id": "M2#4281",
+  "en": "Rowing down the Thames... it's great fun."
+ },
+ {
+  "id": "M2#4282",
+  "en": "Good evening. Hi there."
+ },
+ {
+  "id": "M2#4283",
+  "en": "It got a bit chilly today, didn't it?"
+ },
+ {
+  "id": "M2#4284",
+  "en": "Hardly anyone hired a boat, either."
+ },
+ {
+  "id": "M2#4285",
+  "en": "I started hiring out boats for pocket money,"
+ },
+ {
+  "id": "M2#4286",
+  "en": "but it barely pays."
+ },
+ {
+  "id": "M2#4287",
+  "en": "I wonder what I'm doing wrong."
+ },
+ {
+  "id": "M2#4288",
+  "en": "Good evening. We do keep meeting."
+ },
+ {
+  "id": "M2#4289",
+  "en": "Today was awful. Nothing but blunders."
+ },
+ {
+  "id": "M2#4290",
+  "en": "A boat I hired out had a hole in it."
+ },
+ {
+  "id": "M2#4291",
+  "en": "The customer was furious."
+ },
+ {
+  "id": "M2#4292",
+  "en": "Seems I botched the repair"
+ },
+ {
+  "id": "M2#4293",
+  "en": "I just can't seem to earn any more"
+ },
+ {
+  "id": "M2#4294",
+  "en": "Oh, welcome! Want a boat?"
+ },
+ {
+  "id": "M2#4295",
+  "en": "No, I was merely passing by."
+ },
+ {
+  "id": "M2#4296",
+  "en": "O-oh, I see"
+ },
+ {
+  "id": "M2#4297",
+  "en": "I run the boat hire here, and my name"
+ },
+ {
+  "id": "M2#4298",
+  "en": "is Abraham. Do come by sometime."
+ },
+ {
+  "id": "M2#4299",
+  "en": "(Not a chance! As if I'd go near the river!)"
+ },
+ {
+  "id": "M2#4300",
+  "en": "So you came!"
+ },
+ {
+  "id": "M2#4301",
+  "en": "Nobody's hiring boats at all, you know."
+ },
+ {
+  "id": "M2#4302",
+  "en": "Do give it a try sometime, please."
+ },
+ {
+  "id": "M2#4303",
+  "en": "Sigh... I'm not making any money"
+ },
+ {
+  "id": "M2#4304",
+  "en": "Sigh"
+ },
+ {
+  "id": "M2#4305",
+  "en": "Oh, h-hello."
+ },
+ {
+  "id": "M2#4306",
+  "en": "What's wrong? You look glum."
+ },
+ {
+  "id": "M2#4307",
+  "en": "My work isn't going well"
+ },
+ {
+  "id": "M2#4308",
+  "en": "I'm poor, so I really need money somehow."
+ },
+ {
+  "id": "M2#4309",
+  "en": "But boats just aren't popular."
+ },
+ {
+  "id": "M2#4310",
+  "en": "Even when the odd customer comes, they say"
+ },
+ {
+  "id": "M2#4311",
+  "en": "the boat's battered or it leaks"
+ },
+ {
+  "id": "M2#4312",
+  "en": "I admit, the ones I use are old."
+ },
+ {
+  "id": "M2#4313",
+  "en": "I've lost the confidence to keep this job up"
+ },
+ {
+  "id": "M2#4314",
+  "en": "It's hopeless."
+ },
+ {
+  "id": "M2#4315",
+  "en": "I worked hard to repair it, but the boat"
+ },
+ {
+  "id": "M2#4316",
+  "en": "still isn't right... Today it even capsized"
+ },
+ {
+  "id": "M2#4317",
+  "en": "on me! I'm not earning a thing."
+ },
+ {
+  "id": "M2#4318",
+  "en": "Oh, what am I going to do"
+ },
+ {
+  "id": "M2#4319",
+  "en": "With more money I could buy a new boat,"
+ }
+]

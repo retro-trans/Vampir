@@ -1,0 +1,359 @@
+[
+ {
+  "id": "M2#320",
+  "en": "Well, for 900 pounds,"
+ },
+ {
+  "id": "M2#321",
+  "en": "I'll give you info that's worth every penny."
+ },
+ {
+  "id": "M2#322",
+  "en": "There's a gambling den under the pub."
+ },
+ {
+  "id": "M2#323",
+  "en": "Head there first."
+ },
+ {
+  "id": "M2#324",
+  "en": "Say just two words to the dealer,"
+ },
+ {
+  "id": "M2#325",
+  "en": "\"Black Rose,\""
+ },
+ {
+  "id": "M2#326",
+  "en": "and they'll let you in."
+ },
+ {
+  "id": "M2#327",
+  "en": "Go to the gambling den downstairs."
+ },
+ {
+  "id": "M2#328",
+  "en": "Then check out all sorts of things"
+ },
+ {
+  "id": "M2#329",
+  "en": "with your own eyes."
+ },
+ {
+  "id": "M2#330",
+  "en": "Good luck to ya!"
+ },
+ {
+  "id": "M2#331",
+  "en": "Don't forget: \"Black Rose.\""
+ },
+ {
+  "id": "M2#332",
+  "en": "Your blood... I shall take it for my own."
+ },
+ {
+  "id": "M2#333",
+  "en": "Wh-who's there?!"
+ },
+ {
+  "id": "M2#334",
+  "en": "What the hell are you doing?!!"
+ },
+ {
+  "id": "M2#335",
+  "en": "From this day on, you shall work as my servant."
+ },
+ {
+  "id": "M2#336",
+  "en": "Gyaaahiiieeeeeee!!!!"
+ },
+ {
+  "id": "M2#337",
+  "en": "Even your sort"
+ },
+ {
+  "id": "M2#338",
+  "en": "will do well enough as a servant."
+ },
+ {
+  "id": "M2#339",
+  "en": "Say, there's a name all the town's whispering.",
+  "note": "Must be followed by #270 (slice 003) as a full sentence, e.g. 'Ever heard of Jack the Ripper?'"
+ },
+ {
+  "id": "M2#340",
+  "en": "Welcome to my secret hideout"
+ },
+ {
+  "id": "M2#341",
+  "en": "No. 1!"
+ },
+ {
+  "id": "M2#342",
+  "en": "Or that's the kinda place it is, anyway."
+ },
+ {
+  "id": "M2#343",
+  "en": "Do you really know that Jack?"
+ },
+ {
+  "id": "M2#344",
+  "en": "(This seems a little fishy...)"
+ },
+ {
+  "id": "M2#345",
+  "en": "I'll bring you as much money as it takes."
+ },
+ {
+  "id": "M2#346",
+  "en": "Your blood... I'll be taking it."
+ },
+ {
+  "id": "M2#347",
+  "en": "Starting today, I'd like you to"
+ },
+ {
+  "id": "M2#348",
+  "en": "help me with my work, please."
+ },
+ {
+  "id": "M2#349",
+  "en": "Someone like you, I think,"
+ },
+ {
+  "id": "M2#350",
+  "en": "spending your time helping me"
+ },
+ {
+  "id": "M2#351",
+  "en": "might do everyone more good."
+ },
+ {
+  "id": "M2#352",
+  "en": "Bestow your wisdom upon me, my lord..."
+ },
+ {
+  "id": "M2#353",
+  "en": "Now, command me as you will..."
+ },
+ {
+  "id": "M2#354",
+  "en": "My body aches, and I can't fathom why."
+ },
+ {
+  "id": "M2#355",
+  "en": "I can hardly have fallen out of bed..."
+ },
+ {
+  "id": "M2#356",
+  "en": "Pray, give me your orders...",
+  "note": "Follows '{NAME}, my master...' (#0), so it starts a sentence."
+ },
+ {
+  "id": "M2#357",
+  "en": "What on earth has happened to me...?"
+ },
+ {
+  "id": "M2#358",
+  "en": "My weariness grows worse each time I sleep..."
+ },
+ {
+  "id": "M2#359",
+  "en": "Ah, who might you be?"
+ },
+ {
+  "id": "M2#360",
+  "en": "Forgive me, I was reading..."
+ },
+ {
+  "id": "M2#361",
+  "en": "No, think nothing of it."
+ },
+ {
+  "id": "M2#362",
+  "en": "I've just moved here and came to say hello."
+ },
+ {
+  "id": "M2#363",
+  "en": ".",
+  "note": "After the name: 'I am {NAME}.', 'My name is {NAME}.', '{NAME}.' in reply to 'who are you?'.",
+  "variants": [
+   {
+    "msg": 12978,
+    "en": " is my name. "
+   }
+  ]
+ },
+ {
+  "id": "M2#364",
+  "en": "Nice to meet you."
+ },
+ {
+  "id": "M2#365",
+  "en": "How courteous. I'm Matthew, a teacher."
+ },
+ {
+  "id": "M2#366",
+  "en": "I raise my pupils to be fine modern men."
+ },
+ {
+  "id": "M2#367",
+  "en": "I take pride in my work."
+ },
+ {
+  "id": "M2#368",
+  "en": "(To me, humans are"
+ },
+ {
+  "id": "M2#369",
+  "en": "all the same, though.)"
+ },
+ {
+  "id": "M2#370",
+  "en": "Don't you have work to go to?"
+ },
+ {
+  "id": "M2#371",
+  "en": "Good day to you, er..."
+ },
+ {
+  "id": "M2#372",
+  "en": "Ah, forgive me. I was lost in thought..."
+ },
+ {
+  "id": "M2#373",
+  "en": "Sorry, I've disturbed you."
+ },
+ {
+  "id": "M2#374",
+  "en": "I'll take my leave."
+ },
+ {
+  "id": "M2#375",
+  "en": "! What a pleasant surprise.",
+  "note": "After the name: '{NAME}! What a pleasant surprise.'"
+ },
+ {
+  "id": "M2#376",
+  "en": "I'm glad to see you looking well."
+ },
+ {
+  "id": "M2#377",
+  "en": "My days have been good too, thank you."
+ },
+ {
+  "id": "M2#378",
+  "en": "Pondering learning, guiding pupils to truth."
+ },
+ {
+  "id": "M2#379",
+  "en": "It's a good life."
+ },
+ {
+  "id": "M2#380",
+  "en": "Good evening.",
+  "variants": [
+   {
+    "msg": 258971,
+    "en": " Good evening."
+   }
+  ]
+ },
+ {
+  "id": "M2#381",
+  "en": "Hm? Oh, ah... Good evening."
+ },
+ {
+  "id": "M2#382",
+  "en": "Pardon me, I was reading a book..."
+ },
+ {
+  "id": "M2#383",
+  "en": "Ah, my apologies."
+ },
+ {
+  "id": "M2#384",
+  "en": "So, what is it you're reading?"
+ },
+ {
+  "id": "M2#385",
+  "en": "A specialist text. A book on science."
+ },
+ {
+  "id": "M2#386",
+  "en": "An age of technical progress, ideal for study!"
+ },
+ {
+  "id": "M2#387",
+  "en": "I begrudge even the time spent walking."
+ },
+ {
+  "id": "M2#388",
+  "en": "...You don't seem very interested."
+ },
+ {
+  "id": "M2#389",
+  "en": "I'm in a hurry, so I'll be going."
+ },
+ {
+  "id": "M2#390",
+  "en": "Ah, good evening... Who might you be again?"
+ },
+ {
+  "id": "M2#391",
+  "en": "Good evening... Er, Mister...?"
+ },
+ {
+  "id": "M2#392",
+  "en": "Pardon me, I was absorbed in my reading..."
+ },
+ {
+  "id": "M2#393",
+  "en": "No, really, my apologies. Let's talk another time."
+ },
+ {
+  "id": "M2#394",
+  "en": "Mutter, mutter... Science truly is wonderful."
+ },
+ {
+  "id": "M2#395",
+  "en": "He could just read at home at his leisure..."
+ },
+ {
+  "id": "M2#396",
+  "en": "Ah, ",
+  "note": "Before the name.",
+  "variants": [
+   {
+    "msg": 99219,
+    "en": "Yes, I am "
+   },
+   {
+    "msg": 103189,
+    "en": "Yes, I am "
+   },
+   {
+    "msg": 131985,
+    "en": "Yes, I am "
+   },
+   {
+    "msg": 226093,
+    "en": "Indeed."
+   }
+  ]
+ },
+ {
+  "id": "M2#397",
+  "en": "! Good evening.",
+  "note": "After the name, as #69 ('!') with the next row starting a sentence."
+ },
+ {
+  "id": "M2#398",
+  "en": "I've made sure to remember your name."
+ },
+ {
+  "id": "M2#399",
+  "en": "<Not reading a book today?>",
+  "note": "Answer choice (no used_in)."
+ }
+]

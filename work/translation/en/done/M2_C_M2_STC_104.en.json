@@ -1,0 +1,331 @@
+[
+ {
+  "id": "M2#8320",
+  "en": "Forgive the intrusion."
+ },
+ {
+  "id": "M2#8321",
+  "en": "I shall take my leave at once."
+ },
+ {
+  "id": "M2#8322",
+  "en": "Oh, not at all, I assure you."
+ },
+ {
+  "id": "M2#8323",
+  "en": "Some gentlemen do care about their hair."
+ },
+ {
+  "id": "M2#8324",
+  "en": "Arthur, the hairdresser here, is young,"
+ },
+ {
+  "id": "M2#8325",
+  "en": "but he's very skilled. He's quite renowned."
+ },
+ {
+  "id": "M2#8326",
+  "en": "I see. Then I shall try him another time."
+ },
+ {
+  "id": "M2#8327",
+  "en": "Why, we met the other day, didn't we?",
+  "note": "Follows #8316 on a new line; starts a sentence (dependency from slice 103)."
+ },
+ {
+  "id": "M2#8328",
+  "en": "Oh, you've come already, have you?"
+ },
+ {
+  "id": "M2#8329",
+  "en": "Well then, good day."
+ },
+ {
+  "id": "M2#8330",
+  "en": "Oh, good day."
+ },
+ {
+  "id": "M2#8331",
+  "en": "We meet again."
+ },
+ {
+  "id": "M2#8332",
+  "en": "I have nothing else to do, you see,"
+ },
+ {
+  "id": "M2#8333",
+  "en": "so I'm always here."
+ },
+ {
+  "id": "M2#8334",
+  "en": "Silly, isn't it?"
+ },
+ {
+  "id": "M2#8335",
+  "en": "There's nothing to do at home either"
+ },
+ {
+  "id": "M2#8336",
+  "en": "and nothing I care to say to my husband."
+ },
+ {
+  "id": "M2#8337",
+  "en": "Arthur the hairdresser is my best company."
+ },
+ {
+  "id": "M2#8338",
+  "en": "Oh, hello. Back again, are you?"
+ },
+ {
+  "id": "M2#8339",
+  "en": "Have you come to have your hair done?"
+ },
+ {
+  "id": "M2#8340",
+  "en": "The hairdresser here is simply marvelous."
+ },
+ {
+  "id": "M2#8341",
+  "en": "Why don't you give him a try?"
+ },
+ {
+  "id": "M2#8342",
+  "en": "Oh, listen to me, I sound like a shopgirl."
+ },
+ {
+  "id": "M2#8343",
+  "en": "Rather than living in luxury, working hard"
+ },
+ {
+  "id": "M2#8344",
+  "en": "seems somehow the better way to live"
+ },
+ {
+  "id": "M2#8345",
+  "en": "Seeing you is a welcome change."
+ },
+ {
+  "id": "M2#8346",
+  "en": "My life is little more than a way to pass"
+ },
+ {
+  "id": "M2#8347",
+  "en": "the time, after all."
+ },
+ {
+  "id": "M2#8348",
+  "en": "Perhaps I should find a hobby, too."
+ },
+ {
+  "id": "M2#8349",
+  "en": "Tending my hair every day grows tiresome."
+ },
+ {
+  "id": "M2#8350",
+  "en": "Hello. Who might you be?"
+ },
+ {
+  "id": "M2#8351",
+  "en": "Have you come to see my husband, Norman?"
+ },
+ {
+  "id": "M2#8352",
+  "en": "Norman is out at work."
+ },
+ {
+  "id": "M2#8353",
+  "en": "He's rarely home at this hour."
+ },
+ {
+  "id": "M2#8354",
+  "en": "I'm sorry. Please do call again."
+ },
+ {
+  "id": "M2#8355",
+  "en": "If it's my husband you want,"
+ },
+ {
+  "id": "M2#8356",
+  "en": "why not try his office?"
+ },
+ {
+  "id": "M2#8357",
+  "en": "Hello. What brings you here today?"
+ },
+ {
+  "id": "M2#8358",
+  "en": "If I will do, shall I keep you company?"
+ },
+ {
+  "id": "M2#8359",
+  "en": "Every day is so dull, so very dull"
+ },
+ {
+  "id": "M2#8360",
+  "en": "I'll invite you to tea sometime."
+ },
+ {
+  "id": "M2#8361",
+  "en": "Do come if you have the time."
+ },
+ {
+  "id": "M2#8362",
+  "en": "We're well acquainted now, aren't we?"
+ },
+ {
+  "id": "M2#8363",
+  "en": "Do dine with us when my husband is home."
+ },
+ {
+  "id": "M2#8364",
+  "en": "Our cook is excellent, you know."
+ },
+ {
+  "id": "M2#8365",
+  "en": "Do tell me some interesting stories."
+ },
+ {
+  "id": "M2#8366",
+  "en": "I'll be waiting."
+ },
+ {
+  "id": "M2#8367",
+  "en": "If you are so very bored,"
+ },
+ {
+  "id": "M2#8368",
+  "en": "then I shall grant you a purpose."
+ },
+ {
+  "id": "M2#8369",
+  "en": "Be my hands and feet, and labor for me"
+ },
+ {
+  "id": "M2#8370",
+  "en": "Oh, ",
+  "note": "Charm scene: 'Oh, {NAME}...'"
+ },
+ {
+  "id": "M2#8371",
+  "en": "To think you'd come all the way here.",
+  "note": "No used_in in the slice; msg.py shows it in msg 325043 after '{NAME}...' + pause, on a new line."
+ },
+ {
+  "id": "M2#8372",
+  "en": "Come over here.",
+  "note": "Msg 325043: after #741 \"What's the matter?\" + pause (space added)."
+ },
+ {
+  "id": "M2#8373",
+  "en": "Now",
+  "note": "Msg 325043: 'Now...' (+ three #265 dots)."
+ },
+ {
+  "id": "M2#8374",
+  "en": "Ha ha ha,",
+  "note": "Msg 325130 (player, after charming her); pauses add the spaces."
+ },
+ {
+  "id": "M2#8375",
+  "en": "excellent",
+  "note": "'excellent...' after 'Ha ha ha,'."
+ },
+ {
+  "id": "M2#8376",
+  "en": "Another servant."
+ },
+ {
+  "id": "M2#8377",
+  "en": "How weak and fragile humans are.",
+  "note": "After #3352 'Hmph.' + pause."
+ },
+ {
+  "id": "M2#8378",
+  "en": "Good day, madam."
+ },
+ {
+  "id": "M2#8379",
+  "en": "We have not met, madam. The soft sunlight"
+ },
+ {
+  "id": "M2#8380",
+  "en": "suited you so, I couldn't help but speak."
+ },
+ {
+  "id": "M2#8381",
+  "en": "My, so young and such a flatterer."
+ },
+ {
+  "id": "M2#8382",
+  "en": "Being greeted by a lovely young man like"
+ },
+ {
+  "id": "M2#8383",
+  "en": "you isn't bad at all."
+ },
+ {
+  "id": "M2#8384",
+  "en": "I'm Virginia. Pleased to meet you."
+ },
+ {
+  "id": "M2#8385",
+  "en": "The pleasure is all mine."
+ },
+ {
+  "id": "M2#8386",
+  "en": "Good day. I hope we meet again."
+ },
+ {
+  "id": "M2#8387",
+  "en": "Please don't worry about it, madam."
+ },
+ {
+  "id": "M2#8388",
+  "en": "To be greeted by such a beautiful lady"
+ },
+ {
+  "id": "M2#8389",
+  "en": "is an honor."
+ },
+ {
+  "id": "M2#8390",
+  "en": "Of course, madam. My name is",
+  "note": "'My name is' carried in: next line is '{NAME}.' (#5477) + ' Pleased to meet you.'"
+ },
+ {
+  "id": "M2#8391",
+  "en": "Hello, and good day, madam."
+ },
+ {
+  "id": "M2#8392",
+  "en": "I only wandered in by mistake,"
+ },
+ {
+  "id": "M2#8393",
+  "en": "and I'll be leaving at once."
+ },
+ {
+  "id": "M2#8394",
+  "en": "Oh, but you're here now."
+ },
+ {
+  "id": "M2#8395",
+  "en": "Some gentlemen do care about their hair."
+ },
+ {
+  "id": "M2#8396",
+  "en": "Oh, really? Then I'll be sure to try him."
+ },
+ {
+  "id": "M2#8397",
+  "en": "Oh, but you've only just come in."
+ },
+ {
+  "id": "M2#8398",
+  "en": "But I'd like to talk with you, too"
+ },
+ {
+  "id": "M2#8399",
+  "en": "Our cook is excellent."
+ }
+]

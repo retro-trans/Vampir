@@ -1,0 +1,28 @@
+# Japanese source text and extracted game data (never commit, see AGENTS.md)
+work/source/
+work/translation/**/*.json
+!work/translation/**/*.en.json
+
+# builds, emulator, captures
+work/output/
+work/emulator/
+work/ui/shots/
+work/ui/states/
+*.bin
+*.cue
+*.sav
+*.iso
+*.BIN
+*.STR
+
+# python
+__pycache__/
+*.pyc
+
+# translation reports quote the Japanese source; extracted original game graphics
+work/translation/**/reports/
+work/ui/tims/
+work/ui/gfx_preview/
+
+# local release configuration (never commit)
+release-local.json

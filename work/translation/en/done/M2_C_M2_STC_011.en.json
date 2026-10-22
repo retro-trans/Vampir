@@ -1,0 +1,329 @@
+[
+ {
+  "id": "M2#880",
+  "en": "I have only just arrived in London."
+ },
+ {
+  "id": "M2#881",
+  "en": "We've had nothing but trouble lately as it is."
+ },
+ {
+  "id": "M2#882",
+  "en": "If you don't want to look suspicious, hurry along home."
+ },
+ {
+  "id": "M2#883",
+  "en": "Hm...? Oh, it's you."
+ },
+ {
+  "id": "M2#884",
+  "en": "I nearly took you for a suspicious character."
+ },
+ {
+  "id": "M2#885",
+  "en": "You look like you could melt right into the dark."
+ },
+ {
+  "id": "M2#886",
+  "en": "Just like the killer who has London in an uproar:"
+ },
+ {
+  "id": "M2#887",
+  "en": "gone without a trace after every crime."
+ },
+ {
+  "id": "M2#888",
+  "en": "Honestly, all this extra investigating is a real headache for me."
+ },
+ {
+  "id": "M2#889",
+  "en": ", is it? Good evening.",
+  "note": "after name: 'Chris, is it? Good evening.'"
+ },
+ {
+  "id": "M2#890",
+  "en": "I'm on night patrol again. It's exhausting."
+ },
+ {
+  "id": "M2#891",
+  "en": "If only the townsfolk would form a watch or"
+ },
+ {
+  "id": "M2#892",
+  "en": "help out, it'd make my job much easier",
+  "note": "followed by #152 '...'. #963 (slice 012, msg 30251) is the same line with 。 and should read 'help out, it'd make my job much easier.'"
+ },
+ {
+  "id": "M2#893",
+  "en": "That's too much to ask, I guess. Sigh, I'm beat."
+ },
+ {
+  "id": "M2#894",
+  "en": "If you see anyone strange, do let me know."
+ },
+ {
+  "id": "M2#895",
+  "en": "What's the matter? Directions? Looking for someone?"
+ },
+ {
+  "id": "M2#896",
+  "en": "I would like to ask the way..."
+ },
+ {
+  "id": "M2#897",
+  "en": "If it's directions, there's a map right here, so"
+ },
+ {
+  "id": "M2#898",
+  "en": "help yourself."
+ },
+ {
+  "id": "M2#899",
+  "en": "I'm busy with my nightly patrols and reports."
+ },
+ {
+  "id": "M2#900",
+  "en": "Daytime's fine, but at night this city's unsafe."
+ },
+ {
+  "id": "M2#901",
+  "en": "So you'd best be very careful."
+ },
+ {
+  "id": "M2#902",
+  "en": "Sigh, so busy... Mutter, mutter",
+  "note": "followed by #152 '...'"
+ },
+ {
+  "id": "M2#903",
+  "en": "Yes, what is it... Oh, you. What do you want?"
+ },
+ {
+  "id": "M2#904",
+  "en": "You hardly look like a victim. You look more"
+ },
+ {
+  "id": "M2#905",
+  "en": "like the type who'd go and cause trouble."
+ },
+ {
+  "id": "M2#906",
+  "en": "You seem busy every day, Constable Colin."
+ },
+ {
+  "id": "M2#907",
+  "en": "I was passing by, so I thought I'd drop in."
+ },
+ {
+  "id": "M2#908",
+  "en": "Too right. I'm so busy my head's spinning."
+ },
+ {
+  "id": "M2#909",
+  "en": "Pickpockets, burglars, the Ripper"
+ },
+ {
+  "id": "M2#910",
+  "en": "My whole day goes on writing up the cases."
+ },
+ {
+  "id": "M2#911",
+  "en": "What's this, you again...? Give me a break."
+ },
+ {
+  "id": "M2#912",
+  "en": "I'm a busy man, you know."
+ },
+ {
+  "id": "M2#913",
+  "en": "You've been going all over, poking around."
+ },
+ {
+  "id": "M2#914",
+  "en": "Are you a relative of a recent victim or such?"
+ },
+ {
+  "id": "M2#915",
+  "en": "Or perhaps",
+  "note": "followed by #152 '...'"
+ },
+ {
+  "id": "M2#916",
+  "en": "Oh, it's you. Hard at it every day, I see."
+ },
+ {
+  "id": "M2#917",
+  "en": "I don't know what you're after, but keep at it."
+ },
+ {
+  "id": "M2#918",
+  "en": "Whatever it is, you're a keen one, I'll say that."
+ },
+ {
+  "id": "M2#919",
+  "en": "Sigh, call it diligence or call it zeal",
+  "note": "followed by #152 '...'"
+ },
+ {
+  "id": "M2#920",
+  "en": "Walking all over town daily, are you all right?"
+ },
+ {
+  "id": "M2#921",
+  "en": "You'd make a better policeman than I do."
+ },
+ {
+  "id": "M2#922",
+  "en": "Truth is, I'm not a very conscientious man."
+ },
+ {
+  "id": "M2#923",
+  "en": "I'm utterly worn down by how busy it's been."
+ },
+ {
+  "id": "M2#924",
+  "en": "I almost wish you'd take my place. Sigh."
+ },
+ {
+  "id": "M2#925",
+  "en": "Ahh, being a policeman is a thankless job."
+ },
+ {
+  "id": "M2#926",
+  "en": "Criminals and citizens just run me ragged."
+ },
+ {
+  "id": "M2#927",
+  "en": "Hmm... And who might you be?"
+ },
+ {
+  "id": "M2#928",
+  "en": "What's your business? I'm an officer. I won't"
+ },
+ {
+  "id": "M2#929",
+  "en": "overlook anything shady. State your name."
+ },
+ {
+  "id": "M2#930",
+  "en": "You are mistaken. I am no one suspicious."
+ },
+ {
+  "id": "M2#931",
+  "en": "This is my first time in London."
+ },
+ {
+  "id": "M2#932",
+  "en": "Hmph... I see. Did some noble send you here,"
+ },
+ {
+  "id": "M2#933",
+  "en": "a detective or something of the sort?"
+ },
+ {
+  "id": "M2#934",
+  "en": "Looking into crimes is police work, you know."
+ },
+ {
+  "id": "M2#935",
+  "en": "Well, I'm off duty right now myself."
+ },
+ {
+  "id": "M2#936",
+  "en": "Whatever you do is no concern of mine."
+ },
+ {
+  "id": "M2#937",
+  "en": "What is it? Did you see something suspicious?"
+ },
+ {
+  "id": "M2#938",
+  "en": "Report it while I'm on duty, would you?"
+ },
+ {
+  "id": "M2#939",
+  "en": "... wasn't it?",
+  "note": "after name: 'Chris... wasn't it?'"
+ },
+ {
+  "id": "M2#940",
+  "en": "You seem to be wandering all over the place."
+ },
+ {
+  "id": "M2#941",
+  "en": "Detective or seeking someone, whatever it is,"
+ },
+ {
+  "id": "M2#942",
+  "en": "just don't go causing any big commotion."
+ },
+ {
+  "id": "M2#943",
+  "en": "I'd rather you didn't add to my workload."
+ },
+ {
+  "id": "M2#944",
+  "en": "Come on now, I'm busy every single day."
+ },
+ {
+  "id": "M2#945",
+  "en": "Please, at least let me rest when I'm at home."
+ },
+ {
+  "id": "M2#946",
+  "en": "Oh, all right. Care to stay for some tea?"
+ },
+ {
+  "id": "M2#947",
+  "en": "I know you're not a bad sort."
+ },
+ {
+  "id": "M2#948",
+  "en": "I can't be warm, but you're welcome here."
+ },
+ {
+  "id": "M2#949",
+  "en": "I suppose I'm not cut out to be a policeman."
+ },
+ {
+  "id": "M2#950",
+  "en": "I'm lazy by nature. When it gets this busy,",
+  "note": "#976 (slice 012, msg 30630) is the same line without 。: same English."
+ },
+ {
+  "id": "M2#951",
+  "en": "I get sick and tired of the whole thing."
+ },
+ {
+  "id": "M2#952",
+  "en": "Come again if you like. I won't turn you away."
+ },
+ {
+  "id": "M2#953",
+  "en": "I'm nobody suspicious, honestly."
+ },
+ {
+  "id": "M2#954",
+  "en": "I've only just come to London."
+ },
+ {
+  "id": "M2#955",
+  "en": "I'm Constable Colin."
+ },
+ {
+  "id": "M2#956",
+  "en": "Avoid any suspicious behavior."
+ },
+ {
+  "id": "M2#957",
+  "en": "You haven't seen anything strange, have you?"
+ },
+ {
+  "id": "M2#958",
+  "en": "I don't need any more work piled on me."
+ },
+ {
+  "id": "M2#959",
+  "en": "I'm not anyone suspicious, really."
+ }
+]

@@ -1,0 +1,334 @@
+[
+ {
+  "id": "M1#5920",
+  "en": "It doesn't seem to be around here."
+ },
+ {
+  "id": "M1#5921",
+  "en": "Then I'll help you look for it."
+ },
+ {
+  "id": "M1#5922",
+  "en": "If I find it, I'll return it to you quietly."
+ },
+ {
+  "id": "M1#5923",
+  "en": "Is this the ring you meant?"
+ },
+ {
+  "id": "M1#5924",
+  "en": "...!",
+  "note": "six mid-dots + ! -> '...!'"
+ },
+ {
+  "id": "M1#5925",
+  "en": "A jade ring..."
+ },
+ {
+  "id": "M1#5926",
+  "en": "It must mean a great deal to you."
+ },
+ {
+  "id": "M1#5927",
+  "en": "Here, I'm giving it back."
+ },
+ {
+  "id": "M1#5928",
+  "en": "Thank you. I really must"
+ },
+ {
+  "id": "M1#5929",
+  "en": "repay you somehow."
+ },
+ {
+  "id": "M1#5930",
+  "en": "Too many eyes here, and at the barracks."
+ },
+ {
+  "id": "M1#5931",
+  "en": "Come to my room in the barracks tonight."
+ },
+ {
+  "id": "M1#5932",
+  "en": "Still no sign of the ring..."
+ },
+ {
+  "id": "M1#5933",
+  "en": ", I've been waiting for you."
+ },
+ {
+  "id": "M1#5934",
+  "en": "Somehow, I want to tell you everything."
+ },
+ {
+  "id": "M1#5935",
+  "en": "That is what's engraved inside this ring."
+ },
+ {
+  "id": "M1#5936",
+  "en": "Elizabeth is my real name."
+ },
+ {
+  "id": "M1#5937",
+  "en": "Why pretend to be a man?"
+ },
+ {
+  "id": "M1#5938",
+  "en": "My newborn child died,",
+  "note": "Hans/Elizabeth, in msg 231424 (night scene)"
+ },
+ {
+  "id": "M1#5939",
+  "en": "and I resolved to join the military."
+ },
+ {
+  "id": "M1#5940",
+  "en": "First the army, then the navy..."
+ },
+ {
+  "id": "M1#5941",
+  "en": "I just want to keep this ring, at least."
+ },
+ {
+  "id": "M1#5942",
+  "en": "You are a strong woman, and a sad one."
+ },
+ {
+  "id": "M1#5943",
+  "en": "Elizabeth, in his place, would you let me"
+ },
+ {
+  "id": "M1#5944",
+  "en": "kiss you?"
+ },
+ {
+  "id": "M1#5945",
+  "en": "Just for the night, forget what hurts you.",
+  "note": "speaker inferred PLAYER (continues #5943-4 scene)"
+ },
+ {
+  "id": "M1#5946",
+  "en": "Until one day you can rise above that pain."
+ },
+ {
+  "id": "M1#5947",
+  "en": "Master",
+  "note": "Marlene, charmed; followed by #2 '...'"
+ },
+ {
+  "id": "M1#5948",
+  "en": "As you command.",
+  "note": "starts the line: the #180 dots before it have empty variants in this msg"
+ },
+ {
+  "id": "M1#5949",
+  "en": "Good morning, sir."
+ },
+ {
+  "id": "M1#5950",
+  "en": "I'm terribly sorry, but"
+ },
+ {
+  "id": "M1#5951",
+  "en": "we're still getting ready,"
+ },
+ {
+  "id": "M1#5952",
+  "en": "so please wait a little longer until we open."
+ },
+ {
+  "id": "M1#5953",
+  "en": "My apologies, we're still getting ready,"
+ },
+ {
+  "id": "M1#5954",
+  "en": "so please wait a little longer."
+ },
+ {
+  "id": "M1#5955",
+  "en": "Boutique Marlene will open very shortly."
+ },
+ {
+  "id": "M1#5956",
+  "en": "Please wait just a little longer."
+ },
+ {
+  "id": "M1#5957",
+  "en": "I'm sorry to keep you waiting."
+ },
+ {
+  "id": "M1#5958",
+  "en": "The shop isn't open yet, you see."
+ },
+ {
+  "id": "M1#5959",
+  "en": "Could it be, ",
+  "note": "follows #2 '...', then name + #223 ','"
+ },
+ {
+  "id": "M1#5960",
+  "en": "that you came here to see me?"
+ },
+ {
+  "id": "M1#5961",
+  "en": "Of course not",
+  "note": "followed by #2 '...' + #1488 ',' + #5520 ' I'm sorry.'"
+ },
+ {
+  "id": "M1#5962",
+  "en": "That was a silly thing to say."
+ },
+ {
+  "id": "M1#5963",
+  "en": "This is Boutique Marlene, at your service."
+ },
+ {
+  "id": "M1#5964",
+  "en": "We make everything strictly to order."
+ },
+ {
+  "id": "M1#5965",
+  "en": "From the finest materials, we tailor clothes"
+ },
+ {
+  "id": "M1#5966",
+  "en": "to fit you perfectly, in the latest fashion."
+ },
+ {
+  "id": "M1#5967",
+  "en": "What sort of garment would you like?"
+ },
+ {
+  "id": "M1#5968",
+  "en": "Let me see."
+ },
+ {
+  "id": "M1#5969",
+  "en": "Perhaps I might have a new outfit made."
+ },
+ {
+  "id": "M1#5970",
+  "en": "We look forward to your order."
+ },
+ {
+  "id": "M1#5971",
+  "en": "Let me see. Perhaps I might have a new ",
+  "note": "joins #5972 on the same line"
+ },
+ {
+  "id": "M1#5972",
+  "en": "outfit made."
+ },
+ {
+  "id": "M1#5973",
+  "en": "Happily, even this region's notables,"
+ },
+ {
+  "id": "M1#5974",
+  "en": "such as Lord Stanberg and Mr. Wesseli, are"
+ },
+ {
+  "id": "M1#5975",
+  "en": "among our clientele."
+ },
+ {
+  "id": "M1#5976",
+  "en": "Thank you for visiting us today."
+ },
+ {
+  "id": "M1#5977",
+  "en": "Good day, and welcome to Boutique Marlene."
+ },
+ {
+  "id": "M1#5978",
+  "en": "May I interest you in made-to-order wear?"
+ },
+ {
+  "id": "M1#5979",
+  "en": "I think I'll order a new shirt."
+ },
+ {
+  "id": "M1#5980",
+  "en": "Thank you very much. Then let me take your"
+ },
+ {
+  "id": "M1#5981",
+  "en": "measurements right away",
+  "note": "followed by #2 '...' + #25 '.'"
+ },
+ {
+  "id": "M1#5982",
+  "en": "Oh my, you're so tall and broad-shouldered,"
+ },
+ {
+  "id": "M1#5983",
+  "en": "you must be very popular with the ladies."
+ },
+ {
+  "id": "M1#5984",
+  "en": "Not at all."
+ },
+ {
+  "id": "M1#5985",
+  "en": "Oh, don't be so modest."
+ },
+ {
+  "id": "M1#5986",
+  "en": "Then let us discuss the style of your shirt"
+ },
+ {
+  "id": "M1#5987",
+  "en": "from tomorrow onward.",
+  "note": "shared with msg 235134 (after #6039)"
+ },
+ {
+  "id": "M1#5988",
+  "en": "I'll have a catalog prepared."
+ },
+ {
+  "id": "M1#5989",
+  "en": "we've been expecting you.",
+  "note": "lowercase: follows name + #1304 ',' on previous line"
+ },
+ {
+  "id": "M1#5990",
+  "en": "If I may get straight to it, I'd like"
+ },
+ {
+  "id": "M1#5991",
+  "en": "to settle the style of the shirt"
+ },
+ {
+  "id": "M1#5992",
+  "en": "you ordered."
+ },
+ {
+  "id": "M1#5993",
+  "en": "How about this one, with the large collar?"
+ },
+ {
+  "id": "M1#5994",
+  "en": "Yes, that will do."
+ },
+ {
+  "id": "M1#5995",
+  "en": "This style is all the rage in Paris."
+ },
+ {
+  "id": "M1#5996",
+  "en": "All the materials come from Paris, too."
+ },
+ {
+  "id": "M1#5997",
+  "en": "Then I shall wait for it to be finished."
+ },
+ {
+  "id": "M1#5998",
+  "en": ", welcome."
+ },
+ {
+  "id": "M1#5999",
+  "en": "The shirt you ordered",
+  "note": "continues in #6000 (next slice): 'is ready'"
+ }
+]

@@ -1,0 +1,339 @@
+[
+ {
+  "id": "M2#1200",
+  "en": "to the house, too! You'll always be welcome.",
+  "note": "continues #1170 (slice 014) 'And not just to the shop. From now on, come'; matches #1171 'to the house often, too! You'll be welcome.'"
+ },
+ {
+  "id": "M2#1201",
+  "en": "I'm sorry, Darrell."
+ },
+ {
+  "id": "M2#1202",
+  "en": "What I'm about to do will tear you away"
+ },
+ {
+  "id": "M2#1203",
+  "en": "from your wife, I suppose",
+  "note": "followed by #152 '...'; cut matches the JP (#1202 ends mid-sentence)"
+ },
+ {
+  "id": "M2#1204",
+  "en": "But this is the only thing I can do.",
+  "note": "no used_in; msg.py: msgs 38912 (Darrell) and 321261 (Samantha), bite scene, the villager answers '...!'"
+ },
+ {
+  "id": "M2#1205",
+  "en": "I must do something, and quickly"
+ },
+ {
+  "id": "M2#1206",
+  "en": "I have been awaiting you."
+ },
+ {
+  "id": "M2#1207",
+  "en": "Ugh... My joints ache..."
+ },
+ {
+  "id": "M2#1208",
+  "en": "Guess there's no beating old age, eh?"
+ },
+ {
+  "id": "M2#1209",
+  "en": ", my master. Give me any order you wish...",
+  "note": "after the name; same wording as #854 ', my master.' + #855 'Give me any order you wish'"
+ },
+ {
+  "id": "M2#1210",
+  "en": "In my youth I'd fall off coaches and get hurt."
+ },
+ {
+  "id": "M2#1211",
+  "en": "But lately I've always got fresh cuts. Odd, eh?"
+ },
+ {
+  "id": "M2#1212",
+  "en": "How about it, want a ride?"
+ },
+ {
+  "id": "M2#1213",
+  "en": "We'll be setting off soon."
+ },
+ {
+  "id": "M2#1214",
+  "en": "No, I can walk there."
+ },
+ {
+  "id": "M2#1215",
+  "en": "That won't be necessary.",
+  "note": "shared with Arthur msg 193722 (player declines a wig, then 'I like my hair as it is'); stern register"
+ },
+ {
+  "id": "M2#1216",
+  "en": "Is that so? Well, suit yourself."
+ },
+ {
+  "id": "M2#1217",
+  "en": "Still, going on foot... I admire that."
+ },
+ {
+  "id": "M2#1218",
+  "en": "Folks today, it's all trains and motorcars"
+ },
+ {
+  "id": "M2#1219",
+  "en": "Well, they are convenient, admittedly."
+ },
+ {
+  "id": "M2#1220",
+  "en": "Don't make me laugh! Those things"
+ },
+ {
+  "id": "M2#1221",
+  "en": "spew smoke all over the place."
+ },
+ {
+  "id": "M2#1222",
+  "en": "With contraptions like that tearing about,"
+ },
+ {
+  "id": "M2#1223",
+  "en": "old Tom here is going out of business."
+ },
+ {
+  "id": "M2#1224",
+  "en": "Well, see you, sir. It's time to set off."
+ },
+ {
+  "id": "M2#1225",
+  "en": "Whenever you need a ride, come see me."
+ },
+ {
+  "id": "M2#1226",
+  "en": "Oh, it's you. How about it, want a ride?"
+ },
+ {
+  "id": "M2#1227",
+  "en": "The coach will be setting off soon."
+ },
+ {
+  "id": "M2#1228",
+  "en": "Well, they do seem convenient."
+ },
+ {
+  "id": "M2#1229",
+  "en": "Ride with me next time. I'll be waiting."
+ },
+ {
+  "id": "M2#1230",
+  "en": "Hey, back again, are you?"
+ },
+ {
+  "id": "M2#1231",
+  "en": "Well, why not stay and chat a while?"
+ },
+ {
+  "id": "M2#1232",
+  "en": "Mind you, it's just me grumbling."
+ },
+ {
+  "id": "M2#1233",
+  "en": "There are lots more motorcars in town lately."
+ },
+ {
+  "id": "M2#1234",
+  "en": "They race about spewing odd smoke."
+ },
+ {
+  "id": "M2#1235",
+  "en": "It galls me, but they're fast and handy, sure."
+ },
+ {
+  "id": "M2#1236",
+  "en": "Maybe my day has come and gone.",
+  "note": "follows #152 '...' directly (no pause): '...Maybe my day has come and gone.'"
+ },
+ {
+  "id": "M2#1237",
+  "en": "Are coaches like mine doomed to vanish?"
+ },
+ {
+  "id": "M2#1238",
+  "en": "Hey, we meet again."
+ },
+ {
+  "id": "M2#1239",
+  "en": "I don't know if it's admirable, but you always"
+ },
+ {
+  "id": "M2#1240",
+  "en": "get around on foot, eh? Doesn't it tire you?"
+ },
+ {
+  "id": "M2#1241",
+  "en": "Sigh... If you've got a moment, hear me out."
+ },
+ {
+  "id": "M2#1242",
+  "en": "Fewer folks go out by coach these days."
+ },
+ {
+  "id": "M2#1243",
+  "en": "So I spend more time just idling like this."
+ },
+ {
+  "id": "M2#1244",
+  "en": "And my son won't take over the trade, I bet."
+ },
+ {
+  "id": "M2#1245",
+  "en": "Sort of a lonely story, isn't it",
+  "note": "followed by #152 '...'"
+ },
+ {
+  "id": "M2#1246",
+  "en": "How are you doing?"
+ },
+ {
+  "id": "M2#1247",
+  "en": "Lots of fares today, so I'm in a good mood."
+ },
+ {
+  "id": "M2#1248",
+  "en": "Hope you have a good day too. See you."
+ },
+ {
+  "id": "M2#1249",
+  "en": "Even if coaches die out one day,"
+ },
+ {
+  "id": "M2#1250",
+  "en": "this is my job, and I'll see it through."
+ },
+ {
+  "id": "M2#1251",
+  "en": "Hm? What's the matter?"
+ },
+ {
+  "id": "M2#1252",
+  "en": "Sorry, there are no coaches at this hour yet."
+ },
+ {
+  "id": "M2#1253",
+  "en": "If there's no rush, come back a bit later."
+ },
+ {
+  "id": "M2#1254",
+  "en": "Not yet, not yet! Wait a little longer, I said."
+ },
+ {
+  "id": "M2#1255",
+  "en": "Oh, it's you. Honestly, you're a handful."
+ },
+ {
+  "id": "M2#1256",
+  "en": "I'm off work at this hour, you know."
+ },
+ {
+  "id": "M2#1257",
+  "en": "Best remember that, or you'll lose out."
+ },
+ {
+  "id": "M2#1258",
+  "en": "Well, well, well, you're an impatient one."
+ },
+ {
+  "id": "M2#1259",
+  "en": "Or have you got something to talk about?"
+ },
+ {
+  "id": "M2#1260",
+  "en": "I didn't get old for nothing. Shall I listen?"
+ },
+ {
+  "id": "M2#1261",
+  "en": "Oh, I had a feeling you'd come."
+ },
+ {
+  "id": "M2#1262",
+  "en": "Go on, ride the coach once in a while."
+ },
+ {
+  "id": "M2#1263",
+  "en": "When it's empty, I'll take you for free."
+ },
+ {
+  "id": "M2#1264",
+  "en": "Mind you, the free ride's a one-time offer."
+ },
+ {
+  "id": "M2#1265",
+  "en": "Come again. I'll keep you company."
+ },
+ {
+  "id": "M2#1266",
+  "en": "No, thank you. I can walk, so I'll be fine."
+ },
+ {
+  "id": "M2#1267",
+  "en": "I'm sorry, but I'll have to decline."
+ },
+ {
+  "id": "M2#1268",
+  "en": "Well, they are very handy, after all."
+ },
+ {
+  "id": "M2#1269",
+  "en": "Well, see you, mate. It's time to set off."
+ },
+ {
+  "id": "M2#1270",
+  "en": "They race about spewing weird smoke, see."
+ },
+ {
+  "id": "M2#1271",
+  "en": "So I spend ever more time idling like this."
+ },
+ {
+  "id": "M2#1272",
+  "en": "My son likely won't take on the trade, either."
+ },
+ {
+  "id": "M2#1273",
+  "en": "After that, you pay."
+ },
+ {
+  "id": "M2#1274",
+  "en": "Tom",
+  "note": "followed by #152 '...': 'Tom...'"
+ },
+ {
+  "id": "M2#1275",
+  "en": "You work so hard every day... I'm sorry."
+ },
+ {
+  "id": "M2#1276",
+  "en": "Hm...?"
+ },
+ {
+  "id": "M2#1277",
+  "en": "Ah",
+  "note": "msg 42557: Tom 'Hm...? / Ah... You're...' (#265 dots follow). Msg 275898 (Winifred) uses it 4 times after pauses as a fading scream",
+  "variants": [
+   {
+    "msg": 275898,
+    "en": " ah"
+   }
+  ]
+ },
+ {
+  "id": "M2#1278",
+  "en": "You're...",
+  "note": "no used_in; msg.py places it in msg 42557 after 'Ah...' (pause; auto-space adds the space)"
+ },
+ {
+  "id": "M2#1279",
+  "en": "Without asking any questions,",
+  "note": "no used_in; msg 42557 player line, continued by #1280 (slice 016) on the next line: 'please help me, just for a little while.'"
+ }
+]

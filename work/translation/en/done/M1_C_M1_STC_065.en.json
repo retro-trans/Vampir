@@ -1,0 +1,350 @@
+[
+ {
+  "id": "M1#5200",
+  "en": ""
+ },
+ {
+  "id": "M1#5201",
+  "en": "For now I'm resting to recover"
+ },
+ {
+  "id": "M1#5202",
+  "en": "So I'm nothing but a burden to my brother."
+ },
+ {
+  "id": "M1#5203",
+  "en": "My brother and I recently came by ship"
+ },
+ {
+  "id": "M1#5204",
+  "en": "here to Calstatt."
+ },
+ {
+  "id": "M1#5205",
+  "en": "That's because we'd been told"
+ },
+ {
+  "id": "M1#5206",
+  "en": "there was plenty of work here"
+ },
+ {
+  "id": "M1#5207",
+  "en": "But we're outsiders, so at the factory we were"
+ },
+ {
+  "id": "M1#5208",
+  "en": "treated badly"
+ },
+ {
+  "id": "M1#5209",
+  "en": "and we only got the awful jobs.",
+  "note": "Base for 206081/206705 (new line after #5213). In 206013/206636 it follows '...' on the same line: variant with leading space and no 'we' (parallel to 'we were treated badly').",
+  "variants": [
+   {
+    "msg": 206013,
+    "en": " and only got the awful jobs."
+   },
+   {
+    "msg": 206636,
+    "en": " and only got the awful jobs."
+   }
+  ]
+ },
+ {
+  "id": "M1#5210",
+  "en": "That's why Anton quit the factory."
+ },
+ {
+  "id": "M1#5211",
+  "en": "Still, if they'd hire him again,"
+ },
+ {
+  "id": "M1#5212",
+  "en": "I'd want him to get a job that isn't dangerous."
+ },
+ {
+  "id": "M1#5213",
+  "en": "We're outsiders, so the factory treated us badly"
+ },
+ {
+  "id": "M1#5214",
+  "en": "Still, maybe just being hired at all is"
+ },
+ {
+  "id": "M1#5215",
+  "en": "better than nothing, I suppose."
+ },
+ {
+  "id": "M1#5216",
+  "en": "I was starting to hate this town,"
+ },
+ {
+  "id": "M1#5217",
+  "en": "but now I've made a friend like you, and I'm"
+ },
+ {
+  "id": "M1#5218",
+  "en": "so happy."
+ },
+ {
+  "id": "M1#5219",
+  "en": "Therese"
+ },
+ {
+  "id": "M1#5220",
+  "en": "Wh-who's there?"
+ },
+ {
+  "id": "M1#5221",
+  "en": "I know that voice. It's "
+ },
+ {
+  "id": "M1#5222",
+  "en": ", isn't it?"
+ },
+ {
+  "id": "M1#5223",
+  "en": "What on earth brings you here at this hour?"
+ },
+ {
+  "id": "M1#5224",
+  "en": "I have a special medicine that will cure"
+ },
+ {
+  "id": "M1#5225",
+  "en": "your frail body"
+ },
+ {
+  "id": "M1#5226",
+  "en": "Really? Is that true?"
+ },
+ {
+  "id": "M1#5227",
+  "en": "Of course."
+ },
+ {
+  "id": "M1#5228",
+  "en": "Now then, let me give you that medicine"
+ },
+ {
+  "id": "M1#5229",
+  "en": "You'll only be able to move at night, though.",
+  "note": "Subject 'you' (Therese) restored: she will become a vampire."
+ },
+ {
+  "id": "M1#5230",
+  "en": "Have you forgotten anything?"
+ },
+ {
+  "id": "M1#5231",
+  "en": "I've been getting hurt a lot lately"
+ },
+ {
+  "id": "M1#5232",
+  "en": "It's so strange."
+ },
+ {
+  "id": "M1#5233",
+  "en": "I'm the Stanberg family's maid,",
+  "note": "Built as 'I'm the ... maid, / Luisa.' so #5234 also works after #5327 \"I'm the maid of this house,\" (slice 066, msgs 210794/211793)."
+ },
+ {
+  "id": "M1#5234",
+  "en": "Luisa.",
+  "note": "Apposition after #5233 / #5327."
+ },
+ {
+  "id": "M1#5235",
+  "en": "Do you have a message for the master?"
+ },
+ {
+  "id": "M1#5236",
+  "en": "No, I'll call on him later."
+ },
+ {
+  "id": "M1#5237",
+  "en": " Well then, ",
+  "note": "#1620 'I see.' only has trailing-space variants for msgs 209841/209886; in the other four messages the space comes from here.",
+  "variants": [
+   {
+    "msg": 209841,
+    "en": "Well then, "
+   },
+   {
+    "msg": 209886,
+    "en": "Well then, "
+   }
+  ]
+ },
+ {
+  "id": "M1#5238",
+  "en": "please excuse me."
+ },
+ {
+  "id": "M1#5239",
+  "en": "Do you have a message to leave?"
+ },
+ {
+  "id": "M1#5240",
+  "en": "I'll do my best again today."
+ },
+ {
+  "id": "M1#5241",
+  "en": "please do come to the wedding.",
+  "note": "Lower case: follows '{PLAYER_NAME},' (#223) on the line before."
+ },
+ {
+  "id": "M1#5242",
+  "en": "No, I'll call on him tomorrow."
+ },
+ {
+  "id": "M1#5243",
+  "en": "Today was nothing but mistakes again"
+ },
+ {
+  "id": "M1#5244",
+  "en": "Can I help you?"
+ },
+ {
+  "id": "M1#5245",
+  "en": "Yes, I'd like to leave one."
+ },
+ {
+  "id": "M1#5246",
+  "en": "If I recall, you're..."
+ },
+ {
+  "id": "M1#5247",
+  "en": "I'm Luisa, the maid."
+ },
+ {
+  "id": "M1#5248",
+  "en": "Ah, of course."
+ },
+ {
+  "id": "M1#5249",
+  "en": "Now, about the message..."
+ },
+ {
+  "id": "M1#5250",
+  "en": "Oh no. I seem to have dropped it.",
+  "note": "Shared by the stern (210068) and polite (211073) player branches; neutral wording."
+ },
+ {
+  "id": "M1#5251",
+  "en": "Sorry. I'll come back another time."
+ },
+ {
+  "id": "M1#5252",
+  "en": "I'll keep a good lookout for it here, too."
+ },
+ {
+  "id": "M1#5253",
+  "en": "I'd appreciate it."
+ },
+ {
+  "id": "M1#5254",
+  "en": "How's your work going?"
+ },
+ {
+  "id": "M1#5255",
+  "en": "Same as ever"
+ },
+ {
+  "id": "M1#5256",
+  "en": "But I'll keep doing my best."
+ },
+ {
+  "id": "M1#5257",
+  "en": "I can't wait for the wedding."
+ },
+ {
+  "id": "M1#5258",
+  "en": "you must come too, all right?"
+ },
+ {
+  "id": "M1#5259",
+  "en": "I'd really love for you to come"
+ },
+ {
+  "id": "M1#5260",
+  "en": "to the wedding too."
+ },
+ {
+  "id": "M1#5261",
+  "en": " guess what!"
+ },
+ {
+  "id": "M1#5262",
+  "en": "The master gave his permission!"
+ },
+ {
+  "id": "M1#5263",
+  "en": "It's like a dream."
+ },
+ {
+  "id": "M1#5264",
+  "en": "I don't know if Madam and I will get along,"
+ },
+ {
+  "id": "M1#5265",
+  "en": "but with Stuart by my side, I can do it!"
+ },
+ {
+  "id": "M1#5266",
+  "en": "Now all that's left is the master's decision."
+ },
+ {
+  "id": "M1#5267",
+  "en": "I don't care what his answer is anymore!"
+ },
+ {
+  "id": "M1#5268",
+  "en": "Do you mean that?"
+ },
+ {
+  "id": "M1#5269",
+  "en": "Sorry. That was a lie."
+ },
+ {
+  "id": "M1#5270",
+  "en": "I really want him to say yes..."
+ },
+ {
+  "id": "M1#5271",
+  "en": "I've made up my mind!"
+ },
+ {
+  "id": "M1#5272",
+  "en": "I'm going to tell the master how I feel."
+ },
+ {
+  "id": "M1#5273",
+  "en": "Even if it costs me my job, I don't care."
+ },
+ {
+  "id": "M1#5274",
+  "en": "Stua..."
+ },
+ {
+  "id": "M1#5275",
+  "en": "No, just knowing how the young master feels"
+ },
+ {
+  "id": "M1#5276",
+  "en": "is enough to make me happy."
+ },
+ {
+  "id": "M1#5277",
+  "en": "Young master"
+ },
+ {
+  "id": "M1#5278",
+  "en": "Stuart"
+ },
+ {
+  "id": "M1#5279",
+  "en": "I love you.",
+  "note": "Msg 210389 has no speaker tag; presumably Luisa to Stuart (follows #5277/#5278)."
+ }
+]
