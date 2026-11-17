@@ -8,7 +8,7 @@ PlayStation, Artdink 1999, **SLPS-01932**), plus the English translation built w
 All of the game's text is translated, but the game has not been played through to the end in
 English yet. Bug reports, proofreading and playtesting are very welcome. Join the Discord:
 
-**[discord.gg/MssepShjmB](https://discord.gg/MssepShjmB)**
+**[discord.gg/nZBZfTDfCP](https://discord.gg/nZBZfTDfCP)**
 
 ## Play it
 
