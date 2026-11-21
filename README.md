@@ -12,10 +12,11 @@ English yet. Bug reports, proofreading and playtesting are very welcome. Join th
 
 ## Play it
 
-The latest release is **[v0.6.0](https://github.com/retro-trans/Vampir/releases/tag/v0.6.0)**:
+The latest release is **[v0.6.1](https://github.com/retro-trans/Vampir/releases/tag/v0.6.1)**:
 every villager conversation in Medoekia, Calstatt and London, the story scenes, menus, memory
-card screens and the graphics with Japanese text, drawn with a new variable-width font.
-See [CHANGELOG.md](CHANGELOG.md) for what has been checked in-game.
+card screens and the graphics with Japanese text, drawn with a new variable-width font. It fixes
+the v0.6.0 crash when viewing a Nosferatu's status and translates the drain screen and the
+building and stage names. See [CHANGELOG.md](CHANGELOG.md) for what has been checked in-game.
 
 ### What you need
 
@@ -38,12 +39,17 @@ choose the **Automatic** tab, select your Track 1 `.bin`, wait for the app to an
 click Patch.
 
 **Other ways:** [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) accepts the same
-`.xdelta` file. Select your Track 1 `.bin` as the original file.
+`.xdelta` files. Select your Track 1 `.bin` as the original file.
+
+| Your Track 1 | Patch |
+|---|---|
+| Japanese original | `Vampir-Track1-English-v0.6.1.xdelta` |
+| English v0.6.0 | `Vampir-Track1-English-v0.6.0-to-v0.6.1.xdelta` |
 
 **Command line:** get [xdelta3](https://github.com/jmacd/xdelta), then:
 
 ```
-xdelta3 -d -s "Vampir - Kyuuketsuki Densetsu (Japan) (Track 1).bin" Vampir-Track1-English-v0.6.0.xdelta "Track 1 English.bin"
+xdelta3 -d -s "Vampir - Kyuuketsuki Densetsu (Japan) (Track 1).bin" Vampir-Track1-English-v0.6.1.xdelta "Track 1 English.bin"
 ```
 
 **Then assemble the disc:** put the patched Track 1 in a new folder together with copies of the
