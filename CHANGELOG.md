@@ -1,5 +1,31 @@
 # Change log
 
+## 0.6.1 — Nosferatu status crash fix, missing text (2026-11-21)
+
+- Fix: viewing a Nosferatu's status crashed the game. The status screen writes the age as two
+  full-width digits plus the "years" suffix (歳) into an 8-byte buffer at 0x800A2A30, and the
+  selected-villager index is stored right after it (0x800A2A38). The English " yrs" made 13 bytes
+  and overwrote that index (3 became −28030 in a test), so the screen then read villager data far
+  outside the table. The suffix is now empty; the box already has an Age label. `tools/build.py`
+  checks the strings the game joins into fixed buffers (`RUNTIME_BUFFERS`) and stops the build
+  if one could overflow.
+- Text that was never extracted is now translated:
+  - Drain screen labels (`M0B/M1B/M2B.BIN`): the "Drain" banner, Blood Used, Drain Power,
+    ND Progress, Morality, Affinity, Strength, Intellect, Charm. The labels used to show blank;
+    only the Latin "ND" was drawn.
+  - The stage names Calstatt and London. The field label showed blank outside named areas in
+    stages 2 and 3.
+  - All 221 building and place names ("House", "Church", "Café Jahn", "Tower of London", …),
+    shown on the banner when you enter a building.
+- The building and stage names are fixed-size records that the game reads by index (no pointer
+  per string). `tools/rows.py` now extracts them as table rows (`TABLES`), and the build writes
+  them in place (`field` rows); they are never relocated.
+- The drain labels did not fit their slots, and these overlays cannot use the overlay string
+  pool (M1B.BIN reaches past it). Their English is placed once in the resident EXE string pool
+  and the overlays' pointers are repointed there (`RESIDENT_TEXT`, `Image.repoint`). Each label is
+  drawn left-aligned at a constant x where the Japanese label ended at its number column; the
+  build now right-aligns the English to the same end from its pixel width (`drain_label_x`).
+
 ## 0.6.0 — first public release (2026-10-22)
 
 First published English patch: everything in 0.1.0 and 0.1.1 below.

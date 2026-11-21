@@ -1,0 +1,8 @@
+[
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@E24",
+  "why": "age suffix: the status screen builds digits + suffix in an 8-byte buffer at 0x800A2A30 (window state follows); ' yrs' overflowed it and crashed the Nosferatu status. The box already has an Age label.",
+  "en": ""
+ }
+]

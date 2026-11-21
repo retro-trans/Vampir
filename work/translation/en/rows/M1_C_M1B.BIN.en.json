@@ -1,0 +1,177 @@
+[
+ {
+  "id": "M1B.BIN@370",
+  "off": 880,
+  "size": 10,
+  "slot": 10,
+  "refs": [
+   [
+    "ptr",
+    2148453900
+   ]
+  ],
+  "idx": 0,
+  "en": "Blood Used",
+  "done": true
+ },
+ {
+  "id": "M1B.BIN@368",
+  "off": 872,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148453904
+   ]
+  ],
+  "idx": 1,
+  "en": "Strength",
+  "done": true
+ },
+ {
+  "id": "M1B.BIN@360",
+  "off": 864,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148453908
+   ]
+  ],
+  "idx": 2,
+  "en": "Intellect",
+  "done": true
+ },
+ {
+  "id": "M1B.BIN@358",
+  "off": 856,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148453912
+   ]
+  ],
+  "idx": 3,
+  "en": "Charm",
+  "done": true
+ },
+ {
+  "id": "M1B.BIN@34C",
+  "off": 844,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148453916
+   ]
+  ],
+  "idx": 4,
+  "en": "ND Progress",
+  "done": true
+ },
+ {
+  "id": "M1B.BIN@344",
+  "off": 836,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148453920
+   ]
+  ],
+  "idx": 5,
+  "en": "Morality",
+  "done": true
+ },
+ {
+  "id": "M1B.BIN@338",
+  "off": 824,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148453924
+   ]
+  ],
+  "idx": 6,
+  "en": "Drain Power",
+  "done": true
+ },
+ {
+  "id": "M1B.BIN@330",
+  "off": 816,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148453928
+   ]
+  ],
+  "idx": 7,
+  "en": "Affinity",
+  "done": true
+ },
+ {
+  "id": "M1B.BIN@324",
+  "off": 804,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2148421736
+   ]
+  ],
+  "en": "Drain",
+  "done": true
+ },
+ {
+  "id": "M1B.BIN@32C",
+  "off": 812,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "code",
+    2148424920
+   ],
+   [
+    "code",
+    2148425288
+   ],
+   [
+    "code",
+    2148425652
+   ],
+   [
+    "code",
+    2148426016
+   ],
+   [
+    "code",
+    2148426384
+   ],
+   [
+    "code",
+    2148426752
+   ],
+   [
+    "code",
+    2148427116
+   ],
+   [
+    "code",
+    2148427480
+   ]
+  ],
+  "en": ""
+ }
+]

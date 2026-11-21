@@ -21,9 +21,9 @@ SRC = os.path.join(ROOT, 'work', 'source', 'disc')
 OUT = os.path.join(ROOT, 'work', 'source', 'text')
 OVL = 0x800CB800
 FILES = ['SLPS_019.32', 'DC/OPN.BIN', 'DC/MCX.BIN', 'DC/END.BIN',
-         'M0/C/M0A.BIN', 'M0/C/EP0.BIN', 'M0/C/PR0.BIN',
-         'M1/C/M1A.BIN', 'M1/C/EP1.BIN', 'M1/C/PR1.BIN',
-         'M2/C/M2A.BIN', 'M2/C/EP2.BIN', 'M2/C/PR2.BIN']
+         'M0/C/M0A.BIN', 'M0/C/M0B.BIN', 'M0/C/EP0.BIN', 'M0/C/PR0.BIN',
+         'M1/C/M1A.BIN', 'M1/C/M1B.BIN', 'M1/C/EP1.BIN', 'M1/C/PR1.BIN',
+         'M2/C/M2A.BIN', 'M2/C/M2B.BIN', 'M2/C/EP2.BIN', 'M2/C/PR2.BIN']   # ?B: drain screen labels
 RUN = re.compile(rb'(?:[\x81-\x9f\xe0-\xef][\x40-\xfc]|[\x20-\x7e])+\x00')
 
 

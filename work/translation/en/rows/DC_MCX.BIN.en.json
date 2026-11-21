@@ -732,6 +732,20 @@
   "done": true
  },
  {
+  "id": "MCX.BIN@228",
+  "off": 552,
+  "size": 40,
+  "slot": 43,
+  "refs": [
+   [
+    "ptr",
+    2148368876
+   ]
+  ],
+  "en": "You cannot save your main game",
+  "done": true
+ },
+ {
   "id": "MCX.BIN@254",
   "off": 596,
   "size": 44,
@@ -1497,20 +1511,6 @@
   ],
   "en": "PocketStation",
   "note": "Official Sony product name.",
-  "done": true
- },
- {
-  "id": "MCX.BIN@228",
-  "off": 552,
-  "size": 40,
-  "slot": 43,
-  "refs": [
-   [
-    "ptr",
-    2148368876
-   ]
-  ],
-  "en": "You cannot save your main game",
   "done": true
  }
 ]

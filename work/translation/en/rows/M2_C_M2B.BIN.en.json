@@ -1,0 +1,177 @@
+[
+ {
+  "id": "M2B.BIN@370",
+  "off": 880,
+  "size": 10,
+  "slot": 10,
+  "refs": [
+   [
+    "ptr",
+    2148453136
+   ]
+  ],
+  "idx": 0,
+  "en": "Blood Used",
+  "done": true
+ },
+ {
+  "id": "M2B.BIN@368",
+  "off": 872,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148453140
+   ]
+  ],
+  "idx": 1,
+  "en": "Strength",
+  "done": true
+ },
+ {
+  "id": "M2B.BIN@360",
+  "off": 864,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148453144
+   ]
+  ],
+  "idx": 2,
+  "en": "Intellect",
+  "done": true
+ },
+ {
+  "id": "M2B.BIN@358",
+  "off": 856,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148453148
+   ]
+  ],
+  "idx": 3,
+  "en": "Charm",
+  "done": true
+ },
+ {
+  "id": "M2B.BIN@34C",
+  "off": 844,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148453152
+   ]
+  ],
+  "idx": 4,
+  "en": "ND Progress",
+  "done": true
+ },
+ {
+  "id": "M2B.BIN@344",
+  "off": 836,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148453156
+   ]
+  ],
+  "idx": 5,
+  "en": "Morality",
+  "done": true
+ },
+ {
+  "id": "M2B.BIN@338",
+  "off": 824,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148453160
+   ]
+  ],
+  "idx": 6,
+  "en": "Drain Power",
+  "done": true
+ },
+ {
+  "id": "M2B.BIN@330",
+  "off": 816,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148453164
+   ]
+  ],
+  "idx": 7,
+  "en": "Affinity",
+  "done": true
+ },
+ {
+  "id": "M2B.BIN@324",
+  "off": 804,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2148421800
+   ]
+  ],
+  "en": "Drain",
+  "done": true
+ },
+ {
+  "id": "M2B.BIN@32C",
+  "off": 812,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "code",
+    2148424984
+   ],
+   [
+    "code",
+    2148425352
+   ],
+   [
+    "code",
+    2148425716
+   ],
+   [
+    "code",
+    2148426080
+   ],
+   [
+    "code",
+    2148426448
+   ],
+   [
+    "code",
+    2148426816
+   ],
+   [
+    "code",
+    2148427180
+   ],
+   [
+    "code",
+    2148427544
+   ]
+  ],
+  "en": ""
+ }
+]

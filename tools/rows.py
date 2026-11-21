@@ -84,10 +84,35 @@ def displayable(t):
 FORCE = {'MCX.BIN@228'}
 
 
+# fixed-size name records the game reads by index (no pointer per string): written in place,
+# never relocated.  file: [(offset of record 0, record size, record count)]
+#   SLPS 0x711CC: stage names, base + stage * 17 (0x80020A88)
+#   SLPS 0x71F6C: building names, 100 per stage, strncpy(28) at 0x800319D8
+TABLES = {'SLPS_019.32': [(0x711CC, 0x11, 3), (0x71F6C, 0x1C, 300)]}
+
+
+def table_rows(fn, data):
+    key = os.path.basename(fn)
+    rows = []
+    for start, size, count in TABLES.get(key, []):
+        for k in range(count):
+            off = start + k * size
+            raw = data[off:off + size].split(bytes(1))[0]
+            if raw:
+                rows.append({'id': '%s@%X' % (key, off), 'off': off, 'field': size,
+                             'table': '%X' % start, 'index': k, 'jp': raw.decode('cp932')})
+    return rows
+
+
+def in_table(key, off):
+    return any(start <= off < start + size * count for start, size, count in TABLES.get(key, []))
+
+
 def script_rows(fn):
     key0 = os.path.basename(fn)
     strs = [s for s in extract_text.extract(fn)
-            if s['refs'] and (displayable(s['jp']) or '%s@%X' % (key0, s['off']) in FORCE)]
+            if s['refs'] and (displayable(s['jp']) or '%s@%X' % (key0, s['off']) in FORCE)
+            and not in_table(key0, s['off'])]
     e, data, base = extract_text.load(fn)
     order = table_order(strs, data, base)
     key = os.path.basename(fn)
@@ -101,7 +126,7 @@ def script_rows(fn):
         if s['addr'] in order:
             r['idx'] = order[s['addr']]
         rows.append(r)
-    return rows
+    return rows + table_rows(fn, data)
 
 
 def stc_rows(fn):

@@ -1,0 +1,1496 @@
+[
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@711DD",
+  "why": "fixed-size name record (table 711CC #1), not extracted before",
+  "en": "Calstatt"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@711EE",
+  "why": "fixed-size name record (table 711CC #2), not extracted before",
+  "en": "London"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@71F88",
+  "why": "fixed-size name record (table 71F6C #1), not extracted before",
+  "en": "House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@71FA4",
+  "why": "fixed-size name record (table 71F6C #2), not extracted before",
+  "en": "Hunter's Hut"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@71FC0",
+  "why": "fixed-size name record (table 71F6C #3), not extracted before",
+  "en": "Kiln"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@71FDC",
+  "why": "fixed-size name record (table 71F6C #4), not extracted before",
+  "en": "House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@71FF8",
+  "why": "fixed-size name record (table 71F6C #5), not extracted before",
+  "en": "Shoemaker's Shop"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72014",
+  "why": "fixed-size name record (table 71F6C #6), not extracted before",
+  "en": "House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72030",
+  "why": "fixed-size name record (table 71F6C #7), not extracted before",
+  "en": "Carpenter's Hut"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7204C",
+  "why": "fixed-size name record (table 71F6C #8), not extracted before",
+  "en": "Wheelwright's Hut"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72068",
+  "why": "fixed-size name record (table 71F6C #9), not extracted before",
+  "en": "Church"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72084",
+  "why": "fixed-size name record (table 71F6C #10), not extracted before",
+  "en": "Blacksmith"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@720A0",
+  "why": "fixed-size name record (table 71F6C #11), not extracted before",
+  "en": "Beekeeper's Hut"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@720BC",
+  "why": "fixed-size name record (table 71F6C #12), not extracted before",
+  "en": "House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@720D8",
+  "why": "fixed-size name record (table 71F6C #13), not extracted before",
+  "en": "Cowshed"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@720F4",
+  "why": "fixed-size name record (table 71F6C #14), not extracted before",
+  "en": "House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72110",
+  "why": "fixed-size name record (table 71F6C #15), not extracted before",
+  "en": "Stable"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7212C",
+  "why": "fixed-size name record (table 71F6C #16), not extracted before",
+  "en": "Inn"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72148",
+  "why": "fixed-size name record (table 71F6C #17), not extracted before",
+  "en": "House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72164",
+  "why": "fixed-size name record (table 71F6C #18), not extracted before",
+  "en": "Weaver's Hut"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72180",
+  "why": "fixed-size name record (table 71F6C #19), not extracted before",
+  "en": "Brewer's Hut"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7219C",
+  "why": "fixed-size name record (table 71F6C #20), not extracted before",
+  "en": "Mansion"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@721B8",
+  "why": "fixed-size name record (table 71F6C #21), not extracted before",
+  "en": "House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@721D4",
+  "why": "fixed-size name record (table 71F6C #22), not extracted before",
+  "en": "House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@721F0",
+  "why": "fixed-size name record (table 71F6C #23), not extracted before",
+  "en": "Old Castle"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7220C",
+  "why": "fixed-size name record (table 71F6C #24), not extracted before",
+  "en": "House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72228",
+  "why": "fixed-size name record (table 71F6C #25), not extracted before",
+  "en": "Narka Forest"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72244",
+  "why": "fixed-size name record (table 71F6C #26), not extracted before",
+  "en": "Narka Forest"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72260",
+  "why": "fixed-size name record (table 71F6C #27), not extracted before",
+  "en": "Pasture"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7227C",
+  "why": "fixed-size name record (table 71F6C #28), not extracted before",
+  "en": "Well"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72298",
+  "why": "fixed-size name record (table 71F6C #29), not extracted before",
+  "en": "Lake Swanee"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@722B4",
+  "why": "fixed-size name record (table 71F6C #30), not extracted before",
+  "en": "Narka Forest"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@722D0",
+  "why": "fixed-size name record (table 71F6C #31), not extracted before",
+  "en": "Narka Forest"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@722EC",
+  "why": "fixed-size name record (table 71F6C #32), not extracted before",
+  "en": "Narka Forest"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72308",
+  "why": "fixed-size name record (table 71F6C #33), not extracted before",
+  "en": "Lake Swanee"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72324",
+  "why": "fixed-size name record (table 71F6C #34), not extracted before",
+  "en": "Wheat Field"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72340",
+  "why": "fixed-size name record (table 71F6C #35), not extracted before",
+  "en": "Well"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7235C",
+  "why": "fixed-size name record (table 71F6C #36), not extracted before",
+  "en": "Weaving Shed"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72378",
+  "why": "fixed-size name record (table 71F6C #37), not extracted before",
+  "en": "Field"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72A5C",
+  "why": "fixed-size name record (table 71F6C #100), not extracted before",
+  "en": "Woodcutter's Hut"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72A78",
+  "why": "fixed-size name record (table 71F6C #101), not extracted before",
+  "en": "Château"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72A94",
+  "why": "fixed-size name record (table 71F6C #102), not extracted before",
+  "en": "Stanberg House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72AB0",
+  "why": "fixed-size name record (table 71F6C #103), not extracted before",
+  "en": "Stanberg Servants' Room"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72ACC",
+  "why": "fixed-size name record (table 71F6C #104), not extracted before",
+  "en": "Navy Warehouse"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72AE8",
+  "why": "fixed-size name record (table 71F6C #105), not extracted before",
+  "en": "Navy Headquarters"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72B04",
+  "why": "fixed-size name record (table 71F6C #106), not extracted before",
+  "en": "Kaiser Pub"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72B20",
+  "why": "fixed-size name record (table 71F6C #107), not extracted before",
+  "en": "Mercenary Barracks"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72B3C",
+  "why": "fixed-size name record (table 71F6C #108), not extracted before",
+  "en": "Barracks"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72B58",
+  "why": "fixed-size name record (table 71F6C #109), not extracted before",
+  "en": "Row Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72B74",
+  "why": "fixed-size name record (table 71F6C #110), not extracted before",
+  "en": "Row Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72B90",
+  "why": "fixed-size name record (table 71F6C #111), not extracted before",
+  "en": "Row Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72BAC",
+  "why": "fixed-size name record (table 71F6C #112), not extracted before",
+  "en": "Harbor Warehouse"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72BC8",
+  "why": "fixed-size name record (table 71F6C #113), not extracted before",
+  "en": "Harbor Warehouse"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72BE4",
+  "why": "fixed-size name record (table 71F6C #114), not extracted before",
+  "en": "Harbor Warehouse"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72C00",
+  "why": "fixed-size name record (table 71F6C #115), not extracted before",
+  "en": "Moored Ship"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72C1C",
+  "why": "fixed-size name record (table 71F6C #116), not extracted before",
+  "en": "Restaurant Neu"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72C38",
+  "why": "fixed-size name record (table 71F6C #117), not extracted before",
+  "en": "Boutique Marlene"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72C54",
+  "why": "fixed-size name record (table 71F6C #118), not extracted before",
+  "en": "Jeweler"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72C70",
+  "why": "fixed-size name record (table 71F6C #119), not extracted before",
+  "en": "Schneider Clinic"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72C8C",
+  "why": "fixed-size name record (table 71F6C #120), not extracted before",
+  "en": "Furniture Shop"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72CA8",
+  "why": "fixed-size name record (table 71F6C #121), not extracted before",
+  "en": "Empty House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72CC4",
+  "why": "fixed-size name record (table 71F6C #122), not extracted before",
+  "en": "Kuchen Bakery"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72CE0",
+  "why": "fixed-size name record (table 71F6C #123), not extracted before",
+  "en": "Café Jahn"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72CFC",
+  "why": "fixed-size name record (table 71F6C #124), not extracted before",
+  "en": "Knife Shop"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72D18",
+  "why": "fixed-size name record (table 71F6C #125), not extracted before",
+  "en": "Perfumery"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72D34",
+  "why": "fixed-size name record (table 71F6C #126), not extracted before",
+  "en": "Kröger House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72D50",
+  "why": "fixed-size name record (table 71F6C #127), not extracted before",
+  "en": "Dellwald House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72D6C",
+  "why": "fixed-size name record (table 71F6C #128), not extracted before",
+  "en": "School"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72D88",
+  "why": "fixed-size name record (table 71F6C #129), not extracted before",
+  "en": "Wesseli House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72DA4",
+  "why": "fixed-size name record (table 71F6C #130), not extracted before",
+  "en": "Wolf House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72DC0",
+  "why": "fixed-size name record (table 71F6C #131), not extracted before",
+  "en": "Harbor Warehouse"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72DDC",
+  "why": "fixed-size name record (table 71F6C #132), not extracted before",
+  "en": "Row Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72DF8",
+  "why": "fixed-size name record (table 71F6C #133), not extracted before",
+  "en": "Glassworks"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72E14",
+  "why": "fixed-size name record (table 71F6C #134), not extracted before",
+  "en": "Dye Works"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72E30",
+  "why": "fixed-size name record (table 71F6C #135), not extracted before",
+  "en": "Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72E4C",
+  "why": "fixed-size name record (table 71F6C #136), not extracted before",
+  "en": "Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72E68",
+  "why": "fixed-size name record (table 71F6C #137), not extracted before",
+  "en": "Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72E84",
+  "why": "fixed-size name record (table 71F6C #138), not extracted before",
+  "en": "Moored Ship"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72EA0",
+  "why": "fixed-size name record (table 71F6C #139), not extracted before",
+  "en": "Theater"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72EBC",
+  "why": "fixed-size name record (table 71F6C #140), not extracted before",
+  "en": "Post Office"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72ED8",
+  "why": "fixed-size name record (table 71F6C #141), not extracted before",
+  "en": "Row Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72EF4",
+  "why": "fixed-size name record (table 71F6C #142), not extracted before",
+  "en": "Row Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72F10",
+  "why": "fixed-size name record (table 71F6C #143), not extracted before",
+  "en": "Trading House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72F2C",
+  "why": "fixed-size name record (table 71F6C #144), not extracted before",
+  "en": "Bekel Bakery"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72F48",
+  "why": "fixed-size name record (table 71F6C #145), not extracted before",
+  "en": "Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72F64",
+  "why": "fixed-size name record (table 71F6C #146), not extracted before",
+  "en": "City Hall"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72F80",
+  "why": "fixed-size name record (table 71F6C #147), not extracted before",
+  "en": "Row Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72F9C",
+  "why": "fixed-size name record (table 71F6C #148), not extracted before",
+  "en": "Row Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72FB8",
+  "why": "fixed-size name record (table 71F6C #149), not extracted before",
+  "en": "Zille Farm"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72FD4",
+  "why": "fixed-size name record (table 71F6C #150), not extracted before",
+  "en": "Row Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@72FF0",
+  "why": "fixed-size name record (table 71F6C #151), not extracted before",
+  "en": "Row Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7300C",
+  "why": "fixed-size name record (table 71F6C #152), not extracted before",
+  "en": "Empty House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73028",
+  "why": "fixed-size name record (table 71F6C #153), not extracted before",
+  "en": "Row Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73044",
+  "why": "fixed-size name record (table 71F6C #154), not extracted before",
+  "en": "Row Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73060",
+  "why": "fixed-size name record (table 71F6C #155), not extracted before",
+  "en": "Row Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7307C",
+  "why": "fixed-size name record (table 71F6C #156), not extracted before",
+  "en": "Tailor"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73098",
+  "why": "fixed-size name record (table 71F6C #157), not extracted before",
+  "en": "Undertaker"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@730B4",
+  "why": "fixed-size name record (table 71F6C #158), not extracted before",
+  "en": "Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@730D0",
+  "why": "fixed-size name record (table 71F6C #159), not extracted before",
+  "en": "Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@730EC",
+  "why": "fixed-size name record (table 71F6C #160), not extracted before",
+  "en": "Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73108",
+  "why": "fixed-size name record (table 71F6C #161), not extracted before",
+  "en": "Sans Souci Tavern"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73124",
+  "why": "fixed-size name record (table 71F6C #162), not extracted before",
+  "en": "Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73140",
+  "why": "fixed-size name record (table 71F6C #163), not extracted before",
+  "en": "Houses"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7315C",
+  "why": "fixed-size name record (table 71F6C #164), not extracted before",
+  "en": "Old Warehouse"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73178",
+  "why": "fixed-size name record (table 71F6C #165), not extracted before",
+  "en": "Old Dock"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73194",
+  "why": "fixed-size name record (table 71F6C #166), not extracted before",
+  "en": "Invos Diner"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@731B0",
+  "why": "fixed-size name record (table 71F6C #167), not extracted before",
+  "en": "Lion Inn"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@731CC",
+  "why": "fixed-size name record (table 71F6C #168), not extracted before",
+  "en": "Customs House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@731E8",
+  "why": "fixed-size name record (table 71F6C #169), not extracted before",
+  "en": "Rosso Inn"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73204",
+  "why": "fixed-size name record (table 71F6C #170), not extracted before",
+  "en": "Clothing Shop"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73220",
+  "why": "fixed-size name record (table 71F6C #171), not extracted before",
+  "en": "General Store"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7323C",
+  "why": "fixed-size name record (table 71F6C #172), not extracted before",
+  "en": "Florist"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73258",
+  "why": "fixed-size name record (table 71F6C #173), not extracted before",
+  "en": "Public Hall"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73274",
+  "why": "fixed-size name record (table 71F6C #174), not extracted before",
+  "en": "Coast Guard"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73290",
+  "why": "fixed-size name record (table 71F6C #175), not extracted before",
+  "en": "Church"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@732AC",
+  "why": "fixed-size name record (table 71F6C #176), not extracted before",
+  "en": "Forest Monument"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@732C8",
+  "why": "fixed-size name record (table 71F6C #177), not extracted before",
+  "en": "Forest"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@732E4",
+  "why": "fixed-size name record (table 71F6C #178), not extracted before",
+  "en": "Harbor Warehouse"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73300",
+  "why": "fixed-size name record (table 71F6C #179), not extracted before",
+  "en": "Alster Central Park"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7331C",
+  "why": "fixed-size name record (table 71F6C #180), not extracted before",
+  "en": "Farmland"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73338",
+  "why": "fixed-size name record (table 71F6C #181), not extracted before",
+  "en": "Harbor Park"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73354",
+  "why": "fixed-size name record (table 71F6C #182), not extracted before",
+  "en": "Market"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73370",
+  "why": "fixed-size name record (table 71F6C #183), not extracted before",
+  "en": "Market"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7338C",
+  "why": "fixed-size name record (table 71F6C #184), not extracted before",
+  "en": "Market"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@733A8",
+  "why": "fixed-size name record (table 71F6C #185), not extracted before",
+  "en": "Cemetery"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@733C4",
+  "why": "fixed-size name record (table 71F6C #186), not extracted before",
+  "en": "Lighthouse"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7354C",
+  "why": "fixed-size name record (table 71F6C #200), not extracted before",
+  "en": "Mansion"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73568",
+  "why": "fixed-size name record (table 71F6C #201), not extracted before",
+  "en": "Mansion"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73584",
+  "why": "fixed-size name record (table 71F6C #202), not extracted before",
+  "en": "Earl's Mansion"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@735A0",
+  "why": "fixed-size name record (table 71F6C #203), not extracted before",
+  "en": "Politician's Mansion"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@735BC",
+  "why": "fixed-size name record (table 71F6C #204), not extracted before",
+  "en": "Fine Cigar Shop"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@735D8",
+  "why": "fixed-size name record (table 71F6C #205), not extracted before",
+  "en": "Jeweler"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@735F4",
+  "why": "fixed-size name record (table 71F6C #206), not extracted before",
+  "en": "Milliner"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73610",
+  "why": "fixed-size name record (table 71F6C #207), not extracted before",
+  "en": "Beauty Salon"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7362C",
+  "why": "fixed-size name record (table 71F6C #208), not extracted before",
+  "en": "School"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73648",
+  "why": "fixed-size name record (table 71F6C #209), not extracted before",
+  "en": "School"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73664",
+  "why": "fixed-size name record (table 71F6C #210), not extracted before",
+  "en": "Museum"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73680",
+  "why": "fixed-size name record (table 71F6C #211), not extracted before",
+  "en": "City Hall"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7369C",
+  "why": "fixed-size name record (table 71F6C #212), not extracted before",
+  "en": "Mansion"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@736B8",
+  "why": "fixed-size name record (table 71F6C #213), not extracted before",
+  "en": "Bank"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@736D4",
+  "why": "fixed-size name record (table 71F6C #214), not extracted before",
+  "en": "Residence"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@736F0",
+  "why": "fixed-size name record (table 71F6C #215), not extracted before",
+  "en": "Teacup Shop"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7370C",
+  "why": "fixed-size name record (table 71F6C #216), not extracted before",
+  "en": "Porcelain Design"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73728",
+  "why": "fixed-size name record (table 71F6C #217), not extracted before",
+  "en": "Textile Design Studio"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73744",
+  "why": "fixed-size name record (table 71F6C #218), not extracted before",
+  "en": "Tannery"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73760",
+  "why": "fixed-size name record (table 71F6C #219), not extracted before",
+  "en": "Metalworks"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7377C",
+  "why": "fixed-size name record (table 71F6C #220), not extracted before",
+  "en": "Rail Baron's Mansion"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73798",
+  "why": "fixed-size name record (table 71F6C #221), not extracted before",
+  "en": "Gentlemen's Hatter"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@737B4",
+  "why": "fixed-size name record (table 71F6C #222), not extracted before",
+  "en": "Gentlemen's Tailor"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@737D0",
+  "why": "fixed-size name record (table 71F6C #223), not extracted before",
+  "en": "Fine Shoe Shop"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@737EC",
+  "why": "fixed-size name record (table 71F6C #224), not extracted before",
+  "en": "Watchmaker"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73808",
+  "why": "fixed-size name record (table 71F6C #225), not extracted before",
+  "en": "Hotel"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73824",
+  "why": "fixed-size name record (table 71F6C #226), not extracted before",
+  "en": "Baron's Mansion"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73840",
+  "why": "fixed-size name record (table 71F6C #227), not extracted before",
+  "en": "Theater"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7385C",
+  "why": "fixed-size name record (table 71F6C #228), not extracted before",
+  "en": "Library"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73878",
+  "why": "fixed-size name record (table 71F6C #229), not extracted before",
+  "en": "Newspaper Office"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73894",
+  "why": "fixed-size name record (table 71F6C #230), not extracted before",
+  "en": "Restaurant"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@738B0",
+  "why": "fixed-size name record (table 71F6C #231), not extracted before",
+  "en": "Army Headquarters"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@738CC",
+  "why": "fixed-size name record (table 71F6C #232), not extracted before",
+  "en": "Omnibus"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@738E8",
+  "why": "fixed-size name record (table 71F6C #233), not extracted before",
+  "en": "Apartments"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73904",
+  "why": "fixed-size name record (table 71F6C #234), not extracted before",
+  "en": "Apartments"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73920",
+  "why": "fixed-size name record (table 71F6C #235), not extracted before",
+  "en": "Employment Office"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@7393C",
+  "why": "fixed-size name record (table 71F6C #236), not extracted before",
+  "en": "Tower of London"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73958",
+  "why": "fixed-size name record (table 71F6C #237), not extracted before",
+  "en": "Carpenter's House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73974",
+  "why": "fixed-size name record (table 71F6C #238), not extracted before",
+  "en": "Prison"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73990",
+  "why": "fixed-size name record (table 71F6C #239), not extracted before",
+  "en": "Antique Shop"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@739AC",
+  "why": "fixed-size name record (table 71F6C #240), not extracted before",
+  "en": "Optician"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@739C8",
+  "why": "fixed-size name record (table 71F6C #241), not extracted before",
+  "en": "Residence"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@739E4",
+  "why": "fixed-size name record (table 71F6C #242), not extracted before",
+  "en": "Barber"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73A00",
+  "why": "fixed-size name record (table 71F6C #243), not extracted before",
+  "en": "Church Chapel"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73A1C",
+  "why": "fixed-size name record (table 71F6C #244), not extracted before",
+  "en": "Church Interior"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73A38",
+  "why": "fixed-size name record (table 71F6C #245), not extracted before",
+  "en": "Telephone Exchange"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73A54",
+  "why": "fixed-size name record (table 71F6C #246), not extracted before",
+  "en": "Hospital"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73A70",
+  "why": "fixed-size name record (table 71F6C #247), not extracted before",
+  "en": "Painter's Flat"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73A8C",
+  "why": "fixed-size name record (table 71F6C #248), not extracted before",
+  "en": "Houses of Parliament"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73AA8",
+  "why": "fixed-size name record (table 71F6C #249), not extracted before",
+  "en": "Bookshop"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73AC4",
+  "why": "fixed-size name record (table 71F6C #250), not extracted before",
+  "en": "Inn"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73AE0",
+  "why": "fixed-size name record (table 71F6C #251), not extracted before",
+  "en": "Boarding House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73AFC",
+  "why": "fixed-size name record (table 71F6C #252), not extracted before",
+  "en": "Residence"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73B18",
+  "why": "fixed-size name record (table 71F6C #253), not extracted before",
+  "en": "Tea Room"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73B34",
+  "why": "fixed-size name record (table 71F6C #254), not extracted before",
+  "en": "Apartments"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73B50",
+  "why": "fixed-size name record (table 71F6C #255), not extracted before",
+  "en": "General Store"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73B6C",
+  "why": "fixed-size name record (table 71F6C #256), not extracted before",
+  "en": "Police Station"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73B88",
+  "why": "fixed-size name record (table 71F6C #257), not extracted before",
+  "en": "Residence"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73BA4",
+  "why": "fixed-size name record (table 71F6C #258), not extracted before",
+  "en": "Slum Tenement"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73BC0",
+  "why": "fixed-size name record (table 71F6C #259), not extracted before",
+  "en": "Slum Tenement"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73BDC",
+  "why": "fixed-size name record (table 71F6C #260), not extracted before",
+  "en": "Slum Tenement"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73BF8",
+  "why": "fixed-size name record (table 71F6C #261), not extracted before",
+  "en": "Residence"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73C14",
+  "why": "fixed-size name record (table 71F6C #262), not extracted before",
+  "en": "Watchmaker"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73C30",
+  "why": "fixed-size name record (table 71F6C #263), not extracted before",
+  "en": "Residence"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73C4C",
+  "why": "fixed-size name record (table 71F6C #264), not extracted before",
+  "en": "Residence"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73C68",
+  "why": "fixed-size name record (table 71F6C #265), not extracted before",
+  "en": "Residence"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73C84",
+  "why": "fixed-size name record (table 71F6C #266), not extracted before",
+  "en": "Gambling Den"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73CA0",
+  "why": "fixed-size name record (table 71F6C #267), not extracted before",
+  "en": "Saloon"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73CBC",
+  "why": "fixed-size name record (table 71F6C #268), not extracted before",
+  "en": "Pub"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73CD8",
+  "why": "fixed-size name record (table 71F6C #269), not extracted before",
+  "en": "Residence"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73CF4",
+  "why": "fixed-size name record (table 71F6C #270), not extracted before",
+  "en": "Residence"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73D10",
+  "why": "fixed-size name record (table 71F6C #271), not extracted before",
+  "en": "Parliament Chamber"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73D2C",
+  "why": "fixed-size name record (table 71F6C #272), not extracted before",
+  "en": "Tea Merchant"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73D48",
+  "why": "fixed-size name record (table 71F6C #273), not extracted before",
+  "en": "Soap Shop"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73D64",
+  "why": "fixed-size name record (table 71F6C #274), not extracted before",
+  "en": "Liquor Shop"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73D80",
+  "why": "fixed-size name record (table 71F6C #275), not extracted before",
+  "en": "Boat Rental"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73D9C",
+  "why": "fixed-size name record (table 71F6C #276), not extracted before",
+  "en": "Residence"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73DB8",
+  "why": "fixed-size name record (table 71F6C #277), not extracted before",
+  "en": "Immigrants' Flat"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73DD4",
+  "why": "fixed-size name record (table 71F6C #278), not extracted before",
+  "en": "Residence"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73DF0",
+  "why": "fixed-size name record (table 71F6C #279), not extracted before",
+  "en": "Writer's House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73E0C",
+  "why": "fixed-size name record (table 71F6C #280), not extracted before",
+  "en": "Match Factory"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73E28",
+  "why": "fixed-size name record (table 71F6C #281), not extracted before",
+  "en": "Apartments"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73E44",
+  "why": "fixed-size name record (table 71F6C #282), not extracted before",
+  "en": "Apartments"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73E60",
+  "why": "fixed-size name record (table 71F6C #283), not extracted before",
+  "en": "Apartments"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73E7C",
+  "why": "fixed-size name record (table 71F6C #284), not extracted before",
+  "en": "Meatpacking Plant"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73E98",
+  "why": "fixed-size name record (table 71F6C #285), not extracted before",
+  "en": "Old Factory Site"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73EB4",
+  "why": "fixed-size name record (table 71F6C #286), not extracted before",
+  "en": "Glue Factory"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73ED0",
+  "why": "fixed-size name record (table 71F6C #287), not extracted before",
+  "en": "Workers' Lodgings"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73EEC",
+  "why": "fixed-size name record (table 71F6C #288), not extracted before",
+  "en": "Residence"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73F08",
+  "why": "fixed-size name record (table 71F6C #289), not extracted before",
+  "en": "Boarding House"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73F24",
+  "why": "fixed-size name record (table 71F6C #290), not extracted before",
+  "en": "Square"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73F40",
+  "why": "fixed-size name record (table 71F6C #291), not extracted before",
+  "en": "Square"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73F5C",
+  "why": "fixed-size name record (table 71F6C #292), not extracted before",
+  "en": "Park"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73F78",
+  "why": "fixed-size name record (table 71F6C #293), not extracted before",
+  "en": "Fountain Garden"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73F94",
+  "why": "fixed-size name record (table 71F6C #294), not extracted before",
+  "en": "Old Factory Site"
+ },
+ {
+  "file": "SLPS_019.32",
+  "id": "SLPS_019.32@73FB0",
+  "why": "fixed-size name record (table 71F6C #295), not extracted before",
+  "en": "Park"
+ },
+ {
+  "file": "M0_C_M0B.BIN",
+  "id": "M0B.BIN@370",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Blood Used"
+ },
+ {
+  "file": "M0_C_M0B.BIN",
+  "id": "M0B.BIN@368",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Strength"
+ },
+ {
+  "file": "M0_C_M0B.BIN",
+  "id": "M0B.BIN@360",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Intellect"
+ },
+ {
+  "file": "M0_C_M0B.BIN",
+  "id": "M0B.BIN@358",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Charm"
+ },
+ {
+  "file": "M0_C_M0B.BIN",
+  "id": "M0B.BIN@34C",
+  "why": "drain screen label (overlay not extracted before); ND as in the game's own label, 7 tokens (12-byte label buffer)",
+  "en": "ND Progress"
+ },
+ {
+  "file": "M0_C_M0B.BIN",
+  "id": "M0B.BIN@344",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Morality"
+ },
+ {
+  "file": "M0_C_M0B.BIN",
+  "id": "M0B.BIN@338",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Drain Power"
+ },
+ {
+  "file": "M0_C_M0B.BIN",
+  "id": "M0B.BIN@330",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Affinity"
+ },
+ {
+  "file": "M0_C_M0B.BIN",
+  "id": "M0B.BIN@324",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Drain"
+ },
+ {
+  "file": "M1_C_M1B.BIN",
+  "id": "M1B.BIN@370",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Blood Used"
+ },
+ {
+  "file": "M1_C_M1B.BIN",
+  "id": "M1B.BIN@368",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Strength"
+ },
+ {
+  "file": "M1_C_M1B.BIN",
+  "id": "M1B.BIN@360",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Intellect"
+ },
+ {
+  "file": "M1_C_M1B.BIN",
+  "id": "M1B.BIN@358",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Charm"
+ },
+ {
+  "file": "M1_C_M1B.BIN",
+  "id": "M1B.BIN@34C",
+  "why": "drain screen label (overlay not extracted before); ND as in the game's own label, 7 tokens (12-byte label buffer)",
+  "en": "ND Progress"
+ },
+ {
+  "file": "M1_C_M1B.BIN",
+  "id": "M1B.BIN@344",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Morality"
+ },
+ {
+  "file": "M1_C_M1B.BIN",
+  "id": "M1B.BIN@338",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Drain Power"
+ },
+ {
+  "file": "M1_C_M1B.BIN",
+  "id": "M1B.BIN@330",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Affinity"
+ },
+ {
+  "file": "M1_C_M1B.BIN",
+  "id": "M1B.BIN@324",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Drain"
+ },
+ {
+  "file": "M2_C_M2B.BIN",
+  "id": "M2B.BIN@370",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Blood Used"
+ },
+ {
+  "file": "M2_C_M2B.BIN",
+  "id": "M2B.BIN@368",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Strength"
+ },
+ {
+  "file": "M2_C_M2B.BIN",
+  "id": "M2B.BIN@360",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Intellect"
+ },
+ {
+  "file": "M2_C_M2B.BIN",
+  "id": "M2B.BIN@358",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Charm"
+ },
+ {
+  "file": "M2_C_M2B.BIN",
+  "id": "M2B.BIN@34C",
+  "why": "drain screen label (overlay not extracted before); ND as in the game's own label, 7 tokens (12-byte label buffer)",
+  "en": "ND Progress"
+ },
+ {
+  "file": "M2_C_M2B.BIN",
+  "id": "M2B.BIN@344",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Morality"
+ },
+ {
+  "file": "M2_C_M2B.BIN",
+  "id": "M2B.BIN@338",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Drain Power"
+ },
+ {
+  "file": "M2_C_M2B.BIN",
+  "id": "M2B.BIN@330",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Affinity"
+ },
+ {
+  "file": "M2_C_M2B.BIN",
+  "id": "M2B.BIN@324",
+  "why": "drain screen label (overlay not extracted before)",
+  "en": "Drain"
+ }
+]

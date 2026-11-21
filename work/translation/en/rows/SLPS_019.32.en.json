@@ -1107,7 +1107,7 @@
     2147708280
    ]
   ],
-  "en": " yrs",
+  "en": "",
   "note": "from work/translation/en/exe_en.tsv",
   "done": true
  },
@@ -2364,36 +2364,6 @@
   "done": true
  },
  {
-  "id": "SLPS_019.32@711CC",
-  "off": 463308,
-  "size": 12,
-  "slot": 16,
-  "refs": [
-   [
-    "code",
-    2147617424
-   ]
-  ],
-  "en": "Medoekia",
-  "note": "from work/translation/en/exe_en.tsv",
-  "done": true
- },
- {
-  "id": "SLPS_019.32@71F6C",
-  "off": 466796,
-  "size": 12,
-  "slot": 27,
-  "refs": [
-   [
-    "code",
-    2147686864
-   ]
-  ],
-  "en": "Tower of Eisen",
-  "note": "from work/translation/en/exe_en.tsv",
-  "done": true
- },
- {
   "id": "SLPS_019.32@7D916",
   "off": 514326,
   "size": 2,
@@ -2406,6 +2376,2024 @@
   ],
   "en": "-",
   "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@711CC",
+  "off": 463308,
+  "field": 17,
+  "table": "711CC",
+  "index": 0,
+  "en": "Medoekia",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@711DD",
+  "off": 463325,
+  "field": 17,
+  "table": "711CC",
+  "index": 1,
+  "en": "Calstatt",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@711EE",
+  "off": 463342,
+  "field": 17,
+  "table": "711CC",
+  "index": 2,
+  "en": "London",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@71F6C",
+  "off": 466796,
+  "field": 28,
+  "table": "71F6C",
+  "index": 0,
+  "en": "Tower of Eisen",
+  "note": "from work/translation/en/exe_en.tsv",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@71F88",
+  "off": 466824,
+  "field": 28,
+  "table": "71F6C",
+  "index": 1,
+  "en": "House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@71FA4",
+  "off": 466852,
+  "field": 28,
+  "table": "71F6C",
+  "index": 2,
+  "en": "Hunter's Hut",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@71FC0",
+  "off": 466880,
+  "field": 28,
+  "table": "71F6C",
+  "index": 3,
+  "en": "Kiln",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@71FDC",
+  "off": 466908,
+  "field": 28,
+  "table": "71F6C",
+  "index": 4,
+  "en": "House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@71FF8",
+  "off": 466936,
+  "field": 28,
+  "table": "71F6C",
+  "index": 5,
+  "en": "Shoemaker's Shop",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72014",
+  "off": 466964,
+  "field": 28,
+  "table": "71F6C",
+  "index": 6,
+  "en": "House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72030",
+  "off": 466992,
+  "field": 28,
+  "table": "71F6C",
+  "index": 7,
+  "en": "Carpenter's Hut",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7204C",
+  "off": 467020,
+  "field": 28,
+  "table": "71F6C",
+  "index": 8,
+  "en": "Wheelwright's Hut",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72068",
+  "off": 467048,
+  "field": 28,
+  "table": "71F6C",
+  "index": 9,
+  "en": "Church",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72084",
+  "off": 467076,
+  "field": 28,
+  "table": "71F6C",
+  "index": 10,
+  "en": "Blacksmith",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@720A0",
+  "off": 467104,
+  "field": 28,
+  "table": "71F6C",
+  "index": 11,
+  "en": "Beekeeper's Hut",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@720BC",
+  "off": 467132,
+  "field": 28,
+  "table": "71F6C",
+  "index": 12,
+  "en": "House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@720D8",
+  "off": 467160,
+  "field": 28,
+  "table": "71F6C",
+  "index": 13,
+  "en": "Cowshed",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@720F4",
+  "off": 467188,
+  "field": 28,
+  "table": "71F6C",
+  "index": 14,
+  "en": "House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72110",
+  "off": 467216,
+  "field": 28,
+  "table": "71F6C",
+  "index": 15,
+  "en": "Stable",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7212C",
+  "off": 467244,
+  "field": 28,
+  "table": "71F6C",
+  "index": 16,
+  "en": "Inn",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72148",
+  "off": 467272,
+  "field": 28,
+  "table": "71F6C",
+  "index": 17,
+  "en": "House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72164",
+  "off": 467300,
+  "field": 28,
+  "table": "71F6C",
+  "index": 18,
+  "en": "Weaver's Hut",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72180",
+  "off": 467328,
+  "field": 28,
+  "table": "71F6C",
+  "index": 19,
+  "en": "Brewer's Hut",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7219C",
+  "off": 467356,
+  "field": 28,
+  "table": "71F6C",
+  "index": 20,
+  "en": "Mansion",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@721B8",
+  "off": 467384,
+  "field": 28,
+  "table": "71F6C",
+  "index": 21,
+  "en": "House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@721D4",
+  "off": 467412,
+  "field": 28,
+  "table": "71F6C",
+  "index": 22,
+  "en": "House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@721F0",
+  "off": 467440,
+  "field": 28,
+  "table": "71F6C",
+  "index": 23,
+  "en": "Old Castle",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7220C",
+  "off": 467468,
+  "field": 28,
+  "table": "71F6C",
+  "index": 24,
+  "en": "House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72228",
+  "off": 467496,
+  "field": 28,
+  "table": "71F6C",
+  "index": 25,
+  "en": "Narka Forest",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72244",
+  "off": 467524,
+  "field": 28,
+  "table": "71F6C",
+  "index": 26,
+  "en": "Narka Forest",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72260",
+  "off": 467552,
+  "field": 28,
+  "table": "71F6C",
+  "index": 27,
+  "en": "Pasture",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7227C",
+  "off": 467580,
+  "field": 28,
+  "table": "71F6C",
+  "index": 28,
+  "en": "Well",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72298",
+  "off": 467608,
+  "field": 28,
+  "table": "71F6C",
+  "index": 29,
+  "en": "Lake Swanee",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@722B4",
+  "off": 467636,
+  "field": 28,
+  "table": "71F6C",
+  "index": 30,
+  "en": "Narka Forest",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@722D0",
+  "off": 467664,
+  "field": 28,
+  "table": "71F6C",
+  "index": 31,
+  "en": "Narka Forest",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@722EC",
+  "off": 467692,
+  "field": 28,
+  "table": "71F6C",
+  "index": 32,
+  "en": "Narka Forest",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72308",
+  "off": 467720,
+  "field": 28,
+  "table": "71F6C",
+  "index": 33,
+  "en": "Lake Swanee",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72324",
+  "off": 467748,
+  "field": 28,
+  "table": "71F6C",
+  "index": 34,
+  "en": "Wheat Field",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72340",
+  "off": 467776,
+  "field": 28,
+  "table": "71F6C",
+  "index": 35,
+  "en": "Well",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7235C",
+  "off": 467804,
+  "field": 28,
+  "table": "71F6C",
+  "index": 36,
+  "en": "Weaving Shed",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72378",
+  "off": 467832,
+  "field": 28,
+  "table": "71F6C",
+  "index": 37,
+  "en": "Field",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72A5C",
+  "off": 469596,
+  "field": 28,
+  "table": "71F6C",
+  "index": 100,
+  "en": "Woodcutter's Hut",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72A78",
+  "off": 469624,
+  "field": 28,
+  "table": "71F6C",
+  "index": 101,
+  "en": "Château",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72A94",
+  "off": 469652,
+  "field": 28,
+  "table": "71F6C",
+  "index": 102,
+  "en": "Stanberg House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72AB0",
+  "off": 469680,
+  "field": 28,
+  "table": "71F6C",
+  "index": 103,
+  "en": "Stanberg Servants' Room",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72ACC",
+  "off": 469708,
+  "field": 28,
+  "table": "71F6C",
+  "index": 104,
+  "en": "Navy Warehouse",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72AE8",
+  "off": 469736,
+  "field": 28,
+  "table": "71F6C",
+  "index": 105,
+  "en": "Navy Headquarters",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72B04",
+  "off": 469764,
+  "field": 28,
+  "table": "71F6C",
+  "index": 106,
+  "en": "Kaiser Pub",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72B20",
+  "off": 469792,
+  "field": 28,
+  "table": "71F6C",
+  "index": 107,
+  "en": "Mercenary Barracks",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72B3C",
+  "off": 469820,
+  "field": 28,
+  "table": "71F6C",
+  "index": 108,
+  "en": "Barracks",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72B58",
+  "off": 469848,
+  "field": 28,
+  "table": "71F6C",
+  "index": 109,
+  "en": "Row Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72B74",
+  "off": 469876,
+  "field": 28,
+  "table": "71F6C",
+  "index": 110,
+  "en": "Row Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72B90",
+  "off": 469904,
+  "field": 28,
+  "table": "71F6C",
+  "index": 111,
+  "en": "Row Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72BAC",
+  "off": 469932,
+  "field": 28,
+  "table": "71F6C",
+  "index": 112,
+  "en": "Harbor Warehouse",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72BC8",
+  "off": 469960,
+  "field": 28,
+  "table": "71F6C",
+  "index": 113,
+  "en": "Harbor Warehouse",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72BE4",
+  "off": 469988,
+  "field": 28,
+  "table": "71F6C",
+  "index": 114,
+  "en": "Harbor Warehouse",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72C00",
+  "off": 470016,
+  "field": 28,
+  "table": "71F6C",
+  "index": 115,
+  "en": "Moored Ship",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72C1C",
+  "off": 470044,
+  "field": 28,
+  "table": "71F6C",
+  "index": 116,
+  "en": "Restaurant Neu",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72C38",
+  "off": 470072,
+  "field": 28,
+  "table": "71F6C",
+  "index": 117,
+  "en": "Boutique Marlene",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72C54",
+  "off": 470100,
+  "field": 28,
+  "table": "71F6C",
+  "index": 118,
+  "en": "Jeweler",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72C70",
+  "off": 470128,
+  "field": 28,
+  "table": "71F6C",
+  "index": 119,
+  "en": "Schneider Clinic",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72C8C",
+  "off": 470156,
+  "field": 28,
+  "table": "71F6C",
+  "index": 120,
+  "en": "Furniture Shop",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72CA8",
+  "off": 470184,
+  "field": 28,
+  "table": "71F6C",
+  "index": 121,
+  "en": "Empty House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72CC4",
+  "off": 470212,
+  "field": 28,
+  "table": "71F6C",
+  "index": 122,
+  "en": "Kuchen Bakery",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72CE0",
+  "off": 470240,
+  "field": 28,
+  "table": "71F6C",
+  "index": 123,
+  "en": "Café Jahn",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72CFC",
+  "off": 470268,
+  "field": 28,
+  "table": "71F6C",
+  "index": 124,
+  "en": "Knife Shop",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72D18",
+  "off": 470296,
+  "field": 28,
+  "table": "71F6C",
+  "index": 125,
+  "en": "Perfumery",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72D34",
+  "off": 470324,
+  "field": 28,
+  "table": "71F6C",
+  "index": 126,
+  "en": "Kröger House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72D50",
+  "off": 470352,
+  "field": 28,
+  "table": "71F6C",
+  "index": 127,
+  "en": "Dellwald House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72D6C",
+  "off": 470380,
+  "field": 28,
+  "table": "71F6C",
+  "index": 128,
+  "en": "School",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72D88",
+  "off": 470408,
+  "field": 28,
+  "table": "71F6C",
+  "index": 129,
+  "en": "Wesseli House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72DA4",
+  "off": 470436,
+  "field": 28,
+  "table": "71F6C",
+  "index": 130,
+  "en": "Wolf House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72DC0",
+  "off": 470464,
+  "field": 28,
+  "table": "71F6C",
+  "index": 131,
+  "en": "Harbor Warehouse",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72DDC",
+  "off": 470492,
+  "field": 28,
+  "table": "71F6C",
+  "index": 132,
+  "en": "Row Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72DF8",
+  "off": 470520,
+  "field": 28,
+  "table": "71F6C",
+  "index": 133,
+  "en": "Glassworks",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72E14",
+  "off": 470548,
+  "field": 28,
+  "table": "71F6C",
+  "index": 134,
+  "en": "Dye Works",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72E30",
+  "off": 470576,
+  "field": 28,
+  "table": "71F6C",
+  "index": 135,
+  "en": "Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72E4C",
+  "off": 470604,
+  "field": 28,
+  "table": "71F6C",
+  "index": 136,
+  "en": "Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72E68",
+  "off": 470632,
+  "field": 28,
+  "table": "71F6C",
+  "index": 137,
+  "en": "Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72E84",
+  "off": 470660,
+  "field": 28,
+  "table": "71F6C",
+  "index": 138,
+  "en": "Moored Ship",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72EA0",
+  "off": 470688,
+  "field": 28,
+  "table": "71F6C",
+  "index": 139,
+  "en": "Theater",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72EBC",
+  "off": 470716,
+  "field": 28,
+  "table": "71F6C",
+  "index": 140,
+  "en": "Post Office",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72ED8",
+  "off": 470744,
+  "field": 28,
+  "table": "71F6C",
+  "index": 141,
+  "en": "Row Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72EF4",
+  "off": 470772,
+  "field": 28,
+  "table": "71F6C",
+  "index": 142,
+  "en": "Row Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72F10",
+  "off": 470800,
+  "field": 28,
+  "table": "71F6C",
+  "index": 143,
+  "en": "Trading House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72F2C",
+  "off": 470828,
+  "field": 28,
+  "table": "71F6C",
+  "index": 144,
+  "en": "Bekel Bakery",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72F48",
+  "off": 470856,
+  "field": 28,
+  "table": "71F6C",
+  "index": 145,
+  "en": "Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72F64",
+  "off": 470884,
+  "field": 28,
+  "table": "71F6C",
+  "index": 146,
+  "en": "City Hall",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72F80",
+  "off": 470912,
+  "field": 28,
+  "table": "71F6C",
+  "index": 147,
+  "en": "Row Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72F9C",
+  "off": 470940,
+  "field": 28,
+  "table": "71F6C",
+  "index": 148,
+  "en": "Row Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72FB8",
+  "off": 470968,
+  "field": 28,
+  "table": "71F6C",
+  "index": 149,
+  "en": "Zille Farm",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72FD4",
+  "off": 470996,
+  "field": 28,
+  "table": "71F6C",
+  "index": 150,
+  "en": "Row Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@72FF0",
+  "off": 471024,
+  "field": 28,
+  "table": "71F6C",
+  "index": 151,
+  "en": "Row Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7300C",
+  "off": 471052,
+  "field": 28,
+  "table": "71F6C",
+  "index": 152,
+  "en": "Empty House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73028",
+  "off": 471080,
+  "field": 28,
+  "table": "71F6C",
+  "index": 153,
+  "en": "Row Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73044",
+  "off": 471108,
+  "field": 28,
+  "table": "71F6C",
+  "index": 154,
+  "en": "Row Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73060",
+  "off": 471136,
+  "field": 28,
+  "table": "71F6C",
+  "index": 155,
+  "en": "Row Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7307C",
+  "off": 471164,
+  "field": 28,
+  "table": "71F6C",
+  "index": 156,
+  "en": "Tailor",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73098",
+  "off": 471192,
+  "field": 28,
+  "table": "71F6C",
+  "index": 157,
+  "en": "Undertaker",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@730B4",
+  "off": 471220,
+  "field": 28,
+  "table": "71F6C",
+  "index": 158,
+  "en": "Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@730D0",
+  "off": 471248,
+  "field": 28,
+  "table": "71F6C",
+  "index": 159,
+  "en": "Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@730EC",
+  "off": 471276,
+  "field": 28,
+  "table": "71F6C",
+  "index": 160,
+  "en": "Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73108",
+  "off": 471304,
+  "field": 28,
+  "table": "71F6C",
+  "index": 161,
+  "en": "Sans Souci Tavern",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73124",
+  "off": 471332,
+  "field": 28,
+  "table": "71F6C",
+  "index": 162,
+  "en": "Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73140",
+  "off": 471360,
+  "field": 28,
+  "table": "71F6C",
+  "index": 163,
+  "en": "Houses",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7315C",
+  "off": 471388,
+  "field": 28,
+  "table": "71F6C",
+  "index": 164,
+  "en": "Old Warehouse",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73178",
+  "off": 471416,
+  "field": 28,
+  "table": "71F6C",
+  "index": 165,
+  "en": "Old Dock",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73194",
+  "off": 471444,
+  "field": 28,
+  "table": "71F6C",
+  "index": 166,
+  "en": "Invos Diner",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@731B0",
+  "off": 471472,
+  "field": 28,
+  "table": "71F6C",
+  "index": 167,
+  "en": "Lion Inn",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@731CC",
+  "off": 471500,
+  "field": 28,
+  "table": "71F6C",
+  "index": 168,
+  "en": "Customs House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@731E8",
+  "off": 471528,
+  "field": 28,
+  "table": "71F6C",
+  "index": 169,
+  "en": "Rosso Inn",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73204",
+  "off": 471556,
+  "field": 28,
+  "table": "71F6C",
+  "index": 170,
+  "en": "Clothing Shop",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73220",
+  "off": 471584,
+  "field": 28,
+  "table": "71F6C",
+  "index": 171,
+  "en": "General Store",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7323C",
+  "off": 471612,
+  "field": 28,
+  "table": "71F6C",
+  "index": 172,
+  "en": "Florist",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73258",
+  "off": 471640,
+  "field": 28,
+  "table": "71F6C",
+  "index": 173,
+  "en": "Public Hall",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73274",
+  "off": 471668,
+  "field": 28,
+  "table": "71F6C",
+  "index": 174,
+  "en": "Coast Guard",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73290",
+  "off": 471696,
+  "field": 28,
+  "table": "71F6C",
+  "index": 175,
+  "en": "Church",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@732AC",
+  "off": 471724,
+  "field": 28,
+  "table": "71F6C",
+  "index": 176,
+  "en": "Forest Monument",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@732C8",
+  "off": 471752,
+  "field": 28,
+  "table": "71F6C",
+  "index": 177,
+  "en": "Forest",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@732E4",
+  "off": 471780,
+  "field": 28,
+  "table": "71F6C",
+  "index": 178,
+  "en": "Harbor Warehouse",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73300",
+  "off": 471808,
+  "field": 28,
+  "table": "71F6C",
+  "index": 179,
+  "en": "Alster Central Park",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7331C",
+  "off": 471836,
+  "field": 28,
+  "table": "71F6C",
+  "index": 180,
+  "en": "Farmland",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73338",
+  "off": 471864,
+  "field": 28,
+  "table": "71F6C",
+  "index": 181,
+  "en": "Harbor Park",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73354",
+  "off": 471892,
+  "field": 28,
+  "table": "71F6C",
+  "index": 182,
+  "en": "Market",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73370",
+  "off": 471920,
+  "field": 28,
+  "table": "71F6C",
+  "index": 183,
+  "en": "Market",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7338C",
+  "off": 471948,
+  "field": 28,
+  "table": "71F6C",
+  "index": 184,
+  "en": "Market",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@733A8",
+  "off": 471976,
+  "field": 28,
+  "table": "71F6C",
+  "index": 185,
+  "en": "Cemetery",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@733C4",
+  "off": 472004,
+  "field": 28,
+  "table": "71F6C",
+  "index": 186,
+  "en": "Lighthouse",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7354C",
+  "off": 472396,
+  "field": 28,
+  "table": "71F6C",
+  "index": 200,
+  "en": "Mansion",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73568",
+  "off": 472424,
+  "field": 28,
+  "table": "71F6C",
+  "index": 201,
+  "en": "Mansion",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73584",
+  "off": 472452,
+  "field": 28,
+  "table": "71F6C",
+  "index": 202,
+  "en": "Earl's Mansion",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@735A0",
+  "off": 472480,
+  "field": 28,
+  "table": "71F6C",
+  "index": 203,
+  "en": "Politician's Mansion",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@735BC",
+  "off": 472508,
+  "field": 28,
+  "table": "71F6C",
+  "index": 204,
+  "en": "Fine Cigar Shop",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@735D8",
+  "off": 472536,
+  "field": 28,
+  "table": "71F6C",
+  "index": 205,
+  "en": "Jeweler",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@735F4",
+  "off": 472564,
+  "field": 28,
+  "table": "71F6C",
+  "index": 206,
+  "en": "Milliner",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73610",
+  "off": 472592,
+  "field": 28,
+  "table": "71F6C",
+  "index": 207,
+  "en": "Beauty Salon",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7362C",
+  "off": 472620,
+  "field": 28,
+  "table": "71F6C",
+  "index": 208,
+  "en": "School",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73648",
+  "off": 472648,
+  "field": 28,
+  "table": "71F6C",
+  "index": 209,
+  "en": "School",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73664",
+  "off": 472676,
+  "field": 28,
+  "table": "71F6C",
+  "index": 210,
+  "en": "Museum",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73680",
+  "off": 472704,
+  "field": 28,
+  "table": "71F6C",
+  "index": 211,
+  "en": "City Hall",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7369C",
+  "off": 472732,
+  "field": 28,
+  "table": "71F6C",
+  "index": 212,
+  "en": "Mansion",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@736B8",
+  "off": 472760,
+  "field": 28,
+  "table": "71F6C",
+  "index": 213,
+  "en": "Bank",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@736D4",
+  "off": 472788,
+  "field": 28,
+  "table": "71F6C",
+  "index": 214,
+  "en": "Residence",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@736F0",
+  "off": 472816,
+  "field": 28,
+  "table": "71F6C",
+  "index": 215,
+  "en": "Teacup Shop",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7370C",
+  "off": 472844,
+  "field": 28,
+  "table": "71F6C",
+  "index": 216,
+  "en": "Porcelain Design",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73728",
+  "off": 472872,
+  "field": 28,
+  "table": "71F6C",
+  "index": 217,
+  "en": "Textile Design Studio",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73744",
+  "off": 472900,
+  "field": 28,
+  "table": "71F6C",
+  "index": 218,
+  "en": "Tannery",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73760",
+  "off": 472928,
+  "field": 28,
+  "table": "71F6C",
+  "index": 219,
+  "en": "Metalworks",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7377C",
+  "off": 472956,
+  "field": 28,
+  "table": "71F6C",
+  "index": 220,
+  "en": "Rail Baron's Mansion",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73798",
+  "off": 472984,
+  "field": 28,
+  "table": "71F6C",
+  "index": 221,
+  "en": "Gentlemen's Hatter",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@737B4",
+  "off": 473012,
+  "field": 28,
+  "table": "71F6C",
+  "index": 222,
+  "en": "Gentlemen's Tailor",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@737D0",
+  "off": 473040,
+  "field": 28,
+  "table": "71F6C",
+  "index": 223,
+  "en": "Fine Shoe Shop",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@737EC",
+  "off": 473068,
+  "field": 28,
+  "table": "71F6C",
+  "index": 224,
+  "en": "Watchmaker",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73808",
+  "off": 473096,
+  "field": 28,
+  "table": "71F6C",
+  "index": 225,
+  "en": "Hotel",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73824",
+  "off": 473124,
+  "field": 28,
+  "table": "71F6C",
+  "index": 226,
+  "en": "Baron's Mansion",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73840",
+  "off": 473152,
+  "field": 28,
+  "table": "71F6C",
+  "index": 227,
+  "en": "Theater",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7385C",
+  "off": 473180,
+  "field": 28,
+  "table": "71F6C",
+  "index": 228,
+  "en": "Library",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73878",
+  "off": 473208,
+  "field": 28,
+  "table": "71F6C",
+  "index": 229,
+  "en": "Newspaper Office",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73894",
+  "off": 473236,
+  "field": 28,
+  "table": "71F6C",
+  "index": 230,
+  "en": "Restaurant",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@738B0",
+  "off": 473264,
+  "field": 28,
+  "table": "71F6C",
+  "index": 231,
+  "en": "Army Headquarters",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@738CC",
+  "off": 473292,
+  "field": 28,
+  "table": "71F6C",
+  "index": 232,
+  "en": "Omnibus",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@738E8",
+  "off": 473320,
+  "field": 28,
+  "table": "71F6C",
+  "index": 233,
+  "en": "Apartments",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73904",
+  "off": 473348,
+  "field": 28,
+  "table": "71F6C",
+  "index": 234,
+  "en": "Apartments",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73920",
+  "off": 473376,
+  "field": 28,
+  "table": "71F6C",
+  "index": 235,
+  "en": "Employment Office",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@7393C",
+  "off": 473404,
+  "field": 28,
+  "table": "71F6C",
+  "index": 236,
+  "en": "Tower of London",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73958",
+  "off": 473432,
+  "field": 28,
+  "table": "71F6C",
+  "index": 237,
+  "en": "Carpenter's House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73974",
+  "off": 473460,
+  "field": 28,
+  "table": "71F6C",
+  "index": 238,
+  "en": "Prison",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73990",
+  "off": 473488,
+  "field": 28,
+  "table": "71F6C",
+  "index": 239,
+  "en": "Antique Shop",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@739AC",
+  "off": 473516,
+  "field": 28,
+  "table": "71F6C",
+  "index": 240,
+  "en": "Optician",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@739C8",
+  "off": 473544,
+  "field": 28,
+  "table": "71F6C",
+  "index": 241,
+  "en": "Residence",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@739E4",
+  "off": 473572,
+  "field": 28,
+  "table": "71F6C",
+  "index": 242,
+  "en": "Barber",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73A00",
+  "off": 473600,
+  "field": 28,
+  "table": "71F6C",
+  "index": 243,
+  "en": "Church Chapel",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73A1C",
+  "off": 473628,
+  "field": 28,
+  "table": "71F6C",
+  "index": 244,
+  "en": "Church Interior",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73A38",
+  "off": 473656,
+  "field": 28,
+  "table": "71F6C",
+  "index": 245,
+  "en": "Telephone Exchange",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73A54",
+  "off": 473684,
+  "field": 28,
+  "table": "71F6C",
+  "index": 246,
+  "en": "Hospital",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73A70",
+  "off": 473712,
+  "field": 28,
+  "table": "71F6C",
+  "index": 247,
+  "en": "Painter's Flat",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73A8C",
+  "off": 473740,
+  "field": 28,
+  "table": "71F6C",
+  "index": 248,
+  "en": "Houses of Parliament",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73AA8",
+  "off": 473768,
+  "field": 28,
+  "table": "71F6C",
+  "index": 249,
+  "en": "Bookshop",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73AC4",
+  "off": 473796,
+  "field": 28,
+  "table": "71F6C",
+  "index": 250,
+  "en": "Inn",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73AE0",
+  "off": 473824,
+  "field": 28,
+  "table": "71F6C",
+  "index": 251,
+  "en": "Boarding House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73AFC",
+  "off": 473852,
+  "field": 28,
+  "table": "71F6C",
+  "index": 252,
+  "en": "Residence",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73B18",
+  "off": 473880,
+  "field": 28,
+  "table": "71F6C",
+  "index": 253,
+  "en": "Tea Room",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73B34",
+  "off": 473908,
+  "field": 28,
+  "table": "71F6C",
+  "index": 254,
+  "en": "Apartments",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73B50",
+  "off": 473936,
+  "field": 28,
+  "table": "71F6C",
+  "index": 255,
+  "en": "General Store",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73B6C",
+  "off": 473964,
+  "field": 28,
+  "table": "71F6C",
+  "index": 256,
+  "en": "Police Station",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73B88",
+  "off": 473992,
+  "field": 28,
+  "table": "71F6C",
+  "index": 257,
+  "en": "Residence",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73BA4",
+  "off": 474020,
+  "field": 28,
+  "table": "71F6C",
+  "index": 258,
+  "en": "Slum Tenement",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73BC0",
+  "off": 474048,
+  "field": 28,
+  "table": "71F6C",
+  "index": 259,
+  "en": "Slum Tenement",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73BDC",
+  "off": 474076,
+  "field": 28,
+  "table": "71F6C",
+  "index": 260,
+  "en": "Slum Tenement",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73BF8",
+  "off": 474104,
+  "field": 28,
+  "table": "71F6C",
+  "index": 261,
+  "en": "Residence",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73C14",
+  "off": 474132,
+  "field": 28,
+  "table": "71F6C",
+  "index": 262,
+  "en": "Watchmaker",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73C30",
+  "off": 474160,
+  "field": 28,
+  "table": "71F6C",
+  "index": 263,
+  "en": "Residence",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73C4C",
+  "off": 474188,
+  "field": 28,
+  "table": "71F6C",
+  "index": 264,
+  "en": "Residence",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73C68",
+  "off": 474216,
+  "field": 28,
+  "table": "71F6C",
+  "index": 265,
+  "en": "Residence",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73C84",
+  "off": 474244,
+  "field": 28,
+  "table": "71F6C",
+  "index": 266,
+  "en": "Gambling Den",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73CA0",
+  "off": 474272,
+  "field": 28,
+  "table": "71F6C",
+  "index": 267,
+  "en": "Saloon",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73CBC",
+  "off": 474300,
+  "field": 28,
+  "table": "71F6C",
+  "index": 268,
+  "en": "Pub",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73CD8",
+  "off": 474328,
+  "field": 28,
+  "table": "71F6C",
+  "index": 269,
+  "en": "Residence",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73CF4",
+  "off": 474356,
+  "field": 28,
+  "table": "71F6C",
+  "index": 270,
+  "en": "Residence",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73D10",
+  "off": 474384,
+  "field": 28,
+  "table": "71F6C",
+  "index": 271,
+  "en": "Parliament Chamber",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73D2C",
+  "off": 474412,
+  "field": 28,
+  "table": "71F6C",
+  "index": 272,
+  "en": "Tea Merchant",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73D48",
+  "off": 474440,
+  "field": 28,
+  "table": "71F6C",
+  "index": 273,
+  "en": "Soap Shop",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73D64",
+  "off": 474468,
+  "field": 28,
+  "table": "71F6C",
+  "index": 274,
+  "en": "Liquor Shop",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73D80",
+  "off": 474496,
+  "field": 28,
+  "table": "71F6C",
+  "index": 275,
+  "en": "Boat Rental",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73D9C",
+  "off": 474524,
+  "field": 28,
+  "table": "71F6C",
+  "index": 276,
+  "en": "Residence",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73DB8",
+  "off": 474552,
+  "field": 28,
+  "table": "71F6C",
+  "index": 277,
+  "en": "Immigrants' Flat",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73DD4",
+  "off": 474580,
+  "field": 28,
+  "table": "71F6C",
+  "index": 278,
+  "en": "Residence",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73DF0",
+  "off": 474608,
+  "field": 28,
+  "table": "71F6C",
+  "index": 279,
+  "en": "Writer's House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73E0C",
+  "off": 474636,
+  "field": 28,
+  "table": "71F6C",
+  "index": 280,
+  "en": "Match Factory",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73E28",
+  "off": 474664,
+  "field": 28,
+  "table": "71F6C",
+  "index": 281,
+  "en": "Apartments",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73E44",
+  "off": 474692,
+  "field": 28,
+  "table": "71F6C",
+  "index": 282,
+  "en": "Apartments",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73E60",
+  "off": 474720,
+  "field": 28,
+  "table": "71F6C",
+  "index": 283,
+  "en": "Apartments",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73E7C",
+  "off": 474748,
+  "field": 28,
+  "table": "71F6C",
+  "index": 284,
+  "en": "Meatpacking Plant",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73E98",
+  "off": 474776,
+  "field": 28,
+  "table": "71F6C",
+  "index": 285,
+  "en": "Old Factory Site",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73EB4",
+  "off": 474804,
+  "field": 28,
+  "table": "71F6C",
+  "index": 286,
+  "en": "Glue Factory",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73ED0",
+  "off": 474832,
+  "field": 28,
+  "table": "71F6C",
+  "index": 287,
+  "en": "Workers' Lodgings",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73EEC",
+  "off": 474860,
+  "field": 28,
+  "table": "71F6C",
+  "index": 288,
+  "en": "Residence",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73F08",
+  "off": 474888,
+  "field": 28,
+  "table": "71F6C",
+  "index": 289,
+  "en": "Boarding House",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73F24",
+  "off": 474916,
+  "field": 28,
+  "table": "71F6C",
+  "index": 290,
+  "en": "Square",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73F40",
+  "off": 474944,
+  "field": 28,
+  "table": "71F6C",
+  "index": 291,
+  "en": "Square",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73F5C",
+  "off": 474972,
+  "field": 28,
+  "table": "71F6C",
+  "index": 292,
+  "en": "Park",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73F78",
+  "off": 475000,
+  "field": 28,
+  "table": "71F6C",
+  "index": 293,
+  "en": "Fountain Garden",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73F94",
+  "off": 475028,
+  "field": 28,
+  "table": "71F6C",
+  "index": 294,
+  "en": "Old Factory Site",
+  "done": true
+ },
+ {
+  "id": "SLPS_019.32@73FB0",
+  "off": 475056,
+  "field": 28,
+  "table": "71F6C",
+  "index": 295,
+  "en": "Park",
   "done": true
  }
 ]

@@ -1,0 +1,177 @@
+[
+ {
+  "id": "M0B.BIN@370",
+  "off": 880,
+  "size": 10,
+  "slot": 10,
+  "refs": [
+   [
+    "ptr",
+    2148451704
+   ]
+  ],
+  "idx": 0,
+  "en": "Blood Used",
+  "done": true
+ },
+ {
+  "id": "M0B.BIN@368",
+  "off": 872,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148451708
+   ]
+  ],
+  "idx": 1,
+  "en": "Strength",
+  "done": true
+ },
+ {
+  "id": "M0B.BIN@360",
+  "off": 864,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148451712
+   ]
+  ],
+  "idx": 2,
+  "en": "Intellect",
+  "done": true
+ },
+ {
+  "id": "M0B.BIN@358",
+  "off": 856,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148451716
+   ]
+  ],
+  "idx": 3,
+  "en": "Charm",
+  "done": true
+ },
+ {
+  "id": "M0B.BIN@34C",
+  "off": 844,
+  "size": 10,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148451720
+   ]
+  ],
+  "idx": 4,
+  "en": "ND Progress",
+  "done": true
+ },
+ {
+  "id": "M0B.BIN@344",
+  "off": 836,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148451724
+   ]
+  ],
+  "idx": 5,
+  "en": "Morality",
+  "done": true
+ },
+ {
+  "id": "M0B.BIN@338",
+  "off": 824,
+  "size": 8,
+  "slot": 11,
+  "refs": [
+   [
+    "ptr",
+    2148451728
+   ]
+  ],
+  "idx": 6,
+  "en": "Drain Power",
+  "done": true
+ },
+ {
+  "id": "M0B.BIN@330",
+  "off": 816,
+  "size": 6,
+  "slot": 7,
+  "refs": [
+   [
+    "ptr",
+    2148451732
+   ]
+  ],
+  "idx": 7,
+  "en": "Affinity",
+  "done": true
+ },
+ {
+  "id": "M0B.BIN@324",
+  "off": 804,
+  "size": 4,
+  "slot": 7,
+  "refs": [
+   [
+    "code",
+    2148422076
+   ]
+  ],
+  "en": "Drain",
+  "done": true
+ },
+ {
+  "id": "M0B.BIN@32C",
+  "off": 812,
+  "size": 2,
+  "slot": 3,
+  "refs": [
+   [
+    "code",
+    2148425260
+   ],
+   [
+    "code",
+    2148425628
+   ],
+   [
+    "code",
+    2148425992
+   ],
+   [
+    "code",
+    2148426356
+   ],
+   [
+    "code",
+    2148426724
+   ],
+   [
+    "code",
+    2148427092
+   ],
+   [
+    "code",
+    2148427456
+   ],
+   [
+    "code",
+    2148427820
+   ]
+  ],
+  "en": ""
+ }
+]

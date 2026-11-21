@@ -146,6 +146,20 @@ class Image:
         self.log.append(('moved', old, new))
         return new
 
+    def repoint(self, old, new, refs):
+        """Point every reference of the string at `old` to `new` (a string placed elsewhere,
+        e.g. in the resident EXE).  Raises ValueError when a code reference cannot move."""
+        codes = [r[1] for r in refs if r[0] == 'code']
+        if not all(self._can_patch(c, new) for c in codes):
+            raise ValueError('cannot repoint code reference to %08X' % old)
+        for c in codes:
+            self.patch_code_ref(c, new)
+        for r in refs:
+            if r[0] == 'ptr':
+                self.put_word(r[1], new)
+        self.log.append(('repointed', old, new))
+        return new
+
     def _can_patch(self, at, new):
         f = self._find_lui(at)
         if not f:

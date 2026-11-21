@@ -49773,8 +49773,8 @@
   "id": "M2#7840",
   "stc": 7840,
   "en": "You must have had a fine education. ",
-  "done": true,
-  "note": "Trailing space: #7841 follows on the same line."
+  "note": "Trailing space: #7841 follows on the same line.",
+  "done": true
  },
  {
   "id": "M2#7841",
@@ -49792,15 +49792,15 @@
   "id": "M2#7843",
   "stc": 7843,
   "en": "No, I just thought I'd say hello,",
-  "done": true,
-  "note": "Followed by #7826 'that's all. Sorry to bother you.' or #7898."
+  "note": "Followed by #7826 'that's all. Sorry to bother you.' or #7898.",
+  "done": true
  },
  {
   "id": "M2#7844",
   "stc": 7844,
   "en": "Good evening, ",
-  "done": true,
   "note": "Before the name (Mike). Variant for Samantha msg 320299, where pause dots follow: 'Good evening...'",
+  "done": true,
   "variants": [
    {
     "msg": 320299,
@@ -50052,8 +50052,8 @@
   "id": "M2#7885",
   "stc": 7885,
   "en": "Today it's been one bad thing after another.",
-  "done": true,
-  "note": "After '{NAME}! Good day.' (#1343)."
+  "note": "After '{NAME}! Good day.' (#1343).",
+  "done": true
  },
  {
   "id": "M2#7886",
@@ -50077,8 +50077,8 @@
   "id": "M2#7889",
   "stc": 7889,
   "en": "You came to see me?",
-  "done": true,
-  "note": "After '{NAME}!' (#69)."
+  "note": "After '{NAME}!' (#69).",
+  "done": true
  },
  {
   "id": "M2#7890",
@@ -50090,8 +50090,8 @@
   "id": "M2#7891",
   "stc": 7891,
   "en": ", I learn a lot from talking with",
-  "done": true,
-  "note": "After the name; #7892 on the next line."
+  "note": "After the name; #7892 on the next line.",
+  "done": true
  },
  {
   "id": "M2#7892",
@@ -50109,8 +50109,8 @@
   "id": "M2#7894",
   "stc": 7894,
   "en": "that's all. Sorry to stop you like that.",
-  "done": true,
-  "note": "After #7825 'No, I was just impressed you're up so early,'."
+  "note": "After #7825 'No, I was just impressed you're up so early,'.",
+  "done": true
  },
  {
   "id": "M2#7895",
@@ -50122,8 +50122,8 @@
   "id": "M2#7896",
   "stc": 7896,
   "en": ", you're",
-  "done": true,
-  "note": "After the name, the sentence goes on in the next row (lowercase): Mike #7897, Anna #10008 / #10068 / #10095."
+  "note": "After the name, the sentence goes on in the next row (lowercase): Mike #7897, Anna #10008 / #10068 / #10095.",
+  "done": true
  },
  {
   "id": "M2#7897",
@@ -50135,8 +50135,8 @@
   "id": "M2#7898",
   "stc": 7898,
   "en": "that's all. Sorry to stop you like that.",
-  "done": true,
-  "note": "After #7843 'No, I just thought I'd say hello,'."
+  "note": "After #7843 'No, I just thought I'd say hello,'.",
+  "done": true
  },
  {
   "id": "M2#7899",
@@ -50154,8 +50154,8 @@
   "id": "M2#7901",
   "stc": 7901,
   "en": "What's your name?",
-  "done": true,
-  "note": "Shared with Nicole msgs 345191/346129."
+  "note": "Shared with Nicole msgs 345191/346129.",
+  "done": true
  },
  {
   "id": "M2#7902",
@@ -50197,8 +50197,8 @@
   "id": "M2#7908",
   "stc": 7908,
   "en": "... Good day.",
-  "done": true,
-  "note": "After the name: '{NAME}... Good day.'"
+  "note": "After the name: '{NAME}... Good day.'",
+  "done": true
  },
  {
   "id": "M2#7909",
@@ -50264,15 +50264,15 @@
   "id": "M2#7919",
   "stc": 7919,
   "en": "Romantic, elegant dresses at lower prices...",
-  "done": true,
-  "note": "Noun phrase; #7920 (slice 099) follows: 'I'm working hard to find a way to make them.'"
+  "note": "Noun phrase; #7920 (slice 099) follows: 'I'm working hard to find a way to make them.'",
+  "done": true
  },
  {
   "id": "M2#7920",
   "stc": 7920,
   "en": "I'm working hard to find a way to make them.",
-  "done": true,
-  "note": "Follows #7919 (slice 098), which must be a noun phrase such as 'Romantic, elegant dresses at lower prices...'."
+  "note": "Follows #7919 (slice 098), which must be a noun phrase such as 'Romantic, elegant dresses at lower prices...'.",
+  "done": true
  },
  {
   "id": "M2#7921",
@@ -50446,8 +50446,8 @@
   "id": "M2#7949",
   "stc": 7949,
   "en": "What brings you here at this hour...",
-  "done": true,
-  "note": "After '{PLAYER_NAME}?' on the line above."
+  "note": "After '{PLAYER_NAME}?' on the line above.",
+  "done": true
  },
  {
   "id": "M2#7950",
@@ -50501,8 +50501,8 @@
   "id": "M2#7958",
   "stc": 7958,
   "en": "Not God, but you, ",
-  "done": true,
-  "note": "Stella (enthralled): 'Not God, but you, {NAME}, my master, / are now the one I serve...'"
+  "note": "Stella (enthralled): 'Not God, but you, {NAME}, my master, / are now the one I serve...'",
+  "done": true
  },
  {
   "id": "M2#7959",
@@ -50544,15 +50544,15 @@
   "id": "M2#7965",
   "stc": 7965,
   "en": "Are you feeling unwell?",
-  "done": true,
-  "note": "Also follows #8065 (slice 100)."
+  "note": "Also follows #8065 (slice 100).",
+  "done": true
  },
  {
   "id": "M2#7966",
   "stc": 7966,
   "en": "No, it's no matter.",
-  "done": true,
-  "note": "Stern player; #6706 (gentle) is 'No, it's nothing.'"
+  "note": "Stern player; #6706 (gentle) is 'No, it's nothing.'",
+  "done": true
  },
  {
   "id": "M2#7967",
@@ -50744,8 +50744,8 @@
   "id": "M2#7998",
   "stc": 7998,
   "en": "(Hmph. Repeating dull sermons every day...",
-  "done": true,
-  "note": "Subject omitted in JP; 'she' (Stella) inferred in #7999."
+  "note": "Subject omitted in JP; 'she' (Stella) inferred in #7999.",
+  "done": true
  },
  {
   "id": "M2#7999",
@@ -50775,15 +50775,15 @@
   "id": "M2#8003",
   "stc": 8003,
   "en": "Oh, ",
-  "done": true,
-  "note": "Before the name ('Oh, {NAME}!' Stella / 'Oh, {NAME}.' Sarah) and alone before a pause in msg 312255 ('Oh, n-no, you mustn't.')."
+  "note": "Before the name ('Oh, {NAME}!' Stella / 'Oh, {NAME}.' Sarah) and alone before a pause in msg 312255 ('Oh, n-no, you mustn't.').",
+  "done": true
  },
  {
   "id": "M2#8004",
   "stc": 8004,
   "en": "n-no, you mustn't.",
-  "done": true,
-  "note": "Lowercase: follows 'Oh, ' + pause on the same line."
+  "note": "Lowercase: follows 'Oh, ' + pause on the same line.",
+  "done": true
  },
  {
   "id": "M2#8005",
@@ -50933,8 +50933,8 @@
   "id": "M2#8029",
   "stc": 8029,
   "en": ",",
-  "done": true,
-  "note": "After the name: '{NAME}, / I'm glad to see you.'"
+  "note": "After the name: '{NAME}, / I'm glad to see you.'",
+  "done": true
  },
  {
   "id": "M2#8030",
@@ -51024,8 +51024,8 @@
   "id": "M2#8044",
   "stc": 8044,
   "en": "Isn't that so?",
-  "done": true,
-  "note": "Also Clotilde msg 341115/341817 after #8798 ('You like Big Ben too...')."
+  "note": "Also Clotilde msg 341115/341817 after #8798 ('You like Big Ben too...').",
+  "done": true
  },
  {
   "id": "M2#8045",
@@ -51049,15 +51049,15 @@
   "id": "M2#8048",
   "stc": 8048,
   "en": "N-no...",
-  "done": true,
-  "note": "Msg 312607 follows 312589, which ends 'Oh, ' + pause; capitalized on the assumption that 312607 starts a new box."
+  "note": "Msg 312607 follows 312589, which ends 'Oh, ' + pause; capitalized on the assumption that 312607 starts a new box.",
+  "done": true
  },
  {
   "id": "M2#8049",
   "stc": 8049,
   "en": "You mustn't...",
-  "done": true,
   "note": "No used_in; msg.py shows it after #8048 + pause in msg 312607.",
+  "done": true,
   "variants": [
    {
     "ref": 312613,
@@ -51141,8 +51141,8 @@
   "id": "M2#8062",
   "stc": 8062,
   "en": "You mustn't come in here.",
-  "done": true,
-  "note": "Starts a sentence: also used alone after '{NAME}...' (msg 313364)."
+  "note": "Starts a sentence: also used alone after '{NAME}...' (msg 313364).",
+  "done": true
  },
  {
   "id": "M2#8063",
@@ -51250,8 +51250,8 @@
   "id": "M2#8080",
   "stc": 8080,
   "en": "Anything you wish",
-  "done": true,
-  "note": "#152 '...' follows."
+  "note": "#152 '...' follows.",
+  "done": true
  },
  {
   "id": "M2#8081",
@@ -51527,15 +51527,15 @@
   "id": "M2#8126",
   "stc": 8126,
   "en": "isn't the point. Once in my life, I want to",
-  "done": true,
-  "note": "Words of #8127 moved here so the box fits 3 lines (rows #8125-#8127 used only in msg 316384)."
+  "note": "Words of #8127 moved here so the box fits 3 lines (rows #8125-#8127 used only in msg 316384).",
+  "done": true
  },
  {
   "id": "M2#8127",
   "stc": 8127,
   "en": "paint a picture that stays in someone's heart.",
-  "done": true,
-  "note": "Continues #8126."
+  "note": "Continues #8126.",
+  "done": true
  },
  {
   "id": "M2#8128",
@@ -51649,8 +51649,8 @@
   "id": "M2#8146",
   "stc": 8146,
   "en": "Now, let us see if this woman is of any use",
-  "done": true,
-  "note": "Stern player thought; #152 '...' follows, then a pause and #8147 on a new line."
+  "note": "Stern player thought; #152 '...' follows, then a pause and #8147 on a new line.",
+  "done": true
  },
  {
   "id": "M2#8147",
@@ -51662,8 +51662,8 @@
   "id": "M2#8148",
   "stc": 8148,
   "en": "No",
-  "done": true,
-  "note": "Seduction scene: 'Ah...' (#6733+#152) <p> / 'No' then three paused '.' rows -> 'No...'."
+  "note": "Seduction scene: 'Ah...' (#6733+#152) <p> / 'No' then three paused '.' rows -> 'No...'.",
+  "done": true
  },
  {
   "id": "M2#8149",
@@ -51687,15 +51687,15 @@
   "id": "M2#8152",
   "stc": 8152,
   "en": "N-no, that's not it at all.",
-  "done": true,
-  "note": "Gentle branch (msg 316635); used_in was empty, found with msg.py. Followed by \"I'm {NAME}.\""
+  "note": "Gentle branch (msg 316635); used_in was empty, found with msg.py. Followed by \"I'm {NAME}.\"",
+  "done": true
  },
  {
   "id": "M2#8153",
   "stc": 8153,
   "en": "I apologize for coming in uninvited.",
-  "done": true,
-  "note": "Gentle branch (msg 316635), followed by a pause and #8154 on a new line."
+  "note": "Gentle branch (msg 316635), followed by a pause and #8154 on a new line.",
+  "done": true
  },
  {
   "id": "M2#8154",
@@ -51749,15 +51749,15 @@
   "id": "M2#8162",
   "stc": 8162,
   "en": "As long as you don't disturb my painting,",
-  "done": true,
-  "note": "Matches #8123 (slice 101)."
+  "note": "Matches #8123 (slice 101).",
+  "done": true
  },
  {
   "id": "M2#8163",
   "stc": 8163,
   "en": "feel free to come and go.",
-  "done": true,
-  "note": "Matches #8124 (slice 101)."
+  "note": "Matches #8124 (slice 101).",
+  "done": true
  },
  {
   "id": "M2#8164",
@@ -51781,22 +51781,22 @@
   "id": "M2#8167",
   "stc": 8167,
   "en": "<Maybe I'll give it a try>",
-  "done": true,
-  "note": "Answer choice to msg 317038; no used_in."
+  "note": "Answer choice to msg 317038; no used_in.",
+  "done": true
  },
  {
   "id": "M2#8168",
   "stc": 8168,
   "en": "<I'll have to decline>",
-  "done": true,
-  "note": "Answer choice to msg 317038; no used_in."
+  "note": "Answer choice to msg 317038; no used_in.",
+  "done": true
  },
  {
   "id": "M2#8169",
   "stc": 8169,
   "en": "Oh, please do!",
-  "done": true,
-  "note": "Yes branch after #8167; no used_in."
+  "note": "Yes branch after #8167; no used_in.",
+  "done": true
  },
  {
   "id": "M2#8170",
@@ -51814,15 +51814,15 @@
   "id": "M2#8172",
   "stc": 8172,
   "en": "I see... What a shame.",
-  "done": true,
-  "note": "No branch (#8168)."
+  "note": "No branch (#8168).",
+  "done": true
  },
  {
   "id": "M2#8173",
   "stc": 8173,
   "en": "Your orders?",
-  "done": true,
-  "note": "After '{NAME}, my master. ' (#854 variant)."
+  "note": "After '{NAME}, my master. ' (#854 variant).",
+  "done": true
  },
  {
   "id": "M2#8174",
@@ -51846,8 +51846,8 @@
   "id": "M2#8177",
   "stc": 8177,
   "en": "Give me your orders...",
-  "done": true,
-  "note": "Follows '{NAME}, my master...' (#0) on a new line."
+  "note": "Follows '{NAME}, my master...' (#0) on a new line.",
+  "done": true
  },
  {
   "id": "M2#8178",
@@ -51937,8 +51937,8 @@
   "id": "M2#8192",
   "stc": 8192,
   "en": "my husband's?",
-  "done": true,
-  "note": "Shared with #8237; both end 'of Darrell's...'."
+  "note": "Shared with #8237; both end 'of Darrell's...'.",
+  "done": true
  },
  {
   "id": "M2#8193",
@@ -51974,8 +51974,8 @@
   "id": "M2#8198",
   "stc": 8198,
   "en": "Now, if you'll excuse me.",
-  "done": true,
-  "note": "Spoken by Samantha (320384/320813) and by the player (332584, 385853)."
+  "note": "Spoken by Samantha (320384/320813) and by the player (332584, 385853).",
+  "done": true
  },
  {
   "id": "M2#8199",
@@ -52011,8 +52011,8 @@
   "id": "M2#8204",
   "stc": 8204,
   "en": "! Come in.",
-  "done": true,
-  "note": "After {NAME}."
+  "note": "After {NAME}.",
+  "done": true
  },
  {
   "id": "M2#8205",
@@ -52054,8 +52054,8 @@
   "id": "M2#8211",
   "stc": 8211,
   "en": "that is all.",
-  "done": true,
-  "note": "Shared by #8210 and #8218."
+  "note": "Shared by #8210 and #8218.",
+  "done": true
  },
  {
   "id": "M2#8212",
@@ -52079,15 +52079,15 @@
   "id": "M2#8215",
   "stc": 8215,
   "en": "Yes, ah, um... ",
-  "done": true,
-  "note": "Then {NAME} + #69 variant ','."
+  "note": "Then {NAME} + #69 variant ','.",
+  "done": true
  },
  {
   "id": "M2#8216",
   "stc": 8216,
   "en": "wasn't it?",
-  "done": true,
-  "note": "Lowercase after '{NAME},' (slice 000 dependency 6)."
+  "note": "Lowercase after '{NAME},' (slice 000 dependency 6).",
+  "done": true
  },
  {
   "id": "M2#8217",
@@ -52111,8 +52111,8 @@
   "id": "M2#8220",
   "stc": 8220,
   "en": "people, so please don't stay long.",
-  "done": true,
-  "note": "Ends the sentence: next row #2656 is ''."
+  "note": "Ends the sentence: next row #2656 is ''.",
+  "done": true
  },
  {
   "id": "M2#8221",
@@ -52232,8 +52232,8 @@
   "id": "M2#8240",
   "stc": 8240,
   "en": "We only just got married, you know.",
-  "done": true,
-  "note": "Samantha (nurse) is newly married to Darrell; 'we' = she and her husband."
+  "note": "Samantha (nurse) is newly married to Darrell; 'we' = she and her husband.",
+  "done": true
  },
  {
   "id": "M2#8241",
@@ -52287,8 +52287,8 @@
   "id": "M2#8249",
   "stc": 8249,
   "en": "For us, rather than healthy people, you see,",
-  "done": true,
-  "note": "'us' = the clinic staff (cf. #8213 the doctor)."
+  "note": "'us' = the clinic staff (cf. #8213 the doctor).",
+  "done": true
  },
  {
   "id": "M2#8250",
@@ -52336,8 +52336,8 @@
   "id": "M2#8257",
   "stc": 8257,
   "en": "Taking you away from your husband",
-  "done": true,
-  "note": "Player, about to take Samantha as a servant; #8258 + #152 '...' follow."
+  "note": "Player, about to take Samantha as a servant; #8258 + #152 '...' follow.",
+  "done": true
  },
  {
   "id": "M2#8258",
@@ -52361,8 +52361,8 @@
   "id": "M2#8261",
   "stc": 8261,
   "en": "Please, give me any order you wish",
-  "done": true,
-  "note": "Servant mode, after '{NAME}, my master.' and before #152 '...'."
+  "note": "Servant mode, after '{NAME}, my master.' and before #152 '...'.",
+  "done": true
  },
  {
   "id": "M2#8262",
@@ -52380,8 +52380,8 @@
   "id": "M2#8264",
   "stc": 8264,
   "en": "I've been waiting for you. Your orders",
-  "done": true,
-  "note": "After '{NAME}, my master...'; #152 '...' follows. 'Master' not repeated."
+  "note": "After '{NAME}, my master...'; #152 '...' follows. 'Master' not repeated.",
+  "done": true
  },
  {
   "id": "M2#8265",
@@ -52393,8 +52393,8 @@
   "id": "M2#8266",
   "stc": 8266,
   "en": " Oh, I'm so listless, so tired.",
-  "done": true,
-  "note": "Same line after #8265 + #152 '...', so leading space."
+  "note": "Same line after #8265 + #152 '...', so leading space.",
+  "done": true
  },
  {
   "id": "M2#8267",
@@ -52436,8 +52436,8 @@
   "id": "M2#8273",
   "stc": 8273,
   "en": " I hope I gave no offense?",
-  "done": true,
-  "note": "Same line after 'My name is {NAME}.' (#862/#473), so leading space."
+  "note": "Same line after 'My name is {NAME}.' (#862/#473), so leading space.",
+  "done": true
  },
  {
   "id": "M2#8274",
@@ -52485,8 +52485,8 @@
   "id": "M2#8281",
   "stc": 8281,
   "en": ", isn't it?",
-  "done": true,
-  "note": "After the name: '{NAME}, isn't it?' (msgs 324379/325252)."
+  "note": "After the name: '{NAME}, isn't it?' (msgs 324379/325252).",
+  "done": true
  },
  {
   "id": "M2#8282",
@@ -52600,8 +52600,8 @@
   "id": "M2#8300",
   "stc": 8300,
   "en": ", is it? Pleased to meet you.",
-  "done": true,
-  "note": "After the name: '{NAME}, is it? Pleased to meet you.'"
+  "note": "After the name: '{NAME}, is it? Pleased to meet you.'",
+  "done": true
  },
  {
   "id": "M2#8301",
@@ -52619,8 +52619,8 @@
   "id": "M2#8303",
   "stc": 8303,
   "en": ", how are you keeping?",
-  "done": true,
-  "note": "After the name."
+  "note": "After the name.",
+  "done": true
  },
  {
   "id": "M2#8304",
@@ -52764,8 +52764,8 @@
   "id": "M2#8327",
   "stc": 8327,
   "en": "Why, we met the other day, didn't we?",
-  "done": true,
-  "note": "Follows #8316 on a new line; starts a sentence (dependency from slice 103)."
+  "note": "Follows #8316 on a new line; starts a sentence (dependency from slice 103).",
+  "done": true
  },
  {
   "id": "M2#8328",
@@ -53023,22 +53023,22 @@
   "id": "M2#8370",
   "stc": 8370,
   "en": "Oh, ",
-  "done": true,
-  "note": "Charm scene: 'Oh, {NAME}...'"
+  "note": "Charm scene: 'Oh, {NAME}...'",
+  "done": true
  },
  {
   "id": "M2#8371",
   "stc": 8371,
   "en": "To think you'd come all the way here.",
-  "done": true,
-  "note": "No used_in in the slice; msg.py shows it in msg 325043 after '{NAME}...' + pause, on a new line."
+  "note": "No used_in in the slice; msg.py shows it in msg 325043 after '{NAME}...' + pause, on a new line.",
+  "done": true
  },
  {
   "id": "M2#8372",
   "stc": 8372,
   "en": "Come over here.",
-  "done": true,
   "note": "Msg 325043: after #741 \"What's the matter?\" + pause (space added).",
+  "done": true,
   "variants": [
    {
     "ref": 325070,
@@ -53050,22 +53050,22 @@
   "id": "M2#8373",
   "stc": 8373,
   "en": "Now",
-  "done": true,
-  "note": "Msg 325043: 'Now...' (+ three #265 dots)."
+  "note": "Msg 325043: 'Now...' (+ three #265 dots).",
+  "done": true
  },
  {
   "id": "M2#8374",
   "stc": 8374,
   "en": "Ha ha ha,",
-  "done": true,
-  "note": "Msg 325130 (player, after charming her); pauses add the spaces."
+  "note": "Msg 325130 (player, after charming her); pauses add the spaces.",
+  "done": true
  },
  {
   "id": "M2#8375",
   "stc": 8375,
   "en": "excellent",
-  "done": true,
   "note": "'excellent...' after 'Ha ha ha,'.",
+  "done": true,
   "variants": [
    {
     "ref": 325138,
@@ -53089,8 +53089,8 @@
   "id": "M2#8377",
   "stc": 8377,
   "en": "How weak and fragile humans are.",
-  "done": true,
   "note": "After #3352 'Hmph.' + pause.",
+  "done": true,
   "variants": [
    {
     "ref": 325157,
@@ -53174,8 +53174,8 @@
   "id": "M2#8390",
   "stc": 8390,
   "en": "Of course, madam. My name is",
-  "done": true,
-  "note": "'My name is' carried in: next line is '{NAME}.' (#5477) + ' Pleased to meet you.'"
+  "note": "'My name is' carried in: next line is '{NAME}.' (#5477) + ' Pleased to meet you.'",
+  "done": true
  },
  {
   "id": "M2#8391",
@@ -53253,8 +53253,8 @@
   "id": "M2#8403",
   "stc": 8403,
   "en": ", my master",
-  "done": true,
-  "note": "Jill as a servant: name + ', my master' + #152 '...' (M2#0 rule)."
+  "note": "Jill as a servant: name + ', my master' + #152 '...' (M2#0 rule).",
+  "done": true
  },
  {
   "id": "M2#8404",
@@ -53272,8 +53272,8 @@
   "id": "M2#8406",
   "stc": 8406,
   "en": ", my master! Hello.",
-  "done": true,
-  "note": "Servant greeting; name + ', my master! Hello.'"
+  "note": "Servant greeting; name + ', my master! Hello.'",
+  "done": true
  },
  {
   "id": "M2#8407",
@@ -53501,15 +53501,15 @@
   "id": "M2#8444",
   "stc": 8444,
   "en": "<It's a secret>",
-  "done": true,
-  "note": "Choice; branch -> #8446/#8447 (by bytecode order)."
+  "note": "Choice; branch -> #8446/#8447 (by bytecode order).",
+  "done": true
  },
  {
   "id": "M2#8445",
   "stc": 8445,
   "en": "<I'm a detective>",
-  "done": true,
-  "note": "Choice; branch -> #8448-#8450 (msg 328618)."
+  "note": "Choice; branch -> #8448-#8450 (msg 328618).",
+  "done": true
  },
  {
   "id": "M2#8446",
@@ -53737,8 +53737,8 @@
   "id": "M2#8483",
   "stc": 8483,
   "en": "I was told. So, bye-bye.",
-  "done": true,
-  "note": "Cut kept at the JP break: 'Strangers can't come in the house, / I was told.'"
+  "note": "Cut kept at the JP break: 'Strangers can't come in the house, / I was told.'",
+  "done": true
  },
  {
   "id": "M2#8484",
@@ -53810,8 +53810,8 @@
   "id": "M2#8495",
   "stc": 8495,
   "en": "Jill's mama gets up really early, you know.",
-  "done": true,
-  "note": "As required by report 105 (precedes #8420)."
+  "note": "As required by report 105 (precedes #8420).",
+  "done": true
  },
  {
   "id": "M2#8496",
@@ -53823,8 +53823,8 @@
   "id": "M2#8497",
   "stc": 8497,
   "en": "Nuh-uh, it's okay. Mama doesn't get home",
-  "done": true,
-  "note": "As required by report 105 (followed by #8430 'till after dark either.')."
+  "note": "As required by report 105 (followed by #8430 'till after dark either.').",
+  "done": true
  },
  {
   "id": "M2#8498",
@@ -53890,8 +53890,8 @@
   "id": "M2#8508",
   "stc": 8508,
   "en": ", my master, is it not?",
-  "done": true,
-  "note": "Servant mode (M2#0 rule): NAME + ', my master, is it not?'"
+  "note": "Servant mode (M2#0 rule): NAME + ', my master, is it not?'",
+  "done": true
  },
  {
   "id": "M2#8509",
@@ -54005,8 +54005,8 @@
   "id": "M2#8527",
   "stc": 8527,
   "en": "No, this is our first meeting. My name is",
-  "done": true,
-  "note": "Followed by ' / ' + NAME + #5477 '.'"
+  "note": "Followed by ' / ' + NAME + #5477 '.'",
+  "done": true
  },
  {
   "id": "M2#8528",
@@ -54060,8 +54060,8 @@
   "id": "M2#8536",
   "stc": 8536,
   "en": "New friends are always welcome.",
-  "done": true,
-  "note": "JP row ends in 、; ended as a sentence since #8537 starts a new line and a new thought."
+  "note": "JP row ends in 、; ended as a sentence since #8537 starts a new line and a new thought.",
+  "done": true
  },
  {
   "id": "M2#8537",
@@ -54277,8 +54277,8 @@
   "id": "M2#8572",
   "stc": 8572,
   "en": "Hehe, I stole the shopkeeper's line.",
-  "done": true,
-  "note": "Idiom 'steal the shopkeeper's thunder': she greeted the player with the shopkeeper's 'welcome' (#4032)."
+  "note": "Idiom 'steal the shopkeeper's thunder': she greeted the player with the shopkeeper's 'welcome' (#4032).",
+  "done": true
  },
  {
   "id": "M2#8573",
@@ -54494,8 +54494,8 @@
   "id": "M2#8608",
   "stc": 8608,
   "en": "I've nothing to do today either,",
-  "done": true,
-  "note": "Ends with a comma: #8525 (slice 106) must continue in lowercase ('so I'll kill time...')."
+  "note": "Ends with a comma: #8525 (slice 106) must continue in lowercase ('so I'll kill time...').",
+  "done": true
  },
  {
   "id": "M2#8609",
@@ -54597,8 +54597,8 @@
   "id": "M2#8625",
   "stc": 8625,
   "en": "...I love you...",
-  "done": true,
-  "note": "Rose speaking in delirium; the 'you' she loves is unclear and kept vague."
+  "note": "Rose speaking in delirium; the 'you' she loves is unclear and kept vague.",
+  "done": true
  },
  {
   "id": "M2#8626",
@@ -54670,8 +54670,8 @@
   "id": "M2#8637",
   "stc": 8637,
   "en": "Unless I drink her blood, that is.",
-  "done": true,
-  "note": "Same line as #8636 after a pause."
+  "note": "Same line as #8636 after a pause.",
+  "done": true
  },
  {
   "id": "M2#8638",
@@ -54803,8 +54803,8 @@
   "id": "M2#8659",
   "stc": 8659,
   "en": "Say, ",
-  "done": true,
-  "note": "Shared with Janis (msgs 349054/349799): 'Say, ' + name + '!'"
+  "note": "Shared with Janis (msgs 349054/349799): 'Say, ' + name + '!'",
+  "done": true
  },
  {
   "id": "M2#8660",
@@ -55032,8 +55032,8 @@
   "id": "M2#8696",
   "stc": 8696,
   "en": "Hm...?",
-  "done": true,
-  "note": "Player; #8697 continues his line."
+  "note": "Player; #8697 continues his line.",
+  "done": true
  },
  {
   "id": "M2#8697",
@@ -55177,15 +55177,15 @@
   "id": "M2#8720",
   "stc": 8720,
   "en": "With me...",
-  "done": true,
-  "note": "Player. Ends the inverted question in #8718/#8719 ('Like Princess Rowena, / would you have the courage to leave this house? / With me...')."
+  "note": "Player. Ends the inverted question in #8718/#8719 ('Like Princess Rowena, / would you have the courage to leave this house? / With me...').",
+  "done": true
  },
  {
   "id": "M2#8721",
   "stc": 8721,
   "en": "...Do you mean it,",
-  "done": true,
-  "note": "Rose; the name + #537 '?' follow on the next line."
+  "note": "Rose; the name + #537 '?' follow on the next line.",
+  "done": true
  },
  {
   "id": "M2#8722",
@@ -55197,8 +55197,8 @@
   "id": "M2#8723",
   "stc": 8723,
   "en": "I'd be so happy.",
-  "done": true,
-  "note": "Separate msg 337000; completes #8722 'If you do...'."
+  "note": "Separate msg 337000; completes #8722 'If you do...'.",
+  "done": true
  },
  {
   "id": "M2#8724",
@@ -55264,8 +55264,8 @@
   "id": "M2#8734",
   "stc": 8734,
   "en": "Rose",
-  "done": true,
-  "note": "Followed by #152 '...'."
+  "note": "Followed by #152 '...'.",
+  "done": true
  },
  {
   "id": "M2#8735",
@@ -55301,8 +55301,8 @@
   "id": "M2#8740",
   "stc": 8740,
   "en": "Master, command me as you wish...",
-  "done": true,
-  "note": "Clotilde in servant mode."
+  "note": "Clotilde in servant mode.",
+  "done": true
  },
  {
   "id": "M2#8741",
@@ -55320,8 +55320,8 @@
   "id": "M2#8743",
   "stc": 8743,
   "en": "Bid me do anything at all...",
-  "done": true,
-  "note": "After '{NAME}, my master...' (#0)."
+  "note": "After '{NAME}, my master...' (#0).",
+  "done": true
  },
  {
   "id": "M2#8744",
@@ -55381,8 +55381,8 @@
   "id": "M2#8753",
   "stc": 8753,
   "en": "I left the hotel for a little morning walk,",
-  "done": true,
-  "note": "Shared with msg 341325, where slice 110 row #8830 follows: it must start lowercase."
+  "note": "Shared with msg 341325, where slice 110 row #8830 follows: it must start lowercase.",
+  "done": true
  },
  {
   "id": "M2#8754",
@@ -55400,8 +55400,8 @@
   "id": "M2#8756",
   "stc": 8756,
   "en": "Thank you for your kindness.",
-  "done": true,
-  "note": "After #1857 variant 'Yes, please.'"
+  "note": "After #1857 variant 'Yes, please.'",
+  "done": true
  },
  {
   "id": "M2#8757",
@@ -55419,8 +55419,8 @@
   "id": "M2#8759",
   "stc": 8759,
   "en": "It seems you live here.",
-  "done": true,
-  "note": "Shared with msg 341414 after #8836 (slice 110)."
+  "note": "Shared with msg 341414 after #8836 (slice 110).",
+  "done": true
  },
  {
   "id": "M2#8760",
@@ -55444,8 +55444,8 @@
   "id": "M2#8763",
   "stc": 8763,
   "en": "I've enjoyed the sights and made a lovely",
-  "done": true,
-  "note": "Cut before 'friend' to match #8839 (slice 110) 'I've enjoyed the sights and made a lovely young', which shares #8764."
+  "note": "Cut before 'friend' to match #8839 (slice 110) 'I've enjoyed the sights and made a lovely young', which shares #8764.",
+  "done": true
  },
  {
   "id": "M2#8764",
@@ -55469,8 +55469,8 @@
   "id": "M2#8767",
   "stc": 8767,
   "en": "I only meant to stroll around a little,",
-  "done": true,
-  "note": "Followed by #8754 (msg 340792) and #8842 (slice 110, msg 341466): #8842 must start lowercase."
+  "note": "Followed by #8754 (msg 340792) and #8842 (slice 110, msg 341466): #8842 must start lowercase.",
+  "done": true
  },
  {
   "id": "M2#8768",
@@ -55614,8 +55614,8 @@
   "id": "M2#8791",
   "stc": 8791,
   "en": "Silly, isn't it? I came to see Big Ben",
-  "done": true,
-  "note": "Shared with msg 341766, where slice 110 row #8866 follows: it must start with 'again.'"
+  "note": "Shared with msg 341766, where slice 110 row #8866 follows: it must start with 'again.'",
+  "done": true
  },
  {
   "id": "M2#8792",
@@ -55657,8 +55657,8 @@
   "id": "M2#8798",
   "stc": 8798,
   "en": "You love Big Ben too.",
-  "done": true,
-  "note": "Followed by shared #8044 'Isn't that so?'."
+  "note": "Followed by shared #8044 'Isn't that so?'.",
+  "done": true
  },
  {
   "id": "M2#8799",
@@ -55796,8 +55796,8 @@
   "id": "M2#8821",
   "stc": 8821,
   "en": "is where your luck ran out.",
-  "done": true,
-  "note": "Continues msg 341284 (#8818/#8819 '...a life of leisure, but')."
+  "note": "Continues msg 341284 (#8818/#8819 '...a life of leisure, but').",
+  "done": true
  },
  {
   "id": "M2#8822",
@@ -55851,8 +55851,8 @@
   "id": "M2#8830",
   "stc": 8830,
   "en": "and now I can't find my way back.",
-  "done": true,
-  "note": "Continues #8753 (slice 109), which must end with a clause + comma, e.g. 'I only meant to take a short morning walk from the hotel,'."
+  "note": "Continues #8753 (slice 109), which must end with a clause + comma, e.g. 'I only meant to take a short morning walk from the hotel,'.",
+  "done": true
  },
  {
   "id": "M2#8831",
@@ -55906,8 +55906,8 @@
   "id": "M2#8839",
   "stc": 8839,
   "en": "I've seen the sights and made a lovely young",
-  "done": true,
-  "note": "Leads into #8764 (slice 109) 'friend, too. How lucky I am.'"
+  "note": "Leads into #8764 (slice 109) 'friend, too. How lucky I am.'",
+  "done": true
  },
  {
   "id": "M2#8840",
@@ -55925,8 +55925,8 @@
   "id": "M2#8842",
   "stc": 8842,
   "en": "and now I can't find my way back, you see.",
-  "done": true,
-  "note": "Continues #8767 (slice 109), e.g. 'I just went out for a little stroll,'."
+  "note": "Continues #8767 (slice 109), e.g. 'I just went out for a little stroll,'.",
+  "done": true
  },
  {
   "id": "M2#8843",
@@ -56010,8 +56010,8 @@
   "id": "M2#8856",
   "stc": 8856,
   "en": "Indeed.",
-  "done": true,
-  "note": "Reply to the player's 'I know how you feel'."
+  "note": "Reply to the player's 'I know how you feel'.",
+  "done": true
  },
  {
   "id": "M2#8857",
@@ -56071,8 +56071,8 @@
   "id": "M2#8866",
   "stc": 8866,
   "en": "again. ...It's so big and lovely.",
-  "done": true,
-  "note": "Follows #8791 (slice 109), which must end '...I came to see Big Ben' without 'again' (as for #8792)."
+  "note": "Follows #8791 (slice 109), which must end '...I came to see Big Ben' without 'again' (as for #8792).",
+  "done": true
  },
  {
   "id": "M2#8867",
@@ -56090,8 +56090,8 @@
   "id": "M2#8869",
   "stc": 8869,
   "en": "has been seen in this city lately.",
-  "done": true,
-  "note": "Polite twin of #8805 (msg 341855), after #8804 'I hear a murderer named Jack'."
+  "note": "Polite twin of #8805 (msg 341855), after #8804 'I hear a murderer named Jack'.",
+  "done": true
  },
  {
   "id": "M2#8870",
@@ -56121,8 +56121,8 @@
   "id": "M2#8874",
   "stc": 8874,
   "en": "Somehow... my body",
-  "done": true,
-  "note": "#152 '...' follows each of #8874/#8875: 'Somehow... my body... / It feels awful...'."
+  "note": "#152 '...' follows each of #8874/#8875: 'Somehow... my body... / It feels awful...'.",
+  "done": true
  },
  {
   "id": "M2#8875",
@@ -56152,8 +56152,8 @@
   "id": "M2#8879",
   "stc": 8879,
   "en": "Good morning",
-  "done": true,
-  "note": "#122 '!' follows."
+  "note": "#122 '!' follows.",
+  "done": true
  },
  {
   "id": "M2#8880",
@@ -56255,15 +56255,15 @@
   "id": "M2#8896",
   "stc": 8896,
   "en": "Um, ",
-  "done": true,
-  "note": "No ▼ after it; msg 344964 (#8897) probably follows"
+  "note": "No ▼ after it; msg 344964 (#8897) probably follows",
+  "done": true
  },
  {
   "id": "M2#8897",
   "stc": 8897,
   "en": "I work as a waitress at the café",
-  "done": true,
-  "note": "In msg 345904 #8995 (slice 112) follows: it must start 'next door, ...'"
+  "note": "In msg 345904 #8995 (slice 112) follows: it must start 'next door, ...'",
+  "done": true
  },
  {
   "id": "M2#8898",
@@ -56287,8 +56287,8 @@
   "id": "M2#8901",
   "stc": 8901,
   "en": "Oh, what am I saying",
-  "done": true,
-  "note": "Followed by shared #152 '...'"
+  "note": "Followed by shared #152 '...'",
+  "done": true
  },
  {
   "id": "M2#8902",
@@ -56306,8 +56306,8 @@
   "id": "M2#8904",
   "stc": 8904,
   "en": "you seem very busy with your work.",
-  "done": true,
-  "note": "lowercase after '{NAME},' (#6239)"
+  "note": "lowercase after '{NAME},' (#6239)",
+  "done": true
  },
  {
   "id": "M2#8905",
@@ -56325,8 +56325,8 @@
   "id": "M2#8907",
   "stc": 8907,
   "en": "do you like the sound of Big Ben?",
-  "done": true,
-  "note": "lowercase after '{NAME},' (#6239)"
+  "note": "lowercase after '{NAME},' (#6239)",
+  "done": true
  },
  {
   "id": "M2#8908",
@@ -56338,8 +56338,8 @@
   "id": "M2#8909",
   "stc": 8909,
   "en": "When I hear it, 'Keep going, keep going,'",
-  "done": true,
-  "note": "Shared with msg 346027, where #9001 (slice 112) must continue in lowercase like #8910"
+  "note": "Shared with msg 346027, where #9001 (slice 112) must continue in lowercase like #8910",
+  "done": true
  },
  {
   "id": "M2#8910",
@@ -56357,8 +56357,8 @@
   "id": "M2#8912",
   "stc": 8912,
   "en": "Oh, Big Ben's chimes",
-  "done": true,
-  "note": "Followed by shared #152 '...'"
+  "note": "Followed by shared #152 '...'",
+  "done": true
  },
  {
   "id": "M2#8913",
@@ -56382,8 +56382,8 @@
   "id": "M2#8916",
   "stc": 8916,
   "en": "Well, this is a café",
-  "done": true,
-  "note": "Followed by #152 '...' and a line break"
+  "note": "Followed by #152 '...' and a line break",
+  "done": true
  },
  {
   "id": "M2#8917",
@@ -56419,8 +56419,8 @@
   "id": "M2#8922",
   "stc": 8922,
   "en": "Um, it's Nicole",
-  "done": true,
-  "note": "Followed by #152 '...'"
+  "note": "Followed by #152 '...'",
+  "done": true
  },
  {
   "id": "M2#8923",
@@ -56456,8 +56456,8 @@
   "id": "M2#8928",
   "stc": 8928,
   "en": "A promise, you say",
-  "done": true,
-  "note": "Followed by #152 '...'"
+  "note": "Followed by #152 '...'",
+  "done": true
  },
  {
   "id": "M2#8929",
@@ -56523,8 +56523,8 @@
   "id": "M2#8939",
   "stc": 8939,
   "en": "Oh... ",
-  "done": true,
   "note": "Before the name in msg 345526 ('Oh... {NAME}...'); before a pause + line break in msg 345340",
+  "done": true,
   "variants": [
    {
     "msg": 345340,
@@ -56554,15 +56554,15 @@
   "id": "M2#8943",
   "stc": 8943,
   "en": "It's about my hometown.",
-  "done": true,
-  "note": "、 ending made a full stop: a pause and line break follow, then #8944 starts a sentence"
+  "note": "、 ending made a full stop: a pause and line break follow, then #8944 starts a sentence",
+  "done": true
  },
  {
   "id": "M2#8944",
   "stc": 8944,
   "en": "In spring, it just reeks of lambs!",
-  "done": true,
-  "note": "Starts a sentence: #9016 (slice 112) before it in msg 346300 must end a sentence"
+  "note": "Starts a sentence: #9016 (slice 112) before it in msg 346300 must end a sentence",
+  "done": true
  },
  {
   "id": "M2#8945",
@@ -56592,8 +56592,8 @@
   "id": "M2#8949",
   "stc": 8949,
   "en": "I can keep sending money home.",
-  "done": true,
-  "note": "Shared with msg 346300 after #9017 (slice 112), which must end like #8948"
+  "note": "Shared with msg 346300 after #9017 (slice 112), which must end like #8948",
+  "done": true
  },
  {
   "id": "M2#8950",
@@ -56653,15 +56653,15 @@
   "id": "M2#8959",
   "stc": 8959,
   "en": "For you, I'd even brew",
-  "done": true,
-  "note": "#8960 (slice 112) must continue: 'a really good cup of coffee.'"
+  "note": "#8960 (slice 112) must continue: 'a really good cup of coffee.'",
+  "done": true
  },
  {
   "id": "M2#8960",
   "stc": 8960,
   "en": "a really good cup of coffee.",
-  "done": true,
-  "note": "completes #8959 'For you, I'd even brew'"
+  "note": "completes #8959 'For you, I'd even brew'",
+  "done": true
  },
  {
   "id": "M2#8961",
@@ -56673,8 +56673,8 @@
   "id": "M2#8962",
   "stc": 8962,
   "en": "Yes",
-  "done": true,
-  "note": "followed by #152 '...'"
+  "note": "followed by #152 '...'",
+  "done": true
  },
  {
   "id": "M2#8963",
@@ -56692,8 +56692,8 @@
   "id": "M2#8965",
   "stc": 8965,
   "en": "This sort of thing",
-  "done": true,
-  "note": "followed by #265 x3 with pauses -> '...'"
+  "note": "followed by #265 x3 with pauses -> '...'",
+  "done": true
  },
  {
   "id": "M2#8966",
@@ -56741,8 +56741,8 @@
   "id": "M2#8973",
   "stc": 8973,
   "en": "become my",
-  "done": true,
-  "note": "pause after it; msg 345645 #8974 'servant.' completes the sentence"
+  "note": "pause after it; msg 345645 #8974 'servant.' completes the sentence",
+  "done": true
  },
  {
   "id": "M2#8974",
@@ -56766,8 +56766,8 @@
   "id": "M2#8977",
   "stc": 8977,
   "en": "She fell into my hands far too easily.",
-  "done": true,
-  "note": "subject restored: Nicole"
+  "note": "subject restored: Nicole",
+  "done": true
  },
  {
   "id": "M2#8978",
@@ -56791,15 +56791,15 @@
   "id": "M2#8980",
   "stc": 8980,
   "en": "Ah, good mor",
-  "done": true,
-  "note": "cut off; followed by #152 '...'; msg 345710 #8981 finishes the word"
+  "note": "cut off; followed by #152 '...'; msg 345710 #8981 finishes the word",
+  "done": true
  },
  {
   "id": "M2#8981",
   "stc": 8981,
   "en": "ning",
-  "done": true,
-  "note": "followed by #152 '...'"
+  "note": "followed by #152 '...'",
+  "done": true
  },
  {
   "id": "M2#8982",
@@ -56817,8 +56817,8 @@
   "id": "M2#8984",
   "stc": 8984,
   "en": "Mornings call for lots of energy",
-  "done": true,
-  "note": "followed by #122 '!'"
+  "note": "followed by #122 '!'",
+  "done": true
  },
  {
   "id": "M2#8985",
@@ -56836,8 +56836,8 @@
   "id": "M2#8987",
   "stc": 8987,
   "en": " too!",
-  "done": true,
-  "note": "after the name"
+  "note": "after the name",
+  "done": true
  },
  {
   "id": "M2#8988",
@@ -56867,8 +56867,8 @@
   "id": "M2#8992",
   "stc": 8992,
   "en": "Um, I'm ",
-  "done": true,
-  "note": "before the name; #473 '.' after it"
+  "note": "before the name; #473 '.' after it",
+  "done": true
  },
  {
   "id": "M2#8993",
@@ -56886,8 +56886,8 @@
   "id": "M2#8995",
   "stc": 8995,
   "en": "next door, so please come by sometime.",
-  "done": true,
-  "note": "continues #8897 'I work as a waitress at the café'"
+  "note": "continues #8897 'I work as a waitress at the café'",
+  "done": true
  },
  {
   "id": "M2#8996",
@@ -56899,8 +56899,8 @@
   "id": "M2#8997",
   "stc": 8997,
   "en": "you seem busy with your work.",
-  "done": true,
-  "note": "lowercase after '{NAME},' (#6239), as #8904"
+  "note": "lowercase after '{NAME},' (#6239), as #8904",
+  "done": true
  },
  {
   "id": "M2#8998",
@@ -56924,8 +56924,8 @@
   "id": "M2#9001",
   "stc": 9001,
   "en": "that's what it sounds like it's saying.",
-  "done": true,
-  "note": "continues #8909 in lowercase"
+  "note": "continues #8909 in lowercase",
+  "done": true
  },
  {
   "id": "M2#9002",
@@ -56937,8 +56937,8 @@
   "id": "M2#9003",
   "stc": 9003,
   "en": "Big Ben's chimes",
-  "done": true,
-  "note": "followed by #152 '...'"
+  "note": "followed by #152 '...'",
+  "done": true
  },
  {
   "id": "M2#9004",
@@ -56974,8 +56974,8 @@
   "id": "M2#9009",
   "stc": 9009,
   "en": "I see. I'm ",
-  "done": true,
-  "note": "before the name; #863 '.' after it"
+  "note": "before the name; #863 '.' after it",
+  "done": true
  },
  {
   "id": "M2#9010",
@@ -57017,15 +57017,15 @@
   "id": "M2#9016",
   "stc": 9016,
   "en": "My hometown, you see...",
-  "done": true,
-  "note": "ends a sentence: #8944 'In spring, it just reeks of lambs!' follows"
+  "note": "ends a sentence: #8944 'In spring, it just reeks of lambs!' follows",
+  "done": true
  },
  {
   "id": "M2#9017",
   "stc": 9017,
   "en": "Because I have that to miss,",
-  "done": true,
-  "note": "as #8948; #8949 follows"
+  "note": "as #8948; #8949 follows",
+  "done": true
  },
  {
   "id": "M2#9018",
@@ -57073,15 +57073,15 @@
   "id": "M2#9025",
   "stc": 9025,
   "en": "My, that sort of transparent flattery",
-  "done": true,
-  "note": "no punctuation: #9026 'is not to my liking.' / #9115 continue it"
+  "note": "no punctuation: #9026 'is not to my liking.' / #9115 continue it",
+  "done": true
  },
  {
   "id": "M2#9026",
   "stc": 9026,
   "en": "is not to my liking.",
-  "done": true,
-  "note": "continues #9025 or #9072 (slice 113)"
+  "note": "continues #9025 or #9072 (slice 113)",
+  "done": true
  },
  {
   "id": "M2#9027",
@@ -57147,8 +57147,8 @@
   "id": "M2#9037",
   "stc": 9037,
   "en": "No, I was merely curious where a lovely lady",
-  "done": true,
-  "note": "same as #9023"
+  "note": "same as #9023",
+  "done": true
  },
  {
   "id": "M2#9038",
@@ -57160,8 +57160,8 @@
   "id": "M2#9039",
   "stc": 9039,
   "en": "and then rob us of our valuables?",
-  "done": true,
-  "note": "continues #9038 or #9052 (slice 113)"
+  "note": "continues #9038 or #9052 (slice 113)",
+  "done": true
  },
  {
   "id": "M2#9040",
@@ -57791,8 +57791,8 @@
   "id": "M2#9144",
   "stc": 9144,
   "en": "keep it a secret.",
-  "done": true,
-  "note": "Lowercase: follows #9056 (slice 113) 'About my going out drinking,'."
+  "note": "Lowercase: follows #9056 (slice 113) 'About my going out drinking,'.",
+  "done": true
  },
  {
   "id": "M2#9145",
@@ -57876,8 +57876,8 @@
   "id": "M2#9158",
   "stc": 9158,
   "en": "You'd only been worried about me,",
-  "done": true,
-  "note": "Same as #9089 (slice 113); #9090 'after all.' follows."
+  "note": "Same as #9089 (slice 113); #9090 'after all.' follows.",
+  "done": true
  },
  {
   "id": "M2#9159",
@@ -57889,8 +57889,8 @@
   "id": "M2#9160",
   "stc": 9160,
   "en": "drinking and carrying on, you see.",
-  "done": true,
-  "note": "Follows #9104 (slice 113) 'And so, every day, here I am,'."
+  "note": "Follows #9104 (slice 113) 'And so, every day, here I am,'.",
+  "done": true
  },
  {
   "id": "M2#9161",
@@ -57914,8 +57914,8 @@
   "id": "M2#9164",
   "stc": 9164,
   "en": "You... ",
-  "done": true,
-  "note": "Before name + #2287 '! ': 'You... {NAME}!'."
+  "note": "Before name + #2287 '! ': 'You... {NAME}!'.",
+  "done": true
  },
  {
   "id": "M2#9165",
@@ -57963,8 +57963,8 @@
   "id": "M2#9172",
   "stc": 9172,
   "en": "He won't wake up.",
-  "done": true,
-  "note": "Subject restored: the husband."
+  "note": "Subject restored: the husband.",
+  "done": true
  },
  {
   "id": "M2#9173",
@@ -58030,8 +58030,8 @@
   "id": "M2#9183",
   "stc": 9183,
   "en": ", my master, whatever you wish,",
-  "done": true,
-  "note": "After the name."
+  "note": "After the name.",
+  "done": true
  },
  {
   "id": "M2#9184",
@@ -58121,8 +58121,8 @@
   "id": "M2#9198",
   "stc": 9198,
   "en": "he'll give me...",
-  "done": true,
-  "note": "Subject 'he' = the Baron (male, glossary)."
+  "note": "Subject 'he' = the Baron (male, glossary).",
+  "done": true
  },
  {
   "id": "M2#9199",
@@ -58818,8 +58818,8 @@
   "id": "M2#9314",
   "stc": 9314,
   "en": "Wh-",
-  "done": true,
   "note": "#9314-#9320 have no used_in (after the bite); layout unknown, written to read both on one line and across a break.",
+  "done": true,
   "variants": [
    {
     "ref": 353802,
@@ -59587,8 +59587,8 @@
   "id": "M2#9440",
   "stc": 9440,
   "en": "that's what matters to the lot of us.",
-  "done": true,
-  "note": "follows #9439 (slice 117) 'Forget world peace, a crust of bread,'."
+  "note": "follows #9439 (slice 117) 'Forget world peace, a crust of bread,'.",
+  "done": true
  },
  {
   "id": "M2#9441",
@@ -59600,8 +59600,8 @@
   "id": "M2#9442",
   "stc": 9442,
   "en": "off somewhere. Ever since, all on my own,",
-  "done": true,
-  "note": "mirrors #9365/#9366 (slice 117); #9367 'I've been raising her, and yet...' follows."
+  "note": "mirrors #9365/#9366 (slice 117); #9367 'I've been raising her, and yet...' follows.",
+  "done": true
  },
  {
   "id": "M2#9443",
@@ -59613,8 +59613,8 @@
   "id": "M2#9444",
   "stc": 9444,
   "en": "If you had a kid of your own",
-  "done": true,
-  "note": "followed by three pause dots, then #9445 on a new line: 'If you had kids of your own...'"
+  "note": "followed by three pause dots, then #9445 on a new line: 'If you had kids of your own...'",
+  "done": true
  },
  {
   "id": "M2#9445",
@@ -59644,22 +59644,22 @@
   "id": "M2#9449",
   "stc": 9449,
   "en": "But, well, if you come by where I work,",
-  "done": true,
-  "note": "same wording as #9418 (slice 117); #9419 follows."
+  "note": "same wording as #9418 (slice 117); #9419 follows.",
+  "done": true
  },
  {
   "id": "M2#9450",
   "stc": 9450,
   "en": "I'm Martha. A factory hand,",
-  "done": true,
-  "note": "pause, then #9451 on the same line."
+  "note": "pause, then #9451 on the same line.",
+  "done": true
  },
  {
   "id": "M2#9451",
   "stc": 9451,
   "en": " and dirt poor.",
-  "done": true,
-  "note": "used only after a pause: leading space (as slice 117 does)."
+  "note": "used only after a pause: leading space (as slice 117 does).",
+  "done": true
  },
  {
   "id": "M2#9452",
@@ -59683,8 +59683,8 @@
   "id": "M2#9455",
   "stc": 9455,
   "en": "to bear...",
-  "done": true,
-  "note": "#9454/#9455 also follow #9490 in msg 361439."
+  "note": "#9454/#9455 also follow #9490 in msg 361439.",
+  "done": true
  },
  {
   "id": "M2#9456",
@@ -59744,8 +59744,8 @@
   "id": "M2#9465",
   "stc": 9465,
   "en": "has come to feel harder and harder,",
-  "done": true,
-  "note": "#9464/#9465 shared with msg 361736, where #9523 (slice 119) 'these days...' follows the comma."
+  "note": "#9464/#9465 shared with msg 361736, where #9523 (slice 119) 'these days...' follows the comma.",
+  "done": true
  },
  {
   "id": "M2#9466",
@@ -60093,8 +60093,8 @@
   "id": "M2#9523",
   "stc": 9523,
   "en": "you know...",
-  "done": true,
-  "note": "Follows #9465 (slice 118) 'has come to feel harder and harder,' as that slice's note asks."
+  "note": "Follows #9465 (slice 118) 'has come to feel harder and harder,' as that slice's note asks.",
+  "done": true
  },
  {
   "id": "M2#9524",
@@ -60136,8 +60136,8 @@
   "id": "M2#9530",
   "stc": 9530,
   "en": "...",
-  "done": true,
-  "note": "Nine dots shown as '...'. Shared: Rhoda, Pauline (silent child), and the player's silent reply to Clio."
+  "note": "Nine dots shown as '...'. Shared: Rhoda, Pauline (silent child), and the player's silent reply to Clio.",
+  "done": true
  },
  {
   "id": "M2#9531",
@@ -60155,8 +60155,8 @@
   "id": "M2#9533",
   "stc": 9533,
   "en": " I was having a dream.",
-  "done": true,
-  "note": "Follows #9532 after a pause on the same line: leading space."
+  "note": "Follows #9532 after a pause on the same line: leading space.",
+  "done": true
  },
  {
   "id": "M2#9534",
@@ -60474,8 +60474,8 @@
   "id": "M2#9585",
   "stc": 9585,
   "en": " washes wonderfully!",
-  "done": true,
-  "note": "Joined to #9584 on the same line with no separator, so the leading space is needed."
+  "note": "Joined to #9584 on the same line with no separator, so the leading space is needed.",
+  "done": true
  },
  {
   "id": "M2#9586",
@@ -61009,8 +61009,8 @@
   "id": "M2#9674",
   "stc": 9674,
   "en": "Best to make her my servant, and soon.",
-  "done": true,
-  "note": "No speaker tag (player's thought after the folklore scene); 'her' = Lorna."
+  "note": "No speaker tag (player's thought after the folklore scene); 'her' = Lorna.",
+  "done": true
  },
  {
   "id": "M2#9675",
@@ -61022,8 +61022,8 @@
   "id": "M2#9676",
   "stc": 9676,
   "en": "So long as she stays out of my way, that'll do.",
-  "done": true,
-  "note": "No speaker tag; player's thought about Lorna as a new servant."
+  "note": "No speaker tag; player's thought about Lorna as a new servant.",
+  "done": true
  },
  {
   "id": "M2#9677",
@@ -61437,8 +61437,8 @@
   "id": "M2#9745",
   "stc": 9745,
   "en": "I should wake her.",
-  "done": true,
-  "note": "No used_in; follows #9744 in msg 374061 (ends with a line break)."
+  "note": "No used_in; follows #9744 in msg 374061 (ends with a line break).",
+  "done": true
  },
  {
   "id": "M2#9746",
@@ -61498,8 +61498,8 @@
   "id": "M2#9755",
   "stc": 9755,
   "en": "Help me for just a little while,",
-  "done": true,
-  "note": "Followed by shared #9748 'Pauline.'"
+  "note": "Followed by shared #9748 'Pauline.'",
+  "done": true
  },
  {
   "id": "M2#9756",
@@ -61673,8 +61673,8 @@
   "id": "M2#9784",
   "stc": 9784,
   "en": "So that's your \"extra income.\"",
-  "done": true,
-  "note": "Stern player; quotes Nellie's 'extra income' (#9779)."
+  "note": "Stern player; quotes Nellie's 'extra income' (#9779).",
+  "done": true
  },
  {
   "id": "M2#9785",
@@ -61944,8 +61944,8 @@
   "id": "M2#9827",
   "stc": 9827,
   "en": "I wonder...",
-  "done": true,
-  "note": "Shared with Clio msgs 402166/402612: M2#10436 must end with a comma clause that 'I wonder...' completes."
+  "note": "Shared with Clio msgs 402166/402612: M2#10436 must end with a comma clause that 'I wonder...' completes.",
+  "done": true
  },
  {
   "id": "M2#9828",
@@ -62017,22 +62017,22 @@
   "id": "M2#9839",
   "stc": 9839,
   "en": "Folks dressed as finely as you",
-  "done": true,
-  "note": "Continues in M2#9840 (slice 123): 'usually go to the saloon next door...'."
+  "note": "Continues in M2#9840 (slice 123): 'usually go to the saloon next door...'.",
+  "done": true
  },
  {
   "id": "M2#9840",
   "stc": 9840,
   "en": "usually go to the saloon next door...",
-  "done": true,
-  "note": "Needs #9839 (slice 122) with a plural subject or a modal, e.g. 'Gents dressed as fine as you'."
+  "note": "Needs #9839 (slice 122) with a plural subject or a modal, e.g. 'Gents dressed as fine as you'.",
+  "done": true
  },
  {
   "id": "M2#9841",
   "stc": 9841,
   "en": "and poor use different doors and rooms.",
-  "done": true,
-  "note": "Needs #9764 (slice 122) to end on 'if you're rich' (e.g. 'It's all one building, but if you're rich')."
+  "note": "Needs #9764 (slice 122) to end on 'if you're rich' (e.g. 'It's all one building, but if you're rich').",
+  "done": true
  },
  {
   "id": "M2#9842",
@@ -62110,15 +62110,15 @@
   "id": "M2#9854",
   "stc": 9854,
   "en": "If it's the rent, please wait a little longer",
-  "done": true,
-  "note": "Followed by three paused dots, then #9855/#9856 on the same line."
+  "note": "Followed by three paused dots, then #9855/#9856 on the same line.",
+  "done": true
  },
  {
   "id": "M2#9855",
   "stc": 9855,
   "en": "Huh?",
-  "done": true,
   "note": "After a pause: the space before it is added automatically (auto_space).",
+  "done": true,
   "variants": [
    {
     "ref": 378452,
@@ -62142,8 +62142,8 @@
   "id": "M2#9857",
   "stc": 9857,
   "en": "or so I'd think, anyway.",
-  "done": true,
-  "note": "Needs #9805 (slice 122) to be a full sentence ending in '.'."
+  "note": "Needs #9805 (slice 122) to be a full sentence ending in '.'.",
+  "done": true
  },
  {
   "id": "M2#9858",
@@ -62167,8 +62167,8 @@
   "id": "M2#9861",
   "stc": 9861,
   "en": "Give me your orders",
-  "done": true,
-  "note": "Followed by #152 '...'."
+  "note": "Followed by #152 '...'.",
+  "done": true
  },
  {
   "id": "M2#9862",
@@ -62246,8 +62246,8 @@
   "id": "M2#9874",
   "stc": 9874,
   "en": "If Mark happens to be dozing,",
-  "done": true,
-  "note": "Shared with msg 382139 (+ #9920 'feel free to shake him awake' style)."
+  "note": "Shared with msg 382139 (+ #9920 'feel free to shake him awake' style).",
+  "done": true
  },
  {
   "id": "M2#9875",
@@ -62361,8 +62361,8 @@
   "id": "M2#9893",
   "stc": 9893,
   "en": "Embarrassing as it is, remembering things ",
-  "done": true,
-  "note": "Same line as #9894 (no line break between them)."
+  "note": "Same line as #9894 (no line break between them).",
+  "done": true
  },
  {
   "id": "M2#9894",
@@ -62380,8 +62380,8 @@
   "id": "M2#9896",
   "stc": 9896,
   "en": "Oh, welcome,",
-  "done": true,
-  "note": "Name follows on the next line."
+  "note": "Name follows on the next line.",
+  "done": true
  },
  {
   "id": "M2#9897",
@@ -62405,8 +62405,8 @@
   "id": "M2#9900",
   "stc": 9900,
   "en": "to fit you perfectly.",
-  "done": true,
-  "note": "Shared with msg 382392: #9949 (slice 124) must lead into it, e.g. 'You can count on us to make your shoes'."
+  "note": "Shared with msg 382392: #9949 (slice 124) must lead into it, e.g. 'You can count on us to make your shoes'.",
+  "done": true
  },
  {
   "id": "M2#9901",
@@ -62430,8 +62430,8 @@
   "id": "M2#9904",
   "stc": 9904,
   "en": "My husband has a favorite saying:",
-  "done": true,
-  "note": "Shared with msg 382440: #9954 (slice 124) should start the quoted saying."
+  "note": "Shared with msg 382440: #9954 (slice 124) should start the quoted saying.",
+  "done": true
  },
  {
   "id": "M2#9905",
@@ -62527,8 +62527,8 @@
   "id": "M2#9920",
   "stc": 9920,
   "en": "feel free to shake him awake.",
-  "done": true,
-  "note": "Continues #9874 ('If Mark is dozing,'), so lowercase."
+  "note": "Continues #9874 ('If Mark is dozing,'), so lowercase.",
+  "done": true
  },
  {
   "id": "M2#9921",
@@ -62600,8 +62600,8 @@
   "id": "M2#9932",
   "stc": 9932,
   "en": "I'm Sarah.",
-  "done": true,
   "note": "Follows #9931 'I see.' after a pause on the same line.",
+  "done": true,
   "variants": [
    {
     "ref": 382258,
@@ -62637,8 +62637,8 @@
   "id": "M2#9937",
   "stc": 9937,
   "en": ", wasn't it?",
-  "done": true,
-  "note": "After #6416 'Oh, ' + name: 'Oh, {NAME}, wasn't it?'"
+  "note": "After #6416 'Oh, ' + name: 'Oh, {NAME}, wasn't it?'",
+  "done": true
  },
  {
   "id": "M2#9938",
@@ -62656,8 +62656,8 @@
   "id": "M2#9940",
   "stc": 9940,
   "en": "I'm sorry, not yet, not today",
-  "done": true,
-  "note": "Followed by #152 '...'."
+  "note": "Followed by #152 '...'.",
+  "done": true
  },
  {
   "id": "M2#9941",
@@ -62747,8 +62747,8 @@
   "id": "M2#9955",
   "stc": 9955,
   "en": "That's how it goes.",
-  "done": true,
-  "note": "After #9904 (slice 123, husband's favourite saying) + #9954."
+  "note": "After #9904 (slice 123, husband's favourite saying) + #9954.",
+  "done": true
  },
  {
   "id": "M2#9956",
@@ -62772,8 +62772,8 @@
   "id": "M2#9959",
   "stc": 9959,
   "en": "From now on, please",
-  "done": true,
-  "note": "No used_in; assumed to continue into #9960."
+  "note": "No used_in; assumed to continue into #9960.",
+  "done": true
  },
  {
   "id": "M2#9960",
@@ -62785,8 +62785,8 @@
   "id": "M2#9961",
   "stc": 9961,
   "en": "Humans",
-  "done": true,
-  "note": "Msg 382495: 'Humans' + '...' + ' are fragile' + '...'."
+  "note": "Msg 382495: 'Humans' + '...' + ' are fragile' + '...'.",
+  "done": true
  },
  {
   "id": "M2#9962",
@@ -62798,8 +62798,8 @@
   "id": "M2#9963",
   "stc": 9963,
   "en": ", my master... Please, give me your orders...",
-  "done": true,
-  "note": "Name + ', my master...' as in M2#0 / M2#994."
+  "note": "Name + ', my master...' as in M2#0 / M2#994.",
+  "done": true
  },
  {
   "id": "M2#9964",
@@ -62901,8 +62901,8 @@
   "id": "M2#9980",
   "stc": 9980,
   "en": "? Is that you?",
-  "done": true,
-  "note": "After the name: '{NAME}? Is that you?'"
+  "note": "After the name: '{NAME}? Is that you?'",
+  "done": true
  },
  {
   "id": "M2#9981",
@@ -63064,8 +63064,8 @@
   "id": "M2#10007",
   "stc": 10007,
   "en": "Strange, ",
-  "done": true,
-  "note": "Before the name + #7896 \", you're\" + #10008: \"Strange, {NAME}, you're / easy to spot even at night.\""
+  "note": "Before the name + #7896 \", you're\" + #10008: \"Strange, {NAME}, you're / easy to spot even at night.\"",
+  "done": true
  },
  {
   "id": "M2#10008",
@@ -63203,8 +63203,8 @@
   "id": "M2#10030",
   "stc": 10030,
   "en": "Anyway...",
-  "done": true,
-  "note": "Standalone, because the next row #10020 also starts a sentence in msg 386006."
+  "note": "Standalone, because the next row #10020 also starts a sentence in msg 386006.",
+  "done": true
  },
  {
   "id": "M2#10031",
@@ -63378,15 +63378,15 @@
   "id": "M2#10059",
   "stc": 10059,
   "en": "Then they must have posher rooms too...",
-  "done": true,
-  "note": "If he is a guest here too, the inn must have better rooms than hers."
+  "note": "If he is a guest here too, the inn must have better rooms than hers.",
+  "done": true
  },
  {
   "id": "M2#10060",
   "stc": 10060,
   "en": ", what's the matter?",
-  "done": true,
-  "note": "After the name: \"{NAME}, what's the matter?\""
+  "note": "After the name: \"{NAME}, what's the matter?\"",
+  "done": true
  },
  {
   "id": "M2#10061",
@@ -63428,8 +63428,8 @@
   "id": "M2#10067",
   "stc": 10067,
   "en": "I mean, ",
-  "done": true,
-  "note": "Before the name + #7896 \", you're\" + #10068 (or #10095, slice 126, same text)."
+  "note": "Before the name + #7896 \", you're\" + #10068 (or #10095, slice 126, same text).",
+  "done": true
  },
  {
   "id": "M2#10068",
@@ -63597,8 +63597,8 @@
   "id": "M2#10095",
   "stc": 10095,
   "en": "as refined as a nobleman, yet you think",
-  "done": true,
-  "note": "Same as #10068 (slice 125): \"I mean, {NAME}, you're / as refined as a nobleman, yet you think / nothing of coming to odd places. Ahaha.\""
+  "note": "Same as #10068 (slice 125): \"I mean, {NAME}, you're / as refined as a nobleman, yet you think / nothing of coming to odd places. Ahaha.\"",
+  "done": true
  },
  {
   "id": "M2#10096",
@@ -63772,8 +63772,8 @@
   "id": "M2#10124",
   "stc": 10124,
   "en": "Ho ho ho... Good day to you,",
-  "done": true,
-  "note": "Name follows on the next line with #98 \".\"."
+  "note": "Name follows on the next line with #98 \".\".",
+  "done": true
  },
  {
   "id": "M2#10125",
@@ -63971,29 +63971,29 @@
   "id": "M2#10157",
   "stc": 10157,
   "en": "Ah! What are you doing?!",
-  "done": true,
-  "note": "No used_in; Vanessa's cry when attacked (between msgs 390257 and 390293)."
+  "note": "No used_in; Vanessa's cry when attacked (between msgs 390257 and 390293).",
+  "done": true
  },
  {
   "id": "M2#10158",
   "stc": 10158,
   "en": "Aaaaagh!",
-  "done": true,
-  "note": "No used_in; Vanessa's scream."
+  "note": "No used_in; Vanessa's scream.",
+  "done": true
  },
  {
   "id": "M2#10159",
   "stc": 10159,
   "en": "I seem to have made quite a capable",
-  "done": true,
-  "note": "Continues in #10160 (slice 127): \"human into my servant.\""
+  "note": "Continues in #10160 (slice 127): \"human into my servant.\"",
+  "done": true
  },
  {
   "id": "M2#10160",
   "stc": 10160,
   "en": "human into my servant.",
-  "done": true,
-  "note": "Continues #10159 (slice 126) \"I seem to have made quite a capable\", as that report asks."
+  "note": "Continues #10159 (slice 126) \"I seem to have made quite a capable\", as that report asks.",
+  "done": true
  },
  {
   "id": "M2#10161",
@@ -64035,8 +64035,8 @@
   "id": "M2#10167",
   "stc": 10167,
   "en": "At my inn, I'd offer you special services.",
-  "done": true,
-  "note": "Innuendo kept (she runs the inn as a brothel)."
+  "note": "Innuendo kept (she runs the inn as a brothel).",
+  "done": true
  },
  {
   "id": "M2#10168",
@@ -64456,8 +64456,8 @@
   "id": "M2#10237",
   "stc": 10237,
   "en": "Not at all...",
-  "done": true,
-  "note": "Answers \"none of my business\" (#10236)."
+  "note": "Answers \"none of my business\" (#10236).",
+  "done": true
  },
  {
   "id": "M2#10238",
@@ -64553,8 +64553,8 @@
   "id": "M2#10253",
   "stc": 10253,
   "en": "I've only got three days left to live.",
-  "done": true,
-  "note": "Hyperbole: her job ends in 3 days (fired at the end of the week)."
+  "note": "Hyperbole: her job ends in 3 days (fired at the end of the week).",
+  "done": true
  },
  {
   "id": "M2#10254",
@@ -64854,8 +64854,8 @@
   "id": "M2#10303",
   "stc": 10303,
   "en": "Even a not-so-good one would do...",
-  "done": true,
-  "note": "Follows #10252 (msg 395141): 'If you know of a good job...' / 'Even a not-so-good one would do...'."
+  "note": "Follows #10252 (msg 395141): 'If you know of a good job...' / 'Even a not-so-good one would do...'.",
+  "done": true
  },
  {
   "id": "M2#10304",
@@ -64915,15 +64915,15 @@
   "id": "M2#10313",
   "stc": 10313,
   "en": "Help me... won't you.",
-  "done": true,
-  "note": "Player (gentle register), bite scene; no speaker tag in the message."
+  "note": "Player (gentle register), bite scene; no speaker tag in the message.",
+  "done": true
  },
  {
   "id": "M2#10314",
   "stc": 10314,
   "en": "How long must I keep doing this?!",
-  "done": true,
-  "note": "Player's lament after the bite (msg 395458)."
+  "note": "Player's lament after the bite (msg 395458).",
+  "done": true
  },
  {
   "id": "M2#10315",
@@ -65049,8 +65049,8 @@
   "id": "M2#10335",
   "stc": 10335,
   "en": ", hold on a minute.",
-  "done": true,
-  "note": "After the name at line start: 'Chris, hold on a minute.'"
+  "note": "After the name at line start: 'Chris, hold on a minute.'",
+  "done": true
  },
  {
   "id": "M2#10336",
@@ -65260,8 +65260,8 @@
   "id": "M2#10370",
   "stc": 10370,
   "en": "Though you seem to be drunk already...",
-  "done": true,
-  "note": "No speaker tag; the player's (stern) line, parallel to gentle #10421."
+  "note": "No speaker tag; the player's (stern) line, parallel to gentle #10421.",
+  "done": true
  },
  {
   "id": "M2#10371",
@@ -65363,8 +65363,8 @@
   "id": "M2#10387",
   "stc": 10387,
   "en": "Seems you only drink wine,",
-  "done": true,
-  "note": "Wine: the vampire's usual cover drink."
+  "note": "Wine: the vampire's usual cover drink.",
+  "done": true
  },
  {
   "id": "M2#10388",
@@ -65460,8 +65460,8 @@
   "id": "M2#10403",
   "stc": 10403,
   "en": "To be forced to wither into decrepitude...",
-  "done": true,
-  "note": "Player, stern register (bite scene, msg 398635)."
+  "note": "Player, stern register (bite scene, msg 398635).",
+  "done": true
  },
  {
   "id": "M2#10404",
@@ -65491,8 +65491,8 @@
   "id": "M2#10408",
   "stc": 10408,
   "en": "and live on a while longer.",
-  "done": true,
-  "note": "After #2010 'Become my servant,'; a pause follows, then #10409."
+  "note": "After #2010 'Become my servant,'; a pause follows, then #10409.",
+  "done": true
  },
  {
   "id": "M2#10409",
@@ -65504,8 +65504,8 @@
   "id": "M2#10410",
   "stc": 10410,
   "en": "I'm not from the liquor shop.",
-  "done": true,
-  "note": "Gentle parallel of #10325."
+  "note": "Gentle parallel of #10325.",
+  "done": true
  },
  {
   "id": "M2#10411",
@@ -65517,22 +65517,22 @@
   "id": "M2#10412",
   "stc": 10412,
   "en": "Good evening. Pardon me a moment.",
-  "done": true,
-  "note": "Madeline answers 'If you know it's rude, don't ask.' (#10342)."
+  "note": "Madeline answers 'If you know it's rude, don't ask.' (#10342).",
+  "done": true
  },
  {
   "id": "M2#10413",
   "stc": 10413,
   "en": "Have you seen anyone suspicious around here?",
-  "done": true,
-  "note": "Same wording as stern #10343."
+  "note": "Same wording as stern #10343.",
+  "done": true
  },
  {
   "id": "M2#10414",
   "stc": 10414,
   "en": "...I don't suppose you'd know.",
-  "done": true,
-  "note": "The slight that #10345 'Stop me, then insult me?' reacts to."
+  "note": "The slight that #10345 'Stop me, then insult me?' reacts to.",
+  "done": true
  },
  {
   "id": "M2#10415",
@@ -65562,8 +65562,8 @@
   "id": "M2#10419",
   "stc": 10419,
   "en": "Are you hurt, granny?",
-  "done": true,
-  "note": "'granny' so #10366 'Who're you calling old? Call me Madeline.' answers it (slice 129 request)."
+  "note": "'granny' so #10366 'Who're you calling old? Call me Madeline.' answers it (slice 129 request).",
+  "done": true
  },
  {
   "id": "M2#10420",
@@ -65575,8 +65575,8 @@
   "id": "M2#10421",
   "stc": 10421,
   "en": "Though you seem to be drunk already...",
-  "done": true,
-  "note": "Same as stern #10370."
+  "note": "Same as stern #10370.",
+  "done": true
  },
  {
   "id": "M2#10422",
@@ -65666,8 +65666,8 @@
   "id": "M2#10436",
   "stc": 10436,
   "en": "What sort of beautiful lady could she be,",
-  "done": true,
-  "note": "#9827 'I wonder...' follows."
+  "note": "#9827 'I wonder...' follows.",
+  "done": true
  },
  {
   "id": "M2#10437",
@@ -65775,8 +65775,8 @@
   "id": "M2#10454",
   "stc": 10454,
   "en": " and I",
-  "done": true,
-  "note": "After the name at line start: '{NAME} and I'."
+  "note": "After the name at line start: '{NAME} and I'.",
+  "done": true
  },
  {
   "id": "M2#10455",
@@ -65860,8 +65860,8 @@
   "id": "M2#10468",
   "stc": 10468,
   "en": "Any time you'd like to make a date,",
-  "done": true,
-  "note": "#7075 'I'll be waiting for you.' follows."
+  "note": "#7075 'I'll be waiting for you.' follows.",
+  "done": true
  },
  {
   "id": "M2#10469",
@@ -65873,8 +65873,8 @@
   "id": "M2#10470",
   "stc": 10470,
   "en": "Would you care for this lace-trimmed hat,",
-  "done": true,
-  "note": "#3891 'perhaps?' follows on the next line."
+  "note": "#3891 'perhaps?' follows on the next line.",
+  "done": true
  },
  {
   "id": "M2#10471",
@@ -66108,8 +66108,8 @@
   "id": "M2#10509",
   "stc": 10509,
   "en": "Why you've come here",
-  "done": true,
-  "note": "followed by three '.' pause rows (#265) and #863 variant '' -> 'Why you've come here...'"
+  "note": "followed by three '.' pause rows (#265) and #863 variant '' -> 'Why you've come here...'",
+  "done": true
  },
  {
   "id": "M2#10510",
@@ -66127,8 +66127,8 @@
   "id": "M2#10512",
   "stc": 10512,
   "en": "No, that's not it.",
-  "done": true,
-  "note": "night scene, stern player register (#10507-#10519 have no used_in; msg 402953)"
+  "note": "night scene, stern player register (#10507-#10519 have no used_in; msg 402953)",
+  "done": true
  },
  {
   "id": "M2#10513",
@@ -66194,8 +66194,8 @@
   "id": "M2#10523",
   "stc": 10523,
   "en": "Good grief, I was nearly put through",
-  "done": true,
-  "note": "no speaker tag; read as the player after Clio's scream"
+  "note": "no speaker tag; read as the player after Clio's scream",
+  "done": true
  },
  {
   "id": "M2#10524",
@@ -66255,8 +66255,8 @@
   "id": "M2#10533",
   "stc": 10533,
   "en": "Say, sir, lately the whole town's whispering of",
-  "done": true,
-  "note": "wording agreed with slice 132 (#10569 'Lately the whole town's been whispering of'); #10534 shared"
+  "note": "wording agreed with slice 132 (#10569 'Lately the whole town's been whispering of'); #10534 shared",
+  "done": true
  },
  {
   "id": "M2#10534",
@@ -66472,8 +66472,8 @@
   "id": "M2#10569",
   "stc": 10569,
   "en": "Lately the whole town's been whispering of",
-  "done": true,
-  "note": "#10534 (slice 131, shared with #10533) must continue: 'a killer who slashes folk. Have you heard?'"
+  "note": "#10534 (slice 131, shared with #10533) must continue: 'a killer who slashes folk. Have you heard?'",
+  "done": true
  },
  {
   "id": "M2#10570",
@@ -66503,8 +66503,8 @@
   "id": "M2#10574",
   "stc": 10574,
   "en": "What d'you think you're doing!",
-  "done": true,
-  "note": "Anita talking in her sleep"
+  "note": "Anita talking in her sleep",
+  "done": true
  },
  {
   "id": "M2#10575",
@@ -66534,8 +66534,8 @@
   "id": "M2#10579",
   "stc": 10579,
   "en": "Well then...",
-  "done": true,
-  "note": "no speaker tag; read as the player"
+  "note": "no speaker tag; read as the player",
+  "done": true
  },
  {
   "id": "M2#10580",

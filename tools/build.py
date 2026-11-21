@@ -42,6 +42,30 @@ OVERLAYS = ['DC/OPN.BIN', 'DC/MCX.BIN', 'DC/END.BIN',
             'M1/C/M1A.BIN', 'M1/C/M1B.BIN', 'M1/C/EP1.BIN', 'M1/C/PR1.BIN',
             'M2/C/M2A.BIN', 'M2/C/M2B.BIN', 'M2/C/EP2.BIN', 'M2/C/PR2.BIN']
 STCS = ['M0/C/M0.STC', 'M1/C/M1.STC', 'M2/C/M2.STC']
+# Strings the game joins with strcpy/strcat into fixed RAM buffers (overflow = hard crash).
+# (buffer address, size, fixed bytes added by code, [alternatives for each part])
+RUNTIME_BUFFERS = [
+    # Nosferatu status, age: 2 full-width digits (4 bytes) + suffix; window state at 0x800A2A38
+    (0x800A2A30, 8, 4, [['SLPS_019.32@E24']]),
+    # Nosferatu status, type: Direct/Subord + Dhampir/Nosferatu; next buffer at 0x800A2A30
+    (0x800A2A18, 24, 0, [['SLPS_019.32@DF8', 'SLPS_019.32@E00'], ['SLPS_019.32@E08', 'SLPS_019.32@E14']]),
+]
+
+
+def check_runtime_buffers(d, test):
+    by_id = {r['id']: r for r in load_rows('SLPS_019.32')}
+    for addr, size, extra, parts in RUNTIME_BUFFERS:
+        worst = extra + 1 + sum(max(len(d.sjis(d.tokenize(english(by_id[i], test) or ''))) for i in alts)
+                                for alts in parts)
+        if worst > size:
+            raise SystemExit('runtime buffer %08X overflows: %d > %d bytes (%s)' % (addr, worst, size, parts))
+
+
+# overlays whose English labels do not fit in place and cannot use the string pool at the top of
+# the overlay window (M1B.BIN alone reaches 0x800ED95E, past OVL_TOP): their pointer-referenced
+# strings are put once in the resident EXE string pool and the overlay's references repointed
+# there; code-referenced strings must fit in place
+RESIDENT_TEXT = ['M0/C/M0B.BIN', 'M1/C/M1B.BIN', 'M2/C/M2B.BIN']
 SAMPLES = [
     "The village of Medvekia lies at the foot of the castle.",
     "I'm counting on you, Christopher.",
@@ -142,8 +166,42 @@ def letters_sjis(d, text):
     return b''.join(SJIS_SPACE if c == ' ' else d.codes[d.char_id[c]] for c in text)
 
 
-def build_strings(name, data, base, test, d, pool=None, limit=None):
-    """Relocate translated strings of an overlay / EXE body; returns patched bytes."""
+def drain_label_x(name, data, d, test):
+    """Drain screen (?B.BIN): the eight labels are encoded into 12-byte buffers at sp+0x10+12i
+    (pointer-table order) and drawn left-aligned at constant x (addiu v0,zero,x; sh v0,-0x9E0(v1)),
+    each Japanese label ending where its number column begins.  Right-align the English labels
+    to the same end, from their pixel width.  Returns [(file offset, new instruction)]."""
+    rows = [r for r in load_rows(name) if any(ref[0] == 'ptr' for ref in r.get('refs', []))]
+    base_ptr = min(ref[1] for r in rows for ref in r['refs'] if ref[0] == 'ptr')
+    words = struct.unpack_from('<%dI' % (len(data) // 4), data)
+    out = []
+    for r in rows:
+        t = english(r, test)
+        if not t:
+            continue
+        toks = d.tokenize(t)
+        assert len(toks) <= 7, (name, t, len(toks))           # 12-byte nibble buffer
+        i = (next(ref[1] for ref in r['refs'] if ref[0] == 'ptr') - base_ptr) // 4
+        hits = []
+        for k, w in enumerate(words):
+            if w != 0x27A50000 | (0x10 + 12 * i):              # addiu a1, sp, 0x10+12i
+                continue
+            for j in range(k + 1, min(k + 20, len(words) - 3)):
+                if words[j] >> 16 == 0x2402 and 0xA462F620 in words[j + 1:j + 4]:
+                    hits.append(j)
+                    break
+        assert len(hits) == 1, (name, i, hits)
+        j = hits[0]
+        old = struct.unpack('<h', struct.pack('<H', words[j] & 0xFFFF))[0]
+        right = old + 12 * len(r['jp'])                         # where the Japanese label ended
+        new = right - sum(d.width(tok) for tok in toks)
+        out.append((4 * j, struct.pack('<I', 0x24020000 | (new & 0xFFFF))))
+    return out
+
+
+def build_strings(name, data, base, test, d, pool=None, limit=None, resident=None):
+    """Relocate translated strings of an overlay / EXE body; returns patched bytes.
+    resident: {english: address} of strings already placed in the EXE (RESIDENT_TEXT)."""
     img = Image(data, base, pool=pool, limit=limit)
     n = 0
     if test and name == 'SLPS_019.32':
@@ -163,10 +221,26 @@ def build_strings(name, data, base, test, d, pool=None, limit=None):
         t = english(r, test)
         if t is None:
             continue
+        if 'field' in r:                  # fixed-size record read by index (rows.py TABLES)
+            b = d.sjis(d.tokenize(t))
+            if len(b) >= r['field']:
+                FAILED.append((r['id'], t, len(b), r['field'] - 1))
+                continue
+            o = r['off']
+            img.data[o:o + r['field']] = b + bytes(r['field'] - len(b))
+            n += 1
+            continue
         if r['id'] in LETTER_ROWS:
             b = letters_sjis(d, t)
         else:
             b = d.sjis(d.tokenize(t))
+        if resident and t in resident:
+            try:
+                img.repoint(base + r['off'], resident[t], r['refs'])
+                n += 1
+            except ValueError:
+                FAILED.append((r['id'], t, len(b), r.get('slot', r['size'])))
+            continue
         try:
             img.relocate(base + r['off'], b, r['refs'], old_size=r.get('slot', r['size']))
         except ValueError:
@@ -182,6 +256,7 @@ def build(version, test):
     # dictionary
     lines = all_lines(test)
     d = vtext.Dictionary.build(lines)
+    check_runtime_buffers(d, test)
     os.makedirs(TR, exist_ok=True)
     d.save(os.path.join(out_dir, 'dictionary.json'))
     print('tokens', len(d.tokens), 'from', len(lines), 'lines')
@@ -205,6 +280,15 @@ def build(version, test):
     ext = vwf.BASE + len(code)
     body = body[:vwf.BASE - EXE_BASE] + code
     img, n = build_strings('SLPS_019.32', bytes(body), EXE_BASE, test, d, pool=ext, limit=vwf.LIMIT)
+    resident = {}
+    for name in RESIDENT_TEXT:
+        for r in load_rows(name):
+            t = english(r, test)
+            if t is None or 'off' not in r or t in resident:
+                continue
+            if any(ref[0] == 'code' for ref in r['refs']):
+                continue                  # code-referenced (title): stays in place below
+            resident[t] = img.alloc(d.sjis(d.tokenize(t)) + bytes(2))
     body = bytes(img.data)
     body += bytes((-len(body)) % 0x800)
     hdr = bytearray(exe[:0x800])
@@ -219,17 +303,20 @@ def build(version, test):
         # overlay window instead, just below the resident STC; the gap is loaded as zeros.
         probe = (OVL + len(data) + 0xF) & ~0xF
         failed = len(FAILED)
-        img, n = build_strings(name, data, OVL, test, d, pool=probe, limit=OVL_LIMIT)
+        img, n = build_strings(name, data, OVL, test, d, pool=probe, limit=OVL_LIMIT, resident=resident)
         used = img.pool - probe
         if len(img.data) > len(data):
             del FAILED[failed:]
             top = (OVL_TOP - used) & ~0xF
             assert top >= OVL + len(data), (name, hex(top))
-            img, n = build_strings(name, data, OVL, test, d, pool=top, limit=OVL_TOP)
+            img, n = build_strings(name, data, OVL, test, d, pool=top, limit=OVL_TOP, resident=resident)
             assert OVL + len(img.data) <= OVL_TOP
         for a, b in ovl_code.get(name, []):
             img.data[a - OVL:a - OVL + len(b)] = b
             n += 1
+        if name in RESIDENT_TEXT:
+            for o, b in drain_label_x(name, data, d, test):
+                img.data[o:o + 4] = b
         if n:
             files[name] = bytes(img.data)
             print(name, 'strings', n, 'size', hex(len(data)), '->', hex(len(img.data)))
